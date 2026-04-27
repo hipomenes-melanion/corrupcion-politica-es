@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Corrupción Política ES",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "es-ES",
+    baseUrl: "https://github.com/hipomenes-melanion/corrupcion-politica-es",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -55,41 +55,44 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      // 1. Procesa los metadatos (YAML) de las notas
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+
+      // 2. Habilita Callouts, checkbox y sintaxis propia de Obsidian
+      Plugin.ObsidianFlavour({ 
+        enableInHtmlEmbeds: true, 
+        enableFullVariants: true 
       }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
+
+      // 3. LA CLAVE PARA LOS WIKILINKS: CrawlLinks
+      // 'shortest' es el modo por defecto de Obsidian (encuentra la nota por nombre sin ruta completa)
+      Plugin.CrawlLinks({ 
+        markdownLinkResolution: 'shortest', 
+        prettyLinks: true 
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
-      Plugin.GitHubFlavoredMarkdown(),
+
+      // 4. Otros plugins necesarios
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.GitHubFlavoredMarkdown(),
+      Plugin.SyntaxHighlighting(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
-      Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
-      Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
-      Plugin.ContentIndex({
+      Plugin.AliasRedirects(),      // 1. Fundamental para Obsidian
+      Plugin.ComponentResources(),  // 
+      Plugin.ContentPage(),         // 2. Genera las páginas de contenido
+      Plugin.FolderPage(),          // 3. Genera las vistas de carpetas
+      Plugin.TagPage(),             // 4. Genera páginas para etiquetas (#corrupción)
+      Plugin.ContentIndex({         // 5. Motor de búsqueda y RSS
         enableSiteMap: true,
         enableRSS: true,
       }),
-      Plugin.Assets(),
-      Plugin.Static(),
+      Plugin.Assets(),              // 6. Gestiona imágenes y archivos adjuntos
+      Plugin.Static(),              // 7. Archivos estáticos (favicon, etc.)
       Plugin.Favicon(),
-      Plugin.NotFoundPage(),
+      Plugin.NotFoundPage(),        // 8. Página de error 404
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      //Plugin.CustomOgImages(),
     ],
   },
 }
