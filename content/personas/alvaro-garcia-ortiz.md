@@ -1,0 +1,53 @@
+---
+title: "Álvaro García Ortiz"
+source: "wiki/fuentes/resumen-causas-judiciales.md"
+updated: "2026-05-23"
+tags: [persona, investigado]
+---
+
+## Resumen
+Fiscal General del Estado, investigado y sentenciado en primera instancia por presunta revelación de secretos e informaciones confidenciales de la Fiscalía.
+
+## Detalles clave
+- **Rol principal**: Investigado / Fiscal General del Estado
+- **Casos Relacionados**:
+  - [[caso-fiscal-general-del-estado]]
+
+
+- **Actualización [2026-01-06]**: Fuentes jurídicas consultadas por LD afirman que \ (Fuente: [[la-causa-de-garcia-ortiz-es-el]])
+
+
+- **Actualización [2026-01-08]**: Fuentes jurídicas consultadas por Libertad Digital afirman que \ (Fuente: [[la-renuncia-del-abogado-de-abalos-pone-en-peligro]])
+
+
+- **Actualización [2026-01-26]**: García Ortiz ha sido inhabilitado como fiscal general del Estado, pero ha vuelto a su plaza como fiscal de Sala en el Tribunal Supremo. (Fuente: [[gonzalez-amador-pide-a-peramato-que-garcia-ortiz-c]])
+
+
+- **Actualización [2026-02-10]**: Fuentes jurídicas consultadas por Libertad Digital afirman que \ (Fuente: [[la-fiscalia-entrego-a-la-udef-la-investigacion-del]])
+
+
+- **Actualización [2026-02-24]**: Fuentes fiscales han mostrado su sorpresa a Libertad Digital ante la actitud de la fiscal general del Estado. (Fuente: [[estupor-por-el-silencio-de-la-fiscal-general-del-e]])
+
+
+- **Actualización [2026-03-05]**: Existe un precedente de un caso similar de ocultación de información en el que el Supremo se puso de parte del fiscal Ignacio Stampa. (Fuente: [[varapalo-para-la-fiscalia-la-audiencia-nacional-a]])
+
+
+- **Actualización [2026-03-09]**: Fuentes del Tribunal de Cuentas consultadas por LD denuncian que \ (Fuente: [[el-tribunal-de-cuentas-oculta-graves-irregularidad]])
+
+
+- **Actualización [2026-04-15]**: Fuentes del TC consultadas por LD afirman que \ (Fuente: [[escandalo-en-el-tc-segoviano-mantiene-la-ponencia]])
+
+
+- **Actualización [2026-04-17]**: Fuentes consultadas por LD afirman que \ (Fuente: [[los-investigadores-sospechan-que-sanchez-ordeno-mo]])
+
+
+- **Actualización [2026-05-08]**: Fuentes jurídicas consultadas por LD afirman que \ (Fuente: [[peramato-y-la-fiscalia-de-la-ue-hacen-la-vista-gor]])
+
+
+- **Actualización [2026-05-23]**: Un informe de la UDEF, al que ha tenido acceso LD recoge un intercambio de mensajes entre el empresario Rodolfo Reyes y el abogado Miguel Palomero. (Fuente: [[la-trama-zapatero-recurrio-a-la-fiscalia-para-boic]])
+
+## Referencias cruzadas
+*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+
+## Fuentes
+- [[resumen-causas-judiciales]]
