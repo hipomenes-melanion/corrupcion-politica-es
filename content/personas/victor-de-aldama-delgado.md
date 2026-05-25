@@ -23,7 +23,7 @@ Empresario y presidente del Zamora CF, presunto comisionista e intermediario cla
 - **Actualización [2026-01-08]**: Fuentes jurídicas consultadas por Libertad Digital afirman que \ (Fuente: [[la-renuncia-del-abogado-de-abalos-pone-en-peligro]])
 
 
-- **Actualización [2026-01-09]**: También pide la declaración de Marlaska, Armengol, Isabel Pardo de Vera, Javier Hidalgo y otros 70 testigos, además de la imputación de Jéssica. (Fuente: [[la-defensa-de-koldo-llama]])
+- **Actualización [2026-01-09]**: La defensa de Koldo García presenta su escrito de descargo ante el Supremo llamándole "ornitorrinco procesal" por su rol de colaborador y acusador de facto ante la Fiscalía Anticorrupción, y acusa al fiscal de basar su relato "fabulado" únicamente en los testimonios de Aldama. (Fuente: [[la-defensa-de-koldo-llama]])
 
 
 - **Actualización [2026-01-12]**: Libertad Digital publica la declaración judicial del presidente de Plus Ultra, Julio Martínez, en un juicio celebrado en julio de 2024. (Fuente: [[el-dueno-de-plus-ultra-nego-a-la-juez-que-moncloa]])
@@ -137,7 +137,7 @@ Empresario y presidente del Zamora CF, presunto comisionista e intermediario cla
 - **Actualización [2026-04-20]**: Fuentes jurídicas consultadas por LD denuncian que \ (Fuente: [[peramato-maniobra-para-dinamitar-el-pacto-de-aldam]])
 
 
-- **Actualización [2026-04-21]**: Fuentes del entorno de Aldama consultadas por LD afirman que \ (Fuente: [[aldama-prepara-una]])
+- **Actualización [2026-04-21]**: Prepara una "declaración demoledora" ante el Tribunal Supremo, asistido por José Antonio Choclán, para revelar cómo la organización criminal de la trama Koldo estaba integrada en el Gobierno de Pedro Sánchez. Además, planea desmontar los testimonios de la empresaria Carmen Pano y del constructor Manuel Contreras (Azvi), esquivando el boicot de la fiscal general Teresa Peramato a su pacto de colaboración con Anticorrupción. (Fuente: [[aldama-prepara-una]])
 
 
 - **Actualización [2026-04-21]**: Niega que Transportes publicara la nota de prensa que dio aire a Hidalgo con los inversores. La nota está recogida en informes de la UCO. (Fuente: [[javier-hidalgo-senala-a-calvino-y-montero-por-el-r]])

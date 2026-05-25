@@ -1,5 +1,5 @@
 ---
-title: "La funcionaria purgada del Inaga desveló que la trama dev..."
+title: "La funcionaria purgada del Inaga desveló que la trama devolvía 'masivamente' los informes desfavorables a Forestalia"
 source: "raw/La funcionaria purgada del Inaga desveló que la trama devolvía 'masivamente' los informes desfavorables a Forestalia.md"
 updated: "2026-04-18"
 tags: [caso-zapatero]

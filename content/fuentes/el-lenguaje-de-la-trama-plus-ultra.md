@@ -1,5 +1,5 @@
 ---
-title: "El lenguaje de la trama Plus Ultra: \"
+title: "El lenguaje de la trama Plus Ultra Vamos a follar aunque tengamos que pagar un poquitín"
 source: "raw/El lenguaje de la trama Plus Ultra Vamos a follar aunque tengamos que pagar un poquitín.md"
 updated: "2026-05-19"
 tags: [caso-zapatero]

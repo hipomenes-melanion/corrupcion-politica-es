@@ -1,5 +1,5 @@
 ---
-title: "Primera querella contra todo el Consejo de Ministros por ..."
+title: "Primera querella contra todo el Consejo de Ministros por el rescate de Plus Ultra"
 source: "raw/Primera querella contra todo el Consejo de Ministros por el rescate de Plus Ultra.md"
 updated: "2026-05-20"
 tags: [caso-abalos]

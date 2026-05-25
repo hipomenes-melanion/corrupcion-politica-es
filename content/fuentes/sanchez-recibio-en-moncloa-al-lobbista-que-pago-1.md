@@ -1,5 +1,5 @@
 ---
-title: "Sánchez recibió en Moncloa al lobbista que pagó 1,2 millo..."
+title: "Sánchez recibió en Moncloa al lobbista que pagó 1,2 millones a Zapatero 3 semanas antes de estallar el caso Plus Ultra"
 source: "raw/Sánchez recibió en Moncloa al lobbista que pagó 1,2 millones a Zapatero 3 semanas antes de estallar el caso Plus Ultra.md"
 updated: "2026-05-22"
 tags: [caso-zapatero]

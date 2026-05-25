@@ -1,5 +1,5 @@
 ---
-title: "El Ministerio de Ribera apartaba a trabajadores contrario..."
+title: "El Ministerio de Ribera apartaba a trabajadores contrarios a Forestalia por razones que se desconocen"
 source: "raw/El Ministerio de Ribera apartaba a trabajadores contrarios a Forestalia por razones que se desconocen.md"
 updated: "2026-05-09"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "El CNI sobre Sánchez tras las primarias de 2014: \"
+title: "El CNI sobre Sánchez tras las primarias de 2014 Lo quitarán si termina saliéndose del guion que se pactó con FG"
 source: "raw/El CNI sobre Sánchez tras las primarias de 2014 Lo quitarán si termina saliéndose del guion que se pactó con FG.md"
 updated: "2026-01-26"
 tags: [caso-zapatero]

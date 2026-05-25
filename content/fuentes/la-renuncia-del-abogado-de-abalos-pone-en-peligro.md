@@ -1,5 +1,5 @@
 ---
-title: "La renuncia del abogado de Ábalos pone en peligro el inic..."
+title: "La renuncia del abogado de Ábalos pone en peligro el inicio del primer juicio de la trama Koldo"
 source: "raw/La renuncia del abogado de Ábalos pone en peligro el inicio del primer juicio de la trama Koldo.md"
 updated: "2026-01-08"
 tags: [caso-koldo]

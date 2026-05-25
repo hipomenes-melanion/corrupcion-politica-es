@@ -1,5 +1,5 @@
 ---
-title: "El caso Forestalia salpica a la Hacienda de Montero: Trag..."
+title: "El caso Forestalia salpica a la Hacienda de Montero Tragsatec era la guardia pretoriana de la trama"
 source: "raw/El caso Forestalia salpica a la Hacienda de Montero Tragsatec era la guardia pretoriana de la trama.md"
 updated: "2026-03-17"
 tags: [caso-koldo]

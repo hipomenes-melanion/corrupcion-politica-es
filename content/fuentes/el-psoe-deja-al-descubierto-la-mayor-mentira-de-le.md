@@ -1,5 +1,5 @@
 ---
-title: "El PSOE deja al descubierto la mayor mentira de Leire Díe..."
+title: "El PSOE deja al descubierto la mayor mentira de Leire Díez en sede judicial"
 source: "raw/El PSOE deja al descubierto la mayor mentira de Leire Díez en sede judicial.md"
 updated: "2025-12-31"
 tags: [caso-koldo]

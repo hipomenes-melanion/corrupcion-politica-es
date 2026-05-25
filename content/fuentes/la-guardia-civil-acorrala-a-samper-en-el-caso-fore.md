@@ -1,21 +1,25 @@
 ---
-title: "La Guardia Civil acorrala a Samper en el caso Forestalia: \"
+title: "La Guardia Civil acorrala a Samper en el caso Forestalia Entregaba beneficios económicos para asegurar sus proyectos"
 source: "raw/La Guardia Civil acorrala a Samper en el caso Forestalia Entregaba beneficios económicos para asegurar sus proyectos.md"
 updated: "2026-04-13"
-tags: [caso-zapatero]
+tags: [caso-forestalia]
 ---
 
 ## Resumen
-Un nuevo informe de la UCOMA que publica LD señala que el grupo Forestalia es \
+Información periodística basada en un informe de la Unidad Central Operativa de Medio Ambiente de la Guardia Civil (UCOMA) en relación con el Caso Forestalia. El documento incrimina a [[fernando-samper]] (expresidente de Forestalia) en el cohecho del funcionario [[eugenio-dominguez]] a cambio de autorizaciones medioambientales ilícitas, detallando la red societaria y notarial de blanqueo.
 
 ## Detalles clave
-- La Unidad Central Operativa de Medio Ambiente de la Guardia Civil (UCOMA) ha acorralado al empresario [**Fernando Samper**](https://www.libertaddigital.com/personajes/fernando-samper/) en el marco del **caso Forestalia** al acreditar la "entrega de beneficios económicos a un funcionario público p...
-- La semana pasada, Fernando Samper anunciaba su dimisión como presidente de Forestalia, una de las principales empresas españolas de energías renovables (especializada en parques eólicos y solares). Su hijo, Ricardo Samper García, fue nombrado nuevo director general y asumía las funciones ejecutiv...
-- En un nuevo informe de la UCOMA, al que ha tenido acceso **Libertad Digital**, los investigadores señalan que el delito de cohecho activo cometido por Fernando Samper "se fundamenta en la presunta entrega de beneficios económicos a un funcionario público (Eugenio Domínguez, Ministerio para la Tra...
+- **Esquema de cohecho**: La UCOMA documenta la entrega de beneficios económicos y participaciones de promotoras eólicas de Fernando Samper al funcionario Eugenio Domínguez (Ministerio para la Transición Ecológica). El desvío se efectuó desde Nearco Renovables SL hacia Caliope Innova SL (controlada por Eduardo y Roberto Pérez Águeda y participada en un 50% por el funcionario).
+- **Arbitrariedad en DIAs**: Forestalia se erigió en la principal y casi exclusiva beneficiaria de Declaraciones de Impacto Ambiental (DIA) favorables emitidas por el funcionario, omitiendo subsanar graves fallos técnicos de los expedientes.
+- **Blanqueo y opacidad notarial**: Utilización de 'actas de depósito' en notarías aliadas (contratos privados metidos en sobres cerrados dentro de cajas fuertes) para registrar las compraventas de participaciones y eludir la trazabilidad del Índice de Actividad Notarial y los controles financieros estándar.
+- **Estructura de organización criminal**: Se acredita que Samper mantenía reuniones informales semanales con directivos del INAGA. Asimismo, implementaron el fraccionamiento artificial de macroproyectos energéticos (como el Clúster Maestrazgo, despiezado en 22 parques de 50 MW) para sustraer la supervisión estatal en favor del INAGA autonómico.
+- **Recompensa por puertas giratorias**: Se destaca la inmediata incorporación de ex altos cargos autonómicos de Medio Ambiente (como Alfredo Boné o Luis Marruedo) a puestos ejecutivos en el [[grupo-forestalia]] como contraprestación a los favores administrativos recibidos.
 
 ## Referencias cruzadas
-- [[jose-luis-rodriguez-zapatero]]
-- [[caso-zapatero]]
+- [[caso-forestalia]]
+- [[grupo-forestalia]]
+- [[fernando-samper]]
+- [[eugenio-dominguez]]
 
 ## Fuentes
 Fuente original: [[La Guardia Civil acorrala a Samper en el caso Forestalia Entregaba beneficios económicos para asegurar sus proyectos]]

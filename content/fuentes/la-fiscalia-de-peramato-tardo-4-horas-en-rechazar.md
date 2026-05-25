@@ -1,5 +1,5 @@
 ---
-title: "La Fiscalía de Peramato tardó 4 horas en rechazar la pers..."
+title: "La Fiscalía de Peramato tardó 4 horas en rechazar la personación de Julio Iglesias en la investigación"
 source: "raw/La Fiscalía de Peramato tardó 4 horas en rechazar la personación de Julio Iglesias en la investigación.md"
 updated: "2026-01-21"
 tags: [caso-zapatero]

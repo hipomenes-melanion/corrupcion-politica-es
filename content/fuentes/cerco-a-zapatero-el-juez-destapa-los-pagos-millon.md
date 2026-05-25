@@ -1,5 +1,5 @@
 ---
-title: "Cerco a Zapatero: el juez destapa los pagos millonarios a..."
+title: "Cerco a Zapatero el juez destapa los pagos millonarios a su entorno"
 source: "raw/Cerco a Zapatero el juez destapa los pagos millonarios a su entorno.md"
 updated: "2026-05-21"
 tags: [caso-zapatero]

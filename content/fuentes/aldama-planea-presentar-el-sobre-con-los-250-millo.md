@@ -1,5 +1,5 @@
 ---
-title: "Aldama planea presentar el sobre con los 250 millones de ..."
+title: "Aldama planea presentar el sobre con los 250 millones de dólares de PDVSA al juez antes del juicio de la trama Koldo"
 source: "raw/Aldama planea presentar el sobre con los 250 millones de dólares de PDVSA al juez antes del juicio de la trama Koldo.md"
 updated: "2026-02-16"
 tags: [caso-koldo]

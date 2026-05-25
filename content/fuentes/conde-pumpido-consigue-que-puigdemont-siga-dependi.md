@@ -1,5 +1,5 @@
 ---
-title: "Conde-Pumpido consigue que Puigdemont siga dependiendo de..."
+title: "Conde-Pumpido consigue que Puigdemont siga dependiendo de Sánchez y lo vende como una muestra de imparcialidad del TC"
 source: "raw/Conde-Pumpido consigue que Puigdemont siga dependiendo de Sánchez y lo vende como una muestra de imparcialidad del TC.md"
 updated: "2026-01-29"
 tags: [caso-zapatero]

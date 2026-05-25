@@ -1,5 +1,5 @@
 ---
-title: "El juez Moreno pide al Supremo las declaraciones de Koldo..."
+title: "El juez Moreno pide al Supremo las declaraciones de Koldo y Aldama para estudiar la financiación del PSOE"
 source: "raw/El juez Moreno pide al Supremo las declaraciones de Koldo y Aldama para estudiar la financiación del PSOE.md"
 updated: "2026-05-08"
 tags: [caso-koldo]

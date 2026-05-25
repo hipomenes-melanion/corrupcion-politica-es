@@ -1,5 +1,5 @@
 ---
-title: "Aldama, al juez sobre los cupos de PDVSA: \"
+title: "Aldama, al juez sobre los cupos de PDVSA Estamos hablando de la financiación ilegal del partido"
 source: "raw/Aldama, al juez sobre los cupos de PDVSA Estamos hablando de la financiación ilegal del partido.md"
 updated: "2026-02-19"
 tags: [caso-koldo]

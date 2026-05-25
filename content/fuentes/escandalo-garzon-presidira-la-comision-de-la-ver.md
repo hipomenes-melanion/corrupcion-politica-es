@@ -1,5 +1,5 @@
 ---
-title: "Escándalo: Garzón presidirá la 'Comisión de la verdad' de..."
+title: "Escándalo Garzón presidirá la 'Comisión de la verdad' del Gobierno siendo Delgado la fiscal de Memoria Democrática"
 source: "raw/Escándalo Garzón presidirá la 'Comisión de la verdad' del Gobierno siendo Delgado la fiscal de Memoria Democrática.md"
 updated: "2026-03-27"
 tags: [caso-zapatero]

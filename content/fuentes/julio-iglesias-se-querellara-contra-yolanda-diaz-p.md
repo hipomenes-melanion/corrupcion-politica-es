@@ -1,5 +1,5 @@
 ---
-title: "Julio Iglesias se querellará contra Yolanda Díaz por un d..."
+title: "Julio Iglesias se querellará contra Yolanda Díaz por un delito de injurias y calumnias"
 source: "raw/Julio Iglesias se querellará contra Yolanda Díaz por un delito de injurias y calumnias.md"
 updated: "2026-05-19"
 tags: [caso-zapatero]

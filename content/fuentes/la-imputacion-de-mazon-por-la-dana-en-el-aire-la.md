@@ -1,5 +1,5 @@
 ---
-title: "La imputación de Mazón por la dana, en el aire: la juez n..."
+title: "La imputación de Mazón por la dana, en el aire la juez no argumenta el delito de homicidio imprudente"
 source: "raw/La imputación de Mazón por la dana, en el aire la juez no argumenta el delito de homicidio imprudente.md"
 updated: "2026-02-27"
 tags: [caso-zapatero]

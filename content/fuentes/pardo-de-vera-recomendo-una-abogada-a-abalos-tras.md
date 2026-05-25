@@ -1,5 +1,5 @@
 ---
-title: "Pardo de Vera recomendó una abogada a Ábalos tras ser int..."
+title: "Pardo de Vera recomendó una abogada a Ábalos tras ser interrogada el día que cayó Koldo Deberías llamarla"
 source: "raw/Pardo de Vera recomendó una abogada a Ábalos tras ser interrogada el día que cayó Koldo Deberías llamarla.md"
 updated: "2026-02-26"
 tags: [caso-koldo]

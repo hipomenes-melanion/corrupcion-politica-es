@@ -32,10 +32,10 @@ Esposa del presidente del Gobierno, investigada por presunto tráfico de influen
 - **Actualización [2026-02-20]**: Las reuniones se intercalaron con la petición del juez de los viajes de Begoña y su asesora a organismos dependientes del Ministerio del Interior. (Fuente: [[marlaska-se-reune-con-su-homologa-de-republica-dom]])
 
 
-- **Actualización [2026-02-23]**: Según desvela LD, \ (Fuente: [[pedro-sanchez-es-tratado-por-una-dolencia-cardiova]])
+- **Actualización [2026-02-23]**: Exclusiva de Libertad Digital desvela que el presidente Pedro Sánchez padece una dolencia cardiovascular con riesgo de trombosis o infarto de la que es tratado en secreto en el Hospital Ramón y Cajal. (Fuente: [[pedro-sanchez-es-tratado-por-una-dolencia-cardiova]])
 
 
-- **Actualización [2026-02-26]**: Según ha podido saber LD, \ (Fuente: [[moncloa-aumentara]])
+- **Actualización [2026-02-26]**: Se revela que, al ser Pedro Sánchez calificado de persona hipocondríaca y obsesionada con su salud, Gómez exigió a su llegada a la Moncloa que el jefe del Gabinete Médico de Presidencia le acompañara permanentemente en todos sus viajes y actos. (Fuente: [[moncloa-aumentara]])
 
 
 - **Actualización [2026-03-05]**: La UCO detalla un listado de viajes realizados tanto por Begoña Gómez como por su asesora Cristina Álvarez. (Fuente: [[la-uco-traslada-a-peinado-que-begona-gomez-viajo-a]])
@@ -101,7 +101,10 @@ Esposa del presidente del Gobierno, investigada por presunto tráfico de influen
 - **Actualización [2026-05-25]**: El informe de la UCO, al que ha tenido acceso LD, señala que \ (Fuente: [[la-uco-senala-a-begona-gomez-por-la-contratacion-i]])
 
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[hospital-ramon-y-cajal]]
+- [[jose-luis-zamorano]]
+- [[moncloa-aumentara]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[moncloa-aumentara]]

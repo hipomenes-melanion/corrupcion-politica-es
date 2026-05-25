@@ -1,5 +1,5 @@
 ---
-title: "La Guardia Civil identifica al presidente de Forestalia c..."
+title: "La Guardia Civil identifica al presidente de Forestalia como el tronco central de la organización criminal"
 source: "raw/La Guardia Civil identifica al presidente de Forestalia como el tronco central de la organización criminal.md"
 updated: "2026-03-17"
 tags: [caso-zapatero]

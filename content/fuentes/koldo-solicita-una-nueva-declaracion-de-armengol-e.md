@@ -1,5 +1,5 @@
 ---
-title: "Koldo solicita una nueva declaración de Armengol en el TS..."
+title: "Koldo solicita una nueva declaración de Armengol en el TS tras el último informe de la UCO"
 source: "raw/Koldo solicita una nueva declaración de Armengol en el TS tras el último informe de la UCO.md"
 updated: "2026-04-20"
 tags: [caso-koldo]

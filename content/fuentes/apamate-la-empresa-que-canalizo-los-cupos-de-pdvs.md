@@ -1,5 +1,5 @@
 ---
-title: "Apamate, la empresa que canalizó los cupos de PDVSA con Z..."
+title: "Apamate, la empresa que canalizó los cupos de PDVSA con Zapatero para financiar ilegalmente al PSOE"
 source: "raw/Apamate, la empresa que canalizó los cupos de PDVSA con Zapatero para financiar ilegalmente al PSOE.md"
 updated: "2026-05-25"
 tags: [caso-koldo]

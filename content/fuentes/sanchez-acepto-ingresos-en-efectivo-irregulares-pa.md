@@ -1,5 +1,5 @@
 ---
-title: "Sánchez aceptó ingresos en efectivo irregulares para fina..."
+title: "Sánchez aceptó ingresos en efectivo irregulares para financiar su campaña de primarias en el PSOE"
 source: "raw/Sánchez aceptó ingresos en efectivo irregulares para financiar su campaña de primarias en el PSOE.md"
 updated: "2026-01-09"
 tags: [caso-koldo]

@@ -1,5 +1,5 @@
 ---
-title: "La asesora de Begoña Gómez se apoya en la Fiscalía y pide..."
+title: "La asesora de Begoña Gómez se apoya en la Fiscalía y pide a Peinado el archivo de su causa"
 source: "raw/La asesora de Begoña Gómez se apoya en la Fiscalía y pide a Peinado el archivo de su causa.md"
 updated: "2026-05-05"
 tags: [caso-zapatero]

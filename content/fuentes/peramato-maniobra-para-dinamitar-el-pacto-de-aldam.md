@@ -1,5 +1,5 @@
 ---
-title: "Peramato maniobra para dinamitar el pacto de Aldama con A..."
+title: "Peramato maniobra para dinamitar el pacto de Aldama con Anticorrupción"
 source: "raw/Peramato maniobra para dinamitar el pacto de Aldama con Anticorrupción.md"
 updated: "2026-04-20"
 tags: [caso-koldo]

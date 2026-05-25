@@ -1,5 +1,5 @@
 ---
-title: "La trama de Plus Ultra celebró la concesión del rescate a..."
+title: "La trama de Plus Ultra celebró la concesión del rescate antes de su aprobación"
 source: "raw/La trama de Plus Ultra celebró la concesión del rescate antes de su aprobación.md"
 updated: "2026-05-24"
 tags: [caso-koldo]

@@ -1,5 +1,5 @@
 ---
-title: "El juez Leopoldo Puente deniega la autorización para que ..."
+title: "El juez Leopoldo Puente deniega la autorización para que Ábalos declare en la comisión de investigación del Senado"
 source: "raw/El juez Leopoldo Puente deniega la autorización para que Ábalos declare en la comisión de investigación del Senado.md"
 updated: "2026-01-07"
 tags: [caso-koldo]

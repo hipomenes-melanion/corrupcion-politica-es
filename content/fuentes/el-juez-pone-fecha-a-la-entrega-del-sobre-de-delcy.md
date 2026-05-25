@@ -1,5 +1,5 @@
 ---
-title: "El juez pone fecha a la entrega del sobre de Delcy con lo..."
+title: "El juez pone fecha a la entrega del sobre de Delcy con los 250 millones para el PSOE"
 source: "raw/El juez pone fecha a la entrega del sobre de Delcy con los 250 millones para el PSOE.md"
 updated: "2026-02-26"
 tags: [caso-koldo]

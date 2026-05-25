@@ -1,5 +1,5 @@
 ---
-title: "Alerta en el Tribunal de Cuentas de Chicano: la investiga..."
+title: "Alerta en el Tribunal de Cuentas de Chicano la investigación sobre la financiación ilegal del PSOE les puede salpicar"
 source: "raw/Alerta en el Tribunal de Cuentas de Chicano la investigación sobre la financiación ilegal del PSOE les puede salpicar.md"
 updated: "2026-01-13"
 tags: [caso-abalos]

@@ -1,5 +1,5 @@
 ---
-title: "El exgerente del PSOE sobre las 'chistorras' de la trama ..."
+title: "El exgerente del PSOE sobre las 'chistorras' de la trama Koldo Nunca pedimos billetes de 500 euros al banco"
 source: "raw/El exgerente del PSOE sobre las 'chistorras' de la trama Koldo Nunca pedimos billetes de 500 euros al banco.md"
 updated: "2026-04-22"
 tags: [caso-koldo]

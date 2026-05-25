@@ -1,5 +1,5 @@
 ---
-title: "La UDEF irrumpe en el despacho de Zapatero y se incauta m..."
+title: "La UDEF irrumpe en el despacho de Zapatero y se incauta maletines sellados"
 source: "raw/La UDEF irrumpe en el despacho de Zapatero y se incauta maletines sellados.md"
 updated: "2026-05-19"
 tags: [caso-zapatero]

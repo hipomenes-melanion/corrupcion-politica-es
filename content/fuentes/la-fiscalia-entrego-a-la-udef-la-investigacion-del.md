@@ -1,5 +1,5 @@
 ---
-title: "La Fiscalía entregó a la UDEF la investigación del caso P..."
+title: "La Fiscalía entregó a la UDEF la investigación del caso Plus Ultra que salpica a Zapatero"
 source: "raw/La Fiscalía entregó a la UDEF la investigación del caso Plus Ultra que salpica a Zapatero.md"
 updated: "2026-02-10"
 tags: [caso-koldo]

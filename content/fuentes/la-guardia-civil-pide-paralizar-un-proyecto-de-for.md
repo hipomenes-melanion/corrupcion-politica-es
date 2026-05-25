@@ -1,5 +1,5 @@
 ---
-title: "La Guardia Civil pide paralizar un proyecto de Forestalia..."
+title: "La Guardia Civil pide paralizar un proyecto de Forestalia en Teruel para evitar daños sustanciales medioambientales"
 source: "raw/La Guardia Civil pide paralizar un proyecto de Forestalia en Teruel para evitar daños sustanciales medioambientales.md"
 updated: "2026-03-20"
 tags: [caso-zapatero]

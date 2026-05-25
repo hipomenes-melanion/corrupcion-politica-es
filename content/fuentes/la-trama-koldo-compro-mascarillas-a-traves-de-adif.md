@@ -1,5 +1,5 @@
 ---
-title: "La trama Koldo compró mascarillas a través de ADIF porque..."
+title: "La trama Koldo compró mascarillas a través de ADIF porque tenía mejor liquidez"
 source: "raw/La trama Koldo compró mascarillas a través de ADIF porque tenía mejor liquidez.md"
 updated: "2026-02-12"
 tags: [caso-adamuz]

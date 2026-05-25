@@ -1,5 +1,5 @@
 ---
-title: "Caso Forestalia: Antxon Alonso dejó de administrar una so..."
+title: "Caso Forestalia Antxon Alonso dejó de administrar una sociedad investigada el día que Santos Cerdán fue excarcelado"
 source: "raw/Caso Forestalia Antxon Alonso dejó de administrar una sociedad investigada el día que Santos Cerdán fue excarcelado.md"
 updated: "2026-03-18"
 tags: [caso-koldo]

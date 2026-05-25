@@ -1,5 +1,5 @@
 ---
-title: "Aldama aporta al Supremo los pagos del piso de Jéssica y ..."
+title: "Aldama aporta al Supremo los pagos del piso de Jéssica y cómo se truncaron Procederemos a una demanda por desahucio"
 source: "raw/Aldama aporta al Supremo los pagos del piso de Jéssica y cómo se truncaron Procederemos a una demanda por desahucio.md"
 updated: "2026-03-31"
 tags: [caso-koldo]

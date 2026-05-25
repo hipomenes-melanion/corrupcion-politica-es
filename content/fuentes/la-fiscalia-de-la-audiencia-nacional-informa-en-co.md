@@ -1,5 +1,5 @@
 ---
-title: "La Fiscalía de la Audiencia Nacional informa en contra de..."
+title: "La Fiscalía de la Audiencia Nacional informa en contra de investigar a Óscar Puente por la tragedia de Adamuz"
 source: "raw/La Fiscalía de la Audiencia Nacional informa en contra de investigar a Óscar Puente por la tragedia de Adamuz.md"
 updated: "2026-02-10"
 tags: [caso-adamuz]

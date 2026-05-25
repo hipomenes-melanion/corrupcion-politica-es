@@ -1,5 +1,5 @@
 ---
-title: "Koldo García se plantea 'tirar de la manta' contra Pedro ..."
+title: "Koldo García se plantea 'tirar de la manta' contra Pedro Sánchez y Santos Cerdán"
 source: "raw/Koldo García se plantea 'tirar de la manta' contra Pedro Sánchez y Santos Cerdán.md"
 updated: "2026-04-27"
 tags: [caso-koldo]

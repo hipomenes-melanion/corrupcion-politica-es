@@ -1,5 +1,5 @@
 ---
-title: "El juez cita en mayo a Ignacio Escolar y a varios periodi..."
+title: "El juez cita en mayo a Ignacio Escolar y a varios periodistas de elDiario.es tras la demanda de Julio Iglesias"
 source: "raw/El juez cita en mayo a Ignacio Escolar y a varios periodistas de elDiario.es tras la demanda de Julio Iglesias.md"
 updated: "2026-04-27"
 tags: [caso-zapatero]

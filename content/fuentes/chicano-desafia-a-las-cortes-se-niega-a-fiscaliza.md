@@ -1,5 +1,5 @@
 ---
-title: "Chicano desafía a las Cortes: se niega a fiscalizar las s..."
+title: "Chicano desafía a las Cortes se niega a fiscalizar las subvenciones a Bildu tras presentar a terroristas en sus listas"
 source: "raw/Chicano desafía a las Cortes se niega a fiscalizar las subvenciones a Bildu tras presentar a terroristas en sus listas.md"
 updated: "2026-03-10"
 tags: [caso-koldo]

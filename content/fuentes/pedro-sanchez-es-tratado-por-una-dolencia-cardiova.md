@@ -1,5 +1,5 @@
 ---
-title: "Pedro Sánchez es tratado por una dolencia cardiovascular ..."
+title: "Pedro Sánchez es tratado por una dolencia cardiovascular desde hace meses en el Hospital Ramón y Cajal"
 source: "raw/Pedro Sánchez es tratado por una dolencia cardiovascular desde hace meses en el Hospital Ramón y Cajal.md"
 updated: "2026-02-23"
 tags: [caso-zapatero]

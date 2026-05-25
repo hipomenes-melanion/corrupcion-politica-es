@@ -1,5 +1,5 @@
 ---
-title: "Peramato y la Fiscalía de la UE hacen la vista gorda para..."
+title: "Peramato y la Fiscalía de la UE hacen la vista gorda para no investigar a Montero por desviar fondos para pensiones"
 source: "raw/Peramato y la Fiscalía de la UE hacen la vista gorda para no investigar a Montero por desviar fondos para pensiones.md"
 updated: "2026-05-08"
 tags: [caso-zapatero]

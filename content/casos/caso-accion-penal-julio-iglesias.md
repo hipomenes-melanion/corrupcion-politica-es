@@ -16,6 +16,9 @@ Acción penal interpuesta por el cantante Julio Iglesias contra la ministra y vi
 - **Fase Procesal Actual**: Interposición inminente de la querella formal ante el Tribunal Supremo, tras haberse celebrado el preceptivo acto de conciliación obligatorio sin avenencia.
 - **Investigados / Encausados Principales**:
   - [[yolanda-diaz-perez]] (en su condición de aforada ante el TS).
+- **Querellante Principal**: [[julio-iglesias]]
+- **Letrados y Defensas**: [[jose-antonio-choclan]]
+- **Organizaciones Implicadas**: [[womens-link-worldwide]]
 - **Tipos Penales Imputados**: Presuntos delitos de injurias graves y calumnias cometidos a través de medios de difusión digital y televisiva.
 
 
@@ -30,4 +33,10 @@ Acción penal interpuesta por el cantante Julio Iglesias contra la ministra y vi
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
+- [[julio-iglesias-demanda-a-eldiarioes-y-escolar-por]]
+- [[julio-iglesias-demanda-a-yolanda-diaz-por-acusarle]]
+- [[julio-iglesias-llegara-hasta-el-final-valora-querellarse]]
+- [[julio-iglesias-se-querellara-contra-yolanda-diaz-p]]
+- [[julio-iglesias-ultima-su-querella-mientras-peramat]]
+- [[la-demanda-de-julio-iglesias-contra-la-fiscalia]]
 - [[resumen-causas-judiciales]]

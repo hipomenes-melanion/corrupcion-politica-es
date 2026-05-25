@@ -1,5 +1,5 @@
 ---
-title: "La secretaria de Ábalos confirma que Jésica acudió a 13 v..."
+title: "La secretaria de Ábalos confirma que Jésica acudió a 13 viajes oficiales del Ministerio"
 source: "raw/La secretaria de Ábalos confirma que Jésica acudió a 13 viajes oficiales del Ministerio.md"
 updated: "2026-04-21"
 tags: [caso-koldo]

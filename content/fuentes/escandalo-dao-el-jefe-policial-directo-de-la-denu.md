@@ -1,5 +1,5 @@
 ---
-title: "Escándalo DAO: el jefe policial directo de la denunciante..."
+title: "Escándalo DAO el jefe policial directo de la denunciante fue trasladado dos semanas después de presentarse la querella"
 source: "raw/Escándalo DAO el jefe policial directo de la denunciante fue trasladado dos semanas después de presentarse la querella.md"
 updated: "2026-02-19"
 tags: [caso-zapatero]

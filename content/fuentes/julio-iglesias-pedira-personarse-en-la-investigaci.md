@@ -1,5 +1,5 @@
 ---
-title: "Julio Iglesias pedirá personarse en la investigación de l..."
+title: "Julio Iglesias pedirá personarse en la investigación de la Fiscalía para evitar su indefensión"
 source: "raw/Julio Iglesias pedirá personarse en la investigación de la Fiscalía para evitar su indefensión.md"
 updated: "2026-01-19"
 tags: [caso-koldo]

@@ -1,5 +1,5 @@
 ---
-title: "La Audiencia Nacional abre diligencias contra Zapatero po..."
+title: "La Audiencia Nacional abre diligencias contra Zapatero por su colaboración con Maduro y pide informe a la Fiscalía"
 source: "raw/La Audiencia Nacional abre diligencias contra Zapatero por su colaboración con Maduro y pide informe a la Fiscalía.md"
 updated: "2026-01-09"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "Pedro Saura reconoce haber llamado por teléfono a Aldama ..."
+title: "Pedro Saura reconoce haber llamado por teléfono a Aldama por el rescate de Air Europa Fue por cortesía"
 source: "raw/Pedro Saura reconoce haber llamado por teléfono a Aldama por el rescate de Air Europa Fue por cortesía.md"
 updated: "2026-04-22"
 tags: [caso-koldo]

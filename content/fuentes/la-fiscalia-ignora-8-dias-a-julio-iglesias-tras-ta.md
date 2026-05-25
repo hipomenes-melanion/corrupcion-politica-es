@@ -1,5 +1,5 @@
 ---
-title: "La Fiscalía ignora 8 días a Julio Iglesias tras tardar só..."
+title: "La Fiscalía ignora 8 días a Julio Iglesias tras tardar sólo 4 horas en vetar su personación"
 source: "raw/La Fiscalía ignora 8 días a Julio Iglesias tras tardar sólo 4 horas en vetar su personación.md"
 updated: "2026-02-04"
 tags: [caso-zapatero]

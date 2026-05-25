@@ -1,5 +1,5 @@
 ---
-title: "Zapatero, al borde de la imputación por el caso Plus Ultr..."
+title: "Zapatero, al borde de la imputación por el caso Plus Ultra en la Audiencia Nacional"
 source: "raw/Zapatero, al borde de la imputación por el caso Plus Ultra en la Audiencia Nacional.md"
 updated: "2026-04-06"
 tags: [caso-koldo]

@@ -1,5 +1,5 @@
 ---
-title: "El tren que descarriló en Irún transportaba un depósito c..."
+title: "El tren que descarriló en Irún transportaba un depósito con capacidad para 33.000 litros de líquido inflamable"
 source: "raw/El tren que descarriló en Irún transportaba un depósito con capacidad para 33.000 litros de líquido inflamable.md"
 updated: "2026-02-11"
 tags: [caso-adamuz]

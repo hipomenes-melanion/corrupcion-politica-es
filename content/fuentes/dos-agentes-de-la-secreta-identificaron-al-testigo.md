@@ -1,5 +1,5 @@
 ---
-title: "Dos agentes de la secreta identificaron al testigo que 'c..."
+title: "Dos agentes de la secreta identificaron al testigo que 'cazó' a Montero con el expresidente de la Sepi"
 source: "raw/Dos agentes de la secreta identificaron al testigo que 'cazó' a Montero con el expresidente de la Sepi.md"
 updated: "2026-05-14"
 tags: [caso-koldo]

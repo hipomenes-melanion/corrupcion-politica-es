@@ -1,5 +1,5 @@
 ---
-title: "Zapatero, imputado por organización criminal, tráfico de ..."
+title: "Zapatero, imputado por organización criminal, tráfico de influencias y falsedad"
 source: "raw/Zapatero, imputado por organización criminal, tráfico de influencias y falsedad.md"
 updated: "2026-05-19"
 tags: [caso-koldo]

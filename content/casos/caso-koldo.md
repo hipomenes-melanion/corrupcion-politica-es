@@ -18,6 +18,7 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
   - [[koldo-garcia-izaguirre]]
   - [[victor-de-aldama-delgado]]
   - [[juan-carlos-cueto]]
+  - [[francina-armengol]] (Presidenta del Congreso / Expresidenta de las Islas Baleares)
 - **Tipos Penales Imputados**: Cohecho, tráfico de influencias, blanqueo de capitales y organización criminal.
 
 
@@ -87,6 +88,7 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - [[aldama-aporta-al-supremo-los-pagos-del-piso-de-jes]]
 - [[denuncian-a-zapatero-ante-hacienda-para-que-se-inv]]
 - [[la-filtracion-de-la-entrega-del-sobre-de-aldama-co]]
+- [[la-obsesion-que-vinculo-a-sanchez-con-venezuela]]
 - [[la-uco-ultima-los-informes-sobre-armengol-y-el-pat]]
 - [[la-declaracion-de-aldama-sobre-los-cupos-de-petrol]]
 - [[globalia-compro-a-la-empresa-vinculada-a-la-trama]]

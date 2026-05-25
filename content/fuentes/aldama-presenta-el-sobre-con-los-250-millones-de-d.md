@@ -1,5 +1,5 @@
 ---
-title: "Aldama presenta el sobre con los 250 millones de dólares ..."
+title: "Aldama presenta el sobre con los 250 millones de dólares de PDVSA en la Audiencia Nacional"
 source: "raw/Aldama presenta el sobre con los 250 millones de dólares de PDVSA en la Audiencia Nacional.md"
 updated: "2026-03-18"
 tags: [caso-koldo]

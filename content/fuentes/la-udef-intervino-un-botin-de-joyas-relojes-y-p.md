@@ -1,5 +1,5 @@
 ---
-title: "La UDEF intervino un 'botín' de joyas, relojes y piedras ..."
+title: "La UDEF intervino un 'botín' de joyas, relojes y piedras preciosas en el despacho de Zapatero"
 source: "raw/La UDEF intervino un 'botín' de joyas, relojes y piedras preciosas en el despacho de Zapatero.md"
 updated: "2026-05-25"
 tags: [caso-zapatero]

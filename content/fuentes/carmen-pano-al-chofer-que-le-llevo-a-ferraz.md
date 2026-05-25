@@ -1,5 +1,5 @@
 ---
-title: "Carmen Pano, al chófer que le llevó a Ferraz: \"
+title: "Carmen Pano, al chófer que le llevó a Ferraz Álvaro, tenemos que ir a Ferraz a llevar dinero"
 source: "raw/Carmen Pano, al chófer que le llevó a Ferraz Álvaro, tenemos que ir a Ferraz a llevar dinero.md"
 updated: "2026-02-19"
 tags: [caso-koldo]

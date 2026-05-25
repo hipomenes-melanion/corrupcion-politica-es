@@ -1,5 +1,5 @@
 ---
-title: "Koldo reconoce parte de la jerga criminal de la trama: la..."
+title: "Koldo reconoce parte de la jerga criminal de la trama las chistorras eran billetes de 500 y las daba el PSOE"
 source: "raw/Koldo reconoce parte de la jerga criminal de la trama las chistorras eran billetes de 500 y las daba el PSOE.md"
 updated: "2026-04-30"
 tags: [caso-koldo]

@@ -1,5 +1,5 @@
 ---
-title: "El juez archiva el caso Pegasus por segunda vez tras la \"
+title: "El juez archiva el caso Pegasus por segunda vez tras la obstrucción de Israel en la investigación"
 source: "raw/El juez archiva el caso Pegasus por segunda vez tras la obstrucción de Israel en la investigación.md"
 updated: "2026-01-22"
 tags: [caso-zapatero]

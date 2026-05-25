@@ -1,5 +1,5 @@
 ---
-title: "La fiscal general del Estado se niega a entregar a Julio ..."
+title: "La fiscal general del Estado se niega a entregar a Julio Iglesias el contenido de la investigación"
 source: "raw/La fiscal general del Estado se niega a entregar a Julio Iglesias el contenido de la investigación.md"
 updated: "2026-02-27"
 tags: [caso-zapatero]

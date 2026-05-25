@@ -1,5 +1,5 @@
 ---
-title: "Escándalo en el TC: Segoviano mantiene la ponencia de Gar..."
+title: "Escándalo en el TC Segoviano mantiene la ponencia de García Ortiz después de desearle mucho ánimo tras su condena"
 source: "raw/Escándalo en el TC Segoviano mantiene la ponencia de García Ortiz después de desearle mucho ánimo tras su condena.md"
 updated: "2026-04-15"
 tags: [caso-zapatero]

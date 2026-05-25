@@ -30,4 +30,5 @@ Causa especial seguida contra el Fiscal General del Estado, Álvaro García Orti
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
+- [[la-causa-de-garcia-ortiz-es-el]]
 - [[resumen-causas-judiciales]]

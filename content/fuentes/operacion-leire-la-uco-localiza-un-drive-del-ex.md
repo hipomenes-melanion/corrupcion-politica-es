@@ -1,5 +1,5 @@
 ---
-title: "'Operación Leire': la UCO localiza un drive del expreside..."
+title: "'Operación Leire' la UCO localiza un drive del expresidente de la SEPI que acredita la trama de corrupción"
 source: "raw/'Operación Leire' la UCO localiza un drive del expresidente de la SEPI que acredita la trama de corrupción.md"
 updated: "2026-02-06"
 tags: [caso-zapatero]

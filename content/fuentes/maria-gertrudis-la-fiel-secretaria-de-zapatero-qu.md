@@ -1,5 +1,5 @@
 ---
-title: "María Gertrudis, la fiel secretaria de Zapatero que gesti..."
+title: "María Gertrudis, la fiel secretaria de Zapatero que gestionaba su red criminal"
 source: "raw/María Gertrudis, la fiel secretaria de Zapatero que gestionaba su red criminal.md"
 updated: "2026-05-21"
 tags: [caso-zapatero]

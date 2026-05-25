@@ -1,5 +1,5 @@
 ---
-title: "Funcionarios denuncian ante la Guardia Civil un \"
+title: "Funcionarios denuncian ante la Guardia Civil un corta y pega en los expedientes a favor de Forestalia"
 source: "raw/Funcionarios denuncian ante la Guardia Civil un corta y pega en los expedientes a favor de Forestalia.md"
 updated: "2026-04-26"
 tags: [caso-zapatero]

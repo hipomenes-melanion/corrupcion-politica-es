@@ -1,5 +1,5 @@
 ---
-title: "Luzón se plantea discrepar públicamente de la orden de Pe..."
+title: "Luzón se plantea discrepar públicamente de la orden de Peramato respecto a la rebaja de pena de Aldama"
 source: "raw/Luzón se plantea discrepar públicamente de la orden de Peramato respecto a la rebaja de pena de Aldama.md"
 updated: "2026-05-05"
 tags: [caso-koldo]

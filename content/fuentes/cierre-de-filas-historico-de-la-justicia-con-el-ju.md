@@ -1,5 +1,5 @@
 ---
-title: "Cierre de filas histórico de la Justicia con el juez Pein..."
+title: "Cierre de filas histórico de la Justicia con el juez Peinado los jueces se hartan de Bolaños"
 source: "raw/Cierre de filas histórico de la Justicia con el juez Peinado los jueces se hartan de Bolaños.md"
 updated: "2026-04-16"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "Sánchez lanza su último asalto para controlar a la Policí..."
+title: "Sánchez lanza su último asalto para controlar a la Policía antes de las próximas elecciones"
 source: "raw/Sánchez lanza su último asalto para controlar a la Policía antes de las próximas elecciones.md"
 updated: "2026-02-17"
 tags: [caso-zapatero]

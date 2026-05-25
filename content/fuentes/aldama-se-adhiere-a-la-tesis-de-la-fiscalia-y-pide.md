@@ -1,5 +1,5 @@
 ---
-title: "Aldama se adhiere a la tesis de la Fiscalía y pide que de..."
+title: "Aldama se adhiere a la tesis de la Fiscalía y pide que declaren Jéssica y la mano derecha de Montero"
 source: "raw/Aldama se adhiere a la tesis de la Fiscalía y pide que declaren Jéssica y la mano derecha de Montero.md"
 updated: "2026-01-08"
 tags: [caso-koldo]

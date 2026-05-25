@@ -1,5 +1,5 @@
 ---
-title: "Los investigadores sospechan que Sánchez ordenó montar la..."
+title: "Los investigadores sospechan que Sánchez ordenó montar las cloacas durante su reflexión tras ser imputada Begoña Gómez"
 source: "raw/Los investigadores sospechan que Sánchez ordenó montar las cloacas durante su reflexión tras ser imputada Begoña Gómez.md"
 updated: "2026-04-17"
 tags: [caso-zapatero]

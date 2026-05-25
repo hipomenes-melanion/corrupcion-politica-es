@@ -1,5 +1,5 @@
 ---
-title: "La UCO investiga 22 reuniones que mantuvo Begoña Gómez pa..."
+title: "La UCO investiga 22 reuniones que mantuvo Begoña Gómez para crear la plataforma digital de su cátedra"
 source: "raw/La UCO investiga 22 reuniones que mantuvo Begoña Gómez para crear la plataforma digital de su cátedra.md"
 updated: "2026-01-07"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "Estupor policial por el caso Plus Ultra: \"
+title: "Estupor policial por el caso Plus Ultra Zapatero y sus hijas tendrían que haber sido ya detenidos"
 source: "raw/Estupor policial por el caso Plus Ultra Zapatero y sus hijas tendrían que haber sido ya detenidos.md"
 updated: "2026-01-19"
 tags: [caso-abalos]

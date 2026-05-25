@@ -1,5 +1,5 @@
 ---
-title: "La UCO acredita 387.000 euros en efectivo sin justificar ..."
+title: "La UCO acredita 387.000 euros en efectivo sin justificar en el entorno de Koldo"
 source: "raw/La UCO acredita 387.000 euros en efectivo sin justificar en el entorno de Koldo.md"
 updated: "2026-04-27"
 tags: [caso-koldo]

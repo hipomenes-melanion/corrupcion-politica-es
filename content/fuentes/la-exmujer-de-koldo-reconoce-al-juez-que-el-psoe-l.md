@@ -1,5 +1,5 @@
 ---
-title: "La exmujer de Koldo reconoce al juez que el PSOE liquidab..."
+title: "La exmujer de Koldo reconoce al juez que el PSOE liquidaba gastos en efectivo mientras Transportes hacia transferencia"
 source: "raw/La exmujer de Koldo reconoce al juez que el PSOE liquidaba gastos en efectivo mientras Transportes hacia transferencia.md"
 updated: "2026-01-20"
 tags: [caso-koldo]

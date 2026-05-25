@@ -1,5 +1,5 @@
 ---
-title: "La denunciante del ex-DAO pide al juez que investigue qui..."
+title: "La denunciante del ex-DAO pide al juez que investigue quién filtró su nombre a los periodistas"
 source: "raw/La denunciante del ex-DAO pide al juez que investigue quién filtró su nombre a los periodistas.md"
 updated: "2026-03-16"
 tags: [caso-zapatero]

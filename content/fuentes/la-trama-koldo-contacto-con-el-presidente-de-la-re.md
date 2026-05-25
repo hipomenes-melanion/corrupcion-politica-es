@@ -1,5 +1,5 @@
 ---
-title: "La trama Koldo contactó con el presidente de la República..."
+title: "La trama Koldo contactó con el presidente de la República Dominicana Le ofrecemos nuestros servicios contra el covid"
 source: "raw/La trama Koldo contactó con el presidente de la República Dominicana Le ofrecemos nuestros servicios contra el covid.md"
 updated: "2026-04-16"
 tags: [caso-koldo]

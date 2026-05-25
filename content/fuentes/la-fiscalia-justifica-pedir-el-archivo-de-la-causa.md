@@ -1,5 +1,5 @@
 ---
-title: "La Fiscalía justifica pedir el archivo de la causa contra..."
+title: "La Fiscalía justifica pedir el archivo de la causa contra Begoña Gómez Nada nos lleva a modificar lo expresado"
 source: "raw/La Fiscalía justifica pedir el archivo de la causa contra Begoña Gómez Nada nos lleva a modificar lo expresado.md"
 updated: "2026-04-02"
 tags: [caso-zapatero]

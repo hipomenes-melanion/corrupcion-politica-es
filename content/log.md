@@ -515,3 +515,51 @@ tags: [log, registro]
   ✅ Ingestión exitosa: Creación de cuatro informes temáticos de análisis avanzado en `wiki/analisis/` (`matriz-conexiones-ocultas.md`, `tipologias-fraude-patrones.md`, `mapa-calor-institucional.md` y `conclusiones-hipotesis.md`) y actualización del índice principal `wiki/index.md`
 - **[2026-05-25]** - Glosario de Tipos Delictivos
   ✅ Ingestión exitosa: Creación del glosario penal en `wiki/entidades/glosario-tipos-delictivos.md`, enlazado en el índice general y en el apartado de Fuentes de las 15 páginas de causas judiciales.
+- **[2026-05-25]** - Ingesta de: "Julio Iglesias llegará hasta el final: valora querellarse contra sus exempleadas..."
+  ✅ Ingestión exitosa: [wiki/fuentes/julio-iglesias-llegara-hasta-el-final-valora-querellarse.md, wiki/personas/julio-iglesias.md, wiki/personas/jose-antonio-choclan.md, wiki/entidades/womens-link-worldwide.md, wiki/casos/caso-accion-penal-julio-iglesias.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Julio Martínez borró de manera sistemática los mensajes con Zapatero"
+  ✅ Ingestión exitosa: [wiki/fuentes/julio-martinez-borro.md, wiki/personas/julio-martinez-martinez.md, wiki/casos/caso-plus-ultra.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La obsesión que vinculó a Sánchez con Venezuela: Necesitaba financiación..."
+  ✅ Ingestión exitosa: [wiki/fuentes/la-obsesion-que-vinculo-a-sanchez-con-venezuela.md, wiki/personas/pedro-sanchez-perez-castejon.md, wiki/casos/caso-koldo.md, wiki/casos/caso-zapatero.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Aldama guarda un arsenal de pruebas incriminatorias contra Armengol"
+  ✅ Ingestión exitosa: [wiki/fuentes/aldama-guarda-un.md, wiki/personas/francina-armengol.md, wiki/casos/caso-koldo.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Aldama prepara una declaración demoledora contra el Gobierno de Sánchez..."
+  ✅ Ingestión exitosa: [wiki/fuentes/aldama-prepara-una.md, wiki/personas/teresa-peramato.md, wiki/personas/alejandro-luzon.md, wiki/personas/carmen-pano.md, wiki/personas/manuel-contreras-caro.md, wiki/personas/victor-de-aldama-delgado.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La causa de García Ortiz es el banco de pruebas..."
+  ✅ Ingestión exitosa: [wiki/fuentes/la-causa-de-garcia-ortiz-es-el.md, wiki/personas/candido-conde-pumpido.md, wiki/personas/alvaro-garcia-ortiz.md, wiki/personas/pedro-sanchez-perez-castejon.md, wiki/entidades/tribunal-constitucional.md, wiki/casos/caso-fiscal-general-del-estado.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Julio Iglesias demanda a eldiario.es y Escolar..."
+  ✅ Ingestión exitosa: [wiki/fuentes/julio-iglesias-demanda-a-eldiarioes-y-escolar-por.md, wiki/personas/ignacio-escolar.md, wiki/personas/julio-iglesias.md, wiki/casos/caso-accion-penal-julio-iglesias.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La defensa de Koldo llama ornitorrinco procesal a Aldama..."
+  ✅ Ingestión exitosa: [wiki/fuentes/la-defensa-de-koldo-llama.md, wiki/personas/salvador-illa.md, wiki/personas/koldo-garcia-izaguirre.md, wiki/personas/victor-de-aldama-delgado.md, wiki/personas/leopoldo-puente-segura.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La demanda de Julio Iglesias contra la Fiscalía..."
+  ✅ Ingestión exitosa: [wiki/fuentes/la-demanda-de-julio-iglesias-contra-la-fiscalia.md, wiki/personas/teresa-peramato.md, wiki/personas/julio-iglesias.md, wiki/casos/caso-accion-penal-julio-iglesias.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La denuncia contra el DAO: Desplegó una conducta agresiva de naturaleza sexual caracterizada por la violencia"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-denuncia-contra-el-dao.md, wiki/personas/jose-angel-gonzalez.md, wiki/personas/fernando-grande-marlaska.md, wiki/casos/caso-dao.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Jésica niega ser prostituta al abogado de Ábalos: Soy dentista colegiada y era azafata de imagen"
+  ✅ Ingestión exitosa: [wiki/fuentes/jesica-niega-ser-prostituta-al-abogado-de-abalos.md, wiki/personas/jesica-rodriguez.md, wiki/personas/joseba-garcia-izaguirre.md, wiki/entidades/ineco.md, wiki/entidades/tragsatec.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La exmujer de Koldo reconoce que recogía sobres con dinero de Ferraz a nombre de Ábalos"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-exmujer-de-koldo-reconoce-que-recogia.md, wiki/personas/patricia-uriz.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La Fiscalía está forzando su competencia para investigar a Julio Iglesias en España"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-fiscalia-esta.md, wiki/personas/jesus-alonso.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La Guardia Civil acorrala a Samper en el caso Forestalia: Entregaba beneficios económicos para asegurar sus proyectos"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-guardia-civil-acorrala-a-samper-en-el-caso-fore.md, wiki/personas/fernando-samper.md, wiki/personas/eugenio-dominguez.md, wiki/casos/caso-forestalia.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La Miss Asturias Claudia Montes en el Supremo: Ábalos y Koldo no me dijeron 'te he enchufado'"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-miss-asturias-claudia-montes-en-el-supremo.md, wiki/personas/claudia-montes.md, wiki/entidades/logirail.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La UCO certifica la organización criminal en Forestalia: Samper creó entramados empresariales para pagar a Domínguez"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-uco-certifica-la.md, wiki/personas/javier-de-lucas-cadenas.md, wiki/casos/caso-forestalia.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "La UCO dice al juez Peinado que no son contrastables los vínculos de Begoña Gómez con el rescate de Air Europa"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-uco-dice-al-juez-peinado-que.md, wiki/casos/caso-begona-gomez.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Las comunicaciones de la trama: Zapatero es pro Sánchez y pro Maduro"
+  ✅ Ingestión exitosa: [wiki/fuentes/las-comunicaciones-de-la-trama-zapatero-es.md, wiki/personas/julio-martinez-sola.md, wiki/personas/rodolfo-reyes.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Los investigadores destacan la influencia determinante de Zapatero y Delcy Rodríguez en la compraventa de petróleo"
+  ✅ Ingestión exitosa: [wiki/fuentes/los-investigadores-destacan-la.md, wiki/personas/delcy-rodriguez.md, wiki/casos/caso-plus-ultra.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Luzón corrige a Aldama: El presidente del Gobierno no era el nº 1 de la trama Koldo"
+  ✅ Ingestión exitosa: [wiki/fuentes/luzon-corrige-a-aldama.md, wiki/personas/antonio-balas.md, wiki/personas/isabel-pardo-de-vera.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Zapatero utilizó a su lacayo Julio Martínez para cobrar de Plus Ultra Por ahí vendrá la mordida"
+  ✅ Ingestión exitosa: [wiki/fuentes/zapatero-utilizo-a-su.md, wiki/personas/roberto-roselli.md, wiki/personas/pedro-saura.md, wiki/personas/jose-luis-escriva.md, wiki/personas/jose-luis-rodriguez-zapatero.md, wiki/personas/julio-martinez-martinez.md, wiki/personas/rodolfo-reyes.md, wiki/casos/caso-plus-ultra.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Moncloa aumentará notablemente el presupuesto destinado a vigilar la salud de Pedro Sánchez"
+  ✅ Ingestión exitosa: [wiki/fuentes/moncloa-aumentara.md, wiki/personas/jose-luis-zamorano.md, wiki/personas/cayetana-alvarez-de-toledo.md, wiki/personas/felix-bolanos.md, wiki/entidades/hospital-ramon-y-cajal.md, wiki/personas/pedro-sanchez-perez-castejon.md, wiki/personas/maria-begona-gomez-fernandez.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo"
+  ✅ Ingestión exitosa: [wiki/fuentes/montero-hizo.md, wiki/personas/maria-jesus-montero.md, wiki/personas/santiago-pedraz.md, wiki/personas/teresa-ribera.md, wiki/personas/vicente-fernandez-guerrero.md, wiki/casos/caso-leire-hirurok.md, wiki/index.md, wiki/log.md]
+- **[2026-05-25]** - Ingesta de: "Piden que se investigue a la fiscal amiga señalada por la trama"
+  ✅ Ingestión exitosa: [wiki/fuentes/piden-que-se-investigue-a-la-fiscal.md, wiki/personas/miguel-palomero.md, wiki/entidades/iustitia-europa.md, wiki/personas/jose-luis-rodriguez-zapatero.md, wiki/casos/caso-plus-ultra.md, wiki/index.md, wiki/log.md]

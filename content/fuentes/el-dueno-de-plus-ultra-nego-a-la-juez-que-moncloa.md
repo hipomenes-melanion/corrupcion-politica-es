@@ -1,5 +1,5 @@
 ---
-title: "El dueño de Plus Ultra negó a la juez que Moncloa o Ábalo..."
+title: "El dueño de Plus Ultra negó a la juez que Moncloa o Ábalos intervinieran en el rescate de la compañía ¡En absoluto!"
 source: "raw/El dueño de Plus Ultra negó a la juez que Moncloa o Ábalos intervinieran en el rescate de la compañía ¡En absoluto!.md"
 updated: "2026-01-12"
 tags: [caso-koldo]

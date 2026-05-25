@@ -1,5 +1,5 @@
 ---
-title: "La libertad para Ábalos y Koldo antes del juicio se disip..."
+title: "La libertad para Ábalos y Koldo antes del juicio se disipa El riesgo de fuga ha aumentado"
 source: "raw/La libertad para Ábalos y Koldo antes del juicio se disipa El riesgo de fuga ha aumentado.md"
 updated: "2026-01-14"
 tags: [caso-koldo]

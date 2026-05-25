@@ -1,5 +1,5 @@
 ---
-title: "Anticorrupción abre la puerta a que Aldama no entre en pr..."
+title: "Anticorrupción abre la puerta a que Aldama no entre en prisión tras su confesión"
 source: "raw/Anticorrupción abre la puerta a que Aldama no entre en prisión tras su confesión.md"
 updated: "2026-02-13"
 tags: [caso-koldo]

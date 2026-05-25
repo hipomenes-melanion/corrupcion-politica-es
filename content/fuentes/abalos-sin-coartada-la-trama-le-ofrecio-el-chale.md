@@ -1,5 +1,5 @@
 ---
-title: "Ábalos, sin coartada: la trama le ofreció el chalet de la..."
+title: "Ábalos, sin coartada la trama le ofreció el chalet de la Alcaidesa un mes después de comprarlo para invertir"
 source: "raw/Ábalos, sin coartada la trama le ofreció el chalet de la Alcaidesa un mes después de comprarlo para invertir.md"
 updated: "2026-04-10"
 tags: [caso-koldo]

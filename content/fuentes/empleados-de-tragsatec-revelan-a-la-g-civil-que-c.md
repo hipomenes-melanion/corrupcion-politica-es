@@ -1,5 +1,5 @@
 ---
-title: "Empleados de Tragsatec revelan a la G. Civil que conectab..."
+title: "Empleados de Tragsatec revelan a la G. Civil que conectaban la trama Forestalia con el Ministerio de Ribera"
 source: "raw/Empleados de Tragsatec revelan a la G. Civil que conectaban la trama Forestalia con el Ministerio de Ribera.md"
 updated: "2026-03-24"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "El Constitucional rechaza por una amplia mayoría que se s..."
+title: "El Constitucional rechaza por una amplia mayoría que se suspenda la orden de detención contra Puigdemont"
 source: "raw/El Constitucional rechaza por una amplia mayoría que se suspenda la orden de detención contra Puigdemont.md"
 updated: "2026-01-27"
 tags: [caso-zapatero]

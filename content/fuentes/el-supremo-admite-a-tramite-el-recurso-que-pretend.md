@@ -1,5 +1,5 @@
 ---
-title: "El Supremo admite a trámite el recurso que pretende parar..."
+title: "El Supremo admite a trámite el recurso que pretende parar de urgencia la regularización masiva"
 source: "raw/El Supremo admite a trámite el recurso que pretende parar de urgencia la regularización masiva.md"
 updated: "2026-04-16"
 tags: [caso-zapatero]

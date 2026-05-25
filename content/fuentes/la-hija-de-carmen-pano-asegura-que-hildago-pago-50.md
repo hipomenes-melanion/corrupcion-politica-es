@@ -1,5 +1,5 @@
 ---
-title: "La hija de Carmen Pano asegura que Hildago pagó 500.000 e..."
+title: "La hija de Carmen Pano asegura que Hildago pagó 500.000 euros a Koldo y Aldama para el rescate de Air Europa"
 source: "raw/La hija de Carmen Pano asegura que Hildago pagó 500.000 euros a Koldo y Aldama para el rescate de Air Europa.md"
 updated: "2026-04-09"
 tags: [caso-koldo]

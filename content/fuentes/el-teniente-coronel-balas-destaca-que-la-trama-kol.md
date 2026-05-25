@@ -1,5 +1,5 @@
 ---
-title: "El teniente coronel Balas destaca que la trama Koldo tení..."
+title: "El teniente coronel Balas destaca que la trama Koldo tenía acceso directo al presidente Pedro Sánchez"
 source: "raw/El teniente coronel Balas destaca que la trama Koldo tenía acceso directo al presidente Pedro Sánchez.md"
 updated: "2026-04-27"
 tags: [caso-koldo]

@@ -1,5 +1,5 @@
 ---
-title: "El chófer de la empresaria que llevó dinero a Ferraz: \"
+title: "El chófer de la empresaria que llevó dinero a Ferraz Era una bolsa transparente, había fajos de billetes"
 source: "raw/El chófer de la empresaria que llevó dinero a Ferraz Era una bolsa transparente, había fajos de billetes.md"
 updated: "2026-04-09"
 tags: [caso-koldo]

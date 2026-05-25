@@ -1,5 +1,5 @@
 ---
-title: "Una asociación solicita reabrir la segunda causa contra E..."
+title: "Una asociación solicita reabrir la segunda causa contra Errejón por agresión sexual"
 source: "raw/Una asociación solicita reabrir la segunda causa contra Errejón por agresión sexual.md"
 updated: "2026-03-20"
 tags: [caso-zapatero]

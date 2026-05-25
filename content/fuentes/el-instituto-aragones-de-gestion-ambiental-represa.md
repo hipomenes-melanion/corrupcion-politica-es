@@ -1,5 +1,5 @@
 ---
-title: "El Instituto Aragonés de Gestión Ambiental represalió a u..."
+title: "El Instituto Aragonés de Gestión Ambiental represalió a una funcionaria contraria a Forestalia"
 source: "raw/El Instituto Aragonés de Gestión Ambiental represalió a una funcionaria contraria a Forestalia.md"
 updated: "2026-03-19"
 tags: [caso-koldo]

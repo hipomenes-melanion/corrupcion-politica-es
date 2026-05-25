@@ -1,5 +1,5 @@
 ---
-title: "La estructura delictiva de Zapatero creó sociedades off-s..."
+title: "La estructura delictiva de Zapatero creó sociedades off-shore en Dubái para canalizar las comisiones ilegales"
 source: "raw/La estructura delictiva de Zapatero creó sociedades off-shore en Dubái para canalizar las comisiones ilegales.md"
 updated: "2026-05-19"
 tags: [caso-zapatero]

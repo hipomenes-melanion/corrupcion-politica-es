@@ -1,5 +1,5 @@
 ---
-title: "El juez Zamarriego devuelve a los juzgados de Badajoz las..."
+title: "El juez Zamarriego devuelve a los juzgados de Badajoz las amenazas de la cloaca a la juez Biedma"
 source: "raw/El juez Zamarriego devuelve a los juzgados de Badajoz las amenazas de la cloaca a la juez Biedma.md"
 updated: "2026-01-30"
 tags: [caso-koldo]

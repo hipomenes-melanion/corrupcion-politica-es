@@ -1,5 +1,5 @@
 ---
-title: "Ábalos y Koldo reaparecen juntos en el Supremo: uno abati..."
+title: "Ábalos y Koldo reaparecen juntos en el Supremo uno abatido y el otro tapándose la cara"
 source: "raw/Ábalos y Koldo reaparecen juntos en el Supremo uno abatido y el otro tapándose la cara.md"
 updated: "2026-02-13"
 tags: [caso-koldo]

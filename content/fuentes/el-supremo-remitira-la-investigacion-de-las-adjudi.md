@@ -1,5 +1,5 @@
 ---
-title: "El Supremo remitirá la investigación de las adjudicacione..."
+title: "El Supremo remitirá la investigación de las adjudicaciones de obra pública de la trama Koldo a la Audiencia Nacional"
 source: "raw/El Supremo remitirá la investigación de las adjudicaciones de obra pública de la trama Koldo a la Audiencia Nacional.md"
 updated: "2026-01-28"
 tags: [caso-koldo]

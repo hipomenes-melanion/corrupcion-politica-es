@@ -1,5 +1,5 @@
 ---
-title: "El juez señala a Zapatero al frente de una estructura de ..."
+title: "El juez señala a Zapatero al frente de una estructura de tráfico de influencias"
 source: "raw/El juez señala a Zapatero al frente de una estructura de tráfico de influencias.md"
 updated: "2026-05-19"
 tags: [caso-abalos]

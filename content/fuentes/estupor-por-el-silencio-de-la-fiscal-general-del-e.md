@@ -1,5 +1,5 @@
 ---
-title: "Estupor por el silencio de la fiscal general del Estado t..."
+title: "Estupor por el silencio de la fiscal general del Estado tras el escándalo del DAO Es experta en violencia de género"
 source: "raw/Estupor por el silencio de la fiscal general del Estado tras el escándalo del DAO Es experta en violencia de género.md"
 updated: "2026-02-24"
 tags: [caso-zapatero]

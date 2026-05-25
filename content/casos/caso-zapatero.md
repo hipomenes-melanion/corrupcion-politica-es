@@ -113,6 +113,7 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - [[la-fiscalia-consulta-a-peramato-si-julio-iglesias]]
 - [[operacion-leire-la-uco-localiza-un-drive-del-ex]]
 - [[la-operacion-leire-salpica-a-la-presidenta-del-t]]
+- [[la-obsesion-que-vinculo-a-sanchez-con-venezuela]]
 - [[la-fiscalia-ignora-8-dias-a-julio-iglesias-tras-ta]]
 - [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-e]]
 - [[guerra-por-la-sucesion-en-la-comisaria-general-de]]

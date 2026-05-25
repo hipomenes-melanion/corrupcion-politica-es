@@ -1,5 +1,5 @@
 ---
-title: "Zapatero, su lugarteniente Segundo Martínez y Óscar Puent..."
+title: "Zapatero, su lugarteniente Segundo Martínez y Óscar Puente fueron los valedores del DAO investigado por violación"
 source: "raw/Zapatero, su lugarteniente Segundo Martínez y Óscar Puente fueron los valedores del DAO investigado por violación.md"
 updated: "2026-02-20"
 tags: [caso-zapatero]

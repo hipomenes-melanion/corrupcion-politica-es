@@ -1,5 +1,5 @@
 ---
-title: "El juez del caso Plus Ultra señala a Zapatero como el pre..."
+title: "El juez del caso Plus Ultra señala a Zapatero como el presunto líder de una estructura de tráfico de influencias"
 source: "raw/El juez del caso Plus Ultra señala a Zapatero como el presunto líder de una estructura de tráfico de influencias.md"
 updated: "2026-05-19"
 tags: [caso-abalos]

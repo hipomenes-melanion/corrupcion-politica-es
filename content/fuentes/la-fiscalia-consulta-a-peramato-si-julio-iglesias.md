@@ -1,5 +1,5 @@
 ---
-title: "La Fiscalía consulta a Peramato si Julio Iglesias puede a..."
+title: "La Fiscalía consulta a Peramato si Julio Iglesias puede acceder a la investigación ¿Hay algo que ocultar"
 source: "raw/La Fiscalía consulta a Peramato si Julio Iglesias puede acceder a la investigación ¿Hay algo que ocultar.md"
 updated: "2026-02-06"
 tags: [caso-zapatero]

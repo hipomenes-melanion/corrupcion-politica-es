@@ -1,27 +1,30 @@
 ---
-title: "Montero hizo \"
+title: "Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo"
 source: "raw/Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo.md"
 updated: "2026-05-13"
-tags: [caso-koldo]
+tags: [caso-leire-hirurok, caso-sepi]
 ---
 
 ## Resumen
-La denuncia de un testigo presentada ante la Guardia Civil, a la que ha tenido acceso LD, describe la relación de \
+Información periodística basada en la denuncia de un ciudadano presentada ante la Guardia Civil que detalla que la exministra de Hacienda, [[maria-jesus-montero]], mantuvo una relación sentimental y de "vida de pareja" en el verano de 2021 con [[vicente-fernandez-guerrero]] (expresidente de la [[sepi]]). Esta revelación desmiente las declaraciones públicas de Montero en el Congreso de los Diputados, donde aseguró no haber tenido ningún tipo de contacto o relación con él desde su cese en 2019. Los hechos se analizan en el marco de la investigación penal por presunto tráfico de influencias del Caso Sepi y la red corrupta *Hirurok*.
 
 ## Detalles clave
-- La exvicepresidenta del Gobierno y exministra de Hacienda, **María Jesús Montero**, hizo "vida de pareja" con el expresidente de la **Sepi** (Sociedad Estatal de Participaciones Industriales), **Vicente Fernández**, en un hotel de Cabo de Gata (Almería) dos años después de cesarlo.
-- La denuncia de un testigo presentada ante la Guardia Civil, a la que ha tenido acceso **Libertad Digital**, relata la relación de "pareja" que mantuvo Montero con Fernández dos años después de su cese como presidente de la SEPI: "En el verano de 2021, **pasé unos días con mi mujer en el Hotel Las...
-- "En lo que entiendo que sí es obligación como ciudadano es desmentir con toda la realidad a mi lado el hecho de que la señora Montero niegue en todos los medios de comunicación que haya tenido ningún tipo de relación ni contacto de ningún tipo con este señor desde el año 2019, cuando fue cesado c...
+- **La denuncia ciudadana y la coartada sentimental**: Un testigo y su esposa coincidieron del 16 al 19 de agosto de 2021 con Montero y Fernández Guerrero en el Hotel Las Salinas de Cabo de Gata (Almería), donde observaron una normal "vida de pareja". Ante la rotunda negativa pública de la ministra en sede parlamentaria en diciembre de 2025 de haber mantenido contacto con él (afirmando que no compartían entorno ni amigos), el ciudadano presentó una denuncia formal aportando documentación acreditativa de la estancia.
+- **Investigación por Tráfico de Influencias**: Aunque la Guardia Civil archivó inicialmente la denuncia ciudadana por no apreciar delito en la relación de pareja en sí, la UCO analiza estos vínculos personales estrechos en el marco del Caso Sepi para determinar si existió un delito de tráfico de influencias. La causa penal se encuentra bajo secreto de sumario en el Juzgado Central de Instrucción nº 5 de la Audiencia Nacional, dirigido por el magistrado [[santiago-pedraz]].
+- **La trama SEPI y el grupo Hirurok**: Se investiga si la estrecha y oculta relación personal de Montero con su antigua "mano derecha" sirvió para favorecer la actividad de lobby de la red criminal *Hirurok* (integrada por Fernández Guerrero, [[leire-diez-castro]] y [[anton-alonso]]). Esta red usaba sus influencias en el Ministerio de Hacienda (Montero) y en el de Transición Ecológica ([[teresa-ribera]]) para amañar al menos cinco contratos y licitaciones públicas por un valor conjunto de 132.955.664 euros.
+- **Trazabilidad penal de Vicente Fernández**: Fernández Guerrero fue interventor general de la Junta de Andalucía y considerado mano derecha de Montero. Fue nombrado presidente de la SEPI en 2018 y cesó en 2019 tras ser investigado (y finalmente absuelto) en el caso Aznalcóllar. Posteriormente, Servinabar (firma de Antxon Alonso vinculada a la trama Koldo) le contrató entre 2021 y 2023. Fue detenido en diciembre de 2025 por la UCO y puesto en libertad provisional con cautelares tras eludir la prisión por la posición de la Fiscalía de [[teresa-peramato]].
 
 ## Referencias cruzadas
-- [[koldo-garcia-izaguirre]]
-- [[victor-de-aldama-delgado]]
-- [[jose-luis-rodriguez-zapatero]]
-- [[santos-cerdan-leon]]
-- [[leire-diez-castro]]
+- [[maria-jesus-montero]]
 - [[vicente-fernandez-guerrero]]
+- [[leire-diez-castro]]
 - [[anton-alonso]]
-- [[caso-koldo]]
+- [[santos-cerdan-leon]]
+- [[santiago-pedraz]]
+- [[teresa-ribera]]
+- [[teresa-peramato]]
+- [[caso-leire-hirurok]]
+- [[sepi]]
 
 ## Fuentes
 Fuente original: [[Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo]]

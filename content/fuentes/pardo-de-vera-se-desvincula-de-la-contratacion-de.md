@@ -1,5 +1,5 @@
 ---
-title: "Pardo de Vera se desvincula de la contratación de la empr..."
+title: "Pardo de Vera se desvincula de la contratación de la empresa de la trama Koldo La orden la firma el ministro"
 source: "raw/Pardo de Vera se desvincula de la contratación de la empresa de la trama Koldo La orden la firma el ministro.md"
 updated: "2026-04-15"
 tags: [caso-koldo]

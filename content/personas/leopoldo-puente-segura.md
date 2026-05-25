@@ -23,7 +23,7 @@ Magistrado del Tribunal Supremo que previamente instruyó la causa especial de S
 - **Actualización [2026-01-08]**: Fuentes jurídicas consultadas por Libertad Digital afirman que \ (Fuente: [[la-renuncia-del-abogado-de-abalos-pone-en-peligro]])
 
 
-- **Actualización [2026-01-09]**: También pide la declaración de Marlaska, Armengol, Isabel Pardo de Vera, Javier Hidalgo y otros 70 testigos, además de la imputación de Jéssica. (Fuente: [[la-defensa-de-koldo-llama]])
+- **Actualización [2026-01-09]**: La defensa de Koldo García le acusa formalmente en su escrito de descargo de falta de objetividad en la instrucción y de realizar una "selección estratégica" de imputados al excluir a las exparejas de Ábalos (Jéssica Rodríguez y Claudia Montes) y a la aerolínea Air Europa. (Fuente: [[la-defensa-de-koldo-llama]])
 
 
 - **Actualización [2026-01-14]**: Fuentes jurídicas consultadas por LD afirman que \ (Fuente: [[la-libertad-para-abalos-y-koldo-antes-del-juicio-s]])

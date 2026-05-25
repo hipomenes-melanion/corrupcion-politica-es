@@ -1,5 +1,5 @@
 ---
-title: "Aldama, ante el juez: \"
+title: "Aldama, ante el juez Ángel Víctor Torres mandó a Koldo a México para sus negocios de hidrocarburos"
 source: "raw/Aldama, ante el juez Ángel Víctor Torres mandó a Koldo a México para sus negocios de hidrocarburos.md"
 updated: "2026-02-21"
 tags: [caso-koldo]

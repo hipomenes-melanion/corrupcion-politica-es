@@ -1,5 +1,5 @@
 ---
-title: "Julio Iglesias estudia presentar una demanda millonaria c..."
+title: "Julio Iglesias estudia presentar una demanda millonaria contra el diario de Ignacio Escolar y Univision"
 source: "raw/Julio Iglesias estudia presentar una demanda millonaria contra el diario de Ignacio Escolar y Univision.md"
 updated: "2026-01-25"
 tags: [caso-zapatero]

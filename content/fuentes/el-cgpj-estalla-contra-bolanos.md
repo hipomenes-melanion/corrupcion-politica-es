@@ -1,5 +1,5 @@
 ---
-title: "El CGPJ estalla contra Bolaños: \"
+title: "El CGPJ estalla contra Bolaños Los mensajes que escribe a la presidenta son machistas, impresentables e intolerables"
 source: "raw/El CGPJ estalla contra Bolaños Los mensajes que escribe a la presidenta son machistas, impresentables e intolerables.md"
 updated: "2026-04-16"
 tags: [caso-zapatero]

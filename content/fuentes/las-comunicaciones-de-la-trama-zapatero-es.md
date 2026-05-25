@@ -1,22 +1,31 @@
 ---
-title: "Las comunicaciones de la trama: Zapatero es \"
+title: "Las comunicaciones de la trama Zapatero es pro Sánchez y pro Maduro"
 source: "raw/Las comunicaciones de la trama Zapatero es pro Sánchez y pro Maduro.md"
 updated: "2026-05-23"
-tags: [caso-abalos]
+tags: [caso-plus-ultra]
 ---
 
 ## Resumen
-Rodolfo Reyes le escribe a Martínez Sola al inicio de la conversación si \
+Información periodística sobre un informe de la Unidad Central de Delincuencia Económica y Fiscal (UDEF) en relación con las comunicaciones interceptadas a la cúpula de [[plus-ultra-lineas-aereas]]. Las conversaciones detallan la estrategia de lobby político y la activación de hilos de influencia (a través de Delcy Rodríguez y [[jose-luis-rodriguez-zapatero]]) para conseguir el rescate de la aerolínea en el año 2020.
 
 ## Detalles clave
-- Así se desprende de un informe de la Unidad Central de Delincuencia Económica y Fiscal (UDEF), al que ha tenido acceso [**Libertad Digital**](https://www.libertaddigital.com/), en el que se recoge la conversación fechada a 30 de marzo de 2020 y que trasciende tras la decisión del titular del Juzg...
-- - [![](https://s1.staticld.com/2026/05/25/480/0/botin-de-joyas-pulseras-pendientes-relojes-y-piedras-preciosas-en-un-despacho-de-zapatero-11.jpg)
-- La UDEF intervino un 'botín' de joyas, relojes y piedras preciosas en el despacho de Zapatero](https://www.libertaddigital.com/espana/2026-05-25/la-udef-intervino-un-botin-joyas-pulseras-pendientes-relojes-piedras-preciosos-despacho-zapatero-7409579/?utm_source=0&utm_medium=barraderecha&utm_campa...
+- **Imputación de Zapatero**: El informe trasciende en consonancia con la imputación penal del expresidente José Luis Rodríguez Zapatero por delitos de organización criminal, tráfico de influencias y falsedad documental en el marco de la concesión del rescate a la aerolínea por el Juzgado de Instrucción número 4 de la [[audiencia-nacional]].
+- **Hilos políticos y financieros**: En conversaciones fechadas el 30 de marzo de 2020, [[rodolfo-reyes]] pregunta a [[julio-martinez-sola]] sobre la forma de acceder a los resortes de financiación del Estado español.
+- **Canales de presión**: Martínez Sola detalla que ha lanzado dos vías de lobby:
+  - Conseguir que la vicepresidenta venezolana Delcy Rodríguez llame directamente al entonces ministro [[jose-luis-abalos-meco]].
+  - O activar influencias a través de Zapatero.
+- **Definiciones políticas de Zapatero**: En los mensajes intervenidos se define la posición del expresidente socialista: Martínez Sola afirma que "es pro Sánchez" y Rodolfo Reyes añade que "es pro Maduro", asumiendo Reyes la validez del lobismo al inquirir si "sirve pa algo ese señor".
+- **Lobismo y Ramón Gordils**: Rodolfo Reyes sondeó al representante Ramón Gordils sobre la idoneidad de solicitar auxilio de Zapatero como "lobby político" y grupo de presión para tramitar y agilizar la concesión de ayudas públicas.
+- **Frases de la trama**: Los implicados concluyen con máximas operativas como: "El fin justifica los medios" (por parte del presidente de la aerolínea) y "Crisis es oportunidad. Tenemos que encontrarla" (por parte del inversor venezolano).
 
 ## Referencias cruzadas
-- [[jose-luis-abalos-meco]]
+- [[caso-plus-ultra]]
+- [[plus-ultra-lineas-aereas]]
 - [[jose-luis-rodriguez-zapatero]]
-- [[caso-abalos]]
+- [[julio-martinez-sola]]
+- [[rodolfo-reyes]]
+- [[jose-luis-abalos-meco]]
+- [[audiencia-nacional]]
 
 ## Fuentes
 Fuente original: [[Las comunicaciones de la trama Zapatero es pro Sánchez y pro Maduro]]

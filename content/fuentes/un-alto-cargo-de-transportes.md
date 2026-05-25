@@ -1,5 +1,5 @@
 ---
-title: "Un alto cargo de Transportes: \"
+title: "Un alto cargo de Transportes Koldo dijo que eran 8 millones de mascarillas o nada; la decisión final era de Ábalos"
 source: "raw/Un alto cargo de Transportes Koldo dijo que eran 8 millones de mascarillas o nada; la decisión final era de Ábalos.md"
 updated: "2026-04-14"
 tags: [caso-koldo]

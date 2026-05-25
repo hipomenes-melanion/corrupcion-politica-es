@@ -1,5 +1,5 @@
 ---
-title: "La acusación popular pide 24 años de cárcel para Begoña G..."
+title: "La acusación popular pide 24 años de cárcel para Begoña Gómez y que Sánchez y Bolaños testifiquen en el juicio"
 source: "raw/La acusación popular pide 24 años de cárcel para Begoña Gómez y que Sánchez y Bolaños testifiquen en el juicio.md"
 updated: "2026-04-20"
 tags: [caso-koldo]

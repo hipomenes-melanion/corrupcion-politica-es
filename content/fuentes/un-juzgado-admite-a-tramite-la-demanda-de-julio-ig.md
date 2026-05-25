@@ -1,5 +1,5 @@
 ---
-title: "Un Juzgado admite a trámite la demanda de Julio Iglesias ..."
+title: "Un Juzgado admite a trámite la demanda de Julio Iglesias contra Yolanda Díaz por acusarle de abusos sexuales"
 source: "raw/Un Juzgado admite a trámite la demanda de Julio Iglesias contra Yolanda Díaz por acusarle de abusos sexuales.md"
 updated: "2026-04-08"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "La 'operación Leire' salpica a la presidenta del Tribunal..."
+title: "La 'operación Leire' salpica a la presidenta del Tribunal de Recursos Contractuales, colocada por Mª Jesús Montero"
 source: "raw/La 'operación Leire' salpica a la presidenta del Tribunal de Recursos Contractuales, colocada por Mª Jesús Montero.md"
 updated: "2026-02-05"
 tags: [caso-zapatero]

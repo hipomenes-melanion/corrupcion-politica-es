@@ -1,5 +1,5 @@
 ---
-title: "Óscar Puente se enfrenta a 3 años de prisión por sustitui..."
+title: "Óscar Puente se enfrenta a 3 años de prisión por sustituir sin permiso 42 metros de vía de Adamuz"
 source: "raw/Óscar Puente se enfrenta a 3 años de prisión por sustituir sin permiso 42 metros de vía de Adamuz.md"
 updated: "2026-03-27"
 tags: [caso-adamuz]

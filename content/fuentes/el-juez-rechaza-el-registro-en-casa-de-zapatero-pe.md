@@ -1,5 +1,5 @@
 ---
-title: "El juez rechaza el registro en casa de Zapatero pero le a..."
+title: "El juez rechaza el registro en casa de Zapatero pero le achaca un patrón que encaja en el blanqueo de capitales"
 source: "raw/El juez rechaza el registro en casa de Zapatero pero le achaca un patrón que encaja en el blanqueo de capitales.md"
 updated: "2026-05-19"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "Begoña Gómez usó una cuenta compartida con Pedro Sánchez ..."
+title: "Begoña Gómez usó una cuenta compartida con Pedro Sánchez para registrar el software de la Complutense"
 source: "raw/Begoña Gómez usó una cuenta compartida con Pedro Sánchez para registrar el software de la Complutense.md"
 updated: "2026-05-25"
 tags: [caso-zapatero]

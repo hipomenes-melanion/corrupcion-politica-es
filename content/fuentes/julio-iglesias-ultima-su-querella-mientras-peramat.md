@@ -1,5 +1,5 @@
 ---
-title: "Julio Iglesias ultima su querella mientras Peramato se ni..."
+title: "Julio Iglesias ultima su querella mientras Peramato se niega a entregar la investigación de Fiscalía"
 source: "raw/Julio Iglesias ultima su querella mientras Peramato se niega a entregar la investigación de Fiscalía.md"
 updated: "2026-02-25"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "Pumpido quiere regular el derecho de huelga desde el TC p..."
+title: "Pumpido quiere regular el derecho de huelga desde el TC para preparar las calles si Sánchez pierde el poder"
 source: "raw/Pumpido quiere regular el derecho de huelga desde el TC para preparar las calles si Sánchez pierde el poder.md"
 updated: "2026-03-11"
 tags: [caso-zapatero]

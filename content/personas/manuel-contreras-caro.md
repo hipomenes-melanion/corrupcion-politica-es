@@ -14,9 +14,12 @@ Presidente del Grupo Azvi, investigado en relación con las obras de renovación
   - [[caso-adamuz]]
   - [[caso-koldo]]
 
+- **Actualización [2026-04-21]**: Se desvela que Víctor de Aldama planea desmontar formalmente en su declaración de defensa ante el Tribunal Supremo los testimonios testificales prestados por varios empresarios de la trama, incluyendo a Manuel Contreras (Grupo Azvi). (Fuente: [[aldama-prepara-una]])
+
 ## Referencias cruzadas
 - [[azvi]]
 - [[adif]]
+- [[victor-de-aldama-delgado]]
 
 ## Fuentes
-- [[acciona-y-azvi-son-accionistas-de-la-filial-de-adi]]
+- [[resumen-causas-judiciales]]

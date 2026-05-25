@@ -1,25 +1,25 @@
 ---
-title: "Aldama guarda un \"
+title: "Aldama guarda un arsenal de pruebas incriminatorias contra Armengol"
 source: "raw/Aldama guarda un arsenal de pruebas incriminatorias contra Armengol.md"
 updated: "2026-05-11"
 tags: [caso-koldo]
 ---
 
 ## Resumen
-Fuentes del entorno de Aldama consultadas por Libertad Digital afirman que \
+El comisionista Víctor de Aldama atesora un "arsenal" de pruebas y comunicaciones que incriminan a la presidenta del Congreso de los Diputados, Francina Armengol, en relación con las adjudicaciones de material sanitario (3,7 millones de euros) a la empresa de la trama en las Islas Baleares cuando era presidenta autonómica. La defensa de Aldama, José Antonio Choclán, advierte de su próxima imputación, mientras el entorno del comisionista condiciona su futura colaboración al fallo del Supremo sobre su prisión provisional.
 
 ## Detalles clave
-- "Aldama tiene el objetivo de seguir el camino de colaboración con la justicia que emprendió en noviembre de 2024. De hecho, el próximo jueves está citado en la Audiencia Nacional para declarar sobre la venta de material sanitario a las Islas Baleares cuando Armengol era presidenta de las Islas", ...
-- Tal y como avanzó [**este diario**](https://www.libertaddigital.com/espana/2026-05-06/el-ingreso-en-prision-de-aldama-dinamitaria-la-investigacion-de-hasta-5-causas-judiciales-que-salpican-a-sanchez-1b-7399340/), el posible ingreso en prisión del empresario [**Víctor de Aldama**](https://www.libe...
-- El juez Moreno también investiga otros dos casos en los que Aldama es fundamental. Por un lado, la pieza sobre **el pago de comisiones ilegales a cambio de adjudicación de obra pública** en la que está imputado el ex secretario de Organización del PSOE [**Santos Cerdán**](https://www.libertaddigi...
+- La UCO ha documentado y acreditado hasta 65 mensajes de WhatsApp y contactos directos entre Francina Armengol y Koldo García entre 2020 y siguientes para facilitar el acceso de la trama a contratos de material sanitario en Baleares.
+- La colaboración de Víctor de Aldama es considerada imprescindible por los investigadores para esclarecer hasta 5 causas penales activas (el caso Koldo, el caso Mascarillas, las comisiones de Santos Cerdán por obra pública, los 250 millones de PDVSA de Zapatero y el caso Begoña Gómez).
+- Si el Tribunal Supremo dictamina el ingreso en prisión del empresario sin aplicarle atenuantes muy cualificadas de colaboración, se dinamitaría la investigación de todas las tramas de corrupción que salpican al PSOE y al Gobierno de Pedro Sánchez.
 
 ## Referencias cruzadas
-- [[koldo-garcia-izaguirre]]
+- [[francina-armengol]]
 - [[victor-de-aldama-delgado]]
-- [[jose-luis-abalos-meco]]
-- [[jose-luis-rodriguez-zapatero]]
+- [[koldo-garcia-izaguirre]]
+- [[jose-antonio-choclan]]
 - [[santos-cerdan-leon]]
-- [[maria-begona-gomez-fernandez]]
+- [[pedro-sanchez-perez-castejon]]
 - [[caso-koldo]]
 
 ## Fuentes

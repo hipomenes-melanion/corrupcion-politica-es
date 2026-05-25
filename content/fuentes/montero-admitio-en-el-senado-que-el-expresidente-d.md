@@ -1,5 +1,5 @@
 ---
-title: "Montero admitió en el Senado que el expresidente de Sepi ..."
+title: "Montero admitió en el Senado que el expresidente de Sepi es investigado desde 2021 el año que compartieron vacaciones"
 source: "raw/Montero admitió en el Senado que el expresidente de Sepi es investigado desde 2021 el año que compartieron vacaciones.md"
 updated: "2026-05-19"
 tags: [caso-zapatero]

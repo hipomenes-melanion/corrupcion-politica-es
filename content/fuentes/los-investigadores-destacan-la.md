@@ -1,21 +1,28 @@
 ---
-title: "Los investigadores destacan la \"
+title: "Los investigadores destacan la influencia determinante de Zapatero y Delcy Rodríguez en la compraventa de petróleo"
 source: "raw/Los investigadores destacan la influencia determinante de Zapatero y Delcy Rodríguez en la compraventa de petróleo.md"
 updated: "2026-05-19"
-tags: [caso-zapatero]
+tags: [caso-plus-ultra]
 ---
 
 ## Resumen
-Zapatero "dispone de acceso directo a personas situadas en los más altos niveles de responsabilidad política".
+Información periodística sobre el auto dictado por el titular del Juzgado Central de Instrucción número 4 de la Audiencia Nacional. El documento judicial destaca la "influencia determinante" de [[jose-luis-rodriguez-zapatero]] y la vicepresidenta venezolana [[delcy-rodriguez]] ("La Dama") en la adjudicación de cupos y barcos de crudo de la petrolera estatal PDVSA.
 
 ## Detalles clave
-- El titular del Juzgado Central de Instrucción número 4 de la [**Audiencia Nacional**](https://www.libertaddigital.com/organismos/audiencia-nacional/) ha tomado la decisión de imputar al expresidente del Gobierno en el caso Plus Ultra por delitos de organización criminal, tráfico de influencias y ...
-- "Ello evidencia el modo de proceder y pone de manifiesto la **participación e influencia determinante de José Luis Rodríguez Zapatero**, quien dispone de acceso directo a personas situadas en los más altos niveles de responsabilidad política", señala el auto.![](https://s1.staticld.com/2026/05/08...
-- Además, en esos mismos mensajes aparece una carta de intenciones enviada por China International Cultural Technology Resources Group CO LTD a la oficina del expresidente Zapatero, en concreto a la atención de **José Luis Rodríguez Zapatero, con fecha de 30.10.2023**.
+- **Acceso político excepcional**: El auto acredita que Zapatero "dispone de acceso directo a personas situadas en los más altos niveles de responsabilidad política", actuando como canal obligatorio para los compradores de petróleo, quienes debían dirigirle una Carta de Intenciones (LOI) preprocesal.
+- **Asignación de buques**: Se interceptaron mensajes en el teléfono del empresario y testaferro [[julio-martinez-martinez]] en los que se identifica a la vicepresidenta Delcy Rodríguez bajo el alias de *La Dama*, como la persona que controlaba formalmente la asignación de buques cisternas.
+- **Implicación de China**: Los mensajes muestran que la trama negociaba con *China International Cultural Technology Resources Group CO LTD* —sociedad "que depende del Partido Comunista Chino"—, la cual remitió una LOI a la oficina de Zapatero el 30 de octubre de 2023, demostrando que la red transciende las meras transacciones comerciales para incidir en geopolítica interestatal.
+- **Inteligencia Prospectiva**: El auto señala a Domingo Arnaldo Amaro Chacón y Guillermo Alfredo Amaro Chacón como administradores de esta sociedad mercantil registrada. Su actividad comercial y diplomática en Venezuela excede las funciones empresariales comunes y roza los asuntos de Estado a primer nivel.
+- ** Swissoil Trading SA**: Conversaciones del 23 de enero de 2024 muestran a Domingo Amaro coordinando con Julio Martínez que Philippe Apikian (presidente de Swissoil Trading SA) y "los chinos" estaban listos para comprar barcos petroleros y viajar a reunirse con "La Dama" y el ministro de Petróleo de Venezuela.
 
 ## Referencias cruzadas
+- [[caso-plus-ultra]]
+- [[plus-ultra-lineas-aereas]]
 - [[jose-luis-rodriguez-zapatero]]
-- [[caso-zapatero]]
+- [[delcy-rodriguez]]
+- [[julio-martinez-martinez]]
+- [[las-comunicaciones-de-la-trama-zapatero-es]]
+- [[audiencia-nacional]]
 
 ## Fuentes
 Fuente original: [[Los investigadores destacan la influencia determinante de Zapatero y Delcy Rodríguez en la compraventa de petróleo]]

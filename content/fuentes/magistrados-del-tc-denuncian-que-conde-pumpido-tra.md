@@ -1,5 +1,5 @@
 ---
-title: "Magistrados del TC denuncian que Conde-Pumpido tramitó el..."
+title: "Magistrados del TC denuncian que Conde-Pumpido tramitó el recurso del fiscal anti-PP cuando debía abstenerse"
 source: "raw/Magistrados del TC denuncian que Conde-Pumpido tramitó el recurso del fiscal anti-PP cuando debía abstenerse.md"
 updated: "2026-01-15"
 tags: [caso-zapatero]

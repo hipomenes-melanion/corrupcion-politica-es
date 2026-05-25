@@ -1,5 +1,5 @@
 ---
-title: "Denuncian a Chicano por prevaricación y coacciones tras o..."
+title: "Denuncian a Chicano por prevaricación y coacciones tras ocultar las irregularidades en los contratos de Barrabés"
 source: "raw/Denuncian a Chicano por prevaricación y coacciones tras ocultar las irregularidades en los contratos de Barrabés.md"
 updated: "2026-03-10"
 tags: [caso-koldo]

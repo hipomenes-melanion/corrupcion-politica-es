@@ -1,5 +1,5 @@
 ---
-title: "Varapalo para la Fiscalía: la Audiencia Nacional admite a..."
+title: "Varapalo para la Fiscalía la Audiencia Nacional admite a trámite el recurso de Julio Iglesias"
 source: "raw/Varapalo para la Fiscalía la Audiencia Nacional admite a trámite el recurso de Julio Iglesias.md"
 updated: "2026-03-05"
 tags: [caso-zapatero]

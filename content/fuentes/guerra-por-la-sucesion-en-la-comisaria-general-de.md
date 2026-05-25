@@ -1,5 +1,5 @@
 ---
-title: "Guerra por la sucesión en la Comisaría General de Policía..."
+title: "Guerra por la sucesión en la Comisaría General de Policía Judicial que controla la investigación de Plus Ultra"
 source: "raw/Guerra por la sucesión en la Comisaría General de Policía Judicial que controla la investigación de Plus Ultra.md"
 updated: "2026-02-02"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "Entrevista exclusiva al testigo que pilló a Montero con e..."
+title: "Entrevista exclusiva al testigo que pilló a Montero con el expresidente de la Sepi Compartían habitación"
 source: "raw/Entrevista exclusiva al testigo que pilló a Montero con el expresidente de la Sepi Compartían habitación.md"
 updated: "2026-05-14"
 tags: [caso-koldo]

@@ -1,5 +1,5 @@
 ---
-title: "Aldama desquicia a Sánchez: Peramato ordena a Luzón que n..."
+title: "Aldama desquicia a Sánchez Peramato ordena a Luzón que no pida rebajar su pena de cárcel"
 source: "raw/Aldama desquicia a Sánchez Peramato ordena a Luzón que no pida rebajar su pena de cárcel.md"
 updated: "2026-05-04"
 tags: [caso-koldo]

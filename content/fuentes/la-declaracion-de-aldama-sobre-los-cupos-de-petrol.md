@@ -1,5 +1,5 @@
 ---
-title: "La declaración de Aldama sobre los cupos de petróleo de 2..."
+title: "La declaración de Aldama sobre los cupos de petróleo de 250 millones de dólares de PDVSA es una bomba para Moncloa"
 source: "raw/La declaración de Aldama sobre los cupos de petróleo de 250 millones de dólares de PDVSA es una bomba para Moncloa.md"
 updated: "2026-03-19"
 tags: [caso-koldo]

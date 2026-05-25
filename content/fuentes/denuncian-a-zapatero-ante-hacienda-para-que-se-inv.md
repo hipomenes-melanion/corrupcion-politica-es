@@ -1,5 +1,5 @@
 ---
-title: "Denuncian a Zapatero ante Hacienda para que se investigue..."
+title: "Denuncian a Zapatero ante Hacienda para que se investiguen sus ingresos opacos de Venezuela"
 source: "raw/Denuncian a Zapatero ante Hacienda para que se investiguen sus ingresos opacos de Venezuela.md"
 updated: "2026-03-30"
 tags: [caso-koldo]

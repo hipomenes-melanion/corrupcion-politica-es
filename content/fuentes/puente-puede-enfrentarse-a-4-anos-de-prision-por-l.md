@@ -1,5 +1,5 @@
 ---
-title: "Puente puede enfrentarse a 4 años de prisión por la trage..."
+title: "Puente puede enfrentarse a 4 años de prisión por la tragedia de Adamuz"
 source: "raw/Puente puede enfrentarse a 4 años de prisión por la tragedia de Adamuz.md"
 updated: "2026-01-22"
 tags: [caso-adamuz]

@@ -1,5 +1,5 @@
 ---
-title: "La Fiscalía solicita remitir la investigación del caso Fo..."
+title: "La Fiscalía solicita remitir la investigación del caso Forestalia al juez Pedraz de la Audiencia Nacional"
 source: "raw/La Fiscalía solicita remitir la investigación del caso Forestalia al juez Pedraz de la Audiencia Nacional.md"
 updated: "2026-04-11"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "La 'amnesia' de Santos Cerdán sobre las cloacas del PSOE ..."
+title: "La 'amnesia' de Santos Cerdán sobre las cloacas del PSOE ante el juez repitió 17 veces no lo recuerdo"
 source: "raw/La 'amnesia' de Santos Cerdán sobre las cloacas del PSOE ante el juez repitió 17 veces no lo recuerdo.md"
 updated: "2026-02-02"
 tags: [caso-koldo]

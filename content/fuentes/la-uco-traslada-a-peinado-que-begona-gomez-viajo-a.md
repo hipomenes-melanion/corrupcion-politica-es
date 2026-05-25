@@ -1,5 +1,5 @@
 ---
-title: "La UCO traslada a Peinado que Begoña Gómez viajó a Domini..."
+title: "La UCO traslada a Peinado que Begoña Gómez viajó a Dominicana en aviones de Air Europa"
 source: "raw/La UCO traslada a Peinado que Begoña Gómez viajó a Dominicana en aviones de Air Europa.md"
 updated: "2026-03-05"
 tags: [caso-zapatero]

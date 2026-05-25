@@ -1,5 +1,5 @@
 ---
-title: "La cúpula sanchista de la Policía paraliza la investigaci..."
+title: "La cúpula sanchista de la Policía paraliza la investigación del chivatazo denunciado Plus Ultra"
 source: "raw/La cúpula sanchista de la Policía paraliza la investigación del chivatazo denunciado Plus Ultra.md"
 updated: "2026-02-01"
 tags: [caso-zapatero]

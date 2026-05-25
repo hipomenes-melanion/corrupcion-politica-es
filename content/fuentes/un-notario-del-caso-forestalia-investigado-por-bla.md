@@ -1,5 +1,5 @@
 ---
-title: "Un notario del caso Forestalia investigado por blanqueo d..."
+title: "Un notario del caso Forestalia investigado por blanqueo de capitales escondió contratos de la trama en una caja fuerte"
 source: "raw/Un notario del caso Forestalia investigado por blanqueo de capitales escondió contratos de la trama en una caja fuerte.md"
 updated: "2026-03-22"
 tags: [caso-zapatero]

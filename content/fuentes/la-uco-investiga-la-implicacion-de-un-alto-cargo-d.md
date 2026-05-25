@@ -1,5 +1,5 @@
 ---
-title: "La UCO investiga la implicación de un alto cargo de María..."
+title: "La UCO investiga la implicación de un alto cargo de María Jesús Montero en el caso Begoña"
 source: "raw/La UCO investiga la implicación de un alto cargo de María Jesús Montero en el caso Begoña.md"
 updated: "2026-02-18"
 tags: [caso-zapatero]

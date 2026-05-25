@@ -1,5 +1,5 @@
 ---
-title: "El juez acepta incluir en la causa los informes psicológi..."
+title: "El juez acepta incluir en la causa los informes psicológicos de la víctima del ex-DAO"
 source: "raw/El juez acepta incluir en la causa los informes psicológicos de la víctima del ex-DAO.md"
 updated: "2026-04-09"
 tags: [caso-zapatero]

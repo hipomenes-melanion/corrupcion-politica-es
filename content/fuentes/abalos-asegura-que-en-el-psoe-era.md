@@ -1,5 +1,5 @@
 ---
-title: "Abalos asegura que en el PSOE era \"
+title: "Abalos asegura que en el PSOE era tradición pagar siempre los gastos en efectivo"
 source: "raw/Abalos asegura que en el PSOE era tradición pagar siempre los gastos en efectivo.md"
 updated: "2026-05-04"
 tags: [caso-koldo]

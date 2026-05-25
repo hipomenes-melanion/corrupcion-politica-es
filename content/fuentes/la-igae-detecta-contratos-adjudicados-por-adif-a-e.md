@@ -1,5 +1,5 @@
 ---
-title: "La IGAE detecta contratos adjudicados por Adif a empresas..."
+title: "La IGAE detecta contratos adjudicados por Adif a empresas de la trama Koldo con casi un 20% de sobrecoste"
 source: "raw/La IGAE detecta contratos adjudicados por Adif a empresas de la trama Koldo con casi un 20% de sobrecoste.md"
 updated: "2026-03-11"
 tags: [caso-koldo]

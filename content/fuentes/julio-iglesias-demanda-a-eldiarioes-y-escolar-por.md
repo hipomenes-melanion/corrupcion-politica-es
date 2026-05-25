@@ -1,22 +1,27 @@
 ---
-title: "Julio Iglesias demanda a eldiario.es y Escolar por su \"
+title: "Julio Iglesias demanda a eldiario.es y Escolar por su campaña de desprestigio y linchamiento mediático"
 source: "raw/Julio Iglesias demanda a eldiario.es y Escolar por su campaña de desprestigio y linchamiento mediático.md"
 updated: "2026-03-02"
-tags: [caso-zapatero]
+tags: [caso-accion-penal-julio-iglesias]
 ---
 
 ## Resumen
-Acusaron al cantante de cometer vejaciones contra sus trabajadoras en connivencia con la demanda: \
+El cantante Julio Iglesias, a través de su abogado José Antonio Choclán, interpone una demanda de conciliación previa a la querella contra el diario digital *eldiario.es*, su director Ignacio Escolar y varias de sus redactoras. La defensa califica de "linchamiento mediático" y "montaje periodístico" con ánimo de lucro la cobertura por fascículos acerca de supuestos abusos a exempleadas. En paralelo, se detalla la demanda de conciliación contra la vicepresidenta Yolanda Díaz por calumnias públicas y acusaciones de esclavitud vertidas en redes sociales y televisión.
 
 ## Detalles clave
-- MADRID, 16/05/2024.- El presidente del Gobierno, Pedro Sánchez (2i) conversa con ignacio Escolar (2d), director del periódico digital elDiario.es, a su llegada a la inauguración de la la cuarta edición del foro 'Fondos Europeos: Innovación para un crecimiento sostenible', organizada por elDiario....
-- El citado diario digital comenzó a publicar información acerca de **supuestos abusos cometidos por la estrella internacional** a dos de sus exempleadas. Algo que se cristalizó mediante una denuncia presentada en la Fiscalía de la [**Audiencia Nacional**](https://www.libertaddigital.com/organismos...
-- puntual, sino que se insertan en **una auténtica campaña de desprestigio y linchamiento mediático**, materializada a través de distintas vías concertadas y mediante la publicación sistemática de contenido en días sucesivos en los que se va intensificando el daño causado".
+- **Demanda contra eldiario.es**: La defensa de Iglesias acusa al medio de participar activamente en la redacción de la denuncia original ante la Fiscalía de la Audiencia Nacional (causa que fue archivada por falta de competencia).
+- **Ánimo de Lucro**: El escrito describe un "montaje" comercial, señalando que el medio utilizaba los capítulos difamatorios ("Investigación Julio Iglesias") para pedir fondos, suscripciones e inversiones a su comunidad de lectores.
+- **Periodistas Demandados**: La acción civil e inminente querella penal se dirige contra el director **Ignacio Escolar**, la jefa de género **Ana Requena**, la subdirectora **María Ramírez**, la jefa de cultura **Elena Cabrera** y la sociedad mercantil dueña del periódico.
+- **Pretensiones del Cantante**: Iglesias exige una rectificación pública de las informaciones, un compromiso formal de no volver a difamarlo, la retirada de las publicaciones lesivas del servidor y una indemnización de cuantía elevada.
+- **Acción Civil contra Yolanda Díaz**: Se detalla un acto de conciliación previo por injurias y calumnias contra la ministra Yolanda Díaz tras sus declaraciones públicas (en la red Bluesky y en TVE con Silvia Intxaurrondo) donde le tildaba de "abusador sexual" y afirmaba que sometía a sus empleadas a una "situación de esclavitud".
 
 ## Referencias cruzadas
-- [[jose-luis-rodriguez-zapatero]]
+- [[julio-iglesias]]
+- [[ignacio-escolar]]
+- [[jose-antonio-choclan]]
 - [[yolanda-diaz-perez]]
-- [[caso-zapatero]]
+- [[caso-accion-penal-julio-iglesias]]
+- [[audiencia-nacional]]
 
 ## Fuentes
 Fuente original: [[Julio Iglesias demanda a eldiario.es y Escolar por su campaña de desprestigio y linchamiento mediático]]

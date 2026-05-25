@@ -1,5 +1,5 @@
 ---
-title: "La UCO sospecha que Leire Díez era testaferro de Cerdán p..."
+title: "La UCO sospecha que Leire Díez era testaferro de Cerdán porque cobraba menos que Antxon Alonso y Vicente Fernández"
 source: "raw/La UCO sospecha que Leire Díez era testaferro de Cerdán porque cobraba menos que Antxon Alonso y Vicente Fernández.md"
 updated: "2026-03-26"
 tags: [caso-zapatero]

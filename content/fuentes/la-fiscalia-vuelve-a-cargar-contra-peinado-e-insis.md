@@ -1,5 +1,5 @@
 ---
-title: "La Fiscalía vuelve a cargar contra Peinado e insiste en l..."
+title: "La Fiscalía vuelve a cargar contra Peinado e insiste en la inocencia de Begoña Gómez"
 source: "raw/La Fiscalía vuelve a cargar contra Peinado e insiste en la inocencia de Begoña Gómez.md"
 updated: "2026-05-02"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "El Tribunal de Cuentas oculta graves irregularidades dete..."
+title: "El Tribunal de Cuentas oculta graves irregularidades detectadas en contratos de Barrabés para proteger a Begoña Gómez"
 source: "raw/El Tribunal de Cuentas oculta graves irregularidades detectadas en contratos de Barrabés para proteger a Begoña Gómez.md"
 updated: "2026-03-09"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "El juez Piña denuncia que el escrito del PSOE que pide im..."
+title: "El juez Piña denuncia que el escrito del PSOE que pide imputar a Cospedal es injurioso para el instructor y el fiscal"
 source: "raw/El juez Piña denuncia que el escrito del PSOE que pide imputar a Cospedal es injurioso para el instructor y el fiscal.md"
 updated: "2026-01-26"
 tags: [caso-zapatero]

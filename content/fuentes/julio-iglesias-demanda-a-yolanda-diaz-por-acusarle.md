@@ -1,5 +1,5 @@
 ---
-title: "Julio Iglesias demanda a Yolanda Díaz por acusarle de ser..."
+title: "Julio Iglesias demanda a Yolanda Díaz por acusarle de ser un abusador sexual"
 source: "raw/Julio Iglesias demanda a Yolanda Díaz por acusarle de ser un abusador sexual.md"
 updated: "2026-02-24"
 tags: [caso-zapatero]

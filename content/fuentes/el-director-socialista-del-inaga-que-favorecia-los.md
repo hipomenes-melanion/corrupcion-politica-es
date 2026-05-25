@@ -1,5 +1,5 @@
 ---
-title: "El director socialista del INAGA que favorecía los proyec..."
+title: "El director socialista del INAGA que favorecía los proyectos de Forestalia alardeaba de ser un hombre de partido"
 source: "raw/El director socialista del INAGA que favorecía los proyectos de Forestalia alardeaba de ser un hombre de partido.md"
 updated: "2026-04-23"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "González Amador pide a Peramato que García Ortiz cumpla s..."
+title: "González Amador pide a Peramato que García Ortiz cumpla sentencia, sea inhabilitado y pague su indemnización"
 source: "raw/González Amador pide a Peramato que García Ortiz cumpla sentencia, sea inhabilitado y pague su indemnización.md"
 updated: "2026-01-26"
 tags: [caso-zapatero]

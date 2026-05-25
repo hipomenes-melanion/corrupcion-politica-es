@@ -14,7 +14,7 @@ Fiscal General del Estado, investigado y sentenciado en primera instancia por pr
   - [[caso-fiscal-general-del-estado]]
 
 
-- **Actualización [2026-01-06]**: Fuentes jurídicas consultadas por LD afirman que \ (Fuente: [[la-causa-de-garcia-ortiz-es-el]])
+- **Actualización [2026-01-06]**: Se desvela que su causa penal por revelación de secretos actúa como un "banco de pruebas" del Ejecutivo para desacreditar la Sala de lo Penal del Tribunal Supremo mediante acusaciones de "lawfare". Moncloa planifica concederle un indulto parcial (reduciendo su inhabilitación a menos de 6 meses) para salvar su plaza en la Carrera Fiscal si Cándido Conde-Pumpido no logra anular la condena en el Tribunal Constitucional. (Fuente: [[la-causa-de-garcia-ortiz-es-el]])
 
 
 - **Actualización [2026-01-08]**: Fuentes jurídicas consultadas por Libertad Digital afirman que \ (Fuente: [[la-renuncia-del-abogado-de-abalos-pone-en-peligro]])

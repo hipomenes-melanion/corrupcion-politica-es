@@ -1,5 +1,5 @@
 ---
-title: "La IGAE detecta que la obra del Puente del Centenario de ..."
+title: "La IGAE detecta que la obra del Puente del Centenario de Sevilla aumentó en 5 millones de euros en favor de Acciona"
 source: "raw/La IGAE detecta que la obra del Puente del Centenario de Sevilla aumentó en 5 millones de euros en favor de Acciona.md"
 updated: "2026-03-12"
 tags: [caso-koldo]

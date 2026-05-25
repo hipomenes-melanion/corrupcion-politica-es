@@ -29,7 +29,7 @@ Exasesor del Ministerio de Transportes, Movilidad y Agenda Urbana, investigado c
 - **Actualización [2026-01-08]**: Fuentes jurídicas consultadas por Libertad Digital afirman que \ (Fuente: [[la-renuncia-del-abogado-de-abalos-pone-en-peligro]])
 
 
-- **Actualización [2026-01-09]**: También pide la declaración de Marlaska, Armengol, Isabel Pardo de Vera, Javier Hidalgo y otros 70 testigos, además de la imputación de Jéssica. (Fuente: [[la-defensa-de-koldo-llama]])
+- **Actualización [2026-01-09]**: Su defensa presenta un escrito de descargo de 134 páginas ante el Tribunal Supremo, llamando "ornitorrinco procesal" a Víctor de Aldama por actuar como colaborador-acusador, planteando diez motivos de nulidad por indefensión y solicitando la imputación de Jéssica Rodríguez, Claudia Montes y Air Europa. Además, propone una lista de 75 testigos, citando de forma destacada al exministro Salvador Illa, a Fernando Grande-Marlaska y a Francina Armengol. (Fuente: [[la-defensa-de-koldo-llama]])
 
 
 - **Actualización [2026-01-09]**: El exsecretario de Organización del PSOE declara tan solo cuatro días antes en el caso cloacas: podría entrar como testigo y salir como imputado. (Fuente: [[santos-cerdan-imputado-por-mentir-en-el-senado]])

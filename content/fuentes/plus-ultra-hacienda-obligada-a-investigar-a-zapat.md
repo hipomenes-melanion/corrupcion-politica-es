@@ -1,5 +1,5 @@
 ---
-title: "Plus Ultra: Hacienda obligada a investigar a Zapatero por..."
+title: "Plus Ultra Hacienda obligada a investigar a Zapatero por delito fiscal tras confesar viajes de avión pagados por PDVSA"
 source: "raw/Plus Ultra Hacienda obligada a investigar a Zapatero por delito fiscal tras confesar viajes de avión pagados por PDVSA.md"
 updated: "2026-03-04"
 tags: [caso-koldo]

@@ -1,5 +1,5 @@
 ---
-title: "La UCO ultima los informes sobre Armengol y el patrimonio..."
+title: "La UCO ultima los informes sobre Armengol y el patrimonio de Santos Cerdán"
 source: "raw/La UCO ultima los informes sobre Armengol y el patrimonio de Santos Cerdán.md"
 updated: "2026-03-23"
 tags: [caso-koldo]

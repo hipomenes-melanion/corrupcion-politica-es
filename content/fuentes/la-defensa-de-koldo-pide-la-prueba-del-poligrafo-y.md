@@ -1,5 +1,5 @@
 ---
-title: "La defensa de Koldo pide la prueba del polígrafo y un car..."
+title: "La defensa de Koldo pide la prueba del polígrafo y un careo con Aldama"
 source: "raw/La defensa de Koldo pide la prueba del polígrafo y un careo con Aldama.md"
 updated: "2026-02-12"
 tags: [caso-adamuz]

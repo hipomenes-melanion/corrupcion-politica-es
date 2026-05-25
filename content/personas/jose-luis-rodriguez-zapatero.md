@@ -581,7 +581,7 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - **Actualización [2026-05-19]**: LD publicó una entrevista a un testigo que denunció ante la Guardia Civil que Montero hizo \ (Fuente: [[montero-admitio-en-el-senado-que-el-expresidente-d]])
 
 
-- **Actualización [2026-05-19]**: Un auto al que ha tenido acceso LD desvela una conversación entre un accionista venezolano el CEO de Plus Ultra: \ (Fuente: [[zapatero-utilizo-a-su]])
+- **Actualización [2026-05-19]**: El juez Calama desvela que la trama Plus Ultra se refería a Julio Martínez Martínez como el "lacayo" de Zapatero, utilizándole a él y a su boutique financiera ("finance boutique") para canalizar comisiones ilegales ("mordidas") de la aerolínea a cambio de su lobby político en favor del rescate estatal. (Fuente: [[zapatero-utilizo-a-su]])
 
 
 - **Actualización [2026-05-19]**: Zapatero declarará como investigado el 2 de junio ante el titular del juzgado central de instrucción n. 4 de la Audiencia Nacional, José Luis Calama. (Fuente: [[zapatero-imputado-por-organizacion-criminal-traf]])
@@ -632,10 +632,13 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - **Actualización [2026-05-25]**: Así consta en el acta de entrada y registro del despacho de Zapatero, al que ha tenido acceso Libertad Digital. (Fuente: [[la-udef-intervino-un-botin-de-joyas-relojes-y-p]])
 
 
-- **Actualización [2026-05-25]**: \ (Fuente: [[piden-que-se-investigue-a-la-fiscal]])
+- **Actualización [2026-05-25]**: El partido Iustitia Europa presenta una denuncia penal ante la Fiscalía Superior de la Comunidad de Madrid para esclarecer si la trama del Caso Plus Ultra influyó en el Ministerio Fiscal, tras revelarse mensajes del abogado Miguel Palomero que afirmaba que "la fiscal jefa es amiga" y planteaba crear un "Kitchen Cabinet" para frenar las pesquisas contra el expresidente. (Fuente: [[piden-que-se-investigue-a-la-fiscal]])
 
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[iustitia-europa]]
+- [[miguel-palomero]]
+- [[piden-que-se-investigue-a-la-fiscal]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[piden-que-se-investigue-a-la-fiscal]]

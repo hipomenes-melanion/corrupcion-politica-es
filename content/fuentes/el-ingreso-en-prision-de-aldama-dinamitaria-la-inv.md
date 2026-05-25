@@ -1,5 +1,5 @@
 ---
-title: "El ingreso en prisión de Aldama dinamitaría la investigac..."
+title: "El ingreso en prisión de Aldama dinamitaría la investigación de hasta 5 causas judiciales que salpican a Sánchez"
 source: "raw/El ingreso en prisión de Aldama dinamitaría la investigación de hasta 5 causas judiciales que salpican a Sánchez.md"
 updated: "2026-05-06"
 tags: [caso-koldo]

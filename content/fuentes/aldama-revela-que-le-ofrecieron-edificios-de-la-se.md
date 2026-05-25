@@ -1,5 +1,5 @@
 ---
-title: "Aldama revela que le ofrecieron edificios de la SEPI que ..."
+title: "Aldama revela que le ofrecieron edificios de la SEPI que se quedó Begoña Gómez para hacer negocios con el IE"
 source: "raw/Aldama revela que le ofrecieron edificios de la SEPI que se quedó Begoña Gómez para hacer negocios con el IE.md"
 updated: "2026-04-29"
 tags: [caso-koldo]

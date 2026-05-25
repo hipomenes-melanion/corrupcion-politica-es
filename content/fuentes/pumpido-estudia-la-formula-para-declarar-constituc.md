@@ -1,5 +1,5 @@
 ---
-title: "Pumpido estudia la fórmula para declarar constitucional q..."
+title: "Pumpido estudia la fórmula para declarar constitucional que Sánchez gobierne sin presentar nuevos Presupuestos"
 source: "raw/Pumpido estudia la fórmula para declarar constitucional que Sánchez gobierne sin presentar nuevos Presupuestos.md"
 updated: "2026-03-05"
 tags: [caso-zapatero]

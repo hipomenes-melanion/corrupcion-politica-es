@@ -1,5 +1,5 @@
 ---
-title: "Javier Hidalgo señala a Calviño y Montero por el rescate ..."
+title: "Javier Hidalgo señala a Calviño y Montero por el rescate a Air Europa Quien más intervino fue Economía y la SEPI"
 source: "raw/Javier Hidalgo señala a Calviño y Montero por el rescate a Air Europa Quien más intervino fue Economía y la SEPI.md"
 updated: "2026-04-21"
 tags: [caso-koldo]

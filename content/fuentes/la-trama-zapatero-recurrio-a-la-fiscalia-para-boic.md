@@ -1,5 +1,5 @@
 ---
-title: "La trama Zapatero recurrió a la Fiscalía para boicotear l..."
+title: "La trama Zapatero recurrió a la Fiscalía para boicotear la investigación La fiscal jefa es amiga"
 source: "raw/La trama Zapatero recurrió a la Fiscalía para boicotear la investigación La fiscal jefa es amiga.md"
 updated: "2026-05-23"
 tags: [caso-zapatero]

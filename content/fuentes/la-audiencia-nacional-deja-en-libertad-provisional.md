@@ -1,5 +1,5 @@
 ---
-title: "La Audiencia Nacional deja en libertad provisional a un i..."
+title: "La Audiencia Nacional deja en libertad provisional a un imputado por narcotráfico por vulnerar su derecho de defensa"
 source: "raw/La Audiencia Nacional deja en libertad provisional a un imputado por narcotráfico por vulnerar su derecho de defensa.md"
 updated: "2026-03-15"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "Pardo de Vera ataca a la IGAE por señalar las irregularid..."
+title: "Pardo de Vera ataca a la IGAE por señalar las irregularidades en las obras de la trama Koldo"
 source: "raw/Pardo de Vera ataca a la IGAE por señalar las irregularidades en las obras de la trama Koldo.md"
 updated: "2026-04-14"
 tags: [caso-koldo]

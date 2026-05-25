@@ -1,5 +1,5 @@
 ---
-title: "El juez Calama investiga el pago de 1,2 millones a Zapate..."
+title: "El juez Calama investiga el pago de 1,2 millones a Zapatero a través de un 'think tank' relacionado con China"
 source: "raw/El juez Calama investiga el pago de 1,2 millones a Zapatero a través de un 'think tank' relacionado con China.md"
 updated: "2026-05-21"
 tags: [caso-koldo]

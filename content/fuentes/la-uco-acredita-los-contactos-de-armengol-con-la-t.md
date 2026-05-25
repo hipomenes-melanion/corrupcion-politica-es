@@ -1,5 +1,5 @@
 ---
-title: "La UCO acredita los contactos de Armengol con la trama Ko..."
+title: "La UCO acredita los contactos de Armengol con la trama Koldo ¿Sabes si alguien vende mascarillas infantiles"
 source: "raw/La UCO acredita los contactos de Armengol con la trama Koldo ¿Sabes si alguien vende mascarillas infantiles.md"
 updated: "2026-04-16"
 tags: [caso-koldo]

@@ -1,24 +1,25 @@
 ---
-title: "Aldama prepara una \"
+title: "Aldama prepara una declaración demoledora contra el Gobierno de Sánchez en el juicio de la trama Koldo"
 source: "raw/Aldama prepara una declaración demoledora contra el Gobierno de Sánchez en el juicio de la trama Koldo.md"
 updated: "2026-04-21"
 tags: [caso-koldo]
 ---
 
 ## Resumen
-Fuentes del entorno de Aldama consultadas por LD afirman que \
+El empresario Víctor de Aldama prepara una comparecencia en el Tribunal Supremo, asistido por su abogado José Antonio Choclán, diseñada para detallar cómo la organización criminal de la trama Koldo estaba plenamente integrada dentro del propio Gobierno de Pedro Sánchez. La comparecencia coincide con las maniobras de la fiscal Teresa Peramato para boicotear su acuerdo de colaboración con la Fiscalía Anticorrupción liderada por Alejandro Luzón.
 
 ## Detalles clave
-- El Tribunal Supremo está celebrando este mes de abril el primer juicio sobre la trama corrupta. Durante la audiencia previa que tuvo lugar a mediados de febrero, el fiscal jefe anticorrupción [**Alejandro Luzón**](https://www.libertaddigital.com/personajes/alejandro-luzon/) dejaba abierta la puer...
-- <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://tv.libertaddigital.com/videos/embed/1-23-GZUemgZM.html"></iframe>
-- Fuentes del entorno de Aldama consultadas por **Libertad Digital** afirman que "Víctor de Aldama prepara una declaración demoledora junto a su abogado **José Antonio Choclán** para los intereses del Ejecutivo socialista de Pedro Sánchez. La comparecencia prevista para la próxima semana podría ext...
+- En la audiencia previa, el fiscal jefe anticorrupción Alejandro Luzón solicitó 7 años de prisión para Víctor de Aldama apreciando atenuante por colaboración, frente a los 24 y 19.5 años requeridos para José Luis Ábalos y Koldo García.
+- El entorno de Aldama revela que su comparecencia servirá para ensamblar todos los cabos sueltos, demostrando que la red operaba desde el núcleo gubernamental y desmontando testimonios de Carmen Pano y Manuel Contreras (Azvi).
+- Se denuncian maniobras directas de la fiscal Teresa Peramato para dinamitar el pacto no escrito de Aldama con Anticorrupción, buscando evitar que se valide judicialmente la existencia de financiación irregular que sacude de lleno al PSOE y a Pedro Sánchez.
 
 ## Referencias cruzadas
-- [[koldo-garcia-izaguirre]]
 - [[victor-de-aldama-delgado]]
+- [[jose-antonio-choclan]]
+- [[koldo-garcia-izaguirre]]
 - [[jose-luis-abalos-meco]]
-- [[jose-luis-rodriguez-zapatero]]
-- [[manuel-contreras-caro]]
+- [[alejandro-luzon]]
+- [[teresa-peramato]]
 - [[caso-koldo]]
 
 ## Fuentes

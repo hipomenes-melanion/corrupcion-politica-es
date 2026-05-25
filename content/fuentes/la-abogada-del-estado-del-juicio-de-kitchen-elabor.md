@@ -1,5 +1,5 @@
 ---
-title: "La abogada del Estado del juicio de Kitchen elaboró la qu..."
+title: "La abogada del Estado del juicio de Kitchen elaboró la querella de Sánchez contra Peinado"
 source: "raw/La abogada del Estado del juicio de Kitchen elaboró la querella de Sánchez contra Peinado.md"
 updated: "2026-04-13"
 tags: [caso-zapatero]

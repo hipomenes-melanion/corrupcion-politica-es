@@ -1,5 +1,5 @@
 ---
-title: "La asesora de Begoña Gómez ironiza con Peinado por mandar..."
+title: "La asesora de Begoña Gómez ironiza con Peinado por mandarla a juicio 210 minutos en 3 años ¿Eso es malversación"
 source: "raw/La asesora de Begoña Gómez ironiza con Peinado por mandarla a juicio 210 minutos en 3 años ¿Eso es malversación.md"
 updated: "2026-03-28"
 tags: [caso-zapatero]

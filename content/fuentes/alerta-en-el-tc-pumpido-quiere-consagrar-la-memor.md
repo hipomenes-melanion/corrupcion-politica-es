@@ -1,5 +1,5 @@
 ---
-title: "Alerta en el TC: Pumpido quiere consagrar la Memoria Demo..."
+title: "Alerta en el TC Pumpido quiere consagrar la Memoria Democrática como un derecho fundamental"
 source: "raw/Alerta en el TC Pumpido quiere consagrar la Memoria Democrática como un derecho fundamental.md"
 updated: "2026-03-06"
 tags: [caso-zapatero]

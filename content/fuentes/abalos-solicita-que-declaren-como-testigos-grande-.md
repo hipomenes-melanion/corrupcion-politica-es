@@ -1,5 +1,5 @@
 ---
-title: "Ábalos solicita que declaren como testigos Grande-Marlask..."
+title: "Ábalos solicita que declaren como testigos Grande-Marlaska, Torres y Armengol en el juicio de la trama Koldo"
 source: "raw/Ábalos solicita que declaren como testigos Grande-Marlaska, Torres y Armengol en el juicio de la trama Koldo.md"
 updated: "2026-01-07"
 tags: [caso-koldo]

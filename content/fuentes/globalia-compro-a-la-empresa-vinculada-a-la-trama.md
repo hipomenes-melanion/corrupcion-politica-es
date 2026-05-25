@@ -1,5 +1,5 @@
 ---
-title: "Globalia compró a la empresa vinculada a la trama Koldo m..."
+title: "Globalia compró a la empresa vinculada a la trama Koldo más de un millón de mascarillas durante la pandemia"
 source: "raw/Globalia compró a la empresa vinculada a la trama Koldo más de un millón de mascarillas durante la pandemia.md"
 updated: "2026-03-19"
 tags: [caso-koldo]

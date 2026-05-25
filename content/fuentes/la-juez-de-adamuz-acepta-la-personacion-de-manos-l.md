@@ -1,5 +1,5 @@
 ---
-title: "La juez de Adamuz acepta la personación de Manos Limpias,..."
+title: "La juez de Adamuz acepta la personación de Manos Limpias, Hazte Oír y Vox en la causa del accidente ferroviario"
 source: "raw/La juez de Adamuz acepta la personación de Manos Limpias, Hazte Oír y Vox en la causa del accidente ferroviario.md"
 updated: "2026-03-27"
 tags: [caso-adamuz]

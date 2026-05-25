@@ -1,5 +1,5 @@
 ---
-title: "Luzón desafía a Peramato y avala la rebaja de pena para A..."
+title: "Luzón desafía a Peramato y avala la rebaja de pena para Aldama"
 source: "raw/Luzón desafía a Peramato y avala la rebaja de pena para Aldama.md"
 updated: "2026-05-06"
 tags: [caso-koldo]

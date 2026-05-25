@@ -1,5 +1,5 @@
 ---
-title: "El abogado de Aldama, José Antonio Choclán, asume la defe..."
+title: "El abogado de Aldama, José Antonio Choclán, asume la defensa de Julio Iglesias"
 source: "raw/El abogado de Aldama, José Antonio Choclán, asume la defensa de Julio Iglesias.md"
 updated: "2026-01-15"
 tags: [caso-koldo]

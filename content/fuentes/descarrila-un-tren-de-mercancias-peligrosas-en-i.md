@@ -1,5 +1,5 @@
 ---
-title: "Descarrila un tren de mercancías 'peligrosas' en Irún sin..."
+title: "Descarrila un tren de mercancías 'peligrosas' en Irún sin información pública del Ministerio"
 source: "raw/Descarrila un tren de mercancías 'peligrosas' en Irún sin información pública del Ministerio.md"
 updated: "2026-02-09"
 tags: [caso-zapatero]

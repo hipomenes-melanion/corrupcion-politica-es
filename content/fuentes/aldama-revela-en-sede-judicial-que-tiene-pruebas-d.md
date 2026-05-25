@@ -1,5 +1,5 @@
 ---
-title: "Aldama revela en sede judicial que tiene pruebas de la fi..."
+title: "Aldama revela en sede judicial que tiene pruebas de la financiación ilegal del PSOE en un sobre de Delcy"
 source: "raw/Aldama revela en sede judicial que tiene pruebas de la financiación ilegal del PSOE en un sobre de Delcy.md"
 updated: "2026-01-29"
 tags: [caso-koldo]

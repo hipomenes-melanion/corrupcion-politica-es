@@ -1,5 +1,5 @@
 ---
-title: "El TSJM confirma la absolución del empresario Luis Medina..."
+title: "El TSJM confirma la absolución del empresario Luis Medina en el caso mascarillas"
 source: "raw/El TSJM confirma la absolución del empresario Luis Medina en el caso mascarillas.md"
 updated: "2026-01-16"
 tags: [caso-zapatero]

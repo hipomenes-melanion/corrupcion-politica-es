@@ -1,21 +1,25 @@
 ---
-title: "Piden que se investigue a la fiscal \"
+title: "Piden que se investigue a la fiscal amiga señalada por la trama"
 source: "raw/Piden que se investigue a la fiscal amiga señalada por la trama.md"
 updated: "2026-05-25"
-tags: [caso-zapatero]
+tags: [caso-plus-ultra, caso-zapatero]
 ---
 
 ## Resumen
-Piden que se investigue a la fiscal señalada por la trama Plus Ultra para boicotear la investigación
+Información periodística sobre la denuncia interpuesta por el partido político [[iustitia-europa]] ante la Fiscalía Superior de la Comunidad de Madrid para investigar la presunta influencia de la trama del Caso Plus Ultra sobre el Ministerio Fiscal. La denuncia se basa en un informe de la UDEF que recoge mensajes del abogado [[miguel-palomero]] afirmando que "la fiscal jefa es amiga" y proponiendo un "Kitchen Cabinet" para boicotear la investigación judicial que afecta al expresidente [[jose-luis-rodriguez-zapatero]].
 
 ## Detalles clave
-- El partido Iustitia Europa ha presentado ante la Fiscalía Superior de la Comunidad de Madrid una denuncia para investigar si hubo influencias en la actuación del Ministerio Fiscal en el caso de Plus Ultra, que tiene como imputado al expresidente del Gobierno [**José Luis Rodríguez Zapatero**](htt...
-- Este sábado se conocía un informe de la UDEF en la que los presuntos miembros de la trama recurrieron a la Fiscalía para boicotear la investigación del rescate de la aerolínea. En uno de los mensajes intervenido se puede leer que el abogado Miguel Palomero escribe: " **La fiscal jefa es amiga** "...
-- De esta manera, la denuncia interpuesta por Iustitia Europa, a la que ha tenido acceso **[Libertad Digita](https://www.libertaddigital.com/)** [**l**](https://www.libertaddigital.com/), señala que tiene como objetivo "esclarecer si pudo existir cualquier **contacto, influencia, instrucción, inter...
+- **La denuncia de Iustitia Europa**: El partido interpuso la denuncia tras desvelarse las escuchas de la UDEF, solicitando esclarecer si existieron contactos informales, instrucciones o parcialidad en la Fiscalía en favor del rescate de Plus Ultra. Solicitan identificar a la "fiscal jefa" aludida y auditar la trazabilidad de su criterio favorable al desbloqueo de fondos y al sobreseimiento de la causa.
+- **Intento de boicot a la instrucción**: Según informes policiales, los intermediarios de la trama intentaron recurrir a la Fiscalía para paralizar o desviar las investigaciones. En los chats intervenidos, el abogado [[miguel-palomero]] escribió mensajes contundentes: *"La fiscal jefa es amiga"*, *"hay que cortar esto"* y *"hay que hacer un Kitchen Cabinet"*.
+- **Posición procesal de la Fiscalía**: La denuncia recalca la coincidencia cronológica: tras los mensajes de influencia y tranquilidad de la trama respecto a la fiscal "amiga", la Fiscalía de la Audiencia Nacional varió activamente su criterio en el proceso, manifestándose a favor de desbloquear los 34 millones de euros pendientes de las ayudas y solicitando posteriormente el sobreseimiento y archivo de las actuaciones judiciales.
 
 ## Referencias cruzadas
-- [[jose-luis-rodriguez-zapatero]]
+- [[caso-plus-ultra]]
 - [[caso-zapatero]]
+- [[jose-luis-rodriguez-zapatero]]
+- [[miguel-palomero]]
+- [[iustitia-europa]]
+- [[la-trama-zapatero-recurrio-a-la-fiscalia-para-boic]]
 
 ## Fuentes
 Fuente original: [[Piden que se investigue a la fiscal amiga señalada por la trama]]

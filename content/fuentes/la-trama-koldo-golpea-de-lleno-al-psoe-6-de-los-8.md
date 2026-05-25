@@ -1,5 +1,5 @@
 ---
-title: "La trama Koldo golpea de lleno al PSOE: 6 de los 8 client..."
+title: "La trama Koldo golpea de lleno al PSOE 6 de los 8 clientes de Soluciones de Gestión eran socialistas"
 source: "raw/La trama Koldo golpea de lleno al PSOE 6 de los 8 clientes de Soluciones de Gestión eran socialistas.md"
 updated: "2026-04-24"
 tags: [caso-koldo]

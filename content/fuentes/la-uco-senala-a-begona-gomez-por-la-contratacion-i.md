@@ -1,5 +1,5 @@
 ---
-title: "La UCO señala a Begoña Gómez por la contratación irregular de Deloitte para su cátedra: \"Participó directamente\""
+title: "La UCO señala a Begoña Gómez por la contratación irregular de Deloitte para su cátedra Participó directamente"
 source: "raw/La UCO señala a Begoña Gómez por la contratación irregular de Deloitte para su cátedra Participó directamente.md"
 updated: "2026-05-25"
 tags: [caso-begona-gomez]

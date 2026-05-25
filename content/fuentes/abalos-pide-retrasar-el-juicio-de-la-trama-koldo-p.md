@@ -1,5 +1,5 @@
 ---
-title: "Ábalos pide retrasar el juicio de la trama Koldo porque n..."
+title: "Ábalos pide retrasar el juicio de la trama Koldo porque no puede acceder a la causa el ordenador se queda pensando"
 source: "raw/Ábalos pide retrasar el juicio de la trama Koldo porque no puede acceder a la causa el ordenador se queda pensando.md"
 updated: "2026-03-05"
 tags: [caso-koldo]

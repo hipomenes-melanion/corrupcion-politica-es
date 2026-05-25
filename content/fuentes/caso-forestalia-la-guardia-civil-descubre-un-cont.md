@@ -1,5 +1,5 @@
 ---
-title: "Caso Forestalia: la Guardia Civil descubre un contrato pr..."
+title: "Caso Forestalia la Guardia Civil descubre un contrato privado de Fernando Samper con un ex alto cargo de Lambán"
 source: "raw/Caso Forestalia la Guardia Civil descubre un contrato privado de Fernando Samper con un ex alto cargo de Lambán.md"
 updated: "2026-04-14"
 tags: [caso-zapatero]

@@ -1,5 +1,5 @@
 ---
-title: "Choclán adelanta \"
+title: "Choclán adelanta la suerte que correrán Torres y Armengol tras la encrucijada de Aldama"
 source: "raw/Choclán adelanta la suerte que correrán Torres y Armengol tras la encrucijada de Aldama.md"
 updated: "2026-05-06"
 tags: [caso-koldo]

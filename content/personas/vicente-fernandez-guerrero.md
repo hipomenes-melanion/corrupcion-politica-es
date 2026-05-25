@@ -41,19 +41,24 @@ Investigado en la pieza separada "Hirurok" por presunta participación en el ama
 - **Actualización [2026-04-21]**: Niega que Transportes publicara la nota de prensa que dio aire a Hidalgo con los inversores. La nota está recogida en informes de la UCO. (Fuente: [[javier-hidalgo-senala-a-calvino-y-montero-por-el-r]])
 
 
-- **Actualización [2026-05-13]**: La denuncia de un testigo presentada ante la Guardia Civil, a la que ha tenido acceso LD, describe la relación de \ (Fuente: [[montero-hizo]])
+- **Actualización [2026-05-13]**: Una denuncia formal ante la Guardia Civil desvela que Fernández Guerrero y la exministra [[maria-jesus-montero]] hicieron "vida de pareja" en el Hotel Las Salinas de Cabo de Gata en agosto de 2021. Esto desmiente la coartada oficial de Montero, quien aseguró no haber mantenido ningún tipo de contacto con él desde su cese en 2019. (Fuente: [[montero-hizo]])
 
+- **Actualización [2026-05-14]**: Testimonios del ciudadano que denunció la relación de pareja revelan que sufrió seguimientos sospechosos por parte de agentes no identificados tras presentar su denuncia. (Fuente: [[dos-agentes-de-la-secreta-identificaron-al-testigo]])
 
-- **Actualización [2026-05-14]**: Habla el testigo que denunció ante la Guardia Civil que María Jesús Montero hizo \ (Fuente: [[dos-agentes-de-la-secreta-identificaron-al-testigo]])
+- **Actualización [2026-05-14]**: En entrevista exclusiva, el denunciante confirma que aportó registros de hotel y fotografías que demuestran la relación continuada de Fernández Guerrero con la exministra de Hacienda. (Fuente: [[entrevista-exclusiva-al-testigo-que-pillo-a-monter]])
 
-
-- **Actualización [2026-05-14]**: Habla el testigo que denunció ante la Guardia Civil que María Jesús Montero hizo \ (Fuente: [[entrevista-exclusiva-al-testigo-que-pillo-a-monter]])
-
-
-- **Actualización [2026-05-19]**: LD publicó una entrevista a un testigo que denunció ante la Guardia Civil que Montero hizo \ (Fuente: [[montero-admitio-en-el-senado-que-el-expresidente-d]])
+- **Actualización [2026-05-19]**: Los chats intervenidos de la trama SEPI y el grupo Hirurok son analizados por la UCO para determinar si la oculta relación sentimental facilitó el amaño de contratos por valor de 132 millones de euros. (Fuente: [[montero-admitio-en-el-senado-que-el-expresidente-d]])
 
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[caso-leire-hirurok]]
+- [[maria-jesus-montero]]
+- [[santiago-pedraz]]
+- [[teresa-ribera]]
+- [[anton-alonso]]
+- [[leire-diez-castro]]
+- [[sepi]]
+- [[montero-hizo]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[montero-hizo]]

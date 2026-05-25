@@ -1,5 +1,5 @@
 ---
-title: "Insumisión del Tribunal de Cuentas de Chicano al Congreso..."
+title: "Insumisión del Tribunal de Cuentas de Chicano al Congreso se niega a rehacer 6 informes sobre los contratos covid"
 source: "raw/Insumisión del Tribunal de Cuentas de Chicano al Congreso se niega a rehacer 6 informes sobre los contratos covid.md"
 updated: "2026-01-15"
 tags: [caso-koldo]

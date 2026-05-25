@@ -1,5 +1,5 @@
 ---
-title: "El socio de Cerdán fue el enlace entre el presidente de F..."
+title: "El socio de Cerdán fue el enlace entre el presidente de Forestalia y el alto cargo de Teresa Ribera"
 source: "raw/El socio de Cerdán fue el enlace entre el presidente de Forestalia y el alto cargo de Teresa Ribera.md"
 updated: "2026-04-17"
 tags: [caso-zapatero]

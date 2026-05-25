@@ -1,5 +1,5 @@
 ---
-title: "La Guardia Civil investiga si el imperio patrimonial del ..."
+title: "La Guardia Civil investiga si el imperio patrimonial del alto cargo de Ribera fue amasado con la trama de Forestalia"
 source: "raw/La Guardia Civil investiga si el imperio patrimonial del alto cargo de Ribera fue amasado con la trama de Forestalia.md"
 updated: "2026-03-23"
 tags: [caso-zapatero]
