@@ -33,7 +33,7 @@ Bienvenido a la Wiki de causas judiciales. Este índice centraliza y organiza je
 - [[caso-forestalia|Caso Forestalia]]
 - [[caso-kitchen|Caso Kitchen]]
 - [[caso-koldo|Caso Koldo]]
-- [[caso-leire-hirurok|Caso Leire / Hirurok]]
+- [[caso-leire-hirurok|Caso Leire - Hirurok]]
 - [[caso-mediador|Caso Mediador]]
 - [[caso-plus-ultra|Caso Plus Ultra]]
 - [[caso-zapatero|Caso Zapatero]]
