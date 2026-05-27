@@ -1,8 +1,9 @@
 ---
-title: "Piden que se investigue a la fiscal amiga señalada por la trama"
-source: "raw/Piden que se investigue a la fiscal amiga señalada por la trama.md"
-updated: "2026-05-25"
-tags: [caso-plus-ultra, caso-zapatero]
+title: Piden que se investigue a la fiscal amiga señalada por la trama
+source: raw/Piden que se investigue a la fiscal amiga señalada por la trama.md
+updated: 2026-05-25
+tags:
+  - caso-plus-ultra
 ---
 
 ## Resumen

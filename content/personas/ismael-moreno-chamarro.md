@@ -20,7 +20,7 @@ Magistrado titular del Juzgado Central de Instrucción n.º 2 de la Audiencia Na
 - **Actualización [2026-01-08]**: Fuentes jurídicas consultadas por Libertad Digital afirman que \ (Fuente: [[la-renuncia-del-abogado-de-abalos-pone-en-peligro]])
 
 
-- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano-la-in]])
+- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
 
 
 - **Actualización [2026-01-14]**: Fuentes jurídicas consultadas por LD afirman que \ (Fuente: [[la-libertad-para-abalos-y-koldo-antes-del-juicio-s]])
@@ -80,7 +80,7 @@ Magistrado titular del Juzgado Central de Instrucción n.º 2 de la Audiencia Na
 - **Actualización [2026-04-24]**: Ya había negociado con su proveedor comprar 8 millones de mascarillas, lo que pudo precipitar que Transportes doblase el pedido, de 4 a 8 millones. (Fuente: [[la-trama-koldo-golpea-de-lleno-al-psoe-6-de-los-8]])
 
 
-- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la]])
+- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la-obsesion-que-vinculo-a-sanchez-con-venezuela]])
 
 
 - **Actualización [2026-05-06]**: Fuentes jurídicas consultadas por LD afirman que \ (Fuente: [[el-ingreso-en-prision-de-aldama-dinamitaria-la-inv]])

@@ -36,7 +36,7 @@ Entidad pública empresarial española encargada de gestionar las participacione
 - **Actualización [2026-02-02]**: Dice no recordar quien lo contactó para las reuniones, si hubo más temas que el de las saunas de Sabiniano o si el PSOE pagó gastos de Leire. (Fuente: [[la-amnesia-de-santos-cerdan-sobre-las-cloacas-de]])
 
 
-- **Actualización [2026-02-03]**: Según ha podido saber LD de fuentes directas conocedoras de esta operativa, \ (Fuente: [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-e]])
+- **Actualización [2026-02-03]**: Según ha podido saber LD de fuentes directas conocedoras de esta operativa, \ (Fuente: [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana]])
 
 
 - **Actualización [2026-02-05]**: Fuentes del caso consultadas por LD afirman que \ (Fuente: [[la-operacion-leire-salpica-a-la-presidenta-del-t]])

@@ -1,21 +1,24 @@
 ---
-title: "Descarrila un tren de mercancías 'peligrosas' en Irún sin información pública del Ministerio"
-source: "raw/Descarrila un tren de mercancías 'peligrosas' en Irún sin información pública del Ministerio.md"
-updated: "2026-02-09"
-tags: [caso-zapatero]
+title: Descarrila un tren de mercancías 'peligrosas' en Irún sin información pública del Ministerio
+source: raw/Descarrila un tren de mercancías 'peligrosas' en Irún sin información pública del Ministerio.md
+updated: 2026-05-26
+tags:
+  - caso-adamuz
 ---
 
 ## Resumen
-Fuentes de Adif y Renfe aseguran que el vagón no volcó y que la incidencia fue mínima. Al preguntar por qué podría haber pasado: \
+Información de investigación periodística que revela el descarrilamiento de un tren de mercancías de [[renfe]] que transportaba sustancias inflamables catalogadas como "peligrosas" a la altura del barrio de Belaskoenea, en Irún (Guipúzcoa). El incidente, que requirió reparaciones en la vía de [[adif]] y el desvío de circulaciones, fue omitido deliberadamente de los canales públicos de comunicación del Ministerio de Transportes y Movilidad Sostenible liderado por [[oscar-puente]] para evitar alarmismo.
 
 ## Detalles clave
-- Según fuentes conocedoras del accidente, el tren descarriló sin llegar a volcar ni provocar demasiados daños en las vías; pero este transportaba **mercancías "peligrosas"** **que serían inflamables**, por lo que podría haber resultado en una situación de peligrosidad para los trabajadores de las ...
-- A raíz de esta **incidencia**, que habría ocurrido el pasado viernes alrededor de las 22:30 horas, los demás trenes fueron desviados hacia otra vía debido a que el **descarrilamiento se produjo en una zona donde se podía habilitar trayectos** similares. Así, según Adif, no se publicitó el inciden...
-- Por otra parte, las fuentes consultadas por este mismo diario en **Renfe**, han recalcado que "se pudo circular por vías alternativas", aunque **sí han reconocido que hubo "ligeros retrasos"** en otros trenes. Al ser interrogados por si la mercancía era "peligrosa" e "inflamable", estas fuentes h...
+- **Incidencia silenciada**: El siniestro ocurrió un viernes a las 22:30 horas debido a la salida de un *bogie* (rueda y eje) de un vagón de mercancías de Renfe. Adif desvió el tráfico por vías alternativas para reparar el tramo dañado durante la noche, logrando restablecer la normalidad el sábado por la mañana.
+- **Justificación de Adif y Renfe**: Ambas empresas estatales admitieron nerviosismo, pero rehusaron publicitar la incidencia en el canal *Info Adif* argumentando que no causó grandes retrasos en los trenes de pasajeros. Fuentes de Renfe justificaron la opacidad señalando la conveniencia de no crear "alarmismo" y, al ser interrogadas sobre el peligro real de las sustancias inflamables transportadas y las potenciales consecuencias catastróficas, respondieron de manera escueta: *"Pero no ha pasado"*.
+- **La conexión con Irún**: Se apunta al peso político de [[jose-antonio-santano]], actual secretario de Estado de Transportes y Movilidad Sostenible y alcalde socialista de Irún durante más de 20 años, quien fue fichado directamente por el ministro Óscar Puente. El Ayuntamiento de la localidad, gobernado también por el PSOE, secundó el silencio sobre el descarrilamiento.
 
 ## Referencias cruzadas
-- [[jose-luis-rodriguez-zapatero]]
 - [[oscar-puente]]
+- [[jose-antonio-santano]]
+- [[adif]]
+- [[renfe]]
 - [[caso-zapatero]]
 
 ## Fuentes

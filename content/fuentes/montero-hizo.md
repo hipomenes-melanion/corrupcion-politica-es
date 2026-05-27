@@ -1,8 +1,9 @@
 ---
-title: "Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo"
-source: "raw/Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo.md"
-updated: "2026-05-13"
-tags: [caso-leire-hirurok, caso-sepi]
+title: Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo
+source: raw/Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo.md
+updated: 2026-05-13
+tags:
+  - caso-leire-hirurok
 ---
 
 ## Resumen

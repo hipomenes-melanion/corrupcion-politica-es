@@ -10,8 +10,8 @@ La aerolínea recibió un rescate de 475 millones de euros durante la pandemia p
 
 ## Detalles clave
 - La hija de **Carmen Pano** –la empresaria que sostiene haber llevado 90.000 euros a Ferraz–, **Leonor González**, ha asegurado que el empresario Víctor de Aldama recogió medio millón de euros junto a **Koldo García** en casa de Pepe Hidalgo, dueño de la aerolínea Air Europa.
-- La aerolínea recibió un rescate de 475 millones de euros durante la pandemia otorgado por el **Gobierno** de **Pedro Sánchez**. Este rescate dependía, en gran medida, del **Ministerio de Transportes** de José Luis Ábalos. Según se ha confirmado por diferentes informaciones, Ábalos y su exasesor K...
-- Según ha confirmado Leonor González en su declaración en calidad de testigo en el **Tribunal Supremo**, Aldama acudió junto a Koldo García a casa de los Hidalgo para recoger 500.000 euros, que serían un pago en agradecimiento a las gestiones que estaba realizando el **Ministerio de Transportes** ...
+- La aerolínea recibió un rescate de 475 millones de euros durante la pandemia otorgado por el **Gobierno** de **Pedro Sánchez**. Este rescate dependía, en gran medida, del **Ministerio de Transportes** de José Luis Ábalos. Según se ha confirmado por diferentes informaciones, Ábalos y su exasesor Koldo García mantuvieron, a través del empresario **Víctor de Aldama**, una relación cercana con el hijo de Pepe Hidalgo, Javier Hidalgo.
+- Según ha confirmado Leonor González en su declaración en calidad de testigo en el **Tribunal Supremo**, Aldama acudió junto a Koldo García a casa de los Hidalgo para recoger 500.000 euros, que serían un pago en agradecimiento a las gestiones que estaba realizando el **Ministerio de Transportes** de Ábalos en favor del rescate de la aerolínea.
 
 ## Referencias cruzadas
 - [[koldo-garcia-izaguirre]]

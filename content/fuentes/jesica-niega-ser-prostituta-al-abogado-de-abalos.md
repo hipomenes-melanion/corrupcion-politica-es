@@ -1,8 +1,9 @@
 ---
-title: "Jésica niega ser prostituta al abogado de Ábalos Soy dentista colegiada y era azafata de imagen"
-source: "raw/Jésica niega ser prostituta al abogado de Ábalos Soy dentista colegiada y era azafata de imagen.md"
-updated: "2026-04-07"
-tags: [caso-koldo, caso-plus-ultra]
+title: Jésica niega ser prostituta al abogado de Ábalos Soy dentista colegiada y era azafata de imagen
+source: raw/Jésica niega ser prostituta al abogado de Ábalos Soy dentista colegiada y era azafata de imagen.md
+updated: 2026-04-07
+tags:
+  - caso-koldo
 ---
 
 ## Resumen

@@ -1,8 +1,9 @@
 ---
-title: "Las comunicaciones de la trama Zapatero es pro Sánchez y pro Maduro"
-source: "raw/Las comunicaciones de la trama Zapatero es pro Sánchez y pro Maduro.md"
-updated: "2026-05-23"
-tags: [caso-plus-ultra]
+title: Las comunicaciones de la trama Zapatero es pro Sánchez y pro Maduro
+source: raw/Las comunicaciones de la trama Zapatero es pro Sánchez y pro Maduro.md
+updated: 2026-05-23
+tags:
+  - caso-zapatero
 ---
 
 ## Resumen

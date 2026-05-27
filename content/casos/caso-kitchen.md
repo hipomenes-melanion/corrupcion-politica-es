@@ -22,14 +22,11 @@ Investigación sobre una presunta operación parapolicial ilegal y sin control j
 
 
 ### Datos clave
-- El exministro del Interior Jorge Fernández Díaz y el exsecretario de Seguridad Francisco Martínez están procesados por el uso ilícito de fondos reservados en la operación Kitchen.
-- La causa penal investiga la sustracción ilegal y sin control judicial de documentos sensibles de la tesorería del Partido Popular en posesión del chófer de Luis Bárcenas.
-- Se constata la participación operativa del exdirector DAO de la Policía Eugenio Pino en el montaje del entramado y seguimiento policial ilegal.
-- Se solicita la apertura de juicio oral con penas de hasta 24 años de cárcel para los principales mandos políticos y policiales implicados.
-
+- La pieza separada 7 investiga el uso de fondos reservados y prevaricación por parte del exministro Jorge Fernández Díaz y mandos policiales para sustraer información sensible a Luis Bárcenas.
+- El magistrado instructor Leopoldo Piña denunció penalmente al PSOE al calificar su escrito de solicitud de imputación de Cospedal como 'injurioso y ofensivo' para el instructor.
 ## Referencias cruzadas
 - [[caso-koldo]] (contraste de uso de estructuras del Estado)
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
-- [[resumen-causas-judiciales]]
+- [[el-juez-pina-denuncia-que-el-escrito-del-psoe-que|El juez Piña denuncia que el escrito del PSOE que pide imputar a Cospedal es injurioso para el instructor y el fiscal]]

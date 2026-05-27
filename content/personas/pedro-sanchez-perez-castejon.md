@@ -29,11 +29,17 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 
 - **Actualización [2026-05-22]**: Se revela que Sánchez mantuvo una audiencia privada en la Moncloa con el comisionista que pagó 1,2 millones de euros a José Luis Rodríguez Zapatero semanas antes de aprobarse el rescate de Plus Ultra. (Fuente: [[sanchez-recibio-en-moncloa-al-lobbista-que-pago-1]])
 
+- **Actualización [2026-05-27]**: El magistrado de la Audiencia Nacional Santiago Pedraz imputa y sitúa el origen de las cloacas de Ferraz en el periodo de reflexión de cinco días que el presidente se tomó tras la imputación de su esposa, Begoña Gómez. Audios intervenidos revelan que se activó una directriz atribuida a él para *"limpiar todo sin límites"*, boicoteando y obstruyendo de forma ilícita los procedimientos judiciales y policiales de corrupción que afectaban al Gobierno y al partido. (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
+
 ## Referencias cruzadas
 - [[hospital-ramon-y-cajal]]
 - [[jose-luis-zamorano]]
 - [[moncloa-aumentara]]
 - [[pedro-sanchez-es-tratado-por-una-dolencia-cardiova]]
+- [[caso-leire-cloacas]]
+- [[leire-diez-castro]]
+- [[javier-perez-dolset]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[pedraz-senala-los-audios-de-la-cloaca]]

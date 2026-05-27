@@ -53,7 +53,7 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - **Actualización [2026-01-12]**: Libertad Digital publica la declaración judicial del presidente de Plus Ultra, Julio Martínez, en un juicio celebrado en julio de 2024. (Fuente: [[el-dueno-de-plus-ultra-nego-a-la-juez-que-moncloa]])
 
 
-- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano-la-in]])
+- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
 
 
 - **Actualización [2026-01-13]**: Este martes ha trascendido una denuncia pública de agresión sexual contra el cantante, si bien la Audiencia Nacional lo estudia desde el 5 de enero. (Fuente: [[la-fiscalia-de-la-audiencia-nacional-investiga-des]])
@@ -142,7 +142,7 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - **Actualización [2026-02-02]**: Dice no recordar quien lo contactó para las reuniones, si hubo más temas que el de las saunas de Sabiniano o si el PSOE pagó gastos de Leire. (Fuente: [[la-amnesia-de-santos-cerdan-sobre-las-cloacas-de]])
 
 
-- **Actualización [2026-02-03]**: Según ha podido saber LD de fuentes directas conocedoras de esta operativa, \ (Fuente: [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-e]])
+- **Actualización [2026-02-03]**: Según ha podido saber LD de fuentes directas conocedoras de esta operativa, \ (Fuente: [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana]])
 
 
 - **Actualización [2026-02-04]**: El intérprete español valora querellarse contra sus dos exempleadas y contra la organización Women's Link por denuncia falsa. (Fuente: [[la-fiscalia-ignora-8-dias-a-julio-iglesias-tras-ta]])
@@ -494,7 +494,7 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - **Actualización [2026-04-29]**: \ (Fuente: [[aldama-revela-que-le-ofrecieron-edificios-de-la-se]])
 
 
-- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la]])
+- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la-obsesion-que-vinculo-a-sanchez-con-venezuela]])
 
 
 - **Actualización [2026-04-30]**: Reconoce que cobró billetes de 500 euros del PSOE, mientras que el exgerente de la formación dijo que no tenían billetes de esa envergadura. (Fuente: [[koldo-reconoce-parte-de-la-jerga-criminal-de-la-tr]])
@@ -634,11 +634,29 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 
 - **Actualización [2026-05-25]**: El partido Iustitia Europa presenta una denuncia penal ante la Fiscalía Superior de la Comunidad de Madrid para esclarecer si la trama del Caso Plus Ultra influyó en el Ministerio Fiscal, tras revelarse mensajes del abogado Miguel Palomero que afirmaba que "la fiscal jefa es amiga" y planteaba crear un "Kitchen Cabinet" para frenar las pesquisas contra el expresidente. (Fuente: [[piden-que-se-investigue-a-la-fiscal]])
 
+- **Actualización [2026-05-25]**: El juez Calama acuerda desgajar del Caso Plus Ultra tres atestados de la UDEF (5621/2025, 791/2026 y 793/2026) para incoar dos piezas separadas (PDP 2/2026 y PDP 3/2026) para investigar otros presuntos delitos financieros imputables a terceras personas ajenas al núcleo de la trama principal del expresidente. Asimismo, consta el registro judicial concurrente de las mercantiles [[what-the-fav]] (empresa de sus hijas), [[inteligencia-prospectiva]] y [[softgestor]]. (Fuente: [[el-juez-calama-abre-dos-piezas-separadas]])
+
+- **Actualización [2026-05-26]**: Trascendió que durante el registro de la UDEF a la sede de la empresa de sus hijas, [[what-the-fav]], la policía judicial intervino dos contratos formalizados con la multinacional tecnológica [[huawei-technologies-espana]] (uno de ellos de octubre de 2020) y diversa documentación estratégica de la firma agroalimentaria [[oro-azul]], así como convenios de servicios y planes de emergencia en América Latina. La empresa habría canalizado más de 745.000 euros procedentes del presunto blanqueo de la trama Plus Ultra. (Fuente: [[la-udef-encontro-contratos-con-huawei-y-oro-azul]])
+
+- **Actualización [2026-05-27]**: El informe de la UDEF sobre las notas manuscritas de su testaferro Julio Martínez Martínez le señala como el principal "conseguidor" de contratos de recursos naturales (gas, petróleo, oro, carbón, níquel) para Venezuela, destacando un viaje de Zapatero a Pekín para vender crudo de PDVSA a una empresa de la órbita del Partido Comunista de China. (Fuente: [[las-notas-manuscritas-de-julio-martinez-senalan-di]])
+
 ## Referencias cruzadas
 - [[iustitia-europa]]
 - [[miguel-palomero]]
+- [[what-the-fav]]
+- [[inteligencia-prospectiva]]
+- [[softgestor]]
+- [[el-juez-calama-abre-dos-piezas-separadas]]
 - [[piden-que-se-investigue-a-la-fiscal]]
+- [[alba-rodriguez-espinosa]]
+- [[huawei-technologies-espana]]
+- [[oro-azul]]
+- [[la-udef-encontro-contratos-con-huawei-y-oro-azul]]
+- [[edmundo-gonzalez-urrutia]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[piden-que-se-investigue-a-la-fiscal]]
+- [[el-juez-calama-abre-dos-piezas-separadas]]
+- [[la-udef-encontro-contratos-con-huawei-y-oro-azul]]
+- [[las-notas-manuscritas-de-julio-martinez-senalan-di]]

@@ -43,7 +43,7 @@ Compañía aérea española que recibió ayudas públicas del fondo de solvencia
 - **Actualización [2026-01-12]**: Libertad Digital publica la declaración judicial del presidente de Plus Ultra, Julio Martínez, en un juicio celebrado en julio de 2024. (Fuente: [[el-dueno-de-plus-ultra-nego-a-la-juez-que-moncloa]])
 
 
-- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano-la-in]])
+- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
 
 
 - **Actualización [2026-01-13]**: Este martes ha trascendido una denuncia pública de agresión sexual contra el cantante, si bien la Audiencia Nacional lo estudia desde el 5 de enero. (Fuente: [[la-fiscalia-de-la-audiencia-nacional-investiga-des]])
@@ -132,7 +132,7 @@ Compañía aérea española que recibió ayudas públicas del fondo de solvencia
 - **Actualización [2026-02-02]**: Dice no recordar quien lo contactó para las reuniones, si hubo más temas que el de las saunas de Sabiniano o si el PSOE pagó gastos de Leire. (Fuente: [[la-amnesia-de-santos-cerdan-sobre-las-cloacas-de]])
 
 
-- **Actualización [2026-02-03]**: Según ha podido saber LD de fuentes directas conocedoras de esta operativa, \ (Fuente: [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-e]])
+- **Actualización [2026-02-03]**: Según ha podido saber LD de fuentes directas conocedoras de esta operativa, \ (Fuente: [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana]])
 
 
 - **Actualización [2026-02-04]**: El intérprete español valora querellarse contra sus dos exempleadas y contra la organización Women's Link por denuncia falsa. (Fuente: [[la-fiscalia-ignora-8-dias-a-julio-iglesias-tras-ta]])

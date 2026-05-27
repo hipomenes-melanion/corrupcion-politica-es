@@ -1,7 +1,7 @@
 ---
 title: "Log de ingestión"
 source: "CLAUDE.md"
-updated: "2026-05-25"
+updated: "2026-05-27"
 tags: [log, registro]
 ---
 
@@ -102,7 +102,7 @@ tags: [log, registro]
 - **[2026-01-12]** - Ingesta de: "El dueño de Plus Ultra negó a la juez que Moncloa o Ábalo..."
   ✅ Ingestión exitosa: [wiki/fuentes/el-dueno-de-plus-ultra-nego-a-la-juez-que-moncloa.md]
 - **[2026-01-13]** - Ingesta de: "Alerta en el Tribunal de Cuentas de Chicano: la investiga..."
-  ✅ Ingestión exitosa: [wiki/fuentes/alerta-en-el-tribunal-de-cuentas-de-chicano-la-in.md]
+  ✅ Ingestión exitosa: [wiki/fuentes/alerta-en-el-tribunal-de-cuentas-de-chicano.md]
 - **[2026-01-13]** - Ingesta de: "La Fiscalía de la Audiencia Nacional investiga desde hace..."
   ✅ Ingestión exitosa: [wiki/fuentes/la-fiscalia-de-la-audiencia-nacional-investiga-des.md]
 - **[2026-01-14]** - Ingesta de: "La libertad para Ábalos y Koldo antes del juicio se disip..."
@@ -164,7 +164,7 @@ tags: [log, registro]
 - **[2026-02-02]** - Ingesta de: "La 'amnesia' de Santos Cerdán sobre las cloacas del PSOE ..."
   ✅ Ingestión exitosa: [wiki/fuentes/la-amnesia-de-santos-cerdan-sobre-las-cloacas-de.md]
 - **[2026-02-03]** - Ingesta de: "Aviones de la aerolínea Plus Ultra entregaron en España \"
-  ✅ Ingestión exitosa: [wiki/fuentes/aviones-de-la-aerolinea-plus-ultra-entregaron-en-e.md]
+  ✅ Ingestión exitosa: [wiki/fuentes/aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana.md]
 - **[2026-02-04]** - Ingesta de: "La Fiscalía ignora 8 días a Julio Iglesias tras tardar só..."
   ✅ Ingestión exitosa: [wiki/fuentes/la-fiscalia-ignora-8-dias-a-julio-iglesias-tras-ta.md]
 - **[2026-02-05]** - Ingesta de: "La 'operación Leire' salpica a la presidenta del Tribunal..."
@@ -563,3 +563,49 @@ tags: [log, registro]
   ✅ Ingestión exitosa: [wiki/fuentes/montero-hizo.md, wiki/personas/maria-jesus-montero.md, wiki/personas/santiago-pedraz.md, wiki/personas/teresa-ribera.md, wiki/personas/vicente-fernandez-guerrero.md, wiki/casos/caso-leire-hirurok.md, wiki/index.md, wiki/log.md]
 - **[2026-05-25]** - Ingesta de: "Piden que se investigue a la fiscal amiga señalada por la trama"
   ✅ Ingestión exitosa: [wiki/fuentes/piden-que-se-investigue-a-la-fiscal.md, wiki/personas/miguel-palomero.md, wiki/entidades/iustitia-europa.md, wiki/personas/jose-luis-rodriguez-zapatero.md, wiki/casos/caso-plus-ultra.md, wiki/index.md, wiki/log.md]
+- **[2026-05-26]** - Ingesta de: "El juez Calama abre dos piezas separadas al aflorar delitos de terceras personas ajenas a la trama"
+  ✅ Ingestión exitosa: [wiki/fuentes/el-juez-calama-abre-dos-piezas-separadas.md, wiki/entidades/what-the-fav.md, wiki/entidades/inteligencia-prospectiva.md, wiki/entidades/softgestor.md, wiki/personas/jose-luis-rodriguez-zapatero.md, wiki/personas/jose-luis-calama-teixeira.md, wiki/casos/caso-plus-ultra.md, wiki/index.md, wiki/log.md]
+- **[2026-05-26]** - Ingesta de: "La UDEF encontró contratos con Huawei y Oro Azul en el registro a las hijas de Zapatero"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-udef-encontro-contratos-con-huawei-y-oro-azul.md, wiki/personas/alba-rodriguez-espinosa.md, wiki/personas/jose-luis-rodriguez-zapatero.md, wiki/entidades/what-the-fav.md, wiki/entidades/huawei-technologies-espana.md, wiki/entidades/oro-azul.md, wiki/entidades/corporate-communicator.md, wiki/entidades/alemany-asesores-consultores.md, wiki/casos/caso-plus-ultra.md, wiki/index.md, wiki/log.md]
+- **[2026-05-26]** - Ingesta de: "El último informe de la UCO destapa un nuevo delito de Begoña Gómez"
+  ✅ Ingestión exitosa: [wiki/fuentes/el-ultimo-informe-de-la-uco-destapa-un-nuevo-delito-de-begona-gomez.md, wiki/personas/cristina-alvarez.md, wiki/personas/jose-manuel-ruano.md, wiki/personas/maria-begona-gomez-fernandez.md, wiki/entidades/deloitte.md, wiki/entidades/universidad-complutense-de-madrid.md, wiki/casos/caso-begona-gomez.md, wiki/index.md, wiki/log.md]
+- **[2026-05-26]** - Relación de Fuentes y Casos Judiciales
+  ✅ Ingestión exitosa: Creación del documento de análisis [wiki/analisis/tabla-fuentes-casos.md] y su integración en el índice [wiki/index.md] y log [wiki/log.md]
+- **[2026-05-26]** - Ingesta de: "Aviones de la aerolínea Plus Ultra entregaron en España regalos muy valiosos de Nicolás Maduro"
+  ✅ Ingestión exitosa: [wiki/fuentes/aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana.md, wiki/personas/nicolas-maduro.md, wiki/personas/luis-fernando-pascual.md, wiki/personas/antonio-duarte.md, wiki/personas/javier-galvan.md, wiki/personas/francisco-martin.md, wiki/personas/roberto-roselli.md, wiki/entidades/juzgado-de-instruccion-15-de-madrid.md, wiki/entidades/clap.md, wiki/entidades/comisaria-general-de-policia-judicial.md, wiki/entidades/udyco.md, wiki/entidades/uai.md, wiki/casos/caso-plus-ultra.md, wiki/index.md, wiki/log.md]
+- **[2026-05-26]** - Ingesta de: "Alerta en el Tribunal de Cuentas de Chicano la investigación sobre la financiación ilegal del PSOE les puede salpicar"
+  ✅ Ingestión exitosa: [wiki/fuentes/alerta-en-el-tribunal-de-cuentas-de-chicano.md, wiki/personas/dolores-genaro-moya.md, wiki/personas/elena-hernaez-salguero.md, wiki/personas/enriqueta-chicano-jaen.md, wiki/entidades/tribunal-de-cuentas.md, wiki/entidades/comision-mixta-para-las-relaciones-con-el-tribunal-de-cuentas.md, wiki/entidades/restaurante-la-chalana.md, wiki/index.md, wiki/log.md]
+- **[2026-05-26]** - Ingesta de: "Resumen causas judiciales" (Fusión de Koldo/Ábalos y creación de Caso Hidrocarburos)
+  ✅ Ingestión exitosa: [wiki/fuentes/resumen-causas-judiciales.md, wiki/casos/caso-hidrocarburos.md, wiki/personas/claudio-rivas.md, wiki/personas/maria-luisa-rivas.md, wiki/personas/santiago-pedraz.md, wiki/casos/caso-koldo.md, wiki/index.md, wiki/log.md]
+- **[2026-05-26]** - Consolidación de Fuente: "Aviones de la aerolínea Plus Ultra entregaron en España regalos muy valiosos de Nicolás Maduro"
+  ✅ Ingestión exitosa: Consolidación final en [wiki/fuentes/aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana.md] con tags de `caso-plus-ultra`, purga del archivo duplicado truncado anterior y corrección de 19 referencias en el vault.
+- **[2026-05-26]** - Ingesta de: "Chicano desafía a las Cortes se niega a fiscalizar las subvenciones a Bildu tras presentar a terroristas en sus listas"
+  ✅ Ingestión exitosa: Ingesta definitiva de [wiki/fuentes/chicano-desafia-a-las-cortes-se-niega-a-fiscaliza.md], creación de [wiki/personas/juan-francisco-serrano.md] y [wiki/entidades/eh-bildu.md], y actualización de [wiki/personas/enriqueta-chicano-jaen.md], [wiki/index.md] y [wiki/log.md].
+- **[2026-05-26]** - Ingesta de: "Descarrila un tren de mercancías 'peligrosas' en Irún sin información pública del Ministerio"
+  ✅ Ingestión exitosa: Ingesta definitiva de [wiki/fuentes/descarrila-un-tren-de-mercancias-peligrosas-en-i.md], creación de [wiki/personas/jose-antonio-santano.md] y actualización de [wiki/personas/oscar-puente.md], [wiki/index.md] y [wiki/log.md].
+- **[2026-05-26]** - Ingesta de: "El CGPJ estalla contra Bolaños: Los mensajes que escribe a la presidenta son machistas, impresentables e intolerables"
+  ✅ Ingestión exitosa: Ingesta definitiva de [wiki/fuentes/el-cgpj-estalla-contra-bolanos.md], creación de [wiki/personas/isabel-perello.md] y [wiki/entidades/cgpj.md], y actualización de [wiki/personas/felix-bolanos.md], [wiki/personas/juan-carlos-peinado-garcia.md], [wiki/casos/caso-begona-gomez.md], [wiki/index.md] y [wiki/log.md].
+- **[2026-05-26]** - Ingesta de: "Resumen causas judiciales" (Creación de Caso Pegasus y Saneamiento de Caso Leire - Hirurok)
+  ✅ Ingestión exitosa: [wiki/fuentes/resumen-causas-judiciales.md, wiki/casos/caso-pegasus.md, wiki/casos/caso-leire-hirurok.md, wiki/personas/margarita-robles.md, wiki/personas/luis-planas.md, wiki/personas/cristina-pastor-recover.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "La bronca de la fiscal del caso Plus Ultra a los peritos que cuestionaron el rescate: ¡No! ¡Escúcheme!"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p.md, wiki/personas/maria-luisa-llop.md, wiki/personas/pilar-rodriguez.md, wiki/personas/teresa-peramato.md, wiki/personas/miguel-palomero.md, wiki/personas/alvaro-garcia-ortiz.md, wiki/personas/jose-luis-calama-teixeira.md, wiki/casos/caso-plus-ultra.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "Las notas manuscritas de Julio Martínez señalan directamente al gas, oro y petróleo de Venezuela: PDVSA 50%"
+  ✅ Ingestión exitosa: [wiki/fuentes/las-notas-manuscritas-de-julio-martinez-senalan-di.md, wiki/personas/edmundo-gonzalez-urrutia.md, wiki/personas/julio-martinez-martinez.md, wiki/personas/jose-luis-rodriguez-zapatero.md, wiki/personas/delcy-rodriguez.md, wiki/casos/caso-zapatero.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "La UCO entra en Ferraz para desmantelar la trama del PSOE contra los jueces" (Actualización y reemplazo de "La UCO entra en Ferraz en un operativo por la trama Sepi")
+  ✅ Ingestión exitosa: [wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md, wiki/casos/caso-leire-hirurok.md, wiki/personas/leire-diez-castro.md, wiki/personas/vicente-fernandez-guerrero.md, wiki/personas/anton-alonso.md, wiki/personas/santos-cerdan-leon.md, wiki/personas/maria-jesus-montero.md, wiki/personas/teresa-ribera.md, wiki/personas/santiago-pedraz.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "La Fiscalía de Madrid traslada una denuncia de las fiscales mencionadas en el caso Plus Ultra a Inspección Fiscal" (Actualización y reemplazo de "La Fiscalía Superior de Madrid abre un expediente...")
+  ✅ Ingestión exitosa: [wiki/fuentes/la-fiscalia-de-madrid-traslada-una.md, wiki/personas/almudena-lastra.md, wiki/personas/maria-luisa-llop.md, wiki/personas/pilar-rodriguez.md, wiki/personas/miguel-palomero.md, wiki/personas/rodolfo-reyes.md, wiki/casos/caso-plus-ultra.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "La UCO entra en Ferraz para desmantelar la trama del PSOE contra los jueces"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md, wiki/personas/javier-perez-dolset.md, wiki/personas/gaspar-zarrias.md, wiki/personas/ismael-oliver.md, wiki/personas/jacobo-teijelo-casanova.md, wiki/personas/juan-sanchez-yepes.md, wiki/personas/ana-maria-fuentes-pacheco.md, wiki/personas/juan-manuel-serrano-quintana.md, wiki/personas/juan-francisco-serrano.md, wiki/personas/santos-cerdan-leon.md, wiki/personas/leire-diez-castro.md, wiki/personas/vicente-fernandez-guerrero.md, wiki/personas/santiago-pedraz.md, wiki/casos/caso-leire-hirurok.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "Resumen causas judiciales" (Integración de Caso Leire - Cloacas)
+  ✅ Ingestión exitosa: [wiki/fuentes/resumen-causas-judiciales.md, wiki/casos/caso-leire-cloacas.md, wiki/personas/arturo-zamarriego.md, wiki/personas/pere-rusinol.md, wiki/personas/leire-diez-castro.md, wiki/personas/javier-perez-dolset.md, wiki/personas/santiago-pedraz.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "Resumen causas judiciales" (Integración de Caso Mascarillas)
+  ✅ Ingestión exitosa: [wiki/fuentes/resumen-causas-judiciales.md, wiki/fuentes/el-tsjm-confirma-la-absolucion-del-empresario-luis.md, wiki/casos/caso-mascarillas.md, wiki/personas/maria-jose-rodriguez-dupla.md, wiki/personas/luis-medina-abascal.md, wiki/personas/alberto-luceno-ceron.md, wiki/personas/jose-antonio-choclan.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "Santos Cerdán, Zarrías y la gerente del PSOE, imputados en la trama SEPI"
+  ✅ Ingestión exitosa: [wiki/fuentes/santos-cerdan-zarrias-y-la-gerente-del.md, wiki/personas/santos-cerdan-leon.md, wiki/personas/gaspar-zarrias.md, wiki/personas/ana-maria-fuentes-pacheco.md, wiki/casos/caso-leire-hirurok.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "La UCO se presenta en la Dirección General de la Guardia Civil para investigar los chivatazos"
+  ✅ Ingestión exitosa: [wiki/fuentes/la-uco-se-presenta-en-la-direccion.md, wiki/casos/caso-leire-hirurok.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "Pedraz señala los audios de la cloaca del PSOE sobre Sánchez El Presidente ya dijo, que se limpie todo"
+  ✅ Ingestión exitosa: [wiki/fuentes/pedraz-senala-los-audios-de-la-cloaca.md, wiki/personas/ignacio-stampa.md, wiki/personas/ion-fernando-antolin.md, wiki/casos/caso-leire-cloacas.md, wiki/casos/caso-begona-gomez.md, wiki/casos/caso-david-sanchez.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-27]** - Ingesta de: "El PSOE pagó 178.000 euros a la cloaca para ir a por jueces como Biedma, Alaya y Peinado"
+  ✅ Ingestión exitosa: [wiki/fuentes/el-psoe-pago-178000-euros-a-la-cloaca.md, wiki/personas/mercedes-alaya.md, wiki/casos/caso-leire-cloacas.md, wiki/casos/caso-begona-gomez.md, wiki/casos/caso-david-sanchez.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]

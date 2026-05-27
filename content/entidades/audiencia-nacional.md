@@ -59,7 +59,7 @@ tags: [entidad, tribunal]
 - **Actualización [2026-01-12]**: Libertad Digital publica la declaración judicial del presidente de Plus Ultra, Julio Martínez, en un juicio celebrado en julio de 2024. (Fuente: [[el-dueno-de-plus-ultra-nego-a-la-juez-que-moncloa]])
 
 
-- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano-la-in]])
+- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
 
 
 - **Actualización [2026-01-13]**: Este martes ha trascendido una denuncia pública de agresión sexual contra el cantante, si bien la Audiencia Nacional lo estudia desde el 5 de enero. (Fuente: [[la-fiscalia-de-la-audiencia-nacional-investiga-des]])
@@ -275,7 +275,7 @@ tags: [entidad, tribunal]
 - **Actualización [2026-04-27]**: Fuentes del entorno de Koldo García consultadas por LD afirman que \ (Fuente: [[koldo-garcia-se-plantea-tirar-de-la-manta-contra]])
 
 
-- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la]])
+- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la-obsesion-que-vinculo-a-sanchez-con-venezuela]])
 
 
 - **Actualización [2026-05-02]**: \ (Fuente: [[la-fiscalia-vuelve-a-cargar-contra-peinado-e-insis]])

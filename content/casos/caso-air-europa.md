@@ -22,16 +22,15 @@ Pieza separada que investiga las presuntas comisiones de intermediación, tráfi
 
 
 ### Datos clave
-- Pieza separada que investiga las presuntas comisiones de intermediación y trato de favor en el rescate financiero de 475 millones de euros a Air Europa (Grupo Globalia).
-- La UDEF investiga pagos de hasta 500.000 euros de Javier Hidalgo a Koldo García y Víctor de Aldama por gestiones de mediación ante ministerios del Gobierno.
-- Declaraciones judiciales de Pedro Saura e Hidalgo confirman llamadas y reuniones directas con comisionistas en despachos de Transportes previos a la concesión.
-- La UCO traslada indicios de que Begoña Gómez mantuvo reuniones directas con Hidalgo para el desarrollo del rescate y patrocinio de eventos del IE.
-
+- Se investiga el presunto tráfico de influencias y prevaricación en la concesión del rescate millonario a la aerolínea de Globalia / Air Europa.
+- La UCO de la Guardia Civil trasladó formalmente al juez Peinado que los indicios y vínculos de Begoña Gómez con el rescate no resultan contrastables en sede judicial.
+- Pedro Saura, exsecretario de Estado de Transportes, admitió haber mantenido llamadas directas con el comisionista Víctor de Aldama por cortesía durante las negociaciones de las ayudas públicas.
 ## Referencias cruzadas
 - [[caso-koldo]] (causa matriz de la que dimana)
-- [[caso-abalos]] (conexión por su rol como ministro de Transportes)
+- [[caso-koldo]] (conexión por su rol como ministro de Transportes)
 - [[caso-plus-ultra]] (convergencia temática sobre ayudas públicas a aerolíneas)
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
-- [[resumen-causas-judiciales]]
+- [[la-uco-dice-al-juez-peinado-que|La UCO dice al juez Peinado que no son contrastables los vínculos de Begoña Gómez con el rescate de Air Europa]]
+- [[pedro-saura-reconoce-haber-llamado-por-telefono-a|Pedro Saura reconoce haber llamado por teléfono a Aldama por el rescate de Air Europa Fue por cortesía]]

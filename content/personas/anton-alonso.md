@@ -46,8 +46,17 @@ Investigado en la pieza separada "Hirurok" por presunta implicación en filtraci
 
 - **Actualización [2026-05-13]**: La denuncia de un testigo presentada ante la Guardia Civil, a la que ha tenido acceso LD, describe la relación de \ (Fuente: [[montero-hizo]])
 
+- **Actualización [2026-05-27]**: El juez Santiago Pedraz ordena un operativo de la UCO en la sede de Ferraz para incautar documentación física y digital clave. La orden busca desmantelar una presunta red criminal destinada a boicotear los procesos judiciales contra el PSOE y el Gobierno, la cual se conecta con las ramificaciones de la trama SEPI por la que está imputado. (Fuente: [[la-uco-entra-en-ferraz-para-desmantelar]])
+- **Actualización [2026-05-27]**: El auto del juez Santiago Pedraz documenta que Santos Cerdán les presentó a Vicente Fernández y Leire Díez a finales del año 2020 ("Antxón"), manteniéndose desde el año 2021 múltiples comunicaciones y reuniones del Clan Hirurok para concertar el cobro de comisiones y el desvío de subvenciones públicas. (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
+
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[caso-leire-hirurok]]
+- [[santos-cerdan-leon]]
+- [[vicente-fernandez-guerrero]]
+- [[leire-diez-castro]]
+- [[caso-leire-cloacas]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[la-uco-entra-en-ferraz-para-desmantelar]]
+- [[pedraz-senala-los-audios-de-la-cloaca]]

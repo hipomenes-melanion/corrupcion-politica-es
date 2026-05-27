@@ -1,7 +1,7 @@
 ---
 title: "José Luis Ábalos Meco"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-24"
+updated: "2026-05-26"
 tags: [persona, investigado]
 ---
 
@@ -11,7 +11,7 @@ Exministro de Transportes, Movilidad y Agenda Urbana y exsecretario de organizac
 ## Detalles clave
 - **Rol principal**: Investigado (Aforado) / Exministro
 - **Casos Relacionados**:
-  - [[caso-abalos]]
+  - [[caso-koldo]]
 
 
 - **Actualización [2025-12-31]**: Los socialistas reconocen haberle pagado 15.000 euros en el año 2017 por sus labores \ (Fuente: [[el-psoe-deja-al-descubierto-la-mayor-mentira-de-le]])
@@ -38,7 +38,7 @@ Exministro de Transportes, Movilidad y Agenda Urbana y exsecretario de organizac
 - **Actualización [2026-01-12]**: Libertad Digital publica la declaración judicial del presidente de Plus Ultra, Julio Martínez, en un juicio celebrado en julio de 2024. (Fuente: [[el-dueno-de-plus-ultra-nego-a-la-juez-que-moncloa]])
 
 
-- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano-la-in]])
+- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
 
 
 - **Actualización [2026-01-14]**: Fuentes jurídicas consultadas por LD afirman que \ (Fuente: [[la-libertad-para-abalos-y-koldo-antes-del-juicio-s]])
@@ -182,7 +182,7 @@ Exministro de Transportes, Movilidad y Agenda Urbana y exsecretario de organizac
 - **Actualización [2026-04-29]**: \ (Fuente: [[aldama-revela-que-le-ofrecieron-edificios-de-la-se]])
 
 
-- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la]])
+- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la-obsesion-que-vinculo-a-sanchez-con-venezuela]])
 
 
 - **Actualización [2026-04-30]**: Reconoce que cobró billetes de 500 euros del PSOE, mientras que el exgerente de la formación dijo que no tenían billetes de esa envergadura. (Fuente: [[koldo-reconoce-parte-de-la-jerga-criminal-de-la-tr]])
@@ -244,8 +244,12 @@ Exministro de Transportes, Movilidad y Agenda Urbana y exsecretario de organizac
 
 - **Actualización [2026-05-24]**: Estos hechos recuerdan a los mensajes intercambiados por la trama Koldo en el marco del rescate a la aerolínea Air Europa. (Fuente: [[la-trama-de-plus-ultra-celebro-la-concesion-del-re]])
 
+- **Actualización [2026-05-26]**: Un informe forense aportado por el PSOE ante la Audiencia Nacional destapó que durante su etapa como Secretario de Organización, se imputaron gastos "llamativos" y extraordinarios recurrentes en el [[restaurante-la-chalana]] y cenas navideñas en Valencia (2019). Estos desembolsos representaron entre el 4% y el 25% del presupuesto total anual gestionado por su departamento. (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
+
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[restaurante-la-chalana]]
+- [[alerta-en-el-tribunal-de-cuentas-de-chicano]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[alerta-en-el-tribunal-de-cuentas-de-chicano]]

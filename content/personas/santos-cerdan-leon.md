@@ -1,7 +1,7 @@
 ---
 title: "Santos Cerdán León"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-13"
+updated: "2026-05-26"
 tags: [persona, investigado]
 ---
 
@@ -23,7 +23,7 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - **Actualización [2026-01-09]**: El ex tesorero de Bancal de Rosas, Pedro Luis Egea, compareció ante la Comisión de investigación del Senado sobre la Trama Koldo. (Fuente: [[sanchez-acepto-ingresos-en-efectivo-irregulares-pa]])
 
 
-- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano-la-in]])
+- **Actualización [2026-01-13]**: Fuentes del Tribunal de Cuentas consultadas por LD afirman que \ (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
 
 
 - **Actualización [2026-01-27]**: Según la propia página web de la empresa Redalsa, Acciona Infraestructuras S.A. posee un 8,8 % de las acciones y Azvi un 4,4 %. (Fuente: [[acciona-y-azvi-son-accionistas-de-la-filial-de-adi]])
@@ -94,8 +94,28 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 
 - **Actualización [2026-05-13]**: La denuncia de un testigo presentada ante la Guardia Civil, a la que ha tenido acceso LD, describe la relación de \ (Fuente: [[montero-hizo]])
 
+- **Actualización [2026-05-26]**: Se reveló que desde su puesto en 2020 como presidente de la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, Cerdán presionó políticamente para encumbrar a [[enriqueta-chicano-jaen]] en la presidencia del [[tribunal-de-cuentas]]. Esta maniobra de control buscaba eludir auditorías sobre la financiación y el crowdfunding del PSOE en 2017, así como mitigar la responsabilidad contable de los encausados por el referéndum catalán. (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
+- **Actualización [2026-05-27]**: El magistrado Santiago Pedraz de la Audiencia Nacional ordena un operativo de la UCO en la sede de Ferraz para incautar documentación del partido. El procedimiento se dirige contra Cerdán y otros cargos por liderar presuntamente una organización criminal destinada a desestabilizar y boicotear las investigaciones penales contra el PSOE y el Gobierno, conectándose con los contratos amañados de la trama SEPI que involucran a su socio Antón Alonso y a Leire Díez. (Fuente: [[la-uco-entra-en-ferraz-para-desmantelar]])
+- **Actualización [2026-05-27]**: Imputado formalmente en la trama SEPI por el juez Santiago Pedraz de la Audiencia Nacional, quien ordena el registro de su domicilio en el marco de la investigación criminal sobre adjudicaciones amañadas en empresas públicas. (Fuentes: [[santos-cerdan-zarrias-y-la-gerente-del]], [[la-uco-se-presenta-en-la-direccion]])
+- **Actualización [2026-05-27]**: El juez Pedraz lo sitúa al frente del impulso, soporte intelectual y financiero de las cloacas del PSOE, financiado con 178.000€ de Ferraz. Se revela que participó en la reunión fundacional de Ferraz celebrada durante el periodo de reflexión de Pedro Sánchez en abril de 2024 para boicotear de forma ilimitada los procedimientos judiciales. (Fuentes: [[pedraz-senala-los-audios-de-la-cloaca]], [[el-psoe-pago-178000-euros-a-la-cloaca]])
+
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[tribunal-de-cuentas]]
+- [[enriqueta-chicano-jaen]]
+- [[comision-mixta-para-las-relaciones-con-el-tribunal-de-cuentas]]
+- [[alerta-en-el-tribunal-de-cuentas-de-chicano]]
+- [[caso-leire-hirurok]]
+- [[gaspar-zarrias]]
+- [[javier-perez-dolset]]
+- [[la-uco-entra-en-ferraz-para-desmantelar]]
+- [[ion-fernando-antolin]]
+- [[juan-manuel-serrano-quintana]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[alerta-en-el-tribunal-de-cuentas-de-chicano]]
+- [[la-uco-entra-en-ferraz-para-desmantelar]]
+- [[santos-cerdan-zarrias-y-la-gerente-del]]
+- [[la-uco-se-presenta-en-la-direccion]]
+- [[pedraz-senala-los-audios-de-la-cloaca]]
+- [[el-psoe-pago-178000-euros-a-la-cloaca]]

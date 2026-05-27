@@ -11,7 +11,7 @@ Magistrada de la Sala Segunda (de lo Penal) del Tribunal Supremo, designada inst
 ## Detalles clave
 - **Rol principal**: Magistrada Instructora
 - **Casos Relacionados**:
-  - [[caso-abalos]]
+  - [[caso-koldo]]
 
 ## Referencias cruzadas
 *No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*

@@ -18,7 +18,7 @@ Ministro de Transportes y Movilidad Sostenible de España, bajo investigación p
 
 - **Actualización [2026-01-27]**: Según la propia página web de la empresa Redalsa, Acciona Infraestructuras S.A. posee un 8,8 % de las acciones y Azvi un 4,4 %. (Fuente: [[acciona-y-azvi-son-accionistas-de-la-filial-de-adi]])
 
-- **Actualización [2026-02-09]**: Fuentes de Adif y Renfe aseguran que el vagón no volcó y que la incidencia fue mínima. Al preguntar por qué podría haber pasado: \ (Fuente: [[descarrila-un-tren-de-mercancias-peligrosas-en-i]])
+- **Actualización [2026-02-09]**: Fuentes de Adif y Renfe aseguran que el vagón no volcó y que la incidencia fue mínima. Al preguntar por qué podría haber pasado, responden de forma escueta: "Pero no ha pasado". (Fuente: [[descarrila-un-tren-de-mercancias-peligrosas-en-i]])
 
 - **Actualización [2026-02-10]**: La Audiencia Nacional recibió el pasado mes de enero una denuncia contra el ministro por sus supuestas responsabilidades civiles en el accidente. (Fuente: [[la-fiscalia-de-la-audiencia-nacional-informa-en-co]])
 

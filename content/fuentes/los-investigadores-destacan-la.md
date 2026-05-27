@@ -1,8 +1,9 @@
 ---
-title: "Los investigadores destacan la influencia determinante de Zapatero y Delcy Rodríguez en la compraventa de petróleo"
-source: "raw/Los investigadores destacan la influencia determinante de Zapatero y Delcy Rodríguez en la compraventa de petróleo.md"
-updated: "2026-05-19"
-tags: [caso-plus-ultra]
+title: Los investigadores destacan la influencia determinante de Zapatero y Delcy Rodríguez en la compraventa de petróleo
+source: raw/Los investigadores destacan la influencia determinante de Zapatero y Delcy Rodríguez en la compraventa de petróleo.md
+updated: 2026-05-19
+tags:
+  - caso-zapatero
 ---
 
 ## Resumen

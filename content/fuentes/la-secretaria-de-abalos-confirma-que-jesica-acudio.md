@@ -6,12 +6,12 @@ tags: [caso-koldo]
 ---
 
 ## Resumen
-El exjefe de gabinete ha dicho no conocer a Aldama, aunque posteriormente ha reconocido tener agendada una reunión con él y un \
+El exjefe de gabinete ha dicho no conocer a Aldama, aunque posteriormente ha reconocido tener agendada una reunión con él y un "promotor musical".
 
 ## Detalles clave
 - La secretaria de **José Luis Ábalos** en el **Ministerio de Transportes**, **Ana María Aranda Jaraices**, ha certificado en su declaración en calidad de testigo en el juicio a la **trama Koldo** que Jésica Rodríguez acompañó al entonces ministro hasta en 13 viajes oficiales.
-- La prostituta de Ábalos mantuvo una relación duradera con él mientras vivía en un piso pagado por la **trama Koldo** ubicado en la madrileña **Plaza de España**. Diversos informes de la **Unidad Central Operativa** (**UCO**) de la **Guardia Civil** desvelados por **Libertad Digital** ya habían re...
-- **Ana María Aranda** ha certificado que ha "cotejado" en las últimas semanas su etapa como secretaria de Ábalos para estar preparada para su declaración. Así, ha confirmado que Jésica viajó en hasta 13 ocasiones en los que Ábalos se desplazó para cumplir su agenda ministerial: "Nos pusimos a cote...
+- La prostituta de Ábalos mantuvo una relación duradera con él mientras vivía en un piso pagado por la **trama Koldo** ubicado en la madrileña **Plaza de España**. Diversos informes de la **Unidad Central Operativa** (**UCO**) de la **Guardia Civil** desvelados por **Libertad Digital** ya habían revelado la presencia de Jésica en algunos viajes oficiales del exministro de Transportes.
+- **Ana María Aranda** ha certificado que ha "cotejado" en las últimas semanas su etapa como secretaria de Ábalos para estar preparada para su declaración. Así, ha confirmado que Jésica viajó en hasta 13 ocasiones en los que Ábalos se desplazó para cumplir su agenda ministerial: "Nos pusimos a cotejar y comprobamos que en 13 de los 293 viajes oficiales, Jésica Rodríguez acompañó al ministro".
 
 ## Referencias cruzadas
 - [[koldo-garcia-izaguirre]]

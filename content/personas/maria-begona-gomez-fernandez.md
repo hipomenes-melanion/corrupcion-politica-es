@@ -1,7 +1,7 @@
 ---
 title: "María Begoña Gómez Fernández"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-05-26"
 tags: [persona, investigado]
 ---
 
@@ -100,11 +100,19 @@ Esposa del presidente del Gobierno, investigada por presunto tráfico de influen
 
 - **Actualización [2026-05-25]**: El informe de la UCO, al que ha tenido acceso LD, señala que \ (Fuente: [[la-uco-senala-a-begona-gomez-por-la-contratacion-i]])
 
+- **Actualización [2026-05-26]**: El último informe de la UCO destapa un presunto quinto delito cometido por Begoña Gómez, prevaricación administrativa. Los informes policiales acreditan que amañó de antemano junto a su colaborador [[jose-luis-calama-teixeira|magistrados]] y de forma directa las condiciones técnicas de adjudicaciones a la consultora [[deloitte]] por un valor de 78.648,79 euros para la asistencia tecnológica en su cátedra de la [[universidad-complutense-de-madrid]]. El encaje procesal de la prevaricación obligará a buscar soluciones ya que no puede ser enjuiciada bajo jurado popular a diferencia de las otras cuatro imputaciones en el [[juzgado-de-instruccion-41-de-madrid]]. (Fuente: [[el-ultimo-informe-de-la-uco-destapa-un-nuevo-delito-de-begona-gomez]])
+
 ## Referencias cruzadas
 - [[hospital-ramon-y-cajal]]
 - [[jose-luis-zamorano]]
 - [[moncloa-aumentara]]
+- [[deloitte]]
+- [[universidad-complutense-de-madrid]]
+- [[jose-manuel-ruano]]
+- [[cristina-alvarez]]
+- [[el-ultimo-informe-de-la-uco-destapa-un-nuevo-delito-de-begona-gomez]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[moncloa-aumentara]]
+- [[el-ultimo-informe-de-la-uco-destapa-un-nuevo-delito-de-begona-gomez]]

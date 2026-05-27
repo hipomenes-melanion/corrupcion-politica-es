@@ -32,4 +32,4 @@ Investigación sobre una presunta red de extorsión a empresarios del sector gan
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
-- [[resumen-causas-judiciales]]
+- [[resumen-causas-judiciales|Resumen causas judiciales]]

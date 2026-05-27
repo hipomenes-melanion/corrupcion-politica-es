@@ -20,15 +20,14 @@ Causa especial seguida contra el Fiscal General del Estado, Álvaro García Orti
 
 
 ### Datos clave
-- La causa investiga la presunta filtración de datos reservados y correos confidenciales de la Fiscalía relativos al acuerdo ofrecido por la defensa de un investigado por fraude fiscal.
-- El Tribunal Supremo emitió sentencia condenatoria en primera instancia contra Álvaro García Ortiz imponiendo pena de multa e inhabilitación especial.
-- La defensa de García Ortiz ha presentado recurso de amparo ante el Tribunal Constitucional alegando indefensión y vulneración de derechos preprocesales.
-- El caso representa un conflicto inédito entre el Consejo General del Poder Judicial (CGPJ) y la Fiscalía General del Estado por la neutralidad de la institución.
-
+- El Fiscal General del Estado, Álvaro García Ortiz, fue condenado en primera instancia por la comisión de un delito de revelación de secretos de datos reservados de funcionario público.
+- La acusación de González Amador reclama inhabilitación especial y que se ejecute la condena de inhabilitación de manera inmediata.
+- La magistrada del Tribunal Constitucional Segoviano rechazó apartarse del recurso de amparo a pesar de haber enviado públicamente un mensaje de ánimo y felicitación al Fiscal General condenado.
 ## Referencias cruzadas
-- [[caso-abalos]] (paralelismos por enjuiciamiento en la Sala de lo Penal del Tribunal Supremo)
+- [[caso-koldo]] (paralelismos por enjuiciamiento en la Sala de lo Penal del Tribunal Supremo)
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
-- [[la-causa-de-garcia-ortiz-es-el]]
-- [[resumen-causas-judiciales]]
+- [[escandalo-en-el-tc-segoviano-mantiene-la-ponencia|Escándalo en el TC Segoviano mantiene la ponencia de García Ortiz después de desearle mucho ánimo tras su condena]]
+- [[gonzalez-amador-pide-a-peramato-que-garcia-ortiz-c|González Amador pide a Peramato que García Ortiz cumpla sentencia, sea inhabilitado y pague su indemnización]]
+- [[la-causa-de-garcia-ortiz-es-el|La causa de García Ortiz es el banco de pruebas para librar a Sánchez de la justicia desacreditando al Supremo]]

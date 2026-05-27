@@ -1,7 +1,7 @@
 ---
 title: "Caso Plus Ultra"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-05-26"
 tags: [caso-plus-ultra]
 ---
 
@@ -17,43 +17,52 @@ Investigación sobre presuntas irregularidades, falsedad contable y fraude en la
 - **Investigados / Encausados Principales**:
   - [[jose-luis-rodriguez-zapatero]] (Expresidente del Gobierno de España)
   - [[delcy-rodriguez|Delcy Rodríguez]] (Vicepresidenta de Venezuela, alias \"La Dama\")
+  - [[nicolas-maduro]] (Presidente de Venezuela)
   - [[julio-martinez-sola|Julio Martínez Sola]] (Presidente de Plus Ultra)
   - [[rodolfo-reyes|Rodolfo Reyes]] (Accionista mayoritario de Plus Ultra)
   - [[roberto-roselli]] (CEO de Plus Ultra)
   - [[julio-martinez-martinez]] (Empresario y testaferro de cobros)
+  - [[alba-rodriguez-espinosa]] (Hija de Zapatero, socia gestora de What The Fav)
   - Miembros del Consejo de Administración de la [[sepi]]
   - Altos cargos de [[plus-ultra-lineas-aereas]]
 - **Tipos Penales Imputados**: Organización criminal, tráfico de influencias, fraude en la obtención de subvenciones o ayudas públicas, falsedad contable, malversación de caudales públicos y cohecho.
 
 
 ### Datos clave
-- Investigación sobre fraude de subvenciones, falsedad contable, prevaricación, organización criminal y tráfico de influencias en la concesión de una ayuda estatal de 53 millones de euros de la SEPI a Plus Ultra.
-- La aerolínea recibió y celebró la ayuda pública de solvencia antes de su aprobación formal por el Consejo de Ministros.
-- Las escuchas interceptadas por la UDEF de marzo de 2020 revelan que la directiva de Plus Ultra (Julio Martínez Sola y Rodolfo Reyes) activó hilos de lobby al más alto nivel: la llamada de Delcy Rodríguez a [[jose-luis-abalos-meco]] y la mediación del expresidente Zapatero (definido en chats como "pro Sánchez" y "pro Maduro").
-- Se desvela una red paralela e internacional de compraventa de petróleo de PDVSA vinculada al cobro de mordidas del rescate de Plus Ultra. Para acceder a la operativa de compra de crudo, los clientes debían obligatoriamente canalizar sus peticiones a través de cartas de intención (LOI) remitidas a la oficina de Zapatero, actuando Delcy Rodríguez ("La Dama") como la encargada de la asignación física de buques petroleros.
-- Se investiga la implicación de firmas estatales de China en la compra del petróleo a través de LOIs enviadas a la oficina de Zapatero y el uso de sociedades instrumentales y ficticias (como Inteligencia Prospectiva).
-- Se investigan pagos y transferencias de la trama a cuentas asociadas de familiares de altos cargos gubernamentales.
-- La UDEF desvela relaciones de Plus Ultra con altos cargos de la aviación del régimen venezolano para la exclusividad de vuelos comerciales en pandemia.
-- El auto de 88 páginas del juez Calama revela que la directiva de la aerolínea se refería a [[julio-martinez-martinez]] como el "lacayo" de Zapatero. Se constata la creación de una boutique financiera ("finance boutique") bajo órdenes del expresidente para canalizar el cobro de comisiones ilegales ("mordidas") procedentes del rescate público.
-- Se documenta la intermediación de [[koldo-garcia-izaguirre]] para conseguir una reunión el 22 de julio de 2020 con el entonces secretario de Estado de Transportes, [[pedro-saura]], en la que este se comprometió a que el Ministerio hablaría bien de la aerolínea ante la SEPI ("Eso lo tienen asegurado"). Tras la cita, [[rodolfo-reyes]] celebró la influencia política de Zapatero escribiendo en chats internos: "Sí bro, nuestro pana Zapatero detrás". Asimismo, constan registros de que Zapatero mantuvo una reunión de lobby con el entonces ministro de Inclusión y Seguridad Social, [[jose-luis-escriva]], hecho transmitido por Koldo García a Ábalos.
-- Se investiga la denuncia penal interpuesta por [[iustitia-europa]] para esclarecer la presunta influencia y contactos de la trama con el Ministerio Fiscal. Escuchas de la UDEF desvelan que el abogado [[miguel-palomero]] informó a los directivos de que *"la fiscal jefa es amiga"*, planteando coordinar un *"Kitchen Cabinet"* para *"cortar esto"*. Procesalmente se constata que con posterioridad la Fiscalía defendió activamente el desbloqueo de los 34 millones del rescate y solicitó el archivo del caso.
-
+- La causa penal investiga el presunto fraude en la concesión del rescate público de 53 millones de euros a la aerolínea Plus Ultra Líneas Aéreas por parte del consejo de la SEPI.
+- El juez José Luis Calama (JCI 4) señala al expresidente José Luis Rodríguez Zapatero al frente de una presunta estructura de tráfico de influencias transnacional vinculada a Venezuela.
+- Aviones de Plus Ultra habrían transportado a España regalos muy valiosos de Nicolás Maduro dirigidos a altos cargos institucionales y familiares.
+- La UDEF registró el despacho de Zapatero e incautó maletines sellados, joyas, piedras preciosas y contratos opacos con firmas como Huawei y Oro Azul a nombre de sus hijas.
+- El entorno de Zapatero canalizó comisiones ilegales a través de su secretaria de confianza María Gertrudis y su lugarteniente Julio Martínez mediante cuentas offshore en Dubái.
 ## Referencias cruzadas
 - [[caso-air-europa]] (convergencia temática sobre ayudas públicas concedidas por la SEPI)
 - [[caso-zapatero]] (conexión de influencias transnacionales e imputación convergente del expresidente)
 - [[caso-forestalia]] (convergencia de instrucción en el Juzgado Central de Instrucción n.º 4)
+- [[alba-rodriguez-espinosa]]
+- [[huawei-technologies-espana]]
+- [[oro-azul]]
+- [[nicolas-maduro]]
+- [[juzgado-de-instruccion-15-de-madrid]]
+- [[clap]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
-- [[julio-martinez-borro]]
-- [[las-comunicaciones-de-la-trama-zapatero-es]]
-- [[los-investigadores-destacan-la]]
-- [[resumen-causas-judiciales]]
-- [[zapatero-utilizo-a-su]]
-- [[piden-que-se-investigue-a-la-fiscal]]
-
-## Notas de contradicción
-> **⚠️ Contradicción**
-> Existe una discrepancia sustancial sobre la influencia política en la tramitación del rescate de 53 millones de euros de la SEPI a Plus Ultra:
-> - **Declaración del Investigado**: El presidente de la aerolínea, Julio Martínez, niega categóricamente en sede judicial que mediara cualquier tipo de influencia o intervención por parte de la Moncloa o del exministro Ábalos para acelerar o aprobar la concesión de las ayudas.
-> - **Hallazgos de la Investigación**: Los informes patrimoniales de la UDEF y los autos del juez Calama señalan indicios de que se orquestó una estructura de tráfico de influencias liderada presuntamente por José Luis Rodríguez Zapatero y Delcy Rodríguez para la obtención ilegal de subvenciones y blanqueo de capitales a través de entramados opacos internacionales.
+- [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana|Aviones de la aerolínea Plus Ultra entregaron en España regalos muy valiosos de Nicolás Maduro]]
+- [[el-dueno-de-plus-ultra-nego-a-la-juez-que-moncloa|El dueño de Plus Ultra negó a la juez que Moncloa o Ábalos intervinieran en el rescate de la compañía ¡En absoluto!]]
+- [[el-juez-calama-abre-dos-piezas-separadas|El juez Calama abre dos piezas separadas al aflorar delitos de terceras personas ajenas a la trama]]
+- [[el-juez-del-caso-plus-ultra-senala-a-zapatero-como|El juez del caso Plus Ultra señala a Zapatero como el presunto líder de una estructura de tráfico de influencias]]
+- [[el-lenguaje-de-la-trama-plus-ultra|El lenguaje de la trama Plus Ultra Vamos a follar aunque tengamos que pagar un poquitín]]
+- [[estupor-policial-por-el-caso-plus-ultra|Estupor policial por el caso Plus Ultra Zapatero y sus hijas tendrían que haber sido ya detenidos]]
+- [[guerra-por-la-sucesion-en-la-comisaria-general-de|Guerra por la sucesión en la Comisaría General de Policía Judicial que controla la investigación de Plus Ultra]]
+- [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p|La bronca de la fiscal del caso Plus Ultra a los peritos que cuestionaron el rescate: "¡No! ¡Escúcheme!"]]
+- [[la-cupula-sanchista-de-la-policia-paraliza-la-inve|La cúpula sanchista de la Policía paraliza la investigación del chivatazo denunciado Plus Ultra]]
+- [[la-declaracion-judicial-del-dueno-de-plus-ultra-so|La declaración judicial del dueño de Plus Ultra sobre el blanqueo de capitales a Maduro Se han dicho muchas burradas]]
+- [[la-fiscalia-entrego-a-la-udef-la-investigacion-del|La Fiscalía entregó a la UDEF la investigación del caso Plus Ultra que salpica a Zapatero]]
+- [[la-fiscalia-de-madrid-traslada-una|La Fiscalía de Madrid traslada una denuncia de las fiscales mencionadas en el caso Plus Ultra a Inspección Fiscal]]
+- [[la-sepi-de-montero-salpicada-en-plus-ultra|La SEPI de Montero, salpicada en Plus Ultra]]
+- [[la-trama-de-plus-ultra-celebro-la-concesion-del-re|La trama de Plus Ultra celebró la concesión del rescate antes de su aprobación]]
+- [[la-trama-plus-ultra-hizo-pagos-a-jesica-rodriguez|La trama Plus Ultra hizo pagos a Jesica Rodríguez]]
+- [[la-trama-plus-ultra-tenia-relacion-directa-con-un|La trama Plus Ultra tenía relación directa con un alto cargo de Maduro que autorizó sus vuelos a Venezuela]]
+- [[piden-que-se-investigue-a-la-fiscal|Piden que se investigue a la fiscal amiga señalada por la trama]]
+- [[plus-ultra-hacienda-obligada-a-investigar-a-zapat|Plus Ultra Hacienda obligada a investigar a Zapatero por delito fiscal tras confesar viajes de avión pagados por PDVSA]]
+- [[primera-querella-contra-todo-el-consejo-de-ministr|Primera querella contra todo el Consejo de Ministros por el rescate de Plus Ultra]]

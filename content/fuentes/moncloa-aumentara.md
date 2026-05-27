@@ -1,8 +1,8 @@
 ---
-title: "Moncloa aumentará notablemente el presupuesto destinado a vigilar la salud de Pedro Sánchez"
-source: "raw/Moncloa aumentará notablemente el presupuesto destinado a vigilar la salud de Pedro Sánchez.md"
-updated: "2026-02-26"
-tags: [salud-sanchez, pedro-sanchez]
+title: Moncloa aumentará notablemente el presupuesto destinado a vigilar la salud de Pedro Sánchez
+source: raw/Moncloa aumentará notablemente el presupuesto destinado a vigilar la salud de Pedro Sánchez.md
+updated: 2026-02-26
+tags:
 ---
 
 ## Resumen

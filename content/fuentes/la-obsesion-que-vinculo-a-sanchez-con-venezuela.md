@@ -1,8 +1,9 @@
 ---
-title: "La obsesión que vinculó a Sánchez con Venezuela Necesitaba financiación para la Internacional Socialista"
-source: "raw/La obsesión que vinculó a Sánchez con Venezuela Necesitaba financiación para la Internacional Socialista.md"
-updated: "2026-04-29"
-tags: [caso-koldo, caso-zapatero]
+title: La obsesión que vinculó a Sánchez con Venezuela Necesitaba financiación para la Internacional Socialista
+source: raw/La obsesión que vinculó a Sánchez con Venezuela Necesitaba financiación para la Internacional Socialista.md
+updated: 2026-04-29
+tags:
+  - caso-hidrocarburos
 ---
 
 ## Resumen

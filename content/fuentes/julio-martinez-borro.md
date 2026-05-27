@@ -1,8 +1,9 @@
 ---
-title: "Julio Martínez borró de manera sistemática los mensajes con Zapatero"
-source: "raw/Julio Martínez borró de manera sistemática los mensajes con Zapatero.md"
-updated: "2026-05-25"
-tags: [caso-plus-ultra]
+title: Julio Martínez borró de manera sistemática los mensajes con Zapatero
+source: raw/Julio Martínez borró de manera sistemática los mensajes con Zapatero.md
+updated: 2026-05-25
+tags:
+  - caso-zapatero
 ---
 
 ## Resumen

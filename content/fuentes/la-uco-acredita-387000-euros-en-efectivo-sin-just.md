@@ -9,9 +9,9 @@ tags: [caso-koldo]
 La UCO acredita 387.000 euros en efectivo sin justificar en el entorno de Koldo: "Con él asumían gastos de Ábalos"
 
 ## Detalles clave
-- Los investigadores de la **Unidad Central Operativa** (**UCO**) de la **Guardia Civil** han acreditado este viernes que el entorno de [**Koldo García**](https://www.libertaddigital.com/personajes/koldo-garcia/2.html) introdujo en sus cuentas bancarias un total de 387.000 euros en efectivo sin jus...
-- Diferentes agentes de la **UCO** han declarado este lunes en el **Tribunal Supremo** en una sesión que ha durado más de 13 horas para certificar las investigaciones que han realizado sobre la trama Koldo. Así, el director del departamento de delitos económicos de la Unidad, el teniente coronel Ba...
-- Según los agentes que han realizado los informes patrimoniales de **José Luis Ábalos** y de **Koldo García**, el entorno de Koldo ingresó más de 600.000 euros en efectivo desde el año 2017 hasta el año 2024 en sus cuentas bancarias. De este dinero, habría al menos 387.000 euros sin justificar en ...
+- Los investigadores de la **Unidad Central Operativa** (**UCO**) de la **Guardia Civil** han acreditado este viernes que el entorno de [**Koldo García**](https://www.libertaddigital.com/personajes/koldo-garcia/2.html) introdujo en sus cuentas bancarias un total de 387.000 euros en efectivo sin justificar.
+- Diferentes agentes de la **UCO** han declarado este lunes en el **Tribunal Supremo** en una sesión que ha durado más de 13 horas para certificar las investigaciones que han realizado sobre la trama Koldo. Así, el director del departamento de delitos económicos de la Unidad, el teniente coronel Balas ha aseverado que "el acceso —de la trama— a las altas instancias es total" durante la gestión de [**José Luis Ábalos**](https://www.libertaddigital.com/personajes/jose-luis-abalos/) en el **Ministerio de Transportes**.
+- Según los agentes que han realizado los informes patrimoniales de **José Luis Ábalos** y de **Koldo García**, el entorno de Koldo ingresó más de 600.000 euros en efectivo desde el año 2017 hasta el año 2024 en sus cuentas bancarias. De este dinero, habría al menos 387.000 euros sin justificar en el "pico" de los ingresos, que se dio entre los años 2020 y 2024.
 
 ## Referencias cruzadas
 - [[koldo-garcia-izaguirre]]

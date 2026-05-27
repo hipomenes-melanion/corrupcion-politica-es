@@ -48,7 +48,7 @@ Nivel 3: Ingeniería Financiera Offshore y Fideicomisos
 El asalto a los presupuestos públicos se ejecuta mediante dos patrones repetitivos que anulan la concurrencia competitiva y la neutralidad de los funcionarios técnicos.
 
 ### A. El Abuso del Procedimiento de Contratación de Emergencia (COVID-19)
-La trama del [[caso-koldo]] e [[caso-abalos]] instrumentalizó el marco excepcional de la pandemia del COVID-19. Utilizando la normativa de contratación de emergencia (que permite la adjudicación directa sin publicidad ni licitación previa), la empresa pantalla *Soluciones de Gestión* (sin experiencia previa en el sector sanitario y prácticamente inactiva) obtuvo contratos por más de **53 millones de euros** en ministerios y gobiernos autonómicos (Baleares y Canarias). 
+La trama del [[caso-koldo]] e [[caso-koldo]] instrumentalizó el marco excepcional de la pandemia del COVID-19. Utilizando la normativa de contratación de emergencia (que permite la adjudicación directa sin publicidad ni licitación previa), la empresa pantalla *Soluciones de Gestión* (sin experiencia previa en el sector sanitario y prácticamente inactiva) obtuvo contratos por más de **53 millones de euros** en ministerios y gobiernos autonómicos (Baleares y Canarias). 
 
 ### B. El Mecanismo de Presión Ambiental y Purga de Técnicos (Forestalia)
 En el [[caso-forestalia]], ante la imposibilidad de aplicar la contratación de emergencia, la trama de Fernando Samper recurrió al **mecanismo de presión institucional exprés**:

@@ -6,12 +6,12 @@ tags: [caso-koldo]
 ---
 
 ## Resumen
-Acusa al organismo de realizar \
+Acusa al organismo de realizar "conjeturas", a pesar de que este argumentó que Adif aprobó aumentos de hasta el 20% en los presupuestos de tres obras.
 
 ## Detalles clave
 - La IGAE [remitió al juez **Ismael Moreno** un informe que analizaba las presuntas irregularidades cometidas por la constructora Acciona en tres obras que serían objeto de estudio](https://www.libertaddigital.com/espana/2026-03-11/la-igae-detecta-contratos-adjudicados-por-juicios-de-valor-a-empres...
-- En un escrito de 19 páginas al que ha tenido acceso [**Libertad Digital**](https://www.libertaddigital.com/), Pardo de Vera ataca a la IGAE asegurando que su informe contiene opiniones más que hechos relevantes para la causa calificando los argumentos del organismo dependiente del Ministerio de H...
-- De esta forma, la expresidenta de Adif pretende desmentir uno de los informes que señalan a la trama Koldo como **beneficiaria de mordidas a cambio de adjudicaciones de obra pública** a dedo. En esta causa se encuentran imputados, además de Isabel Pardo de Vera, el exministro [**José Luis Ábalos*...
+- En un escrito de 19 páginas al que ha tenido acceso [**Libertad Digital**](https://www.libertaddigital.com/), Pardo de Vera ataca a la IGAE asegurando que su informe contiene opiniones más que hechos relevantes para la causa calificando los argumentos del organismo dependiente del Ministerio de Hacienda de "conjeturas". "Resultaría en todo caso exigible, que tales opiniones sobre las cuestiones técnicas previamente analizadas por los servicios informantes, fueran, desde un punto de vista igualmente técnico, motivadas o justificadas debidamente por la IGAE, **antes de emitir conjeturas o inferir ilegalidades** ", destaca el escrito.
+- De esta forma, la expresidenta de Adif pretende desmentir uno de los informes que señalan a la trama Koldo como **beneficiaria de mordidas a cambio de adjudicaciones de obra pública** a dedo. En esta causa se encuentran imputados, además de Isabel Pardo de Vera, el exministro [**José Luis Ábalos**](https://www.libertaddigital.com/personajes/jose-luis-abalos/), el exsecretario de Organización socialista [**Santos Cerdán**](https://www.libertaddigital.com/personajes/santos-cerdan/) y [**Koldo García**](https://www.libertaddigital.com/personajes/koldo-garcia/2.html).
 
 ## Referencias cruzadas
 - [[koldo-garcia-izaguirre]]

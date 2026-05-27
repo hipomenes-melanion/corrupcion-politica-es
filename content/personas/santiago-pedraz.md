@@ -1,23 +1,47 @@
 ---
 title: "Santiago Pedraz"
-source: "wiki/fuentes/montero-hizo.md"
-updated: "2026-05-13"
-tags: [persona, magistrado, caso-sepi]
+source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
+updated: "2026-05-27"
+tags: [persona, magistrado, caso-hidrocarburos, caso-leire-hirurok, caso-leire-cloacas]
 ---
 
 ## Resumen
-Santiago Pedraz Gómez es un magistrado español. Se desempeña como titular del Juzgado Central de Instrucción n.º 5 de la [[audiencia-nacional]]. Ejerce la instrucción penal sobre la denominada trama SEPI y el grupo Hirurok por presunto cohecho, tráfico de influencias y organización criminal.
+Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular del Juzgado Central de Instrucción n.º 5. Ejerce la instrucción penal sobre el [[caso-hidrocarburos]] (fraude del IVA de hidrocarburos), la trama SEPI ([[caso-leire-hirurok]]) y el plan de desestabilización de las cloacas del PSOE ([[caso-leire-cloacas]]).
 
 ## Detalles clave
-- **Instrucción de la Trama SEPI**: Dirige la instrucción penal del Caso SEPI, el cual permanece bajo secreto de sumario, donde se investigan los desvíos financieros en la adjudicación de licitaciones públicas por valor de más de 132 millones de euros a través del grupo criminal *Hirurok*.
-- **Investigación patrimonial y personal**: Analiza los informes de la UCO sobre las relaciones estrechas no declaradas de la directiva y altos cargos gubernamentales, incluyendo la denuncia sobre los vínculos de pareja entre [[maria-jesus-montero]] y [[vicente-fernandez-guerrero]] en el verano de 2021.
+- **Instrucción de la Trama SEPI (Hirurok)**: Dirige bajo secreto de sumario la causa penal. En mayo de 2026, decretó la imputación formal de Santos Cerdán, Gaspar Zarrías y la gerente Ana María Fuentes, ordenando el registro de los domicilios de los exdirigentes socialistas y el despliegue de la UCO en la sede de la calle Ferraz para exigir la entrega de expedientes.
+- **Acreditación del desvío de 178.000€**: Pedraz confirma en su auto judicial que el PSOE financió de forma interpuesta con al menos 178.000€ a la cloaca de Leire Díez para atacar e interponer denuncias infundadas contra los jueces Mercedes Alaya, Beatriz Biedma y Juan Carlos Peinado. El magistrado acredita que la gerente contable Fuentes Pacheco emitió órdenes sobre las que elaborar facturas mendaces cobradas en consultoras y despachos de la red (Zarrías, Oliver y Teijelo).
+- **Los audios y la directriz presidencial**: El magistrado expone en sus autos los audios del plan delictivo, que vinculan su origen directo al periodo de reflexión de Pedro Sánchez de abril de 2024 tras la imputación de su esposa, Begoña Gómez. En las conversaciones, los implicados exponen la directriz presidencial de *"limpiar todo sin límites"*.
+- **Chivatazos de la Guardia Civil**: Ordena a la UCO presentarse en la Dirección General de la Guardia Civil para reclamar archivos sobre filtraciones internas y el bloqueo disciplinario de expedientes de la trama SEPI.
+
+## Cronología de Actualizaciones
+- **Actualización [2026-05-27]**: Imputa formalmente a Santos Cerdán, Gaspar Zarrías y Ana Fuentes, ordenando registros domiciliarios y el operativo de Ferraz para reclamar documentación contable. (Fuente: [[santos-cerdan-zarrias-y-la-gerente-del]])
+- **Actualización [2026-05-27]**: Envía a la UCO a la sede de la Dirección General de la Guardia Civil para investigar los chivatazos que entorpecieron expedientes internos de la trama SEPI. (Fuente: [[la-uco-se-presenta-en-la-direccion]])
+- **Actualización [2026-05-27]**: Expone los audios de Leire Díez y Pérez Dolset ante el fiscal Ignacio Stampa que revelan que la trama de boicot judicial se inició tras la imputación de Begoña Gómez bajo el mandato de "que se limpie todo". (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
+- **Actualización [2026-05-27]**: Acredita la facturación falaz de 178.000€ canalizada por Ferraz para atacar a los jueces instructores Alaya, Biedma y Peinado. (Fuente: [[el-psoe-pago-178000-euros-a-la-cloaca]])
 
 ## Referencias cruzadas
-- [[maria-jesus-montero]]
-- [[vicente-fernandez-guerrero]]
+- [[caso-hidrocarburos]]
 - [[caso-leire-hirurok]]
-- [[audiencia-nacional]]
-- [[montero-hizo]]
+- [[caso-leire-cloacas]]
+- [[caso-begona-gomez]]
+- [[caso-david-sanchez]]
+- [[leire-diez-castro]]
+- [[santos-cerdan-leon]]
+- [[gaspar-zarrias]]
+- [[ana-maria-fuentes-pacheco]]
+- [[javier-perez-dolset]]
+- [[mercedes-alaya]]
+- [[beatriz-biedma-buendia]]
+- [[juan-carlos-peinado-garcia]]
+- [[ignacio-stampa]]
+- [[ion-fernando-antolin]]
+- [[juan-manuel-serrano-quintana]]
 
 ## Fuentes
-- [[montero-hizo]]
+- [[resumen-causas-judiciales]]
+- [[la-uco-entra-en-ferraz-para-desmantelar]]
+- [[santos-cerdan-zarrias-y-la-gerente-del]]
+- [[la-uco-se-presenta-en-la-direccion]]
+- [[pedraz-senala-los-audios-de-la-cloaca]]
+- [[el-psoe-pago-178000-euros-a-la-cloaca]]

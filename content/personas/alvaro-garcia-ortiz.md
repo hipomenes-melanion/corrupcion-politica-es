@@ -46,8 +46,11 @@ Fiscal General del Estado, investigado y sentenciado en primera instancia por pr
 
 - **Actualización [2026-05-23]**: Un informe de la UDEF, al que ha tenido acceso LD recoge un intercambio de mensajes entre el empresario Rodolfo Reyes y el abogado Miguel Palomero. (Fuente: [[la-trama-zapatero-recurrio-a-la-fiscalia-para-boic]])
 
+- **Actualización [2026-05-27]**: Como Fiscal General del Estado, ascendió a la fiscal María Luisa Llop a la Fiscalía de la Audiencia Nacional tras su intervención en la fase inicial del Caso Plus Ultra, donde esta abogaba por el archivo y el levantamiento de la suspensión de los pagos del rescate. (Fuente: [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]])
+
 ## Referencias cruzadas
 *No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]

@@ -164,7 +164,7 @@ Empresario y presidente del Zamora CF, presunto comisionista e intermediario cla
 - **Actualización [2026-04-29]**: \ (Fuente: [[aldama-revela-que-le-ofrecieron-edificios-de-la-se]])
 
 
-- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la]])
+- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la-obsesion-que-vinculo-a-sanchez-con-venezuela]])
 
 
 - **Actualización [2026-04-30]**: Reconoce que cobró billetes de 500 euros del PSOE, mientras que el exgerente de la formación dijo que no tenían billetes de esa envergadura. (Fuente: [[koldo-reconoce-parte-de-la-jerga-criminal-de-la-tr]])

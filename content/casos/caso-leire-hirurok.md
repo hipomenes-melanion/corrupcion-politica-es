@@ -1,33 +1,41 @@
 ---
-title: "Caso Leire / Hirurok"
+title: "Caso Leire - Hirurok"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-05-27"
 tags: [caso-leire-hirurok]
 ---
 
 ## Resumen
-Pieza separada denominada "Hirurok", dimanante de un tronco común de investigaciones sobre adjudicaciones irregulares, que indaga el presunto amaño de licitaciones y la filtración de documentos oficiales.
+Pieza separada denominada "Hirurok", dimanante de un tronco común de investigaciones sobre adjudicaciones irregulares, que indaga el presunto amaño de licitaciones de contratos de la SEPI y la filtración de documentos oficiales.
 
 ## Detalles
 ### Informaciones
-- **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 6 y Juzgado Central de Instrucción n.º 5)
-- **Magistrado Instructor**: [[eloy-velasco-nunez]] (JCI 6) y [[santiago-pedraz]] (JCI 5)
+- **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 5)
+- **Magistrado Instructor**: [[santiago-pedraz]] (JCI 5)
 - **Procedimiento**: Diligencias Previas - Pieza Separada "Hirurok" y Trama SEPI (Bajo secreto de sumario)
-- **Fase Procesal Actual**: Fase de Instrucción / Análisis de escuchas de la UCO e intervenciones patrimoniales.
+- **Fase Procesal Actual**: Fase de Instrucción / Imputación formal de altos cargos del PSOE y registros domiciliarios.
 - **Investigados / Encausados Principales**:
   - [[leire-diez-castro]] (Fontanera del PSOE y testaferro de cobros)
   - [[vicente-fernandez-guerrero]] (Expresidente de la SEPI)
   - [[anton-alonso]] (Socio de Santos Cerdán y empresario)
+  - [[santos-cerdan-leon]] (Exsecretario de organización del PSOE)
+  - [[javier-perez-dolset]] (Empresario tecnológico)
+  - [[gaspar-zarrias]] (Exconsejero de Presidencia de la Junta de Andalucía)
+  - [[ismael-oliver]] (Abogado penalista)
+  - [[jacobo-teijelo-casanova]] (Abogado penalista)
+  - [[juan-sanchez-yepes]] (Agente de la Guardia Civil)
+  - [[ana-maria-fuentes-pacheco]] (Gerente de la Secretaría de Organización del PSOE)
+  - [[juan-manuel-serrano-quintana]] (Expresidente de Correos y colaborador)
+  - [[juan-francisco-serrano]] (Diputado del PSOE y colaborador)
   - [[maria-jesus-montero]] (Exministra de Hacienda y candidata del PSOE)
-- **Tipos Penales Imputados**: Tráfico de influencias, cohecho, organización criminal e infidelidad en la custodia de documentos por presunto amaño de licitaciones y filtraciones.
-
+- **Tipos Penales Imputados**: Tráfico de influencias, cohecho, organización criminal, revelación de secretos, inducción al falso testimonio, acusación falsa, falsedad en documento mercantil, prevaricación y delitos contra las instituciones del Estado.
 
 ### Datos clave
-- La Operación Leire investiga el presunto amaño de licitaciones, tráfico de influencias y filtraciones en la adjudicación de contratos públicos a constructoras como Acciona.
-- Se investiga la participación clave de la exdirectora Leire Díez Castro, el expresidente de la SEPI Vicente Fernández y el socio de Cerdán, Antón Alonso, quienes integraban el grupo de WhatsApp *Hirurok* ("los tres juntos") para negociar comisiones ilegales.
-- Los informes de la UCO revelan que la red Hirurok usaba sus estrechas influencias en el Ministerio de Hacienda (Montero) y en el de Transición Ecológica ([[teresa-ribera]]) para amañar al menos cinco contratos públicos valorados en 132.955.664 euros.
-- La UCO analiza la denuncia de un testigo sobre la oculta relación sentimental y "vida de pareja" que Fernández Guerrero mantuvo en secreto en el verano de 2021 con [[maria-jesus-montero]], contradiciendo las categóricas negativas parlamentarias de la ministra de no haber tenido ningún tipo de contacto con él desde su cese. Se investiga si estos vínculos estrechos facilitaron el presunto delito de tráfico de influencias de la trama.
-- La UCO localizó un drive de almacenamiento del expresidente de la SEPI con archivos que acreditan el inflado de contratos para canalizar comisiones ilegales.
+- **Imputación de la cúpula de Ferraz**: El juez de la Audiencia Nacional Santiago Pedraz decreta la imputación formal de Santos Cerdán, Gaspar Zarrías y Ana María Fuentes Pacheco por su implicación en las comisiones y contratos amañados de la trama SEPI.
+- **Registros y operativo de la UCO**: Agentes de la UCO efectúan registros simultáneos en las viviendas de Cerdán y Zarrías, y se personan en la sede socialista de Ferraz para incautar documentación del partido bajo apercibimiento de entrada judicial directa.
+- **Génesis de la red Hirurok**: Las pesquisas determinan que el expresidente de la SEPI Vicente Fernández conoce a Leire Díez desde 2019. Santos Cerdán les presentó a Antón Alonso a finales del año 2020 para coordinar el amaño de al menos cinco contratos valorados en 132,9 millones de euros en Sepi, ENUSA, Mercasa, Forestalia y Correos.
+- **Chivatazos de la Guardia Civil**: La UCO ejecuta un requerimiento formal de información interna en la Dirección General de la Guardia Civil para indagar las filtraciones y chivatazos que habrían bloqueado expedientes disciplinarios previos de la trama.
+- **Vínculos sentimentales**: Montero mantuvo una oculta relación personal en Almería en 2021 con el expresidente de la SEPI Vicente Fernández Guerrero, investigándose si el estrecho vínculo sentimental facilitó las adjudicaciones.
 
 ## Referencias cruzadas
 - [[caso-koldo]] (conexión temática en la adjudicación de contratos públicos)
@@ -35,8 +43,25 @@ Pieza separada denominada "Hirurok", dimanante de un tronco común de investigac
 - [[santiago-pedraz]]
 - [[teresa-ribera]]
 - [[montero-hizo]]
+- [[javier-perez-dolset]]
+- [[gaspar-zarrias]]
+- [[ismael-oliver]]
+- [[jacobo-teijelo-casanova]]
+- [[juan-sanchez-yepes]]
+- [[ana-maria-fuentes-pacheco]]
+- [[juan-manuel-serrano-quintana]]
+- [[juan-francisco-serrano]]
+- [[caso-leire-cloacas]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
-- [[resumen-causas-judiciales]]
-- [[montero-hizo]]
+- [[dos-agentes-de-la-secreta-identificaron-al-testigo|Dos agentes de la secreta identificaron al testigo que 'cazó' a Montero con el expresidente de la Sepi]]
+- [[entrevista-exclusiva-al-testigo-que-pillo-a-monter|Entrevista exclusiva al testigo que pilló a Montero con el expresidente de la Sepi Compartían habitación]]
+- [[la-operacion-leire-salpica-a-la-presidenta-del-t|La 'operación Leire' salpica a la presidenta del Tribunal de Recursos Contractuales, colocada por Mª Jesús Montero]]
+- [[la-uco-entra-en-ferraz-para-desmantelar|La UCO entra en Ferraz para desmantelar la trama del PSOE contra los jueces]]
+- [[la-uco-sospecha-que-leire-diez-era-testaferro-de-c|La UCO sospecha que Leire Díez era testaferro de Cerdán porque cobraba menos que Antxon Alonso y Vicente Fernández]]
+- [[montero-admitio-en-el-senado-que-el-expresidente-d|Montero admitió en el Senado que el expresidente de Sepi es investigado desde 2021 el año que compartieron vacaciones]]
+- [[montero-hizo|Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo]]
+- [[operacion-leire-la-uco-localiza-un-drive-del-ex|'Operación Leire' la UCO localiza un drive del expresidente de la SEPI que acredita la trama de corrupción]]
+- [[santos-cerdan-zarrias-y-la-gerente-del|Santos Cerdán, Zarrías y la gerente del PSOE, imputados en la trama SEPI]]
+- [[la-uco-se-presenta-en-la-direccion|La UCO se presenta en la Dirección General de la Guardia Civil para investigar los chivatazos]]

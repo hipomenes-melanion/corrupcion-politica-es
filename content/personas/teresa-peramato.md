@@ -22,8 +22,11 @@ Fiscal de Sala del Tribunal Supremo y miembro destacado de la cúpula fiscal, se
 
 - **Actualización [2026-05-08]**: Maniobra presuntamente ante los delegados de la Fiscalía Europea (Fiscalía de la UE) para frenar y hacer la vista gorda sobre las denuncias presentadas contra María Jesús Montero por la desviación de fondos de pensiones. (Fuente: [[peramato-y-la-fiscalia-de-la-ue-hacen-la-vista-gor]])
 
+- **Actualización [2026-05-27]**: En abril de 2026, promociona a la fiscal Pilar Rodríguez (investigada en la causa por revelación de secretos contra el novio de Ayuso y ex fiscal jefa provincial de Madrid) como fiscal de la Sección de lo Social del Tribunal Supremo. (Fuente: [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]])
+
 ## Referencias cruzadas
 *No se registran notas de contradicción en la fase de ingesta inicial.*
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]

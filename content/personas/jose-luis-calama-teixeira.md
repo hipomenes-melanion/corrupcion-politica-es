@@ -65,8 +65,15 @@ Magistrado titular del Juzgado Central de Instrucción n.º 4 de la Audiencia Na
 
 - **Actualización [2026-05-25]**: Así consta en el acta de entrada y registro del despacho de Zapatero, al que ha tenido acceso Libertad Digital. (Fuente: [[la-udef-intervino-un-botin-de-joyas-relojes-y-p]])
 
+- **Actualización [2026-05-25]**: Dicta un auto en el sumario del Caso Plus Ultra por el que acuerda incoar dos piezas separadas de investigación penal autónoma (PDP 2/2026 y PDP 3/2026), ordenando desgajar los atestados policiales de la UDEF que reflejan presuntos delitos financieros cometidos por terceras personas ajenas al núcleo de la trama de Zapatero. (Fuente: [[el-juez-calama-abre-dos-piezas-separadas]])
+
+- **Actualización [2026-05-27]**: El Caso Plus Ultra, inicialmente asignado y archivado provisionalmente tras varias presiones de la fiscalía en el Juzgado de Instrucción nº 15 de Madrid, acabó siendo remitido en marzo de 2026 a su juzgado (Juzgado Central de Instrucción nº 4 de la Audiencia Nacional) para investigar a Zapatero por organización criminal y blanqueo de capitales. (Fuente: [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]])
+
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[el-juez-calama-abre-dos-piezas-separadas]]
+- [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[el-juez-calama-abre-dos-piezas-separadas]]
+- [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]

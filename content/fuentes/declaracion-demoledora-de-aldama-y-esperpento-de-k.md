@@ -11,7 +11,7 @@ Las declaraciones de Aldama y Koldo marcan el inicio del desenlace de una de las
 ## Detalles clave
 - - "Miguel Ángel Pérez"
 - - ""
-- El juicio por la denominada trama Koldo ha entrado en su recta final en el Tribunal Supremo, un momento que está centrando gran parte de la atención política en España. En **esRadio**, Miguel Ángel Pérez ha analizado el impacto de las dos primeras declaraciones de los acusados en este proceso, qu...
+- El juicio por la denominada trama Koldo ha entrado en su recta final en el Tribunal Supremo, un momento que está centrando gran parte de la atención política en España. En **esRadio**, Miguel Ángel Pérez ha analizado el impacto de las dos primeras declaraciones de los acusados en este proceso, que han dejado un panorama muy complejo para el entorno del **PSOE** y del presidente del **Gobierno**. Las comparecencias de **Víctor de Aldama** y de Koldo García marcan el inicio del desenlace de una de las causas de corrupción más mediáticas de los últimos años.
 
 ## Referencias cruzadas
 - [[koldo-garcia-izaguirre]]

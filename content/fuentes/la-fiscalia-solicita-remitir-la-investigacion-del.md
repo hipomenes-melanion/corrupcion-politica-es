@@ -1,8 +1,9 @@
 ---
-title: "La Fiscalía solicita remitir la investigación del caso Forestalia al juez Pedraz de la Audiencia Nacional"
-source: "raw/La Fiscalía solicita remitir la investigación del caso Forestalia al juez Pedraz de la Audiencia Nacional.md"
-updated: "2026-04-11"
-tags: [caso-zapatero]
+title: La Fiscalía solicita remitir la investigación del caso Forestalia al juez Pedraz de la Audiencia Nacional
+source: raw/La Fiscalía solicita remitir la investigación del caso Forestalia al juez Pedraz de la Audiencia Nacional.md
+updated: 2026-04-11
+tags:
+  - caso-forestalia
 ---
 
 ## Resumen
@@ -11,7 +12,7 @@ En un escrito, al que ha tenido acceso LD, la Fiscalía Provincial de Teruel sol
 ## Detalles clave
 - El juez Santiago Pedraz. | Gtres
 - La Fiscalía ha solicitado al Juzgado de Instrucción nº 1 de Teruel remitir la investigación del **caso Forestalia** a la Audiencia Nacional.
-- El titular del Juzgado Central de Instrucción nº 5, Santiago Pedraz, ya investiga desde hace meses bajo secreto de sumario a la empresa de energías renovables que presidía **[Fernando Samper](https://www.libertaddigital.com/personajes/fernando-samper/)** en el marco de la denominada operación Lei...
+- El titular del Juzgado Central de Instrucción nº 5, Santiago Pedraz, ya investiga desde hace meses bajo secreto de sumario a la empresa de energías renovables que presidía **[Fernando Samper](https://www.libertaddigital.com/personajes/fernando-samper/)** en el marco de la denominada operación Leire o trama SEPI.
 
 ## Referencias cruzadas
 - [[jose-luis-rodriguez-zapatero]]

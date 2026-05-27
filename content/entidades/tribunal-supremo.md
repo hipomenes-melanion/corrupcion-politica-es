@@ -10,7 +10,7 @@ tags: [entidad, tribunal]
 
 ## Detalles clave
 - **Casos Vinculados**:
-  - [[caso-abalos]]
+  - [[caso-koldo]]
   - [[caso-accion-penal-julio-iglesias]]
   - [[caso-fiscal-general-del-estado]]
 
@@ -201,7 +201,7 @@ tags: [entidad, tribunal]
 - **Actualización [2026-04-29]**: \ (Fuente: [[aldama-revela-que-le-ofrecieron-edificios-de-la-se]])
 
 
-- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la]])
+- **Actualización [2026-04-29]**: El entorno de Sánchez habría intentado conseguir esa financiación por parte de Guaidó, pero cambiaron de rumbo y apoyaron a Maduro. (Fuente: [[la-obsesion-que-vinculo-a-sanchez-con-venezuela]])
 
 
 - **Actualización [2026-05-01]**: Las declaraciones de Aldama y Koldo marcan el inicio del desenlace de una de las causas de corrupción más mediáticas de los últimos años. (Fuente: [[declaracion-demoledora-de-aldama-y-esperpento-de-k]])

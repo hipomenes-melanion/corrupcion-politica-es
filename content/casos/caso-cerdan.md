@@ -20,14 +20,13 @@ Causa especial investigada como pieza separada que analiza el presunto cobro de 
 
 
 ### Datos clave
-- Santos Cerdán León es investigado por presunta integración en organización criminal y tráfico de influencias vinculados a la adjudicación de obra pública (Servinabar).
-- La UCOMA investiga la adquisición y el patrimonio de sociedades interpuestas y testaferros vinculados al entorno del diputado del PSOE.
-- La UCO sospecha que Leire Díez ejercía de testaferro de Cerdán debido a diferencias de cobro respecto a sus supuestos socios técnicos.
-- Declaraciones judiciales revelan contradicciones y amnesias reiteradas del diputado respecto a reuniones en saunas y cobro de comisiones mercantiles.
-
+- El secretario de organización del PSOE Santos Cerdán está investigado por organización criminal, cohecho y tráfico de influencias en la adjudicación de contratos a través del entramado de Servinabar.
+- La Guardia Civil y la UCO ultiman los informes sobre el patrimonio personal y societario de Santos Cerdán tras hallarse indicios de ingresos irregulares en efectivo.
+- Koldo García amenazó de forma velada a Cerdán y al ministro de Justicia, advirtiendo en sede judicial que 'esto acaba de empezar' y que 'tirará de la manta' contra el presidente del Gobierno.
 ## Referencias cruzadas
 - [[caso-koldo]] (conexión por ramificación de comisiones en el ámbito político)
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
-- [[resumen-causas-judiciales]]
+- [[la-uco-ultima-los-informes-sobre-armengol-y-el-pat|La UCO ultima los informes sobre Armengol y el patrimonio de Santos Cerdán]]
+- [[santos-cerdan-imputado-por-mentir-en-el-senado|Santos Cerdán, imputado por mentir en el Senado]]

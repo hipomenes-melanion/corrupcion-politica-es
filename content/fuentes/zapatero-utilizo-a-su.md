@@ -1,8 +1,9 @@
 ---
-title: "Zapatero utilizó a su lacayo Julio Martínez para cobrar de Plus Ultra Por ahí vendrá la mordida"
-source: "raw/Zapatero utilizó a su lacayo Julio Martínez para cobrar de Plus Ultra Por ahí vendrá la mordida.md"
-updated: "2026-05-19"
-tags: [caso-plus-ultra, caso-zapatero]
+title: Zapatero utilizó a su lacayo Julio Martínez para cobrar de Plus Ultra Por ahí vendrá la mordida
+source: raw/Zapatero utilizó a su lacayo Julio Martínez para cobrar de Plus Ultra Por ahí vendrá la mordida.md
+updated: 2026-05-19
+tags:
+  - caso-zapatero
 ---
 
 ## Resumen

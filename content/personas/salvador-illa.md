@@ -17,7 +17,6 @@ Político español, exministro de Sanidad del Gobierno de España durante la cri
 
 ## Referencias cruzadas
 - [[koldo-garcia-izaguirre]]
-- [[caso-koldo]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]

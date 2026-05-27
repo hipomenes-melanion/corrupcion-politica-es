@@ -19,11 +19,11 @@ Este glosario centraliza y define técnicamente cada uno de los tipos delictivos
     *   *Cohecho pasivo propio*: Realización de un acto injusto o contrario a los deberes a cambio de dádiva (Art. 419 CP).
     *   *Cohecho pasivo impropio*: Aceptación de dádiva en consideración al cargo o función (Art. 422 CP).
     *   *Cohecho activo*: Cometido por el particular que entrega, ofrece o promete la dádiva al funcionario (Art. 424 CP).
-*   **Causas Implicadas**: [[caso-koldo]], [[caso-abalos]], [[caso-mediador]], [[caso-forestalia]], [[caso-air-europa]], [[caso-leire-hirurok]].
+*   **Causas Implicadas**: [[caso-koldo]], [[caso-hidrocarburos]], [[caso-mediador]], [[caso-forestalia]], [[caso-air-europa]], [[caso-leire-hirurok]].
 
 ### 2. Tráfico de Influencias (Artículos 428 a 430 CP)
 *   **Definición**: Conducta que castiga al funcionario público o autoridad (Art. 428 CP) o al particular (Art. 429 CP) que influyere en otro funcionario público o autoridad prevaliéndose del ejercicio de las facultades de su cargo o de cualquier otra situación de superioridad o de su relación personal o jerárquica con este, para obtener una resolución que le pueda reportar, directa o indirectamente, un beneficio económico para sí o para un tercero.
-*   **Causas Implicadas**: [[caso-koldo]], [[caso-abalos]], [[caso-zapatero]], [[caso-cerdan]], [[caso-leire-hirurok]], [[caso-forestalia]], [[caso-begona-gomez]], [[caso-david-sanchez]], [[caso-air-europa]].
+*   **Causas Implicadas**: [[caso-koldo]], [[caso-zapatero]], [[caso-cerdan]], [[caso-leire-hirurok]], [[caso-forestalia]], [[caso-begona-gomez]], [[caso-david-sanchez]], [[caso-air-europa]].
 
 ### 3. Prevaricación Administrativa (Artículo 404 CP)
 *   **Definición**: Delito que se imputa a la autoridad o funcionario público que, a sabiendas de su injusticia, dictare una resolución arbitraria en un asunto administrativo. Exige una contradicción patente, flagrante y clamorosa con el ordenamiento jurídico, prescindiendo del procedimiento establecido o resolviendo de forma absolutamente irrazonable.
@@ -47,7 +47,7 @@ Este glosario centraliza y define técnicamente cada uno de los tipos delictivos
 
 ### 7. Blanqueo de Capitales (Artículos 301 a 304 CP)
 *   **Definición**: Delito que castiga al que adquiera, posea, utilice, convierta o transmita bienes, sabiendo que estos tienen su origen en una actividad delictiva, o realice cualquier otro acto para ocultar o encubrir su origen ilícito, o para ayudar a la persona que haya participado en la infracción a eludir las consecuencias legales de sus actos.
-*   **Causas Implicadas**: [[caso-koldo]], [[caso-zapatero]], [[caso-cerdan]], [[caso-mediador]].
+*   **Causas Implicadas**: [[caso-koldo]], [[caso-hidrocarburos]], [[caso-zapatero]], [[caso-cerdan]], [[caso-mediador]].
 
 ### 8. Corrupción en los Negocios (Artículos 286 bis a 286 quater CP)
 *   **Definición**: Delito que castiga al directivo, administrador, empleado o colaborador de una empresa mercantil que reciba, solicite o acepte, o al particular que prometa, ofrezca o conceda, un beneficio o ventaja no justificados de cualquier naturaleza para favorecer a este o a un tercero frente a otros en la adquisición o venta de mercancías, contratación de servicios o relaciones comerciales.
@@ -65,7 +65,7 @@ Este glosario centraliza y define técnicamente cada uno de los tipos delictivos
 *   **Definición**:
     *   *Organización Criminal*: Agrupación formada por más de dos personas con carácter estable o por tiempo indefinido, que de manera concertada y coordinada se repartan tareas o funciones con el fin de cometer delitos (Art. 570 bis CP).
     *   *Grupo Criminal*: Unión de más de dos personas que, sin reunir alguna de las características de la organización criminal (estabilidad o reparto complejo de tareas), tenga por finalidad la comisión concertada de delitos (Art. 570 ter CP).
-*   **Causas Implicadas**: [[caso-koldo]], [[caso-abalos]], [[caso-zapatero]], [[caso-cerdan]], [[caso-mediador]].
+*   **Causas Implicadas**: [[caso-koldo]], [[caso-hidrocarburos]], [[caso-zapatero]], [[caso-cerdan]], [[caso-mediador]].
 
 ### 11. Descubrimiento y Revelación de Secretos (Artículos 197 a 201 CP)
 *   **Definición**: Castiga a quien, para descubrir los secretos o vulnerar la intimidad de otro, sin su consentimiento, se apodere de sus papeles, cartas, mensajes de correo electrónico o cualesquiera otros documentos o efectos personales, intercepte sus telecomunicaciones o utilice artificios de escucha o grabación.
