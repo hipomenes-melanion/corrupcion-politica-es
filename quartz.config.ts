@@ -18,7 +18,6 @@ const config: QuartzConfig = {
     locale: "es-ES",
     baseUrl: "hipomenes-melanion.github.io/corrupcion-politica-es",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
