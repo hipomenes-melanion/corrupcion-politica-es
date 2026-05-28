@@ -1,7 +1,7 @@
 ---
 title: "Mapa de Calor de Corrupción Institucional"
 source: "wiki/index.md"
-updated: "2026-05-25"
+updated: "2026-05-28"
 tags: [analisis-inteligencia, mapa-calor, corrupcion-institucional, captura-estado]
 ---
 
@@ -15,9 +15,24 @@ Este informe evalúa el grado de penetración, instrumentalización y captura de
 
 El Ministerio de Transportes, Movilidad y Agenda Urbana (Mitma), junto con sus grandes entes públicos adscritos ([[adif]] y [[renfe]]), representa el **hotspot de máxima temperatura de la corrupción institucional**.
 
-```
-GRADO DE PENETRACIÓN: CRÍTICO (Nivel 5/5)
-Organismos Afectados: Secretaría de Estado, Presidencia de Adif, Dirección de Renfe, Redalsa.
+```mermaid
+flowchart TD
+    subgraph Grado de Penetración
+        P5[Nivel 5/5: CRÍTICO]
+    end
+    subgraph Organismos Capturados
+        O1[Secretaría de Estado]
+        O2[Presidencia de Adif]
+        O3[Dirección de Renfe]
+        O4[Redalsa]
+    end
+    P5 --> O1 & O2 & O3 & O4
+    
+    style P5 fill:#d9534f,stroke:#d43f3a,stroke-width:2px,color:#fff
+    style O1 fill:#f9f9f9,stroke:#ccc,color:#000
+    style O2 fill:#f9f9f9,stroke:#ccc,color:#000
+    style O3 fill:#f9f9f9,stroke:#ccc,color:#000
+    style O4 fill:#f9f9f9,stroke:#ccc,color:#000
 ```
 
 ### Factores de Captura en Transportes:
@@ -32,17 +47,35 @@ Organismos Afectados: Secretaría de Estado, Presidencia de Adif, Dirección de 
 
 La Sociedad Estatal de Participaciones Industriales ([[sepi]]) y el Ministerio de Hacienda representan el **centro de desvío y concesión de recursos financieros estratégicos** del Estado.
 
-```
-GRADO DE PENETRACIÓN: MUY ALTO (Nivel 4.5/5)
-Organismos Afectados: Consejo de Administración de la SEPI, Cúpula de Hacienda, Intervención General (IGAE).
+```mermaid
+flowchart TD
+    subgraph Grado de Penetración
+        P5[Nivel 5/5: CRÍTICO]
+    end
+    subgraph Organismos Capturados
+        O1[Presidencia de la SEPI]
+        O2[Consejo de Administración]
+        O3[Cúpula de Hacienda]
+        O4[Sede de Ferraz]
+    end
+    P5 --> O1 & O2 & O3 & O4
+    
+    style P5 fill:#d9534f,stroke:#d43f3a,stroke-width:2px,color:#fff
+    style O1 fill:#f9f9f9,stroke:#ccc,color:#000
+    style O2 fill:#f9f9f9,stroke:#ccc,color:#000
+    style O3 fill:#f9f9f9,stroke:#ccc,color:#000
+    style O4 fill:#f9f9f9,stroke:#ccc,color:#000
 ```
 
 ### La Conexión Oculta de María Jesús Montero y Vicente Fernández:
 Informes policiales y la denuncia de un testigo presencial ante la Guardia Civil han destapado una de las conexiones de influencia informal más graves del Ejecutivo:
 *   **Vida de Pareja Oculta**: La exvicepresidenta del Gobierno y exministra de Hacienda, **María Jesús Montero**, mantuvo una relación sentimental directa e íntima ("vida de pareja") con el expresidente de la SEPI, **[[vicente-fernandez-guerrero]]**, compartiendo estancia en el Hotel Las Salinas de Cabo de Gata (Almería) en el verano de 2021.
-*   **La Relevancia del Cese**: Montero cesó formalmente a Vicente Fernández en octubre de 2019 tras su imputación judicial en el caso de la mina de Aznalcóllar, declarando públicamente en reiteradas ocasiones ante los medios de comunicación que había cortado todo contacto y relación con el expresidente del holding estatal.
-*   **Implicaciones en la Trama**: El testigo y los investigadores de la UCO sostienen que esta estrecha relación personal en la sombra desmiente la neutralidad del Ministerio de Hacienda en la fiscalización de las ayudas concedidas.
-    *   **Operación Leire**: Vicente Fernández (expresidente de la SEPI) guardaba en su drive personal de almacenamiento archivos que acreditaban la manipulación técnica y el **inflado de contratos públicos** para favorecer a constructoras y desviar comisiones ilegales a través de [[leire-diez-castro]] y [[anton-alonso]] (socio de Santos Cerdán).
+*   **La Relevancia del Cese**: Montero cesó formalmente a Vicente Fernández en octubre de 2019 tras su imputación judicial en el caso de la mina de Aznalcóllar, declarando públicamente que había cortado todo contacto. La UCO sostiene que este estrecho vínculo desmiente la neutralidad en la fiscalización de las ayudas concedidas al holding.
+
+### El Asalto a la Presidencia de la SEPI y la Estructura de Ferraz:
+La instrucción del juez Santiago Pedraz en el [[caso-sepi-cloacas]] y [[caso-leire-hirurok]] destapa un nivel superior de asalto institucional:
+*   **Maniobras ante Belén Gualda**: Tras la salida judicial de Fernández en 2019, la red criminal continuó influyendo desde el exterior. En enero de 2021, Leire Díez Castro maniobró para ser nombrada jefa de Gabinete de la nueva presidenta de la entidad, **[[belen-gualda-gonzalez]]**, con el objetivo explícito de *"recuperar el control de la SEPI"*. En los mensajes interceptados, Díez sentenciaba su capacidad de lobby afirmando: *"Aunque tenga que ser yo la que hable con el superjefe"*, en alusión directa al presidente del Gobierno, [[pedro-sanchez-perez-castejon]].
+*   **Ferraz como Base Logística y Financiera**: El auto de la Audiencia Nacional de 2026 certifica que el secretario de Organización del PSOE, **[[santos-cerdan-leon]]**, puso toda la infraestructura nacional de su partido a disposición de la trama criminal: sufragando sus costes de actividad, aportando personal administrativo, cediendo dependencias oficiales en la sede de Ferraz para celebrar las reuniones del Clan Hirurok, y sufragando la logística de viajes y alquiler de vehículos de sus miembros.
 
 > [!IMPORTANT]
 > **El Veto del Tribunal de Cuentas**: A este escenario se suma la insumisión de la presidenta del Tribunal de Cuentas, **Enriqueta Chicano**, quien ha desafiado a las Cortes Generales negándose a fiscalizar las ayudas del Fondo de Solvencia y ocultando graves irregularidades contables de la SEPI, tras ser denunciada formalmente por coacciones y prevaricación.
@@ -53,9 +86,22 @@ Informes policiales y la denuncia de un testigo presencial ante la Guardia Civil
 
 La tramitación de macro-parques de energías renovables en Aragón y otras comunidades autónomas revela la captura del Ministerio de Transición Ecológica (dirigido por Teresa Ribera) y el uso de empresas públicas instrumentales.
 
-```
-GRADO DE PENETRACIÓN: ALTO (Nivel 4/5)
-Organismos Afectados: Secretaría de Estado de Energía, INAGA (Aragón), Tragsatec.
+```mermaid
+flowchart TD
+    subgraph Grado de Penetración
+        P4[Nivel 4/5: ALTO]
+    end
+    subgraph Organismos Capturados
+        O1[Secretaría de Estado de Energía]
+        O2[INAGA Aragón]
+        O3[Tragsatec]
+    end
+    P4 --> O1 & O2 & O3
+    
+    style P4 fill:#f0ad4e,stroke:#eea236,stroke-width:2px,color:#fff
+    style O1 fill:#f9f9f9,stroke:#ccc,color:#000
+    style O2 fill:#f9f9f9,stroke:#ccc,color:#000
+    style O3 fill:#f9f9f9,stroke:#ccc,color:#000
 ```
 
 ### Factores de Captura Ambiental:
@@ -64,33 +110,35 @@ Organismos Afectados: Secretaría de Estado de Energía, INAGA (Aragón), Tragsa
 
 ---
 
-## 4. Fiscalía General, Cloacas Policiales y Tribunal Constitucional (El Núcleo de Blindaje Judicial)
+## 4. Fiscalía General, Cloacas de Ferraz y Tribunal Constitucional (El Núcleo de Blindaje Judicial)
 
-Para garantizar la impunidad de la jerarquía informal y neutralizar las investigaciones penales de jueces instructores independientes (como Juan Carlos Peinado en Madrid o Beatriz Biedma en Badajoz), la trama articuló una **red transversal de blindaje judicial y control institucional**.
+Para garantizar la impunidad de la jerarquía informal y neutralizar las investigaciones penales de jueces instructores independientes, la trama articuló una **red transversal de blindaje judicial y control institucional** financiada directamente desde las dependencias del PSOE nacional.
 
 ```mermaid
 flowchart TD
     subgraph Jueces Instructores
         JP[Juez Peinado: Caso Begoña]
         BB[Jueza Biedma: Caso David Sánchez]
+        MA[Jueza Alaya: ERE y Cloacas]
     end
     
     subgraph Red de Blindaje y Cloacas
-        AGO[Álvaro García Ortiz: Fiscal General] -->|Filtraciones de Secretos y Presión| JP
+        AGO[Álvaro García Ortiz: Fiscal General] -->|Filtraciones y Presión| JP
         CP[Cándido Conde-Pumpido: Pres. TC] -->|Maniobras y Recursos de Amparo| AGO
-        SC[Santos Cerdán / Cloacas] -->|Monitorización y Campañas de Descrédito| JP
-        SC -->|Amenazas Policiales Directas| BB
+        SC[Santos Cerdán / Ferraz] -->|178.000€ y Logística| LD[Leire Díez: Cloacas]
+        LD -->|Facturas Falsas a Zarrías, Oliver, Teijelo| SC
+        LD -.->|Ataques y Desacreditar Jueces| JuecesInstructores
+        LD -->|Intento Soborno 300.000€| JG[Fiscal Grinda: Capturar a Luzón]
     end
-
-    RedDeBlindaje -.->|Sabotaje a la Instrucción| JuecesInstructores
 ```
 
 ### Mecanismos de Captura y Boicot Judicial:
-1.  **La Fiscalía General del Estado (Álvaro García Ortiz)**:
-    *   **Hecho Acreditado**: [[alvaro-garcia-ortiz]] ha sido **condenado en primera instancia** por la Sala Segunda del Tribunal Supremo por un delito de revelación de secretos, al haber ordenado la filtración masiva de datos confidenciales y correos electrónicos privados de la defensa de un investigado por fraude fiscal para contrarrestar informaciones de prensa molestas para Moncloa.
-    *   **La Insumisión**: García Ortiz se ha negado a entregar sus dispositivos electrónicos y teléfonos al juzgado, contando con el blindaje de la Teniente Fiscal del Supremo, Ángeles Sánchez Conde, quien boicotea las diligencias de investigación patrimonial del magistrado Andrés Martínez Arrieta.
-2.  **El Tribunal Constitucional (Cándido Conde-Pumpido)**:
+1.  **La Financiación de 178.000€ para Hostigar Jueces**:
+    *   **Hecho Acreditado**: El auto judicial del juez Santiago Pedraz revela que la cúpula de Ferraz desvió e interpuso al menos **178.000 euros** de la contabilidad nacional del PSOE para financiar la estructura criminal de las cloacas que dirigía [[leire-diez-castro]].
+    *   **Técnica de Ocultación**: Los fondos fueron enmascarados bajo facturaciones mercantiles mendaces canalizadas a través de la gerente Ana Fuentes Pacheco y abonadas a las consultoras e instrumentales de [[gaspar-zarrias]] (16.000€), Ismael Oliver (27.225€) y Jacobo Teijelo (125.000€). Su finalidad delictiva consistía en monitorizar, espiar y desprestigiar a los jueces clave de la corrupción socialista: [[mercedes-alaya]], [[beatriz-biedma-buendia]] y [[juan-carlos-peinado-garcia]].
+2.  **El Soborno de 300.000€ a la Fiscalía**:
+    *   La trama criminal de las cloacas intentó neutralizar la dirección de la Fiscalía Anticorrupción ofreciendo un soborno de **300.000 euros** y un destino de prestigio en el extranjero al fiscal anticorrupción [[jose-grinda]]. El objetivo final, gestionado a través de la intermediación de [[pere-rusinol]], era forzar el archivo de causas y obtener material sensible para derribar y forzar la destitución del Fiscal Jefe Anticorrupción, [[alejandro-luzon]]. En la agenda de Díez constaba: *"300.000 euros xra ayudar a un fiscal..."*.
+3.  **La Fiscalía General del Estado (Álvaro García Ortiz)**:
+    *   [[alvaro-garcia-ortiz]] ha sido **condenado en primera instancia** por la Sala Segunda del Tribunal Supremo por un delito de revelación de secretos, al haber ordenado la filtración masiva de datos confidenciales y correos electrónicos privados de la defensa de un investigado por fraude fiscal para contrarrestar informaciones de prensa molestas para Moncloa.
+4.  **El Tribunal Constitucional (Cándido Conde-Pumpido)**:
     *   El TC, bajo la presidencia de Conde-Pumpido, opera como la última línea de defensa política: magistrados del propio tribunal denuncian que se está preparando una ponencia exprés para **declarar inconstitucional la investigación penal contra García Ortiz** y blindar mediante amparos contorsionistas al expresidente Zapatero y las tramas de la SEPI.
-3.  **Las Cloacas y Mandos Sanchistas Policiales**:
-    *   **Monitorización de Jueces**: Se investiga el espionaje y seguimiento ilegal de agentes de las cloacas de Interior a los jueces instructores Peinado y Biedma.
-    *   **Boicot de Diligencias**: La UDEF y mandos de la Comisaría General de Policía Judicial paralizaron durante meses la entrega al juez Calama de los informes sobre los vuelos de Plus Ultra y el origen venezolano del dinero para impedir la imputación de Zapatero y el cese de Montero.

@@ -13,12 +13,12 @@ Bienvenido a la Wiki de causas judiciales. Este índice centraliza y organiza je
 
 ## 🧠 Informes de Inteligencia Criminal
 
-- [[matriz-conexiones-ocultas|1. Matriz de Conexiones No Evidentes]]
-- [[tipologias-fraude-patrones|2. Tipologías de Fraude y Patrones Repetitivos]]
-- [[mapa-calor-institucional|3. Mapa de Calor de Corrupción Institucional]]
-- [[conclusiones-hipotesis|4. Conclusiones Analíticas e Hipótesis de Investigación]]
-- [[tabla-fuentes-casos|5. Relación de Fuentes y Casos Judiciales]]
-- [[glosario-tipos-delictivos|6. Glosario de Tipos Delictivos]]
+- [[mapa-calor-institucional|1. Mapa de Calor de Corrupción Institucional]]
+- [[conclusiones-hipotesis|2. Conclusiones Analíticas e Hipótesis de Investigación]]
+- [[tipologias-fraude-patrones|3. Tipologías de Fraude y Patrones Repetitivos]]
+- [[matriz-conexiones-ocultas|4. Matriz de Conexiones No Evidentes]]
+- [[glosario-tipos-delictivos|5. Glosario de Tipos Delictivos]]
+- [[tabla-fuentes-casos|6. Relación de Fuentes y Casos Judiciales]]
 
 
 ---

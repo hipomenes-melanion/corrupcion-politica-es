@@ -615,3 +615,6 @@ tags: [log, registro]
   ✅ Ingestión exitosa: [wiki/fuentes/el-juez-senala-la-estrecha-relacion-de-fernandez.md, wiki/personas/belen-gualda-gonzalez.md, wiki/personas/vicente-fernandez-guerrero.md, wiki/personas/maria-jesus-montero.md, wiki/personas/santos-cerdan-leon.md, wiki/personas/leire-diez-castro.md, wiki/personas/pedro-sanchez-perez-castejon.md, wiki/casos/caso-sepi-cloacas.md, wiki/casos/caso-leire-hirurok.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
 - **[2026-05-28]** - Cambio de Nomenclatura Judicial: Renombrado "Caso Leire - Cloacas" a "Caso SEPI - Cloacas"
   ✅ Actualización exitosa de referencias, etiquetas frontmatter y enlaces cruzados en toda la Wiki, renombrado de `wiki/casos/caso-leire-cloacas.md` a `wiki/casos/caso-sepi-cloacas.md` y actualización de metadatos en 40 archivos.
+- **[2026-05-28]** - Conversión de Gráficos Textuales a Formato Mermaid Interactivos
+  ✅ Modificados: `wiki/analisis/mapa-calor-institucional.md` (tres diagramas de calor), `wiki/analisis/tipologias-fraude-patrones.md` (diagrama de blanqueo de 3 niveles) y `wiki/analisis/conclusiones-hipotesis.md` (diagrama ramificado de 4 hipótesis de trabajo). Conversión exitosa de estructuras de cajas ASCII y código de texto plano a flujogramas dinámicos de Mermaid con estilos premium personalizados.
+
