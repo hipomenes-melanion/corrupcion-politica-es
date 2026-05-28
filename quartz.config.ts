@@ -53,25 +53,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({
         enableInHtmlEmbed: true,
-        mermaid: {
-          theme: "base", // Usamos la base personalizable de Mermaid
-          themeVariables: {
-            // Configuración de colores para el Modo Oscuro
-            darkMode: true,
-            background: "#161618",       // Fondo general del diagrama (mismo de tu Quartz dark)
-            primaryColor: "#1e1e20",     // Fondo de las cajas principales
-            primaryTextColor: "#d4d4d8",  // Color del texto de las cajas principales (gris claro legible)
-            
-            // Corrección específica para los nodos rectangulares y subgraphs (las cajas blancas problemáticas)
-            nodeBkg: "#27272a",          // Cambia el fondo blanco de las cajas inferiores por un gris oscuro
-            nodeBorder: "#3f3f46",       // Color del borde de las cajas
-            textColor: "#f4f4f5",        // Fuerza a que TODO el texto interno de las cajas sea blanco/claro
-            
-            // Colores de las líneas y flechas de unión
-            lineColor: "#a1a1aa",
-            arrowheadColor: "#a1a1aa",
-          }
-        },
+        mermaid: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

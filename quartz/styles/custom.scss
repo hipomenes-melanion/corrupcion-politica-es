@@ -1,3 +1,54 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// quartz/styles/custom.scss
+
+// ==========================================
+// OPTIMIZACIÓN DE LEGUIBILIDAD PARA MERMAID
+// ==========================================
+
+.mermaid {
+  // 1. CONFIGURACIÓN COMPATIBLE CON TEMA CLARO
+  [data-theme="light"] & {
+    // Asegura texto oscuro legible en nodos y subgráficos
+    .node .label, .labelText, .markdown-label-container, .subgraph-title {
+      color: #18181b !important;
+      fill: #18181b !important;
+    }
+    // Mantiene un fondo gris claro limpio en las cajas secundarias
+    .node rect, .node circle, .node polygon, .node path {
+      fill: #f4f4f5 !important;
+      stroke: #e4e4e7 !important;
+    }
+  }
+
+  // 2. CONFIGURACIÓN COMPATIBLE CON TEMA OSCURO
+  [data-theme="dark"] & {
+    // Cambia el fondo blanco de las cajas problemáticas por un gris oscuro integrado
+    .node rect, .node circle, .node polygon, .node path {
+      fill: #27272a !important; 
+      stroke: #3f3f46 !important;
+    }
+    
+    // Fuerza a que todo el texto de los diagramas pase a blanco/gris claro
+    .node .label, .labelText, .markdown-label-container {
+      color: #f4f4f5 !important;
+      fill: #f4f4f5 !important;
+    }
+    
+    // Corrige el texto de los títulos de las agrupaciones (subgraphs)
+    .subgraph-title {
+      fill: #e4e4e7 !important;
+      color: #e4e4e7 !important;
+    }
+
+    // Ajuste para preservar las líneas de unión y flechas visibles
+    .edgePath .path {
+      stroke: #a1a1aa !important;
+    }
+    .arrowheadPath {
+      fill: #a1a1aa !important;
+    }
+  }
+}
