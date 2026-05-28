@@ -14,7 +14,11 @@ jobs:
   deploy-v5:
     if: ${{ github.repository == 'hipomenes-melanion/corrupcion-politica-es' }}
     runs-on: ubuntu-latest
-    name: Deploy v5 to Cloudflare Pages
+    name: Deploy v5 to GitHub Pages
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v6
         with:
