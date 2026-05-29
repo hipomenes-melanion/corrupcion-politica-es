@@ -7,9 +7,11 @@ tags: [indice, navegacion]
 
 # Índice Principal
 
-Bienvenido a la Wiki de causas judiciales. Este índice centraliza y organiza jerárquicamente toda la información recopilada mediante ingestas estructuradas de documentos.
+Bienvenido a la Wiki sobre la corrupción política de actualidad en España, con un seguimiento riguroso y una cronología detallada de todas sus causas judiciales abiertas.
 
----
+Este índice centraliza y organiza jerárquicamente toda la información sobre la tupida **trama criminal** en torno al **PSOE** (más algunas aportaciones del PP y Sumar), con un especial énfasis en la figura de su nexo corruptor: el actual Presidente del Gobierno, **Pedro Sánchez Pérez-Castejón**.
+
+![[organigrama-criminal-psoe.jpeg]]
 
 ## 🧠 Informes de Inteligencia Criminal
 
