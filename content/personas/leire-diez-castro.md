@@ -25,6 +25,7 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - **Actualización [2026-05-27]**: El juez Pedraz expone los audios de sus conversaciones con Pérez Dolset donde detallan la directriz de Sánchez: "El Presidente ya dijo, que se limpie todo", activada tras la imputación de Begoña Gómez. (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
 - **Actualización [2026-05-28]**: Su agenda intervenida revela una anotación explícita de *"300.000 euros xra ayudar a un fiscal..."*, correspondiente al intento de soborno a José Grinda a través de Pere Rusiñol para comprometer al Fiscal Jefe Anticorrupción Alejandro Luzón. (Fuente: [[la-cloaca-del-psoe-ofrecio-300000-euros]])
 - **Actualización [2026-05-28]**: El auto judicial del juez Pedraz destapa sus maniobras desde enero de 2021, interceptándose mensajes dirigidos a Vicente Fernández y Santos Cerdán para arbitrar el control de la SEPI. Además, Díez intentó colocarse como jefa de Gabinete de la nueva presidenta de la entidad, [[belen-gualda-gonzalez]], para *"recuperar el control de la SEPI"*, afirmando en sus mensajes: *"Aunque tenga que ser yo la que hable con el superjefe"* (en referencia a Pedro Sánchez). (Fuente: [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]])
+- **Actualización [2026-05-29]**: El magistrado Santiago Pedraz cuantifica en al menos 22 las reuniones que Leire Díez mantuvo en la sede de Ferraz con Santos Cerdán para coordinarse y rendirle cuentas sobre el complot contra los magistrados. Se cuantifican también al menos otras 17 reuniones entre ambos en exteriores o localización desconocida. Se acredita que Díez coordinaba la logística de sus viajes (al menos 4 traslados pagados) a través de las empleadas administrativas del PSOE [[covadonga-san-pedro-pascual]] y [[celia-rodriguez-alonso]], asumiendo el partido todos los gastos. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -46,6 +47,8 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - [[alejandro-luzon]]
 - [[pere-rusinol]]
 - [[belen-gualda-gonzalez]]
+- [[covadonga-san-pedro-pascual]]
+- [[celia-rodriguez-alonso]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -55,3 +58,4 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
 - [[la-cloaca-del-psoe-ofrecio-300000-euros]]
 - [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
+- [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]

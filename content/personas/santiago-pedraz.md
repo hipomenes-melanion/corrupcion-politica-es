@@ -19,6 +19,7 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - **Actualización [2026-05-27]**: Envía a la UCO a la sede de la Dirección General de la Guardia Civil para investigar los chivatazos que entorpecieron expedientes internos de la trama SEPI. (Fuente: [[la-uco-se-presenta-en-la-direccion]])
 - **Actualización [2026-05-27]**: Expone los audios de Leire Díez y Pérez Dolset ante el fiscal Ignacio Stampa que revelan que la trama de boicot judicial se inició tras la imputación de Begoña Gómez bajo el mandato de "que se limpie todo". (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
 - **Actualización [2026-05-27]**: Acredita la facturación falaz de 178.000€ canalizada por Ferraz para atacar a los jueces instructores Alaya, Biedma y Peinado. (Fuente: [[el-psoe-pago-178000-euros-a-la-cloaca]])
+- **Actualización [2026-05-29]**: Emite un nuevo auto en el que cuantifica al menos 22 reuniones de las cloacas en la sede socialista de Ferraz y 17 fuera, detallando cómo el PSOE financió los gastos de Leire Díez y Javier Pérez Dolset y utilizó a empleadas de administración del partido ([[covadonga-san-pedro-pascual]], [[celia-rodriguez-alonso]]) para dar soporte logístico y de viajes a la organización criminal. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
 
 ## Referencias cruzadas
 - [[caso-hidrocarburos]]
@@ -37,6 +38,8 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - [[ignacio-stampa]]
 - [[ion-fernando-antolin]]
 - [[juan-manuel-serrano-quintana]]
+- [[covadonga-san-pedro-pascual]]
+- [[celia-rodriguez-alonso]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -45,3 +48,4 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - [[la-uco-se-presenta-en-la-direccion]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
+- [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]

@@ -16,6 +16,7 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - **Fase Procesal Actual**: Fase de Instrucción / Diligencias preliminares de investigación patrimonial y societaria.
 - **Investigados / Encausados Principales**:
   - [[jose-luis-rodriguez-zapatero]]
+  - [[victor-moreno-catena]] (Abogado penalista defensor / Letrado de confianza)
 - **Tipos Penales Imputados**: Organización criminal, tráfico de influencias y falsedad documental por presunto blanqueo y desvío de capitales vinculados a tramas de rescate y flujos opacos.
 
 
@@ -25,9 +26,13 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - Zapatero utilizaba a su secretario de confianza Julio Martínez para cobrar mordidas y administrar la red, ordenándole borrar sistemáticamente sus comunicaciones.
 - La UDEF irrumpió en el despacho de Zapatero en la Audiencia Nacional incautando maletines sellados y cajas fuertes con un 'botín' de joyas, relojes y piedras preciosas.
 - Los flujos financieros y comisiones ilegales eran canalizados por la estructura delictiva hacia cuentas y sociedades offshore creadas en Dubái.
+- **Afectación y lobby en el Tribunal Constitucional**: La imputación penal de Zapatero por organización criminal y blanqueo por el juez Calama ha golpeado el ánimo de su amigo íntimo, el presidente del TC, [[candido-conde-pumpido]]. Zapatero seleccionó como letrado defensor a [[victor-moreno-catena]] (abogado de confianza del PSOE que defendió a [[carmen-martinez-aguayo]] en el caso de los ERE, a quien Conde-Pumpido amnistió en el TC de forma encubierta en julio de 2024 junto a Gaspar Zarrías), lo que facilita contactos y asesoría informal de la red en la presidencia del TC.
 ## Referencias cruzadas
 - [[caso-koldo]] (conexión de piezas en la Audiencia Nacional)
 - [[caso-plus-ultra]] (conexión por mediación y rescate de la aerolínea)
+- [[candido-conde-pumpido]]
+- [[victor-moreno-catena]]
+- [[carmen-martinez-aguayo]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
@@ -56,3 +61,4 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - [[zapatero-al-borde-de-la-imputacion-por-el-caso-pl|Zapatero, al borde de la imputación por el caso Plus Ultra en la Audiencia Nacional]]
 - [[zapatero-imputado-por-organizacion-criminal-traf|Zapatero, imputado por organización criminal, tráfico de influencias y falsedad]]
 - [[zapatero-utilizo-a-su|Zapatero utilizó a su lacayo Julio Martínez para cobrar de Plus Ultra Por ahí vendrá la mordida]]
+- [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]]

@@ -9,7 +9,7 @@ tags: [analisis, fuentes, casos]
 
 Este documento contiene la relación completa y organizada de todas las páginas fuente de la wiki, facilitando la navegación nativa en Obsidian a través de wikilinks hacia las fuentes y sus respectivos casos.
 
-Total de fuentes registradas: **226**
+Total de fuentes registradas: **228**
 
 | Título de la Página Fuente                                                                                                                                                      | Caso Judicial (Etiquetas)                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------- |
@@ -45,6 +45,7 @@ Total de fuentes registradas: **226**
 | [[chicano-desafia-a-las-cortes-se-niega-a-fiscaliza\|Chicano desafía a las Cortes: se niega a fiscalizar las subvenciones a Bildu tras presentar a terroristas en sus listas]]  | No judicializado                           |
 | [[choclan-adelanta\|Choclán adelanta la suerte que correrán Torres y Armengol tras la encrucijada de Aldama]]                                                                   | [[caso-koldo]]                             |
 | [[cierre-de-filas-historico-de-la-justicia-con-el-ju\|Cierre de filas histórico de la Justicia con el juez Peinado los jueces se hartan de Bolaños]]                            | [[caso-begona-gomez]]                      |
+| [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero\|Conde-Pumpido, "desencajado" tras la imputación de su amigo Zapatero y su amnistiado Gaspar Zarrías]] | [[caso-zapatero]] |
 | [[conde-pumpido-consigue-que-puigdemont-siga-dependi\|Conde-Pumpido consigue que Puigdemont siga dependiendo de Sánchez y lo vende como una muestra de imparcialidad del TC]]   | No judicializado                           |
 | [[declaracion-demoledora-de-aldama-y-esperpento-de-k\|Declaración demoledora de Aldama y esperpento de Koldo]]                                                                  | [[caso-koldo]]                             |
 | [[denuncian-a-chicano-por-prevaricacion-y-coacciones\|Denuncian a Chicano por prevaricación y coacciones tras ocultar las irregularidades en los contratos de Barrabés]]        | [[caso-begona-gomez]]                      |
@@ -214,6 +215,7 @@ Total de fuentes registradas: **226**
 | [[pardo-de-vera-ataca-a-la-igae-por-senalar-las-irre\|Pardo de Vera ataca a la IGAE por señalar las irregularidades en las obras de la trama Koldo]]                            | [[caso-koldo]]                             |
 | [[pardo-de-vera-recomendo-una-abogada-a-abalos-tras\|Pardo de Vera recomendó una abogada a Ábalos tras ser interrogada el día que cayó Koldo Deberías llamarla]]                | [[caso-koldo]]                             |
 | [[pardo-de-vera-se-desvincula-de-la-contratacion-de\|Pardo de Vera se desvincula de la contratación de la empresa de la trama Koldo La orden la firma el ministro]]             | [[caso-koldo]]                             |
+| [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca\|Pedraz cuantifica al menos 22 reuniones de la cloaca para destruir a los 'enemigos' de Sánchez]] | [[caso-sepi-cloacas]] |
 | [[pedraz-senala-los-audios-de-la-cloaca\|Pedraz señala los audios de la cloaca del PSOE sobre Sánchez: "El Presidente ya dijo, que se limpie todo"]] | [[caso-sepi-cloacas]] |
 | [[pedro-sanchez-es-tratado-por-una-dolencia-cardiova\|Pedro Sánchez es tratado por una dolencia cardiovascular desde hace meses en el Hospital Ramón y Cajal]]                  | No judicializado                           |
 | [[pedro-saura-reconoce-haber-llamado-por-telefono-a\|Pedro Saura reconoce haber llamado por teléfono a Aldama por el rescate de Air Europa Fue por cortesía]]                   | [[caso-air-europa]]                        |

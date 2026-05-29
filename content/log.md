@@ -617,4 +617,9 @@ tags: [log, registro]
   ✅ Actualización exitosa de referencias, etiquetas frontmatter y enlaces cruzados en toda la Wiki, renombrado de `wiki/casos/caso-leire-cloacas.md` a `wiki/casos/caso-sepi-cloacas.md` y actualización de metadatos en 40 archivos.
 - **[2026-05-28]** - Conversión de Gráficos Textuales a Formato Mermaid Interactivos
   ✅ Modificados: `wiki/analisis/mapa-calor-institucional.md` (tres diagramas de calor), `wiki/analisis/tipologias-fraude-patrones.md` (diagrama de blanqueo de 3 niveles) y `wiki/analisis/conclusiones-hipotesis.md` (diagrama ramificado de 4 hipótesis de trabajo). Conversión exitosa de estructuras de cajas ASCII y código de texto plano a flujogramas dinámicos de Mermaid con estilos premium personalizados.
+- **[2026-05-29]** - Ingesta de: "Pedraz cuantifica al menos 22 reuniones de la cloaca para destruir a los 'enemigos' de Sánchez"
+  ✅ Ingestión exitosa: [wiki/fuentes/pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca.md, wiki/personas/covadonga-san-pedro-pascual.md, wiki/personas/celia-rodriguez-alonso.md, wiki/personas/santos-cerdan-leon.md, wiki/personas/leire-diez-castro.md, wiki/personas/javier-perez-dolset.md, wiki/personas/santiago-pedraz.md, wiki/personas/pedro-sanchez-perez-castejon.md, wiki/casos/caso-sepi-cloacas.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+- **[2026-05-29]** - Ingesta de: "Conde-Pumpido, desencajado tras la imputación de su amigo Zapatero y su amnistiado Gaspar Zarrías"
+  ✅ Ingestión exitosa: [wiki/fuentes/conde-pumpido-desencajado-tras-la-imputacion-de-zapatero.md, wiki/personas/victor-moreno-catena.md, wiki/personas/carmen-martinez-aguayo.md, wiki/personas/candido-conde-pumpido.md, wiki/personas/jose-luis-rodriguez-zapatero.md, wiki/personas/gaspar-zarrias.md, wiki/casos/caso-zapatero.md, wiki/analisis/tabla-fuentes-casos.md, wiki/index.md, wiki/log.md]
+
 

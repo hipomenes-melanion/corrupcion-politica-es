@@ -14,6 +14,7 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - **Reunión fundacional en Ferraz**: El juez Pedraz sitúa a Dolset en la reunión fundacional de las cloacas del PSOE celebrada a finales de abril de 2024 en la sede de la calle Ferraz, coincidiendo con el periodo de "cinco días de reflexión" que se tomó Pedro Sánchez. En dicha reunión participó junto con Leire Díez, [[juan-manuel-serrano-quintana]], [[santos-cerdan-leon]] y el director de comunicación [[ion-fernando-antolin]].
 - **Actualización [2026-05-27]**: Se encuentra formalmente investigado por el magistrado Arturo Zamarriego en el [[caso-sepi-cloacas]] por presuntos delitos de tráfico de influencias y cohecho en la supuesta fabricación de pruebas falsas de las cloacas para desprestigiar a mandos de la UCO y a la Fiscalía Anticorrupción. (Fuente: [[resumen-causas-judiciales]])
 - **Soborno a Grinda y Stampa [Actualización 2026-05-28]**: El auto de la Audiencia Nacional desvela que Dolset facilitó a Leire Díez el contacto del intermediario Pere Rusiñol para proponer el soborno de 300.000€ al fiscal José Grinda. Asimismo, se documenta que en julio de 2025 Dolset y Díez se reunieron con el fiscal Ignacio Stampa para ofrecerle compensaciones profesionales y la intercesión en un litigio personal a cambio de cooperar con la cloaca. (Fuente: [[la-cloaca-del-psoe-ofrecio-300000-euros]])
+- **Actualización [2026-05-29]**: En el auto del juez Pedraz se acredita que el PSOE asumió y financió los costes de un viaje a Zaragoza realizado por Pérez Dolset, acompañado por Leire Díez, con la finalidad de mantener encuentros logísticos de la red de desestabilización judicial. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -31,6 +32,8 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - [[jose-grinda]]
 - [[pere-rusinol]]
 - [[alejandro-luzon]]
+- [[covadonga-san-pedro-pascual]]
+- [[celia-rodriguez-alonso]]
 
 ## Fuentes
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
@@ -38,3 +41,4 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
 - [[la-cloaca-del-psoe-ofrecio-300000-euros]]
+- [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]

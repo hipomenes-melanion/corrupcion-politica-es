@@ -26,6 +26,8 @@ Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje
   - [[ion-fernando-antolin]] (Director de comunicación del PSOE)
   - [[juan-manuel-serrano-quintana]] (Expresidente de Correos)
   - [[pere-rusinol]] (Periodista e intermediario)
+  - [[covadonga-san-pedro-pascual]] (Personal administrativo de Ferraz / Logística de viajes)
+  - [[celia-rodriguez-alonso]] (Personal administrativo de Ferraz / Logística de viajes)
 - **Objetivos de Hostigamiento y Soborno**:
   - [[jose-grinda]] (Fiscal Anticorrupción / Testigo clave)
   - [[alejandro-luzon]] (Fiscal Jefe Anticorrupción / Objetivo de desprestigio)
@@ -42,6 +44,7 @@ Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje
 - **Soborno de 300.000€ para neutralizar al Fiscal Jefe**: El auto de la Audiencia Nacional destapa que la red delictiva ofreció un soborno de 300.000 euros y un puesto en el extranjero al fiscal anticorrupción [[jose-grinda]]. La finalidad era lograr que archivara causas de él dependientes y aportara información sensible sobre su superior, el Fiscal Jefe Anticorrupción [[alejandro-luzon]], para comprometerlo y forzar su destitución. La red utilizó a [[pere-rusinol]] como emisario para realizar la propuesta el 27 de febrero de 2025, la cual fue rechazada por Grinda. En la agenda de Leire Díez constaba la anotación manuscrita: *"300.000 euros xra ayudar a un fiscal que tiene un problema con una menor"*.
 - **Objetivos de desprestigio judicial**: Las operativas delictivas iban dirigidas a hostigar y desestabilizar la labor de tres jueces instructores clave: Mercedes Alaya (Caso ERE), Beatriz Biedma (Caso David Sánchez) y Juan Carlos Peinado (Caso Begoña Gómez).
 - **Soporte logístico y operativo de Ferraz**: El magistrado de la Audiencia Nacional detalla que el secretario de Organización del PSOE, Santos Cerdán, puso toda la infraestructura nacional del partido a disposición de la estructura criminal de las cloacas: sufragando costes, personal administrativo, dependencias de Ferraz para celebrar reuniones y la logística de viajes y alquileres de vehículos.
+- **Cuantificación de reuniones de la cloaca**: El auto de Santiago Pedraz de mayo de 2026 cuantifica al menos **22 reuniones de coordinación de las cloacas en la propia sede de la calle Ferraz** entre el 26 de abril de 2024 y el 11 de abril de 2025. El PSOE financió e instrumentalizó su infraestructura (vuelos de Leire Díez en al menos 4 ocasiones y traslados de Javier Pérez Dolset a Zaragoza) gestionados y comprados por las empleadas administrativas del partido [[covadonga-san-pedro-pascual]] y [[celia-rodriguez-alonso]]. Además de estas, se cuantifican al menos **otras 17 reuniones** fuera de Ferraz o de ubicación desconocida hasta el 21 de mayo de 2025.
 - **Maniobras de colocación en la SEPI**: Para "recuperar el control de la SEPI" tras la marcha de Vicente Fernández, Leire Díez Castro maniobró en enero de 2021 para ser contratada como jefa de gabinete de la nueva presidenta, [[belen-gualda-gonzalez]], indicando en un mensaje que si hacía falta hablaría con el *"superjefe"* (Pedro Sánchez). Tras frustrarse la tentativa, constituyeron el clan "Hirurok" en junio de 2021.
 
 ## Referencias cruzadas
@@ -62,6 +65,8 @@ Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje
 - [[pere-rusinol]]
 - [[alejandro-luzon]]
 - [[belen-gualda-gonzalez]]
+- [[covadonga-san-pedro-pascual]]
+- [[celia-rodriguez-alonso]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
@@ -74,3 +79,4 @@ Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje
 - [[el-psoe-pago-178000-euros-a-la-cloaca|El PSOE pagó 178.000 euros a la cloaca para ir a por jueces como Biedma, Alaya y Peinado]]
 - [[la-cloaca-del-psoe-ofrecio-300000-euros|La cloaca del PSOE ofreció 300.000 euros a un fiscal para 'cazar' a Luzón]]
 - [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
+- [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]

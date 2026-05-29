@@ -1,6 +1,6 @@
 ---
 title: "Glosario de Tipos Delictivos"
-source: "Código Penal de España"
+source: "raw/Código Penal de España.md"
 updated: "2026-05-25"
 tags: [entidad, glosario, delitos, codigo-penal, fuente]
 ---

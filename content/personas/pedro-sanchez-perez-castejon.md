@@ -31,6 +31,7 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 
 - **Actualización [2026-05-27]**: El magistrado de la Audiencia Nacional Santiago Pedraz imputa y sitúa el origen de las cloacas de Ferraz en el periodo de reflexión de cinco días que el presidente se tomó tras la imputación de su esposa, Begoña Gómez. Audios intervenidos revelan que se activó una directriz atribuida a él para *"limpiar todo sin límites"*, boicoteando y obstruyendo de forma ilícita los procedimientos judiciales y policiales de corrupción que afectaban al Gobierno y al partido. (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
 - **Actualización [2026-05-28]**: El auto judicial del juez Santiago Pedraz revela que Leire Díez Castro aludió directamente al presidente como el *"superjefe"* en enero de 2021 durante las maniobras de colocación en el gabinete de [[belen-gualda-gonzalez]] para recuperar el control de la SEPI: *"Aunque tenga que ser yo la que hable con el superjefe"*, afirmaba. (Fuente: [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]])
+- **Actualización [2026-05-29]**: El auto del juez Santiago Pedraz detalla que las reuniones de coordinación de las cloacas en la sede de Ferraz para destruir a los "enemigos" de Sánchez se cuantifican en al menos 22. Asimismo, se cuantifican al menos otras 17 reuniones entre Santos Cerdán y Leire Díez en exteriores o localizaciones desconocidas para tal fin. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
 
 ## Referencias cruzadas
 - [[hospital-ramon-y-cajal]]
@@ -41,8 +42,10 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 - [[leire-diez-castro]]
 - [[javier-perez-dolset]]
 - [[belen-gualda-gonzalez]]
+- [[santos-cerdan-leon]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
+- [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]

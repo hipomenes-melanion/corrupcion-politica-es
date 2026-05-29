@@ -639,6 +639,7 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - **Actualización [2026-05-26]**: Trascendió que durante el registro de la UDEF a la sede de la empresa de sus hijas, [[what-the-fav]], la policía judicial intervino dos contratos formalizados con la multinacional tecnológica [[huawei-technologies-espana]] (uno de ellos de octubre de 2020) y diversa documentación estratégica de la firma agroalimentaria [[oro-azul]], así como convenios de servicios y planes de emergencia en América Latina. La empresa habría canalizado más de 745.000 euros procedentes del presunto blanqueo de la trama Plus Ultra. (Fuente: [[la-udef-encontro-contratos-con-huawei-y-oro-azul]])
 
 - **Actualización [2026-05-27]**: El informe de la UDEF sobre las notas manuscritas de su testaferro Julio Martínez Martínez le señala como el principal "conseguidor" de contratos de recursos naturales (gas, petróleo, oro, carbón, níquel) para Venezuela, destacando un viaje de Zapatero a Pekín para vender crudo de PDVSA a una empresa de la órbita del Partido Comunista de China. (Fuente: [[las-notas-manuscritas-de-julio-martinez-senalan-di]])
+- **Actualización [2026-05-29]**: Se desvela que tras su imputación judicial decretada por el juez José Luis Calama por organización criminal y blanqueo en el Caso Plus Ultra, Zapatero seleccionó como letrado defensor al catedrático de Derecho Procesal y abogado de confianza del PSOE, [[victor-moreno-catena]], quien defendió anteriormente a [[carmen-martinez-aguayo]] en el caso de los ERE. Se documenta la estrecha relación de amistad íntima que une a Zapatero con el presidente del Tribunal Constitucional, [[candido-conde-pumpido]] (con quien mantiene fluida comunicación), desencadenando preocupación anímica en el magistrado tras su imputación y la de Gaspar Zarrías. (Fuente: [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]])
 
 ## Referencias cruzadas
 - [[iustitia-europa]]
@@ -653,6 +654,9 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - [[oro-azul]]
 - [[la-udef-encontro-contratos-con-huawei-y-oro-azul]]
 - [[edmundo-gonzalez-urrutia]]
+- [[candido-conde-pumpido]]
+- [[victor-moreno-catena]]
+- [[carmen-martinez-aguayo]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -660,3 +664,4 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - [[el-juez-calama-abre-dos-piezas-separadas]]
 - [[la-udef-encontro-contratos-con-huawei-y-oro-azul]]
 - [[las-notas-manuscritas-de-julio-martinez-senalan-di]]
+- [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]]

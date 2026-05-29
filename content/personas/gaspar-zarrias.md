@@ -13,6 +13,7 @@ Gaspar Zarrías Arévalo es un histórico político español del PSOE, exconseje
 - **Papel en la trama de boicot judicial**: Los indicios sitúan a Zarrías en el núcleo planificador de la red, coordinado con [[santos-cerdan-leon]] y [[leire-diez-castro]] para articular acciones delictivas que obstruyeran e interfirieran en las causas de corrupción que cercaban al partido socialista.
 - **Canalización financiera de Ferraz**: Zarrías declaró en el caso cloacas que contrató a la fontanera socialista Leire Díez abonándole 4.000 euros mensuales (16.000€ en total durante 4 meses) supuestamente para investigar una implicación del comisario Villarejo en la causa de los ERE, de la que el propio Zarrías fue encausado. La UCO acredita que su consultora personal fue utilizada por Ferraz como una sociedad interpuesta para desviar fondos de la facturación falaz del PSOE con destino a Leire Díez.
 - **Registros de la UCO**: Con motivo de su implicación en la trama SEPI y en la financiación de las cloacas, agentes de la UCO llevaron a cabo un registro judicial en su domicilio particular el 27 de mayo de 2026.
+- **Actualización [2026-05-29]**: Su reciente imputación judicial en el Juzgado Central de Instrucción n.º 5 de la AN (tramitada por Santiago Pedraz) por la trama SEPI y las cloacas de Ferraz constituye un golpe anímico directo para el presidente del TC, [[candido-conde-pumpido]], quien lideró la estimación de su amparo de los ERE en julio de 2024 para anular de forma encubierta la inhabilitación de 9 años por prevaricación continuada que le impuso el Tribunal Supremo. (Fuente: [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -24,9 +25,13 @@ Gaspar Zarrías Arévalo es un histórico político español del PSOE, exconseje
 - [[ismael-oliver]]
 - [[ana-maria-fuentes-pacheco]]
 - [[mercedes-alaya]]
+- [[candido-conde-pumpido]]
+- [[victor-moreno-catena]]
+- [[carmen-martinez-aguayo]]
 
 ## Fuentes
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
 - [[santos-cerdan-zarrias-y-la-gerente-del]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
+- [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]]

@@ -19,11 +19,20 @@ Magistrado de carrera y presidente del Tribunal Constitucional (TC) de España. 
 - **Actualización [2026-03-24]**: Estudia y coordina con sectores afines una fórmula jurídica inédita para validar como constitucional el hecho de que Pedro Sánchez gobierne sin presentar nuevos Presupuestos Generales del Estado. (Fuente: [[pumpido-estudia-la-formula-para-declarar-constituc]])
 
 - **Actualización [2026-05-18]**: Impulsa una ponencia en el TC destinada a blindar y regular unilateralmente el derecho de huelga, con el fin político sospechado de preparar la movilización de las calles si el actual Gobierno socialista pierde el poder. (Fuente: [[pumpido-quiere-regular-el-derecho-de-huelga-desde]])
+- **Actualización [2026-05-29]**: Fuentes internas del Tribunal Constitucional revelan que Conde-Pumpido se encuentra "desencajado" tras la imputación penal por organización criminal de su amigo íntimo, José Luis Rodríguez Zapatero (Caso Plus Ultra), y del exconsejero Gaspar Zarrías (trama SEPI), a quien amnistió de forma encubierta en el TC liderando la anulación de condenas de los ERE en julio de 2024. Se constata la estrecha amistad entre el magistrado y el expresidente de la época en que fue Fiscal General, y se documenta que Zapatero seleccionó como defensor penal a [[victor-moreno-catena]] (letrado del PSOE que defendió a [[carmen-martinez-aguayo]] en los ERE), facilitando la comunicación informal de la red con la presidencia del TC. (Fuente: [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]])
 
 ## Referencias cruzadas
 - [[alvaro-garcia-ortiz]]
 - [[pedro-sanchez-perez-castejon]]
 - [[tribunal-constitucional]]
+- [[victor-moreno-catena]]
+- [[carmen-martinez-aguayo]]
+- [[jose-luis-rodriguez-zapatero]]
+- [[gaspar-zarrias]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[la-causa-de-garcia-ortiz-es-el]]
+- [[pumpido-estudia-la-formula-para-declarar-constituc]]
+- [[pumpido-quiere-regular-el-derecho-de-huelga-desde]]
+- [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]]
