@@ -4,8 +4,9 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Corrupción Política ES",
+    pageTitleSuffix: "",
     provider: "local",
-    locale: "es-ES",
+    locale: "en-US",
     baseUrl: "hipomenes-melanion.github.io/corrupcion-politica-es",
     ignorePatterns: [".obsidian", ".trash", "__tests__", "nodes_modules"],
     analytics: {
@@ -27,6 +28,7 @@ const config: QuartzConfig = {
           sidebar: "#f4f4f5",
           body: "#27272a",
           header: "#18181b",
+          secondary: "#18181b",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff275",
