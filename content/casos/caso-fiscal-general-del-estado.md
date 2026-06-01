@@ -1,7 +1,7 @@
 ---
 title: "Caso del Fiscal General del Estado"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-06-01"
 tags: [caso-fiscal-general-del-estado]
 ---
 
@@ -11,12 +11,12 @@ Causa especial seguida contra el Fiscal General del Estado, Álvaro García Orti
 ## Detalles
 ### Informaciones
 - **Órgano Jurisdiccional**: [[tribunal-supremo]] (Sala Segunda, de lo Penal)
-- **Magistrado Instructor**: [[andres-martinez-arrieta]]
+- **Magistrado Instructor**: Magistrado Ponente del Tribunal de Enjuiciamiento (Anteriormente: [[andres-martinez-arrieta]])
 - **Procedimiento**: Causa Especial 20557/2024
-- **Fase Procesal Actual**: Sentencia condenatoria en primera instancia. El fallo impone pena de multa e inhabilitación especial (Fase preprocesal ante el Tribunal Constitucional vía recurso de amparo).
+- **Fase Procesal Actual**: **Sentencia firme dictada por la Sala de lo Penal del Tribunal Supremo.** Se impuso una condena de dos años de inhabilitación especial para el cargo y multa, lo que supuso el cese efectivo del encausado.
 - **Investigados / Encausados Principales**:
   - [[alvaro-garcia-ortiz]]
-- **Tipos Penales Imputados**: Comisión de un delito de revelación de secretos (revelación de datos reservados por funcionario público del artículo 417.1 del Código Penal).
+- **Tipos Penales Imputados**: Delito de revelación de secretos del artículo 417.1 del Código Penal (por la filtración de datos e informaciones confidenciales de un particular).
 
 
 ### Datos clave

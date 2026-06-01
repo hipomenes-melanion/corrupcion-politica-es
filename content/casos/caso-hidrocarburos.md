@@ -1,7 +1,7 @@
 ---
 title: "Caso Hidrocarburos"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-26"
+updated: "2026-06-01"
 tags: [caso-hidrocarburos]
 ---
 
@@ -13,12 +13,12 @@ Causa judicial que investiga un presunto fraude masivo de IVA en el sector de la
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 5)
 - **Magistrado Instructor**: [[santiago-pedraz]]
 - **Procedimiento**: Diligencias Previas 71/2024 (Trama de fraude del IVA de carburantes)
-- **Fase Procesal Actual**: Fase de Instrucción / Análisis de volcado de dispositivos informáticos y rastreo de flujos financieros transnacionales.
+- **Fase Procesal Actual**: Fase de Instrucción. Análisis de dispositivos intervenidos, flujos financieros y conexiones societarias.
 - **Investigados / Encausados Principales**:
   - [[victor-de-aldama-delgado]]
   - [[claudio-rivas]]
   - [[maria-luisa-rivas]]
-- **Tipos Penales Imputados**: Organización criminal, blanqueo de capitales, fraude fiscal (delitos contra la Hacienda Pública) y cohecho.
+- **Tipos Penales Imputados**: Organisation criminal, blanqueo de capitales, fraude fiscal (delitos contra la Hacienda Pública) y cohecho.
 
 ### Datos clave
 - El juez instructor de la Audiencia Nacional, Santiago Pedraz, investiga un presunto fraude del IVA en hidrocarburos y organización criminal protagonizado por Víctor de Aldama y los Rivas.

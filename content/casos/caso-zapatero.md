@@ -1,7 +1,7 @@
 ---
 title: "Caso Zapatero"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-06-01"
 tags: [caso-zapatero]
 ---
 
@@ -13,7 +13,7 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 2)
 - **Magistrado Instructor**: [[ismael-moreno-chamarro]]
 - **Procedimiento**: Pieza Separada de Conexión Internacional e Influencia Institucional
-- **Fase Procesal Actual**: Fase de Instrucción / Diligencias preliminares de investigación patrimonial y societaria.
+- **Fase Procesal Actual**: Fase de Instrucción. Diligencias de comprobación tras las declaraciones de comisionistas sobre el uso de dispositivos móviles específicos.
 - **Investigados / Encausados Principales**:
   - [[jose-luis-rodriguez-zapatero]]
   - [[victor-moreno-catena]] (Abogado penalista defensor / Letrado de confianza)
@@ -22,17 +22,30 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 
 ### Datos clave
 - La causa penal de conexión internacional investiga a José Luis Rodríguez Zapatero por delitos de organización criminal, tráfico de influencias y blanqueo de capitales vinculados a Venezuela.
-- El magistrado José Luis Calama bloqueó de manera cautelar las cuentas bancarias de Zapatero y ordenó investigar el cobro de 1,2 millones de euros a través de un think tank relacionado con China.
+- El magistrado José Luis Calama decretó el bloqueo preventivo y parcial de las cuentas bancarias de Zapatero hasta el límite de **490.780 euros** (el importe recibido de la instrumental [[analisis-relevante]]) y de otras mercantiles de la trama por "riesgo cierto y concreto" (*periculum in mora*) de ocultación o fuga de capitales al extranjero.
+- La trama societaria movilizó fondos de alta complejidad:
+  - **Análisis Relevante S.L.**: Recibió más de **941.000 euros** de [[plus-ultra-lineas-aereas]], [[softgestor]], [[grupo-aldesa]] e [[inteligencia-prospectiva]], desviando posteriormente **490.780 euros** a Zapatero y **239.755 euros** a [[what-the-fav]].
+  - **Inteligencia Prospectiva**: Canalizó cerca de **1,2 millones de euros** hacia Análisis Relevante, Whathefav y el think tank [[gate-center]].
+  - **Redistribución familiar**: Se detectan transferencias de cuantía relevante a las cuentas de las hijas de Zapatero (incluyendo a [[alba-rodriguez-espinosa]]), cancelaciones anticipadas de préstamos y adquisiciones de patrimonio de lujo.
+- **Filtración de Secretos de Estado y alerta en el CNI**: Se investiga una fuga de información clasificada de los servicios de inteligencia en favor de Zapatero, sospechándose de la directora del CNI [[esperanza-casteleiro]] como interlocutora directa. En la agenda negra incautada a su socio [[julio-martinez-martinez]] (ROS - Doc. 003) se hallaron detalladas anotaciones reservadas sobre operaciones del CNI en Latinoamérica (Venezuela, Colombia, Cuba), gestiones secretas para la liberación de presos chavistas, y el estado de semiaislamiento en El Rodeo I de los supuestos agentes vascos José María Basoa y Andrés Martínez (filtrados vía CIA). Asimismo, la agenda contenía instrucciones para que el opositor [[eudoro-gonzalez-dellan]] (enlace de Zapatero) propiciara el exilio forzado a Madrid de [[edmundo-gonzalez-urrutia]].
 - Zapatero utilizaba a su secretario de confianza Julio Martínez para cobrar mordidas y administrar la red, ordenándole borrar sistemáticamente sus comunicaciones.
 - La UDEF irrumpió en el despacho de Zapatero en la Audiencia Nacional incautando maletines sellados y cajas fuertes con un 'botín' de joyas, relojes y piedras preciosas.
 - Los flujos financieros y comisiones ilegales eran canalizados por la estructura delictiva hacia cuentas y sociedades offshore creadas en Dubái.
 - **Afectación y lobby en el Tribunal Constitucional**: La imputación penal de Zapatero por organización criminal y blanqueo por el juez Calama ha golpeado el ánimo de su amigo íntimo, el presidente del TC, [[candido-conde-pumpido]]. Zapatero seleccionó como letrado defensor a [[victor-moreno-catena]] (abogado de confianza del PSOE que defendió a [[carmen-martinez-aguayo]] en el caso de los ERE, a quien Conde-Pumpido amnistió en el TC de forma encubierta en julio de 2024 junto a Gaspar Zarrías), lo que facilita contactos y asesoría informal de la red en la presidencia del TC.
+
 ## Referencias cruzadas
 - [[caso-koldo]] (conexión de piezas en la Audiencia Nacional)
 - [[caso-plus-ultra]] (conexión por mediación y rescate de la aerolínea)
 - [[candido-conde-pumpido]]
 - [[victor-moreno-catena]]
 - [[carmen-martinez-aguayo]]
+- [[analisis-relevante]]
+- [[gate-center]]
+- [[grupo-aldesa]]
+- [[what-the-fav]]
+- [[alba-rodriguez-espinosa]]
+- [[esperanza-casteleiro]]
+- [[eudoro-gonzalez-dellan]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
@@ -61,4 +74,7 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - [[zapatero-al-borde-de-la-imputacion-por-el-caso-pl|Zapatero, al borde de la imputación por el caso Plus Ultra en la Audiencia Nacional]]
 - [[zapatero-imputado-por-organizacion-criminal-traf|Zapatero, imputado por organización criminal, tráfico de influencias y falsedad]]
 - [[zapatero-utilizo-a-su|Zapatero utilizó a su lacayo Julio Martínez para cobrar de Plus Ultra Por ahí vendrá la mordida]]
-- [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]]
+- [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero|Conde-Pumpido, "desencajado" tras la imputación de su amigo Zapatero y su amnistiado Gaspar Zarrías]]
+- [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero|Calama bloqueó parcialmente las cuentas de Zapatero por "riesgo" de que transfiriese fondos al extranjero]]
+- [[alerta-en-el-cni-zapatero-tiene-acceso|Alerta en el CNI: Zapatero tiene acceso a información sensible sobre Venezuela y China]]
+

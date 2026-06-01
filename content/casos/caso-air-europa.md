@@ -1,7 +1,7 @@
 ---
 title: "Caso Air Europa"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-06-01"
 tags: [caso-air-europa]
 ---
 
@@ -13,7 +13,7 @@ Pieza separada que investiga las presuntas comisiones de intermediación, tráfi
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 2)
 - **Magistrado Instructor**: [[ismael-moreno-chamarro]]
 - **Procedimiento**: Pieza Separada de Gestión Financiera y Rescates (Derivada del tronco general de la trama)
-- **Fase Procesal Actual**: Fase de Instrucción / Análisis de comisiones de intermediación y auditoría de concesión del fondo de contingencia.
+- **Fase Procesal Actual**: Fase de Instrucción. Análisis de los expedientes de concesión de ayudas públicas y comisiones de intermediación vinculadas.
 - **Investigados / Encausados Principales**:
   - Altos cargos de la [[sepi]]
   - Exdirectivos del Ministerio de Transportes
@@ -23,7 +23,7 @@ Pieza separada que investiga las presuntas comisiones de intermediación, tráfi
 
 ### Datos clave
 - Se investiga el presunto tráfico de influencias y prevaricación en la concesión del rescate millonario a la aerolínea de Globalia / Air Europa.
-- La UCO de la Guardia Civil trasladó formalmente al juez Peinado que los indicios y vínculos de Begoña Gómez con el rescate no resultan contrastables en sede judicial.
+- La [[unidad-central-operativa|UCO]] de la Guardia Civil trasladó formalmente al juez Peinado que los indicios y vínculos de Begoña Gómez con el rescate no resultan contrastables en sede judicial.
 - Pedro Saura, exsecretario de Estado de Transportes, admitió haber mantenido llamadas directas con el comisionista Víctor de Aldama por cortesía durante las negociaciones de las ayudas públicas.
 ## Referencias cruzadas
 - [[caso-koldo]] (causa matriz de la que dimana)
@@ -32,5 +32,5 @@ Pieza separada que investiga las presuntas comisiones de intermediación, tráfi
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
-- [[la-uco-dice-al-juez-peinado-que|La UCO dice al juez Peinado que no son contrastables los vínculos de Begoña Gómez con el rescate de Air Europa]]
+- [[la-uco-dice-al-juez-peinado-que|La [[unidad-central-operativa|UCO]] dice al juez Peinado que no son contrastables los vínculos de Begoña Gómez con el rescate de Air Europa]]
 - [[pedro-saura-reconoce-haber-llamado-por-telefono-a|Pedro Saura reconoce haber llamado por teléfono a Aldama por el rescate de Air Europa Fue por cortesía]]

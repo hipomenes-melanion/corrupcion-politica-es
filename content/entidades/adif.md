@@ -26,7 +26,7 @@ Administrador de Infraestructuras Ferroviarias, entidad pública empresarial dep
 
 - **Actualización [2026-03-11]**: Al menos, hay tres contratos de Adif y Adif Alta Velocidad que suman 400 millones de euros cuyos criterios para pedir el sobrecoste serían ilícitos. (Fuente: [[la-igae-detecta-contratos-adjudicados-por-adif-a-e]])
 
-- **Actualización [2026-03-12]**: El Puente Centenario aparece en un informe de la UCO dónde se señala que la trama Koldo presionó para que se otorgase la adjudicación a Acciona. (Fuente: [[la-igae-detecta-que-la-obra-del-puente-del-centena]])
+- **Actualización [2026-03-12]**: El Puente Centenario aparece en un informe de la [[unidad-central-operativa|UCO]] dónde se señala que la trama Koldo presionó para que se otorgase la adjudicación a Acciona. (Fuente: [[la-igae-detecta-que-la-obra-del-puente-del-centena]])
 
 - **Actualización [2026-03-27]**: La juez también ha aceptado la personación de otras entidades como el Sindicato de Maquinistas y Ayudantes Ferroviarios (SEMAF) (Fuente: [[la-juez-de-adamuz-acepta-la-personacion-de-manos-l]])
 

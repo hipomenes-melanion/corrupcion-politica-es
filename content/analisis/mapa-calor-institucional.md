@@ -70,7 +70,7 @@ flowchart TD
 ### La Conexión Oculta de María Jesús Montero y Vicente Fernández:
 Informes policiales y la denuncia de un testigo presencial ante la Guardia Civil han destapado una de las conexiones de influencia informal más graves del Ejecutivo:
 *   **Vida de Pareja Oculta**: La exvicepresidenta del Gobierno y exministra de Hacienda, **María Jesús Montero**, mantuvo una relación sentimental directa e íntima ("vida de pareja") con el expresidente de la SEPI, **[[vicente-fernandez-guerrero]]**, compartiendo estancia en el Hotel Las Salinas de Cabo de Gata (Almería) en el verano de 2021.
-*   **La Relevancia del Cese**: Montero cesó formalmente a Vicente Fernández en octubre de 2019 tras su imputación judicial en el caso de la mina de Aznalcóllar, declarando públicamente que había cortado todo contacto. La UCO sostiene que este estrecho vínculo desmiente la neutralidad en la fiscalización de las ayudas concedidas al holding.
+*   **La Relevancia del Cese**: Montero cesó formalmente a Vicente Fernández en octubre de 2019 tras su imputación judicial en el caso de la mina de Aznalcóllar, declarando públicamente que había cortado todo contacto. La [[unidad-central-operativa|UCO]] sostiene que este estrecho vínculo desmiente la neutralidad en la fiscalización de las ayudas concedidas al holding.
 
 ### El Asalto a la Presidencia de la SEPI y la Estructura de Ferraz:
 La instrucción del juez Santiago Pedraz en el [[caso-sepi-cloacas]] y [[caso-leire-hirurok]] destapa un nivel superior de asalto institucional:

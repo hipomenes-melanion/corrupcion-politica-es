@@ -1,7 +1,7 @@
 ---
 title: "Caso Kitchen"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-06-01"
 tags: [caso-kitchen]
 ---
 
@@ -11,9 +11,9 @@ Investigación sobre una presunta operación parapolicial ilegal y sin control j
 ## Detalles
 ### Informaciones
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Sala de lo Penal, Sección Tercera)
-- **Magistrado Instructor**: [[alfonso-guevara-marcos]]
+- **Magistrado Instructor**: [[alfonso-guevara-marcos]] (Tribunal de Enjuiciamiento)
 - **Procedimiento**: Diligencias Previas 85/2018 - Pieza Separada 7 "Kitchen" (Operación Tándem)
-- **Fase Procesal Actual**: Fase de Plenario / Pendiente de celebración de sesiones de Juicio Oral.
+- **Fase Procesal Actual**: Fase de Plenario. Apertura de Juicio Oral dictada y pendiente de la celebración de las sesiones de enjuiciamiento.
 - **Investigados / Encausados Principales**:
   - [[jorge-fernandez-diaz]]
   - [[francisco-martinez-vazquez]]

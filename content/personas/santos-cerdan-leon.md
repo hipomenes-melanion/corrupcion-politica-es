@@ -1,7 +1,7 @@
 ---
 title: "Santos Cerdán León"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-28"
+updated: "2026-05-30"
 tags: [persona, investigado]
 ---
 
@@ -100,6 +100,7 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - **Actualización [2026-05-27]**: El juez Pedraz lo sitúa al frente del impulso, soporte intelectual y financiero de las cloacas del PSOE, financiado con 178.000€ de Ferraz. Se revela que participó en la reunión fundacional de Ferraz celebrada durante el periodo de reflexión de Pedro Sánchez en abril de 2024 para boicotear de forma ilimitada los procedimientos judiciales. (Fuentes: [[pedraz-senala-los-audios-de-la-cloaca]], [[el-psoe-pago-178000-euros-a-la-cloaca]])
 - **Actualización [2026-05-28]**: El auto de Santiago Pedraz describe cómo Cerdán, en su calidad de secretario de Organización del PSOE, facilitó toda la infraestructura del partido a disposición de la trama criminal: asumiendo costes, cediendo dependencias de Ferraz para reuniones, aportando personal para tareas administrativas y sufragando la logística de viajes y alquileres de vehículos. También consta su intermediación para tranquilizar a Vicente Fernández por *"lo que estaba pasando"*. (Fuente: [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]])
 - **Actualización [2026-05-29]**: El juez Santiago Pedraz de la Audiencia Nacional cuantifica en al menos 22 las reuniones de las cloacas del PSOE celebradas en la sede de Ferraz, la mayoría de ellas entre Santos Cerdán y Leire Díez para coordinar el boicot contra los jueces del caso SEPI y Begoña Gómez. El auto judicial constata además otras 17 reuniones entre ambos celebradas fuera de Ferraz o en ubicación desconocida. Pedraz ratifica que Cerdán, como secretario de Organización, instrumentalizó el partido poniendo toda su estructura, dependencias, cuentas y personal (como las empleadas [[covadonga-san-pedro-pascual]] y [[celia-rodriguez-alonso]]) a disposición de la red criminal. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
+- **Actualización [2026-05-30]**: El juez Santiago Pedraz de la Audiencia Nacional ha ordenado en su auto el copiado inmediato de todas las cuentas y servidores de correo electrónico de Santos Cerdán en la Gerencia del partido. (Fuente: [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]])
 
 ## Referencias cruzadas
 - [[tribunal-de-cuentas]]
@@ -115,6 +116,7 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - [[belen-gualda-gonzalez]]
 - [[covadonga-san-pedro-pascual]]
 - [[celia-rodriguez-alonso]]
+- [[antonio-hernando]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -126,3 +128,4 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
 - [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
 - [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]
+- [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]]

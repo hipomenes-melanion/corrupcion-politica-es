@@ -1,7 +1,7 @@
 ---
 title: "Santiago Pedraz"
 source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
-updated: "2026-05-28"
+updated: "2026-05-30"
 tags: [persona, magistrado, caso-hidrocarburos, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -20,6 +20,7 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - **Actualización [2026-05-27]**: Expone los audios de Leire Díez y Pérez Dolset ante el fiscal Ignacio Stampa que revelan que la trama de boicot judicial se inició tras la imputación de Begoña Gómez bajo el mandato de "que se limpie todo". (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
 - **Actualización [2026-05-27]**: Acredita la facturación falaz de 178.000€ canalizada por Ferraz para atacar a los jueces instructores Alaya, Biedma y Peinado. (Fuente: [[el-psoe-pago-178000-euros-a-la-cloaca]])
 - **Actualización [2026-05-29]**: Emite un nuevo auto en el que cuantifica al menos 22 reuniones de las cloacas en la sede socialista de Ferraz y 17 fuera, detallando cómo el PSOE financió los gastos de Leire Díez y Javier Pérez Dolset y utilizó a empleadas de administración del partido ([[covadonga-san-pedro-pascual]], [[celia-rodriguez-alonso]]) para dar soporte logístico y de viajes a la organización criminal. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
+- **Actualización [2026-05-30]**: Emite el auto de requerimiento al PSOE en Ferraz autorizando subsidiariamente la entrada y registro de la sede con el uso de la fuerza proporcional y la incautación de efectivo/bienes de valor si existe negativa a colaborar. Ordenó el copiado inmediato de correos electrónicos de investigados y recabó el control de accesos de [[antonio-hernando]]. (Fuente: [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]])
 
 ## Referencias cruzadas
 - [[caso-hidrocarburos]]
@@ -40,6 +41,8 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - [[juan-manuel-serrano-quintana]]
 - [[covadonga-san-pedro-pascual]]
 - [[celia-rodriguez-alonso]]
+- [[antonio-hernando]]
+- [[oscar-puente]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -49,3 +52,4 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
 - [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]
+- [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]]

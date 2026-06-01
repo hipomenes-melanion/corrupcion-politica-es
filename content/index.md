@@ -1,7 +1,7 @@
 ---
 title: "Índice de la Wiki"
 source: "CLAUDE.md"
-updated: "2026-05-28"
+updated: "2026-05-30"
 tags: [indice, navegacion]
 ---
 
@@ -138,6 +138,7 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 ### Otras Personas
 - [[antonio-balas|Antonio Balas]]
 - [[antonio-duarte|Antonio Duarte]]
+- [[antonio-hernando|Antonio Hernando]]
 - [[belen-gualda-gonzalez|Belén Gualda González]]
 - [[cayetana-alvarez-de-toledo|Cayetana Álvarez de Toledo]]
 - [[celia-rodriguez-alonso|Celia Rodríguez Alonso]]
@@ -147,6 +148,8 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 - [[edmundo-gonzalez-urrutia|Edmundo González Urrutia]]
 - [[elena-hernaez-salguero|Elena Hernáez]]
 - [[enriqueta-chicano-jaen|Enriqueta Chicano]]
+- [[esperanza-casteleiro|Esperanza Casteleiro]]
+- [[eudoro-gonzalez-dellan|Eudoro González Dellán]]
 - [[felix-bolanos|Félix Bolaños]]
 - [[fernando-grande-marlaska|Fernando Grande-Marlaska]]
 - [[francisco-martin|Francisco Martín]]
@@ -178,7 +181,9 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 - [[acciona|Acciona]]
 - [[adif|Adif]]
 - [[alemany-asesores-consultores|Alemany Asesores Consultores]]
+- [[analisis-relevante|Análisis Relevante]]
 - [[audiencia-nacional|Audiencia Nacional]]
+- [[audiencia-provincial-de-badajoz|Audiencia Provincial de Badajoz]]
 - [[azvi|Azvi]]
 - [[cgpj|CGPJ (Consejo General del Poder Judicial)]]
 - [[ciaf|CIAF (Comisión de Investigación de Accidentes Ferroviarios)]]
@@ -188,6 +193,8 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 - [[corporate-communicator|Corporate Communicator]]
 - [[deloitte|Deloitte]]
 - [[eh-bildu|EH Bildu]]
+- [[gate-center|Gate Center]]
+- [[grupo-aldesa|Grupo Aldesa]]
 - [[grupo-forestalia|Grupo Forestalia]]
 - [[grupo-globalia|Grupo Globalia]]
 - [[huawei-technologies-espana|Huawei Technologies España]]
@@ -196,6 +203,7 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 - [[inteligencia-prospectiva|Inteligencia Prospectiva]]
 - [[iustitia-europa|Iustitia Europa]]
 - [[juzgado-de-instruccion-3-de-badajoz|Juzgado de Instrucción n.º 3 de Badajoz]]
+- [[juzgado-de-instruccion-5-de-madrid|Juzgado de Instrucción n.º 5 de Madrid]]
 - [[juzgado-de-instruccion-15-de-madrid|Juzgado de Instrucción n.º 15 de Madrid]]
 - [[juzgado-de-instruccion-4-de-santa-cruz-de-tenerife|Juzgado de Instrucción n.º 4 de Santa Cruz de Tenerife]]
 - [[juzgado-de-instruccion-41-de-madrid|Juzgado de Instrucción n.º 41 de Madrid]]
@@ -215,6 +223,7 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 - [[tribunal-supremo|Tribunal Supremo]]
 - [[uai|UAI (Unidad de Asuntos Internos)]]
 - [[udyco|UDYCO (Unidad de Droga y Crimen Organizado)]]
+- [[unidad-central-operativa|Unidad Central Operativa (UCO)]]
 - [[universidad-complutense-de-madrid|Universidad Complutense de Madrid]]
 - [[what-the-fav|What The Fav]]
 - [[womens-link-worldwide|Women's Link Worldwide]]
@@ -242,12 +251,15 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 - [[aldama-se-adhiere-a-la-tesis-de-la-fiscalia-y-pide|Aldama se adhiere a la tesis de la Fiscalía y pide que declaren Jéssica y la mano derecha de Montero]]
 - [[aldama-al-juez-sobre-los-cupos-de-pdvsa|Aldama, al juez sobre los cupos de PDVSA Estamos hablando de la financiación ilegal del partido]]
 - [[aldama-ante-el-juez|Aldama, ante el juez Ángel Víctor Torres mandó a Koldo a México para sus negocios de hidrocarburos]]
+- [[alerta-en-el-cni-zapatero-tiene-acceso|Alerta en el CNI: Zapatero tiene acceso a información sensible sobre Venezuela y China]]
 - [[alerta-en-el-tc-pumpido-quiere-consagrar-la-memor|Alerta en el TC Pumpido quiere consagrar la Memoria Democrática como un derecho fundamental]]
 - [[alerta-en-el-tribunal-de-cuentas-de-chicano|Alerta en el Tribunal de Cuentas de Chicano la investigación sobre la financiación ilegal del PSOE les puede salpicar]]
 - [[anticorrupcion-abre-la-puerta-a-que-aldama-no-entr|Anticorrupción abre la puerta a que Aldama no entre en prisión tras su confesión]]
 - [[apamate-la-empresa-que-canalizo-los-cupos-de-pdvs|Apamate, la empresa que canalizó los cupos de PDVSA con Zapatero para financiar ilegalmente al PSOE]]
+- [[audiencia-badajoz-exonera-david-sanchez|La Audiencia de Badajoz exonera a David Sánchez del delito de aceptación de nombramiento ilegal al estar prescrito]]
 - [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana|Aviones de la aerolínea Plus Ultra entregaron en España regalos muy valiosos de Nicolás Maduro]]
 - [[begona-gomez-uso-una-cuenta-compartida-con-pedro-s|Begoña Gómez usó una cuenta compartida con Pedro Sánchez para registrar el software de la Complutense]]
+- [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero|Calama bloqueó parcialmente las cuentas de Zapatero por "riesgo" de que transfiriese fondos al extranjero]]
 - [[carmen-pano-al-chofer-que-le-llevo-a-ferraz|Carmen Pano, al chófer que le llevó a Ferraz Álvaro, tenemos que ir a Ferraz a llevar dinero]]
 - [[caso-forestalia-antxon-alonso-dejo-de-administrar|Caso Forestalia Antxon Alonso dejó de administrar una sociedad investigada el día que Santos Cerdán fue excarcelado]]
 - [[caso-forestalia-la-guardia-civil-descubre-un-cont|Caso Forestalia la Guardia Civil descubre un contrato privado de Fernando Samper con un ex alto cargo de Lambán]]
@@ -283,6 +295,7 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 - [[el-juez-del-caso-plus-ultra-senala-a-zapatero-como|El juez del caso Plus Ultra señala a Zapatero como el presunto líder de una estructura de tráfico de influencias]]
 - [[el-juez-leopoldo-puente-deniega-la-autorizacion-pa|El juez Leopoldo Puente deniega la autorización para que Ábalos declare en la comisión de investigación del Senado]]
 - [[el-juez-moreno-pide-al-supremo-las-declaraciones-d|El juez Moreno pide al Supremo las declaraciones de Koldo y Aldama para estudiar la financiación del PSOE]]
+- [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz|El juez Pedraz autorizó a los agentes "el uso de la fuerza" y la incautación de efectivo en Ferraz]]
 - [[el-juez-peinado-procesa-a-begona-gomez-por-4-delit|El juez Peinado procesa a Begoña Gómez por 4 delitos]]
 - [[el-juez-pina-denuncia-que-el-escrito-del-psoe-que|El juez Piña denuncia que el escrito del PSOE que pide imputar a Cospedal es injurioso para el instructor y el fiscal]]
 - [[el-juez-pone-fecha-a-la-entrega-del-sobre-de-delcy|El juez pone fecha a la entrega del sobre de Delcy con los 250 millones para el PSOE]]
@@ -438,6 +451,7 @@ Este índice centraliza y organiza jerárquicamente toda la información sobre l
 - [[puente-puede-enfrentarse-a-4-anos-de-prision-por-l|Puente puede enfrentarse a 4 años de prisión por la tragedia de Adamuz]]
 - [[pumpido-estudia-la-formula-para-declarar-constituc|Pumpido estudia la fórmula para declarar constitucional que Sánchez gobierne sin presentar nuevos Presupuestos]]
 - [[pumpido-quiere-regular-el-derecho-de-huelga-desde|Pumpido quiere regular el derecho de huelga desde el TC para preparar las calles si Sánchez pierde el poder]]
+- [[que-es-la-uco-y-como-se-organizan-sus-agentes|Qué es la UCO y cómo se organizan sus más de 600 agentes de élite frente a las tramas de corrupción y crimen organizado]]
 - [[resumen-causas-judiciales|Resumen causas judiciales]]
 - [[sanchez-acepto-ingresos-en-efectivo-irregulares-pa|Sánchez aceptó ingresos en efectivo irregulares para financiar su campaña de primarias en el PSOE]]
 - [[sanchez-lanza-su-ultimo-asalto-para-controlar-a-la|Sánchez lanza su último asalto para controlar a la Policía antes de las próximas elecciones]]

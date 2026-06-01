@@ -1,7 +1,7 @@
 ---
 title: "Caso Plus Ultra"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-26"
+updated: "2026-06-01"
 tags: [caso-plus-ultra]
 ---
 
@@ -13,7 +13,7 @@ Investigación sobre presuntas irregularidades, falsedad contable y fraude en la
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 4)
 - **Magistrado Instructor**: [[jose-luis-calama-teixeira]]
 - **Procedimiento**: Diligencias Previas de Investigación (Línea de Recomposición de Ayudas a Aerolíneas e Intervención de Cuentas)
-- **Fase Procesal Actual**: Fase de Instrucción / Diligencias de investigación patrimonial transnacional y peritaje contable societario.
+- **Fase Procesal Actual**: Fase de Instrucción. Análisis de los informes de la Intervención General y peritajes sobre los fondos de ayuda concedidos.
 - **Investigados / Encausados Principales**:
   - [[jose-luis-rodriguez-zapatero]] (Expresidente del Gobierno de España)
   - [[delcy-rodriguez|Delcy Rodríguez]] (Vicepresidenta de Venezuela, alias \"La Dama\")

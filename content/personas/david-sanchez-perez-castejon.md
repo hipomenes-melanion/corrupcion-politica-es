@@ -22,8 +22,12 @@ Coordinador de conservatorios de música de la Diputación de Badajoz, investiga
 
 - **Actualización [2026-04-17]**: Fuentes consultadas por LD afirman que \ (Fuente: [[los-investigadores-sospechan-que-sanchez-ordeno-mo]])
 
+- **Actualización [2026-06-01]**: La [[audiencia-provincial-de-badajoz]] acordó en el trámite de cuestiones previas del juicio oral exonerarlo del delito de aceptación de nombramiento ilegal al estar penalmente prescrito. El juicio oral prosigue contra él por otros hechos de prevaricación y por el cargo de tráfico de influencias. (Fuente: [[audiencia-badajoz-exonera-david-sanchez]])
+
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[caso-david-sanchez]]
+- [[audiencia-provincial-de-badajoz]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[audiencia-badajoz-exonera-david-sanchez]]

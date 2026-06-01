@@ -32,7 +32,7 @@ tags: [entidad, tribunal]
 - **Actualización [2026-01-07]**: LD publica la declaración del presidente de Plus Ultra, Julio Martínez, durante un juicio celebrado en julio de 2024 ante el Juzgado de lo Penal nº 1. (Fuente: [[la-declaracion-judicial-del-dueno-de-plus-ultra-so]])
 
 
-- **Actualización [2026-01-07]**: El juez Peinado solicita trasladar a la UCO el escrito presentado por Making Science en el que se reflejan las reuniones mantenidas con Begoña Gómez. (Fuente: [[la-uco-investiga-22-reuniones-que-mantuvo-begona-g]])
+- **Actualización [2026-01-07]**: El juez Peinado solicita trasladar a la [[unidad-central-operativa|UCO]] el escrito presentado por Making Science en el que se reflejan las reuniones mantenidas con Begoña Gómez. (Fuente: [[la-uco-investiga-22-reuniones-que-mantuvo-begona-g]])
 
 
 - **Actualización [2026-01-07]**: También se mencionan otros nombres como Isabel Pardo de Vera, Víctor Ábalos o el que fuera CEO de Globalia, Javier Hidalgo. (Fuente: [[abalos-solicita-que-declaren-como-testigos-grande-]])
@@ -191,7 +191,7 @@ tags: [entidad, tribunal]
 - **Actualización [2026-03-12]**: Según ha podido saber LD, \ (Fuente: [[el-caso-forestalia-se-desborda-la-audiencia-nacio]])
 
 
-- **Actualización [2026-03-12]**: El Puente Centenario aparece en un informe de la UCO dónde se señala que la trama Koldo presionó para que se otorgase la adjudicación a Acciona. (Fuente: [[la-igae-detecta-que-la-obra-del-puente-del-centena]])
+- **Actualización [2026-03-12]**: El Puente Centenario aparece en un informe de la [[unidad-central-operativa|UCO]] dónde se señala que la trama Koldo presionó para que se otorgase la adjudicación a Acciona. (Fuente: [[la-igae-detecta-que-la-obra-del-puente-del-centena]])
 
 
 - **Actualización [2026-03-13]**: Fuentes del caso consultadas por LD afirman que \ (Fuente: [[hackers-rusos-intentaron-colapsar-madrid-durante-l]])
@@ -254,7 +254,7 @@ tags: [entidad, tribunal]
 - **Actualización [2026-04-16]**: \ (Fuente: [[la-trama-koldo-contacto-con-el-presidente-de-la-re]])
 
 
-- **Actualización [2026-04-16]**: Un informe de la UCO, al que ha tenido acceso Libertad Digital, ha sido remitido al magistrado de la Audiencia Nacional Ismael Moreno. (Fuente: [[la-uco-acredita-los-contactos-de-armengol-con-la-t]])
+- **Actualización [2026-04-16]**: Un informe de la [[unidad-central-operativa|UCO]], al que ha tenido acceso Libertad Digital, ha sido remitido al magistrado de la Audiencia Nacional Ismael Moreno. (Fuente: [[la-uco-acredita-los-contactos-de-armengol-con-la-t]])
 
 
 - **Actualización [2026-04-20]**: Pide su declaración presencial al entender que se ha generado una \ (Fuente: [[koldo-solicita-una-nueva-declaracion-de-armengol-e]])

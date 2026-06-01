@@ -1,7 +1,7 @@
 ---
 title: "Caso Forestalia"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-06-01"
 tags: [caso-forestalia]
 ---
 
@@ -13,7 +13,7 @@ Investigación sobre presunto trato de favor, agilización irregular y omisión 
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 4) / Juzgado de Instrucción n.º 1 de Teruel
 - **Magistrado Instructor**: [[jose-luis-calama-teixeira]] (Audiencia Nacional)
 - **Procedimiento**: Diligencias Previas de Investigación Conexas (Ramificación de concesión de licencias eólicas y fotovoltaicas)
-- **Fase Procesal Actual**: Fase de Instrucción
+- **Fase Procesal Actual**: Fase de Instrucción. Análisis de expedientes administrativos e informes técnicos y ambientales.
 - **Investigados / Encausados Principales**:
   - [[fernando-samper|Fernando Samper Rivas]] (Expresidente del Grupo Forestalia)
   - [[eugenio-dominguez|Eugenio Domínguez Collado]] (Funcionario del Ministerio para la Transición Ecológica)
@@ -49,6 +49,6 @@ Investigación sobre presunto trato de favor, agilización irregular y omisión 
 - [[la-guardia-civil-acorrala-a-samper-en-el-caso-fore|La Guardia Civil acorrala a Samper en el caso Forestalia Entregaba beneficios económicos para asegurar sus proyectos]]
 - [[la-guardia-civil-identifica-al-presidente-de-fores|La Guardia Civil identifica al presidente de Forestalia como el tronco central de la organización criminal]]
 - [[la-guardia-civil-investiga-si-el-imperio-patrimoni|La Guardia Civil investiga si el imperio patrimonial del alto cargo de Ribera fue amasado con la trama de Forestalia]]
-- [[la-uco-certifica-la|La UCO certifica la organización criminal en Forestalia Samper creó entramados empresariales para pagar a Domínguez]]
+- [[la-uco-certifica-la|La [[unidad-central-operativa|UCO]] certifica la organización criminal en Forestalia Samper creó entramados empresariales para pagar a Domínguez]]
 - [[las-irregularidades-del-proyecto-cluster-maestrazg|Las irregularidades del proyecto Clúster Maestrazgo de Forestalia]]
 - [[un-notario-del-caso-forestalia-investigado-por-bla|Un notario del caso Forestalia investigado por blanqueo de capitales escondió contratos de la trama en una caja fuerte]]

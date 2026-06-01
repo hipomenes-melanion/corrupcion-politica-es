@@ -23,6 +23,7 @@ Empresario y presidente de Plus Ultra Líneas Aéreas, investigado en la Audienc
 - **Actualización [2026-05-19]**: Conversaciones intervenidas desvelan que la directiva de Plus Ultra se refería a Martínez como el "lacayo" de Zapatero. Se constata que Martínez montó una boutique financiera ("finance boutique") presuntamente bajo instrucción del expresidente para canalizar el cobro de comisiones ilegales ("mordidas") por el rescate. (Fuente: [[zapatero-utilizo-a-su]])
 
 - **Actualización [2026-05-27]**: La UDEF halla en su domicilio cientos de páginas manuscritas y una agenda corporativa de la aerolínea (ROS - Doc. 003) que contienen anotaciones de Estado sobre la liberación de presos venezolanos, intervención del CNI y la repatriación forzada de Edmundo González, así como un plan de negocios petrolero (PDVSA 50%) y compraventa de oro con comisiones del 10% disimuladas en el Bandes. (Fuente: [[las-notas-manuscritas-de-julio-martinez-senalan-di]])
+- **Actualización [2026-06-01]**: Se desvelan detalles clave de las anotaciones de su agenda negra (página 27): planificaba liberar al 20% de presos venezolanos (cifrados en 337 y 146) y proponía que incluyera a "los dos del CNI" (los vascos José María Basoa y Andrés Martínez, presos en El Rodeo I). Asimismo, registraba directrices para que el enlace [[eudoro-gonzalez-dellan]] propusiera el exilio de [[edmundo-gonzalez-urrutia]], confirmando la fuga de información sensible de los servicios secretos bajo sospecha de la actual directora [[esperanza-casteleiro]]. (Fuente: [[alerta-en-el-cni-zapatero-tiene-acceso]])
 
 ## Referencias cruzadas
 - [[caso-plus-ultra]]
@@ -32,8 +33,12 @@ Empresario y presidente de Plus Ultra Líneas Aéreas, investigado en la Audienc
 - [[rodolfo-reyes]]
 - [[zapatero-utilizo-a-su]]
 - [[edmundo-gonzalez-urrutia]]
+- [[esperanza-casteleiro]]
+- [[eudoro-gonzalez-dellan]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[zapatero-utilizo-a-su]]
 - [[las-notas-manuscritas-de-julio-martinez-senalan-di]]
+- [[alerta-en-el-cni-zapatero-tiene-acceso]]
+

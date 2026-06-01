@@ -20,7 +20,7 @@ El análisis de consistencia e integridad de las causas judiciales ha desvelado 
 *   **La Inconsistencia**: Falta el listado completo de los técnicos de Adif y directores de obra civil que firmaron y validaron las soldaduras defectuosas. La prisa del ministro Óscar Puente por retirar la vía siniestrada apunta a que la documentación original sobre la fatiga del carril podría haber sido destruida o manipulada antes de la inspección pericial independiente.
 
 ### B. Las Lagunas en el Drive de la SEPI
-*   **El Vacío**: Los archivos del exdirector de la SEPI [[vicente-fernandez-guerrero]] incautados por la UCO en la **Operación Leire** contienen grandes lagunas temporales. Específicamente, se registra un sospechoso vacío en el drive de almacenamiento entre el verano de 2020 y mediados de 2021, coincidiendo con la tramitación álgida del rescate de Air Europa y la consolidación de la relación sentimental en Cabo de Gata entre Fernández y la ministra María Jesús Montero.
+*   **El Vacío**: Los archivos del exdirector de la SEPI [[vicente-fernandez-guerrero]] incautados por la [[unidad-central-operativa|UCO]] en la **Operación Leire** contienen grandes lagunas temporales. Específicamente, se registra un sospechoso vacío en el drive de almacenamiento entre el verano de 2020 y mediados de 2021, coincidiendo con la tramitación álgida del rescate de Air Europa y la consolidación de la relación sentimental en Cabo de Gata entre Fernández y la ministra María Jesús Montero.
 *   **La Implicación**: Es altamente probable que existieran purgas o borrados remotos de archivos antes de la entrada y registro de la Guardia Civil.
 
 ### C. La Ausencia Judicial de Antón Alonso en Licitaciones
@@ -62,7 +62,7 @@ flowchart TD
 ```
 
 ### Hipótesis 1: La Ruta Dominicana y el Tránsito del Efectivo
-*   **Indicio**: La UCO ha acreditado 22 reuniones y viajes de [[maria-begona-gomez-fernandez]] a República Dominicana en vuelos privados costeados por empresarios turísticos vinculados al rescate de Air Europa.
+*   **Indicio**: La [[unidad-central-operativa|UCO]] ha acreditado 22 reuniones y viajes de [[maria-begona-gomez-fernandez]] a República Dominicana en vuelos privados costeados por empresarios turísticos vinculados al rescate de Air Europa.
 *   **Planteamiento**: República Dominicana no representaba un mero destino de ocio, sino un **nodo logístico de tránsito de fondos offshore**. Víctor de Aldama y los directivos de Globalia contaban con pasarelas financieras en el Caribe. Proponemos investigar si la trama utilizó estos vuelos de afectación oficial libres de controles de aduanas estándar para trasladar capitales procedentes de las comisiones de la SEPI.
 
 ### Hipótesis 2: El Cruce Cronológico Koldo-Azvi-Adamuz

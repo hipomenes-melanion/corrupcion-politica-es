@@ -1,20 +1,21 @@
 ---
 title: "Caso SEPI - Cloacas"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-28"
+updated: "2026-06-01"
 tags: [caso-sepi-cloacas]
 ---
 
 ## Resumen
-Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje y el diseño de un plan delictivo destinado a desacreditar, hostigar e invalidar la credibilidad de los magistrados instructores de la corrupción socialista (Mercedes Alaya, Beatriz Biedma y Juan Carlos Peinado) y de mandos de la Unidad Central Operativa (UCO) de la Guardia Civil y la Fiscalía Anticorrupción.
+Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje y el diseño de un plan delictivo destinado a desacreditar, hostigar e invalidar la credibilidad de los magistrados instructores de la corrupción socialista (Mercedes Alaya, Beatriz Biedma y Juan Carlos Peinado) y de mandos de la Unidad Central Operativa ([[unidad-central-operativa|UCO]]) de la Guardia Civil y la Fiscalía Anticorrupción.
 
 ## Detalles
 ### Informaciones
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 5)
-- **Magistrado Instructor**: [[santiago-pedraz]]
-- **Procedimiento**: Diligencias Previas (Trámite de inhibición por conexidad y acumulación)
-- **Fase Procesal Actual**: Fase de Instrucción activa. Se constata la imputación formal de Santos Cerdán, Gaspar Zarrías, la gerente Ana Fuentes y abogados penalistas de la trama.
-- **Investigados / Encausados Principales**:
+- **Magistrado Instructor**: [[santiago-pedraz|Santiago Pedraz Gómez]] (Anteriormente: [[arturo-zamarriego]])
+- **Procedimiento**: Diligencias Previas (Acumuladas a la trama generalizada de la SEPI)
+- **Fase Procesal Actual**: **Inhibición y acumulación formalizada.** El expediente se ha integrado en el Juzgado de la Audiencia Nacional que dirige el juez Pedraz debido a la conexidad con la trama general.
+- **Investigados / Encausados Principales**: Leire Díez Castro, empresarios y otros implicados de las redes de influencia institucional.
+- **Investigados / Encausados / Personas de Interés**:
   - [[leire-diez-castro]] (Fontanera del PSOE e investigada principal)
   - [[javier-perez-dolset]] (Empresario y planificador)
   - [[santos-cerdan-leon]] (Exsecretario de organización del PSOE)
@@ -28,11 +29,12 @@ Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje
   - [[pere-rusinol]] (Periodista e intermediario)
   - [[covadonga-san-pedro-pascual]] (Personal administrativo de Ferraz / Logística de viajes)
   - [[celia-rodriguez-alonso]] (Personal administrativo de Ferraz / Logística de viajes)
+  - [[antonio-hernando]] (Secretario de Estado de Comunicación / Registro de accesos requerido)
 - **Objetivos de Hostigamiento y Soborno**:
   - [[jose-grinda]] (Fiscal Anticorrupción / Testigo clave)
   - [[alejandro-luzon]] (Fiscal Jefe Anticorrupción / Objetivo de desprestigio)
   - [[ignacio-stampa]] (Fiscal del Ministerio Público / Intento de captación)
-- **Tipos Penales Imputados**: Organización criminal, cohecho, revelación de secretos, inducción al falso testimonio, acusación falsa, falsedad en documento mercantil, prevaricación y delitos contra las instituciones del Estado.
+- **Tipos Penales Imputados**: Tráfico de influencias, organización criminal y cohecho (en la acumulación formal del expediente; se investigan también revelación de secretos, inducción al falso testimonio, acusación falsa, falsedad en documento mercantil, prevaricación y delitos contra las instituciones del Estado).
 
 ### Datos clave
 - **La directriz y origen en la reflexión de Sánchez**: El auto del juez Santiago Pedraz sitúa la génesis de las cloacas de Ferraz en el periodo de reflexión de cinco días que el presidente Pedro Sánchez se tomó en abril de 2024 tras la imputación de su esposa Begoña Gómez. En ese lapso, se celebró una reunión fundacional en Ferraz en la que Cerdán, Díez, Dolset, Serrano y el director de comunicación Ion Fernando Antolín estructuraron el plan.
@@ -45,6 +47,8 @@ Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje
 - **Objetivos de desprestigio judicial**: Las operativas delictivas iban dirigidas a hostigar y desestabilizar la labor de tres jueces instructores clave: Mercedes Alaya (Caso ERE), Beatriz Biedma (Caso David Sánchez) y Juan Carlos Peinado (Caso Begoña Gómez).
 - **Soporte logístico y operativo de Ferraz**: El magistrado de la Audiencia Nacional detalla que el secretario de Organización del PSOE, Santos Cerdán, puso toda la infraestructura nacional del partido a disposición de la estructura criminal de las cloacas: sufragando costes, personal administrativo, dependencias de Ferraz para celebrar reuniones y la logística de viajes y alquileres de vehículos.
 - **Cuantificación de reuniones de la cloaca**: El auto de Santiago Pedraz de mayo de 2026 cuantifica al menos **22 reuniones de coordinación de las cloacas en la propia sede de la calle Ferraz** entre el 26 de abril de 2024 y el 11 de abril de 2025. El PSOE financió e instrumentalizó su infraestructura (vuelos de Leire Díez en al menos 4 ocasiones y traslados de Javier Pérez Dolset a Zaragoza) gestionados y comprados por las empleadas administrativas del partido [[covadonga-san-pedro-pascual]] y [[celia-rodriguez-alonso]]. Además de estas, se cuantifican al menos **otras 17 reuniones** fuera de Ferraz o de ubicación desconocida hasta el 21 de mayo de 2025.
+- **Auto de requerimiento y registro en Ferraz**: El juez Santiago Pedraz dictó un auto el 27 de mayo de 2026 autorizando el requerimiento de información en Ferraz, previendo como medida subsidiaria la **entrada y registro con uso de la fuerza proporcional** y la incautación de dinero en efectivo, obras de arte y joyas si existiese negativa a colaborar. El auto facultaba expresamente a actuar si se localizaban **armas de fuego**.
+- **Copiado de correos e investigación institucional**: El auto judicial del juez Pedraz ordenó el copiado inmediato de las cuentas y servidores de correo de [[santos-cerdan-leon]], [[ana-maria-fuentes-pacheco]], [[covadonga-san-pedro-pascual]], [[celia-rodriguez-alonso]] y [[ion-fernando-antolin]]. Asimismo, ordenó intervenir el registro de accesos de Ferraz del actual secretario de Estado de Comunicación, [[antonio-hernando]].
 - **Maniobras de colocación en la SEPI**: Para "recuperar el control de la SEPI" tras la marcha de Vicente Fernández, Leire Díez Castro maniobró en enero de 2021 para ser contratada como jefa de gabinete de la nueva presidenta, [[belen-gualda-gonzalez]], indicando en un mensaje que si hacía falta hablaría con el *"superjefe"* (Pedro Sánchez). Tras frustrarse la tentativa, constituyeron el clan "Hirurok" en junio de 2021.
 
 ## Referencias cruzadas
@@ -67,16 +71,18 @@ Investigación penal sobre la presunta fabricación de pruebas falsas, espionaje
 - [[belen-gualda-gonzalez]]
 - [[covadonga-san-pedro-pascual]]
 - [[celia-rodriguez-alonso]]
+- [[antonio-hernando]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
 - [[el-juez-zamarriego-devuelve-a-los-juzgados-de-bada|El juez Zamarriego devuelve a los juzgados de Badajoz las amenazas de la cloaca a la juez Biedma]]
 - [[el-psoe-deja-al-descubierto-la-mayor-mentira-de-le|El PSOE deja al descubierto la mayor mentira de Leire Díez en sede judicial]]
 - [[la-amnesia-de-santos-cerdan-sobre-las-cloacas-de|La 'amnesia' de Santos Cerdán sobre las cloacas del PSOE ante el juez repitió 17 veces no lo recuerdo]]
-- [[la-uco-entra-en-ferraz-para-desmantelar|La UCO entra en Ferraz para desmantelar la trama del PSOE contra los jueces]]
+- [[la-uco-entra-en-ferraz-para-desmantelar|La [[unidad-central-operativa|UCO]] entra en Ferraz para desmantelar la trama del PSOE contra los jueces]]
 - [[los-investigadores-sospechan-que-sanchez-ordeno-mo|Los investigadores sospechan que Sánchez ordenó montar las cloacas durante su reflexión tras ser imputada Begoña Gómez]]
 - [[pedraz-senala-los-audios-de-la-cloaca|Pedraz señala los audios de la cloaca del PSOE sobre Sánchez: "El Presidente ya dijo, que se limpie todo"]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca|El PSOE pagó 178.000 euros a la cloaca para ir a por jueces como Biedma, Alaya y Peinado]]
 - [[la-cloaca-del-psoe-ofrecio-300000-euros|La cloaca del PSOE ofreció 300.000 euros a un fiscal para 'cazar' a Luzón]]
 - [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
-- [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]
+- [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca|Pedraz cuantifica al menos 22 reuniones de la cloaca para destruir a los 'enemigos' de Sánchez]]
+- [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz|El juez Pedraz autorizó a los agentes "el uso de la fuerza" y la incautación de efectivo en Ferraz]]

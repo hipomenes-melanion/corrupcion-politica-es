@@ -1,7 +1,7 @@
 ---
 title: "Ana María Fuentes Pacheco"
 source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
-updated: "2026-05-28"
+updated: "2026-05-30"
 tags: [persona, investigado, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -13,6 +13,10 @@ Ana María Fuentes Pacheco es la gerente de la Secretaría de Organización del 
 - **Emisión de facturas mendaces**: Fuentes Pacheco era la encargada de emitir y validar las órdenes de encargo administrativas sobre las que se elaboraban facturas falsas. Este mecanismo instrumental permitió al PSOE transferir al menos 178.000 euros en favor de Leire Díez para sufragar el espionaje y los ataques contra los jueces instructores Mercedes Alaya, Beatriz Biedma y Juan Carlos Peinado.
 - **Canalización financiera de la cloaca**: Las facturas falaces firmadas por Fuentes Pacheco eran abonadas de forma interpuesta por Ferraz recurriendo a las sociedades y despachos profesionales de los imputados Gaspar Zarrías, Ismael Oliver y Jacobo Teijelo, encubriendo la procedencia real de los fondos del partido.
 - **Operativo de incautación**: Su firma en los expedientes y la contabilidad justificaron que agentes de la UCO realizaran requerimientos inmediatos y el clonado de soportes contables informáticos en la sede nacional del PSOE en la calle Ferraz por mandato del juez Pedraz.
+
+## Cronología de Actualizaciones
+- **Actualización [2026-05-27]**: Imputada formalmente en la trama SEPI por el juez Santiago Pedraz, ordenando registros domiciliarios y el requerimiento de contabilidad y facturación contable en Ferraz. (Fuente: [[santos-cerdan-zarrias-y-la-gerente-del]])
+- **Actualización [2026-05-30]**: El juez Santiago Pedraz ha ordenado en su auto de requerimiento en Ferraz el copiado inmediato de todas las cuentas y servidores de correo electrónico corporativo de Ana María Fuentes en la Gerencia del partido. (Fuente: [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -28,3 +32,4 @@ Ana María Fuentes Pacheco es la gerente de la Secretaría de Organización del 
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
 - [[santos-cerdan-zarrias-y-la-gerente-del]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
+- [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]]

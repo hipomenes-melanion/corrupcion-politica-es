@@ -1,7 +1,7 @@
 ---
 title: "Caso Mediador"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-06-01"
 tags: [caso-mediador]
 ---
 
@@ -13,7 +13,7 @@ Investigación sobre una presunta red de extorsión a empresarios del sector gan
 - **Órgano Jurisdiccional**: [[juzgado-de-instruccion-4-de-santa-cruz-de-tenerife]]
 - **Magistrado Instructor**: [[maria-de-los-angeles-lorenzo-caceres-farizo]]
 - **Procedimiento**: Diligencias Previas 437/2022
-- **Fase Procesal Actual**: Fase de Instrucción con conclusión de sumario inminente.
+- **Fase Procesal Actual**: Fase de Instrucción avanzada de cara a la conclusión del sumario y apertura de la fase de juicio.
 - **Investigados / Encausados Principales**:
   - [[juan-bernardo-fuentes-curbelo]]
   - [[taishet-fuentes-gutierrez]]

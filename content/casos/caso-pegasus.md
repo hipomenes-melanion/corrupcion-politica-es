@@ -1,7 +1,7 @@
 ---
 title: "Caso Pegasus"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-26"
+updated: "2026-06-01"
 tags: [caso-pegasus]
 ---
 
@@ -12,15 +12,10 @@ Causa abierta para investigar el espionaje masivo mediante el malware de fabrica
 ### Informaciones
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 4)
 - **Magistrado Instructor**: [[jose-luis-calama-teixeira]]
-- **Procedimiento**: Diligencias Previas (Espionaje móvil gubernamental)
-- **Fase Procesal Actual**: Sobreseimiento provisional. La causa se encuentra archivada provisionalmente por segunda vez debido a la absoluta falta de cooperación de las autoridades de Israel con las comisiones rogatorias enviadas para recabar datos de la mercantil NSO Group.
-- **Investigados / Encausados Principales**: Autores desconocidos.
-- **Afectados / Víctimas**:
-  - [[pedro-sanchez-perez-castejon]]
-  - [[margarita-robles]]
-  - [[fernando-grande-marlaska]]
-  - [[luis-planas]]
-- **Tipos Penales Imputados**: Descubrimiento y revelación de secretos, y delitos informáticos contra altos organismos del Estado.
+- **Procedimiento**: Diligencias Previas (Espionaje con malware institucional)
+- **Fase Procesal Actual**: Sobreseimiento provisional. El magistrado decretó de nuevo el archivo por la persistente falta de auxilio judicial de las autoridades internacionales requeridas.
+- **Investigados / Encausados Principales**: Autores desconocidos (Pedro Sánchez, Margarita Robles, Fernando Grande-Marlaska y Luis Planas figuran como perjudicados).
+- **Tipos Penales Imputados**: Descubrimiento y revelación de secretos.
 
 ### Datos clave
 - La causa judicial investiga el espionaje masivo e intrusión con el malware israelí Pegasus en los teléfonos móviles de Pedro Sánchez, Margarita Robles y otros ministros.

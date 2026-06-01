@@ -48,7 +48,7 @@ graph TD
 | :--- | :--- | :--- | :--- |
 | **[[azvi]]** | Propietaria del 4.4% de [[redalsa]] (empresa que ejecutó las soldaduras defectuosas en Adamuz). | Investigada por el pago de comisiones irregulares en adjudicaciones. | N/A |
 | **[[manuel-contreras-caro]]** | Presidente de Azvi. Empresa sospechosa por la obra civil del tramo de vía Guadalmez-Adamuz. | Investigado por pagar un sueldo de 18.000€/mes a Koldo García bajo el pretexto de una asesoría para LatAm. | N/A |
-| **[[acciona]]** | Propietaria del 8.8% de [[redalsa]]. | Adjudicataria de contratos de mascarillas bajo sospecha de la UCO. | Investigada por contratos inflados y canalización de comisiones a directores de obra pública. |
+| **[[acciona]]** | Propietaria del 8.8% de [[redalsa]]. | Adjudicataria de contratos de mascarillas bajo sospecha de la [[unidad-central-operativa|UCO]]. | Investigada por contratos inflados y canalización de comisiones a directores de obra pública. |
 | **[[adif]]** | Titular de la infraestructura ferroviaria siniestrada. | Organismo que adjudicó compras de mascarillas a Soluciones de Gestión. | Ente auditado por el inflado de obras y licitaciones manipuladas bajo control de Transportes. |
 | **[[koldo-garcia-izaguirre]]** | N/A | Asesor de Transportes y receptor directo de los pagos del presidente de Azvi. | Enlace político para contratos de obra civil con el Ministerio de Transportes. |
 | **[[santos-cerdan-leon]]** | N/A | Investigado por amnesia en el Senado respecto a comisiones de la trama. | Enlace principal e impulsor financiero de la red de cloacas a través de su socio [[anton-alonso]] y [[leire-diez-castro]]. |
@@ -88,7 +88,7 @@ graph LR
 
 ### Elementos de Interconexión:
 *   **El rol de Víctor de Aldama**: Comisionista del [[grupo-globalia]] (con un contrato de asesoría y cobro de comisiones acreditado) al mismo tiempo que operaba como comisionista central en la trama de compras sanitarias de la mano de [[koldo-garcia-izaguirre]].
-*   **Las Reuniones Tripartitas**: La UCO ha certificado que [[maria-begona-gomez-fernandez]] mantuvo al menos 22 reuniones y encuentros personales con Javier Hidalgo (CEO de Globalia) en las mismas fechas en que se negociaba el rescate de **475 millones de euros** de la [[sepi]] para Air Europa.
+*   **Las Reuniones Tripartitas**: La [[unidad-central-operativa|UCO]] ha certificado que [[maria-begona-gomez-fernandez]] mantuvo al menos 22 reuniones y encuentros personales con Javier Hidalgo (CEO de Globalia) en las mismas fechas en que se negociaba el rescate de **475 millones de euros** de la [[sepi]] para Air Europa.
 *   **El Retorno del Favor**: Globalia patrocinó eventos del IE Africa Center (dirigido por Gómez) y financió viajes a República Dominicana de la investigada en aviones corporativos privados, mientras Begoña Gómez firmaba cartas de recomendación que facilitaban a consultoras como la de [[juan-carlos-barrabes-consul]] la obtención de contratos tecnológicos.
 
 ---
@@ -99,7 +99,7 @@ El [[caso-forestalia]] revela la existencia de una red de tráfico de influencia
 
 *   **El Enlace Servinabar**: El socio técnico de Santos Cerdán, **[[anton-alonso]]** (con quien compartía el 45% de la mercantil Servinabar), figura en los informes de la UCOMA como el **enlace directo** que conectaba al presidente de Forestalia, Fernando Samper Rivas, con un alto cargo del Ministerio de Transición Ecológica dirigido por Teresa Ribera.
 *   **La Compra de Sociedades Interpuestas**: Los investigadores detectaron que Antón Alonso adquirió la sociedad *Next Generation Caliope Innova* en 2022, la cual operó como pasarela para canalizar fondos y agilizar licitaciones ambientales que estaban siendo bloqueadas por funcionarios técnicos en el INAGA de Aragón.
-*   **Testaferros Compartidos**: La UCO sospecha que [[leire-diez-castro]] actuaba como testaferro cruzado de la red de Cerdán y Alonso en obra pública, debido a la disparidad salarial y la falta de capacidad técnica para la gestión de los contratos multimillonarios de infraestructuras asignados.
+*   **Testaferros Compartidos**: La [[unidad-central-operativa|UCO]] sospecha que [[leire-diez-castro]] actuaba como testaferro cruzado de la red de Cerdán y Alonso en obra pública, debido a la disparidad salarial y la falta de capacidad técnica para la gestión de los contratos multimillonarios de infraestructuras asignados.
 
 ---
 

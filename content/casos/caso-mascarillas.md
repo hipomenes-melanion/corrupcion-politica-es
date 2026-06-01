@@ -1,7 +1,7 @@
 ---
 title: "Caso Mascarillas"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-27"
+updated: "2026-06-01"
 tags: [caso-mascarillas]
 ---
 
@@ -11,13 +11,13 @@ Causa penal derivada del recurso de apelación interpuesto contra la sentencia d
 ## Detalles
 ### Informaciones
 - **Órgano Jurisdiccional**: Tribunal Superior de Justicia de Madrid (TSJM) [Sala de lo Civil y Penal]
-- **Magistrado Instructor**: [[maria-jose-rodriguez-dupla]] (Magistrada Ponente del Tribunal de Apelación, con el enjuiciamiento previo de la Audiencia Provincial de Madrid)
-- **Procedimiento**: Recurso de Apelación (Dimanante de la causa principal del Ayuntamiento de Madrid por material sanitario)
-- **Fase Procesal Actual**: **Sentencia firme de apelación dictada.** El TSJM desestimó los recursos de las acusaciones y confirmó íntegramente la absolución de Luis Medina, manteniendo la condena individualizada a su socio Alberto Luceño.
+- **Magistrado Instructor**: Magistrados de la Sala de Apelación (Ponente: [[maria-jose-rodriguez-dupla]])
+- **Procedimiento**: Recurso de Apelación (Procedimiento del Ayuntamiento de Madrid)
+- **Fase Procesal Actual**: **Sentencia firme de apelación dictada.** El TSJM desestimó los recursos y confirmó la absolución de Luis Medina, manteniendo la condena a Alberto Luceño.
 - **Investigados / Encausados Principales**:
-  - [[luis-medina-abascal]] (Empresario y comisionista, absuelto)
-  - [[alberto-luceno-ceron]] (Empresario y comisionista, condenado)
-- **Tipos Penales Imputados**: Absolución total de los delitos de estafa agravada y falsedad mercantil para ambos. Condena individualizada a Luceño a 3 años y 8 meses de prisión por fraude fiscal y falsedad en documento oficial.
+  - [[luis-medina-abascal]] (absuelto)
+  - [[alberto-luceno-ceron]] (condenado)
+- **Tipos Penales Imputados**: Absolución de estafa para ambos. Condena firme a Luceño a 3 años y 8 meses de prisión por fraude fiscal y falsedad en documento oficial.
 
 ### Datos clave
 - El TSJM, con la ponencia de la magistrada María José Rodríguez Duplá, dictó sentencia firme confirmando la absolución íntegra del empresario Luis Medina.

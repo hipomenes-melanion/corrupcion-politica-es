@@ -1,7 +1,7 @@
 ---
 title: "Acción penal de Julio Iglesias contra Yolanda Díaz"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-06-01"
 tags: [caso-accion-penal-julio-iglesias]
 ---
 
@@ -10,16 +10,16 @@ Acción penal interpuesta por el cantante Julio Iglesias contra la ministra y vi
 
 ## Detalles
 ### Informaciones
-- **Órgano Jurisdiccional**: [[tribunal-supremo]] (Sala Segunda, de lo Penal)
-- **Magistrado Instructor**: Magistrado Instructor Especial (Pendiente de designación tras reparto)
-- **Procedimiento**: Querella Criminal por delitos contra el Honor (Anteriormente: Demanda de conciliación en Juzgado de Instancia de Madrid)
-- **Fase Procesal Actual**: Interposición inminente de la querella formal ante el Tribunal Supremo, tras haberse celebrado el preceptivo acto de conciliación obligatorio sin avenencia.
+- **Órgano Jurisdiccional**: Juzgado de Primera Instancia / [[tribunal-supremo|Tribunal Supremo]] (según vía)
+- **Magistrado Instructor**: Órgano Civil o Penal de reparto
+- **Procedimiento**: Demanda civil en defensa del derecho al honor
+- **Fase Procesal Actual**: **Demanda formal interpuesta y admitida a trámite.** El proceso se sustancia por la vía civil de protección del derecho al honor, reclamando una rectificación pública e indemnización.
 - **Investigados / Encausados Principales**:
-  - [[yolanda-diaz-perez]] (en su condición de aforada ante el TS).
+  - [[yolanda-diaz-perez]] (en su condición de demandada).
 - **Querellante Principal**: [[julio-iglesias]]
 - **Letrados y Defensas**: [[jose-antonio-choclan]]
 - **Organizaciones Implicadas**: [[womens-link-worldwide]]
-- **Tipos Penales Imputados**: Presuntos delitos de injurias graves y calumnias cometidos a través de medios de difusión digital y televisiva.
+- **Tipos Penales Imputados**: No aplica tipo penal (Se tramita como **demanda civil** por vulneración del derecho al honor, injurias y menoscabo reputacional).
 
 
 ### Datos clave

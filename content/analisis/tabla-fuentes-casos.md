@@ -1,7 +1,7 @@
 ---
 title: "Relación de Fuentes y Casos Judiciales"
 source: "CLAUDE.md"
-updated: "2026-05-28"
+updated: "2026-05-30"
 tags: [analisis, fuentes, casos]
 ---
 
@@ -9,7 +9,7 @@ tags: [analisis, fuentes, casos]
 
 Este documento contiene la relación completa y organizada de todas las páginas fuente de la wiki, facilitando la navegación nativa en Obsidian a través de wikilinks hacia las fuentes y sus respectivos casos.
 
-Total de fuentes registradas: **228**
+Total de fuentes registradas: **233**
 
 | Título de la Página Fuente                                                                                                                                                      | Caso Judicial (Etiquetas)                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------- |
@@ -32,12 +32,15 @@ Total de fuentes registradas: **228**
 | [[aldama-se-adhiere-a-la-tesis-de-la-fiscalia-y-pide\|Aldama se adhiere a la tesis de la Fiscalía y pide que declaren Jéssica y la mano derecha de Montero]]                    | [[caso-koldo]]                             |
 | [[aldama-al-juez-sobre-los-cupos-de-pdvsa\|Aldama, al juez sobre los cupos de PDVSA Estamos hablando de la financiación ilegal del partido]]                                    | [[caso-koldo]]                             |
 | [[aldama-ante-el-juez\|Aldama, ante el juez Ángel Víctor Torres mandó a Koldo a México para sus negocios de hidrocarburos]]                                                     | [[caso-koldo]]                             |
+| [[alerta-en-el-cni-zapatero-tiene-acceso\|Alerta en el CNI: Zapatero tiene acceso a información sensible sobre Venezuela y China]] | [[caso-zapatero]] |
 | [[alerta-en-el-tc-pumpido-quiere-consagrar-la-memor\|Alerta en el TC Pumpido quiere consagrar la Memoria Democrática como un derecho fundamental]]                              | No judicializado                           |
 | [[alerta-en-el-tribunal-de-cuentas-de-chicano\|Alerta en el Tribunal de Cuentas de Chicano la investigación sobre la financiación ilegal del PSOE les puede salpicar]]          | [[caso-hidrocarburos]]                     |
 | [[anticorrupcion-abre-la-puerta-a-que-aldama-no-entr\|Anticorrupción abre la puerta a que Aldama no entre en prisión tras su confesión]]                                        | [[caso-koldo]]                             |
 | [[apamate-la-empresa-que-canalizo-los-cupos-de-pdvs\|Apamate, la empresa que canalizó los cupos de PDVSA con Zapatero para financiar ilegalmente al PSOE]]                      | [[caso-hidrocarburos]]                     |
+| [[audiencia-badajoz-exonera-david-sanchez\|La Audiencia de Badajoz exonera a David Sánchez del delito de aceptación de nombramiento ilegal al estar prescrito]] | [[caso-david-sanchez]] |
 | [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana\|Aviones de la aerolínea Plus Ultra entregaron en España regalos muy valiosos de Nicolás Maduro]]                     | [[caso-plus-ultra]]                        |
 | [[begona-gomez-uso-una-cuenta-compartida-con-pedro-s\|Begoña Gómez usó una cuenta compartida con Pedro Sánchez para registrar el software de la Complutense]]                   | [[caso-begona-gomez]]                      |
+| [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero\|Calama bloqueó parcialmente las cuentas de Zapatero por "riesgo" de que transfiriese fondos al extranjero]] | [[caso-zapatero]] |
 | [[carmen-pano-al-chofer-que-le-llevo-a-ferraz\|Carmen Pano, al chófer que le llevó a Ferraz Álvaro, tenemos que ir a Ferraz a llevar dinero]]                                   | [[caso-hidrocarburos]]                     |
 | [[caso-forestalia-antxon-alonso-dejo-de-administrar\|Caso Forestalia Antxon Alonso dejó de administrar una sociedad investigada el día que Santos Cerdán fue excarcelado]]      | [[caso-forestalia]]                        |
 | [[caso-forestalia-la-guardia-civil-descubre-un-cont\|Caso Forestalia la Guardia Civil descubre un contrato privado de Fernando Samper con un ex alto cargo de Lambán]]          | [[caso-forestalia]]                        |
@@ -73,6 +76,7 @@ Total de fuentes registradas: **228**
 | [[el-juez-del-caso-plus-ultra-senala-a-zapatero-como\|El juez del caso Plus Ultra señala a Zapatero como el presunto líder de una estructura de tráfico de influencias]]        | [[caso-plus-ultra]]                        |
 | [[el-juez-leopoldo-puente-deniega-la-autorizacion-pa\|El juez Leopoldo Puente deniega la autorización para que Ábalos declare en la comisión de investigación del Senado]]      | [[caso-koldo]]                             |
 | [[el-juez-moreno-pide-al-supremo-las-declaraciones-d\|El juez Moreno pide al Supremo las declaraciones de Koldo y Aldama para estudiar la financiación del PSOE]]               | [[caso-hidrocarburos]]                     |
+| [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz\|El juez Pedraz autorizó a los agentes "el uso de la fuerza" y la incautación de efectivo en Ferraz]]                 | [[caso-sepi-cloacas]]                     |
 | [[el-juez-peinado-procesa-a-begona-gomez-por-4-delit\|El juez Peinado procesa a Begoña Gómez por 4 delitos]]                                                                    | [[caso-begona-gomez]]                      |
 | [[el-juez-pina-denuncia-que-el-escrito-del-psoe-que\|El juez Piña denuncia que el escrito del PSOE que pide imputar a Cospedal es injurioso para el instructor y el fiscal]]    | [[caso-kitchen]]                           |
 | [[el-juez-pone-fecha-a-la-entrega-del-sobre-de-delcy\|El juez pone fecha a la entrega del sobre de Delcy con los 250 millones para el PSOE]]                                    | [[caso-koldo]]                             |
@@ -227,6 +231,7 @@ Total de fuentes registradas: **228**
 | [[puente-puede-enfrentarse-a-4-anos-de-prision-por-l\|Puente puede enfrentarse a 4 años de prisión por la tragedia de Adamuz]]                                                  | [[caso-adamuz]]                            |
 | [[pumpido-estudia-la-formula-para-declarar-constituc\|Pumpido estudia la fórmula para declarar constitucional que Sánchez gobierne sin presentar nuevos Presupuestos]]          | No judicializado                           |
 | [[pumpido-quiere-regular-el-derecho-de-huelga-desde\|Pumpido quiere regular el derecho de huelga desde el TC para preparar las calles si Sánchez pierde el poder]]              | No judicializado                           |
+| [[que-es-la-uco-y-como-se-organizan-sus-agentes\|Qué es la UCO y cómo se organizan sus más de 600 agentes de élite frente a las tramas de corrupción y crimen organizado]] | No judicializado |
 | [[resumen-causas-judiciales\|Resumen causas judiciales]]                                                                                                                        | No judicializado                           |
 | [[sanchez-acepto-ingresos-en-efectivo-irregulares-pa\|Sánchez aceptó ingresos en efectivo irregulares para financiar su campaña de primarias en el PSOE]]                       | [[caso-hidrocarburos]]                     |
 | [[sanchez-lanza-su-ultimo-asalto-para-controlar-a-la\|Sánchez lanza su último asalto para controlar a la Policía antes de las próximas elecciones]]                             | No judicializado                           |

@@ -640,6 +640,8 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 
 - **Actualización [2026-05-27]**: El informe de la UDEF sobre las notas manuscritas de su testaferro Julio Martínez Martínez le señala como el principal "conseguidor" de contratos de recursos naturales (gas, petróleo, oro, carbón, níquel) para Venezuela, destacando un viaje de Zapatero a Pekín para vender crudo de PDVSA a una empresa de la órbita del Partido Comunista de China. (Fuente: [[las-notas-manuscritas-de-julio-martinez-senalan-di]])
 - **Actualización [2026-05-29]**: Se desvela que tras su imputación judicial decretada por el juez José Luis Calama por organización criminal y blanqueo en el Caso Plus Ultra, Zapatero seleccionó como letrado defensor al catedrático de Derecho Procesal y abogado de confianza del PSOE, [[victor-moreno-catena]], quien defendió anteriormente a [[carmen-martinez-aguayo]] en el caso de los ERE. Se documenta la estrecha relación de amistad íntima que une a Zapatero con el presidente del Tribunal Constitucional, [[candido-conde-pumpido]] (con quien mantiene fluida comunicación), desencadenando preocupación anímica en el magistrado tras su imputación y la de Gaspar Zarrías. (Fuente: [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]])
+- **Actualización [2026-05-30]**: Se dictó el auto del magistrado José Luis Calama decretando el bloqueo preventivo y parcial de las cuentas bancarias de Zapatero hasta el límite cuantitativo de 490.780 euros —suma recibida de la sociedad instrumental [[analisis-relevante]]— por el riesgo cierto e inmediato de que procediera a la ocultación, disposición o transferencia del capital al extranjero (*periculum in mora*). La investigación detalla triangulaciones financieras por las que Análisis Relevante obtuvo más de 941.000 euros desde [[plus-ultra-lineas-aereas]], [[softgestor]], [[grupo-aldesa]] e [[inteligencia-prospectiva]], mientras que Inteligencia Prospectiva canalizó cerca de 1,2 millones de euros a través de Análisis Relevante, [[what-the-fav]] y el think tank [[gate-center]], desviando fondos en favor del expresidente y su entorno familiar (incluyendo transferencias a cuentas de sus hijas, compras de patrimonio y amortizaciones de préstamos). (Fuente: [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero]])
+- **Actualización [2026-06-01]**: Trasciende una grave alerta de seguridad en el [[Centro Nacional de Inteligencia (CNI)]] por presuntas filtraciones de secretos de Estado hacia Zapatero. La UDEF descubrió en la agenda negra de su testaferro Julio Martínez detalladas anotaciones de intervenciones del CNI, la cifra de presos políticos venezolanos (337 y 146) con su plan de liberación del 20%, el estado confidencial de los vascos detenidos José María Basoa y Andrés Martínez en El Rodeo I (filtrados vía CIA), y la repatriación/exilio de [[edmundo-gonzalez-urrutia]]. Fuentes del CNI sospechan que el expresidente contaba con un canal directo o empleaba como interlocutora a la actual directora del CNI, [[esperanza-casteleiro]], teniendo acceso a datos de agentes encubiertos y operaciones en Venezuela, Colombia, Cuba y dossiers de China, mientras que el opositor [[eudoro-gonzalez-dellan]] actuaba como su enlace opositor. (Fuente: [[alerta-en-el-cni-zapatero-tiene-acceso]])
 
 ## Referencias cruzadas
 - [[iustitia-europa]]
@@ -657,6 +659,11 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - [[candido-conde-pumpido]]
 - [[victor-moreno-catena]]
 - [[carmen-martinez-aguayo]]
+- [[analisis-relevante]]
+- [[gate-center]]
+- [[grupo-aldesa]]
+- [[esperanza-casteleiro]]
+- [[eudoro-gonzalez-dellan]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -665,3 +672,7 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - [[la-udef-encontro-contratos-con-huawei-y-oro-azul]]
 - [[las-notas-manuscritas-de-julio-martinez-senalan-di]]
 - [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]]
+- [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero]]
+- [[alerta-en-el-cni-zapatero-tiene-acceso]]
+
+

@@ -1,7 +1,7 @@
 ---
 title: Caso Koldo
 source: wiki/fuentes/resumen-causas-judiciales.md
-updated: 2026-05-26
+updated: 2026-06-01
 tags:
   - caso-zapatero
 ---
@@ -14,7 +14,7 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - **Órgano Jurisdiccional**: [[audiencia-nacional]] (Juzgado Central de Instrucción n.º 2) y [[tribunal-supremo]] (Sala Segunda, de lo Penal - para aforados)
 - **Magistrado Instructor**: [[ismael-moreno-chamarro]] y [[susana-polo-garcia]] (en el Tribunal Supremo)
 - **Procedimiento**: Diligencias Previas 65/2023 (Audiencia Nacional, causa matriz: Trama Koldo) y Causa Especial de Aforados (Tribunal Supremo, derivada por aforamiento)
-- **Fase Procesal Actual**: Fase de Instrucción / Sumarial.
+- **Fase Procesal Actual**: Fase de Instrucción. Se investigan, entre otros aspectos, los pagos en efectivo del PSOE reflejados en dispositivos de la trama y la auditoría de contratos.
 - **Investigados / Encausados Principales**:
   - [[koldo-garcia-izaguirre]]
   - [[victor-de-aldama-delgado]]
@@ -74,7 +74,7 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - [[jesica-niega-ser-prostituta-al-abogado-de-abalos|Jésica niega ser prostituta al abogado de Ábalos Soy dentista colegiada y era azafata de imagen]]
 - [[koldo-garcia-se-plantea-tirar-de-la-manta-contra|Koldo García se plantea 'tirar de la manta' contra Pedro Sánchez y Santos Cerdán]]
 - [[koldo-reconoce-parte-de-la-jerga-criminal-de-la-tr|Koldo reconoce parte de la jerga criminal de la trama las chistorras eran billetes de 500 y las daba el PSOE]]
-- [[koldo-solicita-una-nueva-declaracion-de-armengol-e|Koldo solicita una nueva declaración de Armengol en el TS tras el último informe de la UCO]]
+- [[koldo-solicita-una-nueva-declaracion-de-armengol-e|Koldo solicita una nueva declaración de Armengol en el TS tras el último informe de la [[unidad-central-operativa|UCO]]]]
 - [[la-defensa-de-koldo-llama|La defensa de Koldo llama ornitorrinco procesal a Aldama, acusa al fiscal de fabular y pide a Illa como testigo]]
 - [[la-defensa-de-koldo-pide-la-prueba-del-poligrafo-y|La defensa de Koldo pide la prueba del polígrafo y un careo con Aldama]]
 - [[la-exmujer-de-koldo-reconoce-al-juez-que-el-psoe-l|La exmujer de Koldo reconoce al juez que el PSOE liquidaba gastos en efectivo mientras Transportes hacia transferencia]]
@@ -87,8 +87,8 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - [[la-trama-koldo-compro-mascarillas-a-traves-de-adif|La trama Koldo compró mascarillas a través de ADIF porque tenía mejor liquidez]]
 - [[la-trama-koldo-contacto-con-el-presidente-de-la-re|La trama Koldo contactó con el presidente de la República Dominicana Le ofrecemos nuestros servicios contra el covid]]
 - [[la-trama-koldo-golpea-de-lleno-al-psoe-6-de-los-8|La trama Koldo golpea de lleno al PSOE 6 de los 8 clientes de Soluciones de Gestión eran socialistas]]
-- [[la-uco-acredita-387000-euros-en-efectivo-sin-just|La UCO acredita 387.000 euros en efectivo sin justificar en el entorno de Koldo]]
-- [[la-uco-acredita-los-contactos-de-armengol-con-la-t|La UCO acredita los contactos de Armengol con la trama Koldo ¿Sabes si alguien vende mascarillas infantiles]]
+- [[la-uco-acredita-387000-euros-en-efectivo-sin-just|La [[unidad-central-operativa|UCO]] acredita 387.000 euros en efectivo sin justificar en el entorno de Koldo]]
+- [[la-uco-acredita-los-contactos-de-armengol-con-la-t|La [[unidad-central-operativa|UCO]] acredita los contactos de Armengol con la trama Koldo ¿Sabes si alguien vende mascarillas infantiles]]
 - [[la-vida-de-lujo-de-abalos-que-jessica-reconocio-en|La vida de lujo de Ábalos que Jéssica reconoció en el Supremo viajaron a Londres, Moscú, Abu Dabi]]
 - [[luzon-corrige-a-aldama|Luzón corrige a Aldama El presidente del Gobierno no era el nº 1 de la trama Koldo]]
 - [[luzon-desafia-a-peramato-y-avala-la-rebaja-de-pena|Luzón desafía a Peramato y avala la rebaja de pena para Aldama]]
