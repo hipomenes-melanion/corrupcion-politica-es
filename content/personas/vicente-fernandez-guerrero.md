@@ -1,7 +1,7 @@
 ---
 title: "Vicente Fernández Guerrero"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-28"
+updated: "2026-06-03"
 tags: [persona, investigado, caso-leire-hirurok]
 ---
 
@@ -20,6 +20,7 @@ Vicente Fernández Guerrero es un ex alto cargo público español, expresidente 
 - **Actualización [2026-05-27]**: La UCO se despliega en la sede de la Dirección General de la Guardia Civil para requerir expedientes de chivatazos y filtraciones internas que habrían bloqueado las investigaciones disciplinarias abiertas en su contra en el pasado. (Fuente: [[la-uco-se-presenta-en-la-direccion]])
 - **Actualización [2026-05-27]**: Se desvelan los audios en los que Leire Díez coordina su defensa con Cerdán ante el juez Pedraz debido a su pánico a las repercusiones con Montero por la adjudicación de contratos de la SEPI. (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
 - **Actualización [2026-05-28]**: El auto del juez Pedraz constata que, tras su salida de la SEPI, Fernández continuó influyendo en la entidad. Los mensajes interceptados de enero de 2021 evidencian que Díez intentó calmarle diciéndole que *"todos estaban alineados correctamente"* y transmitiendo a Cerdán que Fernández *"lo está pasando mal"* y que *"le angustia que María Jesús no lo tome bien"*, aludiendo a la ministra Montero, mientras Díez intentaba colocarse como jefa de Gabinete de la sucesora [[belen-gualda-gonzalez]]. (Fuente: [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]])
+- **Actualización [2026-06-03] (Conexión con las Cloacas)**: Mensajes interceptados por la UCO del 15 de febrero de 2025 muestran que fue informado por Leire Díez sobre el complot. Al preguntarle cuánta gente conocía las operativas de las cloacas contra los jueces, Díez le enumeró el núcleo de confianza: *"Ismael, Santi, la ameba y yo. Y la mujer de la ameba"*. Asimismo, Fernández se congratuló de la felicitación transmitida por el presidente Pedro Sánchez (*"El One"*) a Díez: *"Me alegro de que así lo piense. Otras se esconden, tú das la cara"*. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -42,3 +43,4 @@ Vicente Fernández Guerrero es un ex alto cargo público español, expresidente 
 - [[la-uco-se-presenta-en-la-direccion]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
+- [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]

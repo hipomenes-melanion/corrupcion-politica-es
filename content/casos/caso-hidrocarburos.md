@@ -1,7 +1,7 @@
 ---
 title: "Caso Hidrocarburos"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-01"
+updated: "2026-06-03"
 tags: [caso-hidrocarburos]
 ---
 
@@ -18,6 +18,7 @@ Causa judicial que investiga un presunto fraude masivo de IVA en el sector de la
   - [[victor-de-aldama-delgado]]
   - [[claudio-rivas]]
   - [[maria-luisa-rivas]]
+- **Personas de Interés**: [[leire-diez-castro]] (filtró datos del caso), [[mercedes-gonzalez]] (receptora de la filtración).
 - **Tipos Penales Imputados**: Organisation criminal, blanqueo de capitales, fraude fiscal (delitos contra la Hacienda Pública) y cohecho.
 
 ### Datos clave
@@ -26,9 +27,14 @@ Causa judicial que investiga un presunto fraude masivo de IVA en el sector de la
 - Carmen Pano (empresaria) y su chófer entregaron bolsas transparentes llenas de fajos de billetes en efectivo en Ferraz para financiar ilegalmente al partido socialista.
 - La exmujer de Koldo reconoció al juez que el PSOE liquidaba habitualmente sus gastos de campaña electoral en dinero en efectivo mientras Transportes emitía transferencias.
 - La Audiencia Nacional estudia las declaraciones de Koldo y Aldama aportadas por el Tribunal Supremo para esclarecer la ramificación del blanqueo de hidrocarburos.
+- **Filtración Policial del Sumario (Junio de 2026)**: De acuerdo con los informes de la UCO, la imputada Leire Díez sustrajo información confidencial y reservada de este caso y se la entregó a la Directora General de la Guardia Civil, [[mercedes-gonzalez]], durante sus reuniones secretas en Ferraz, motivado especialmente por las delaciones de [[victor-de-aldama-delgado]] ante la Fiscalía.
+
 ## Referencias cruzadas
 - [[caso-koldo]] (conexión por Víctor de Aldama)
 - [[audiencia-nacional]]
+- [[leire-diez-castro]]
+- [[mercedes-gonzalez]]
+- [[caso-sepi-cloacas]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
@@ -40,3 +46,4 @@ Causa judicial que investiga un presunto fraude masivo de IVA en el sector de la
 - [[la-filtracion-de-la-entrega-del-sobre-de-aldama-co|La filtración de la entrega del sobre de Aldama con los cupos de PDVSA pone 'en peligro' la investigación]]
 - [[la-obsesion-que-vinculo-a-sanchez-con-venezuela|La obsesión que vinculó a Sánchez con Venezuela Necesitaba financiación para la Internacional Socialista]]
 - [[sanchez-acepto-ingresos-en-efectivo-irregulares-pa|Sánchez aceptó ingresos en efectivo irregulares para financiar su campaña de primarias en el PSOE]]
+- [[leire-diez-uso-su-estrecha-amistad-con-la-directora|Leire Díez usó su estrecha "amistad" con la directora de la Guardia Civil para investigar a agentes de la UCO]]

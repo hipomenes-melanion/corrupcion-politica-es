@@ -1,7 +1,7 @@
 ---
 title: "Patricia Úriz"
 source: "wiki/fuentes/la-exmujer-de-koldo-reconoce-que-recogia.md"
-updated: "2026-04-13"
+updated: "2026-06-03"
 tags: [persona, investigado, caso-koldo]
 ---
 
@@ -16,6 +16,10 @@ Patricia Úriz Lasheras es la expareja sentimental de [[koldo-garcia-izaguirre]]
 - **Fondos en efectivo incautados**: La Guardia Civil intervino 24.000 euros en efectivo en su armero (que servía de caja fuerte). Úriz declaró que 13.000 euros eran ahorros suyos que guardaba sin conocimiento de Koldo, y los 11.000 euros restantes eran fondos conjuntos para gastos varios de procedencia lícita.
 - **Comparecencia en el Tribunal Supremo**: Declaró como testigo en abril de 2026 en el juicio de la trama Koldo bajo la presidencia del magistrado [[andres-martinez-arrieta]]. Fue asistida por su abogada, Leticia de la Hoz, y se le permitió declarar de espaldas a la cámara por protección.
 
+
+## Cronología de Actualizaciones
+- **Actualización [2026-06-03] (Conocedora del Complot)**: Sumarios interceptados de las cloacas del PSOE desvelan que Leire Díez la identificó en sus conversaciones (refiriéndose a ella como *"la mujer de la ameba"*) como parte del exclusivo grupo de cinco personas que estaban al tanto del plan delictivo de las cloacas para espiar e interferir en las causas de corrupción. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
+
 ## Referencias cruzadas
 - [[caso-koldo]]
 - [[koldo-garcia-izaguirre]]
@@ -23,7 +27,10 @@ Patricia Úriz Lasheras es la expareja sentimental de [[koldo-garcia-izaguirre]]
 - [[andres-martinez-arrieta]]
 - [[la-exmujer-de-koldo-reconoce-al-juez-que-el-psoe-l]]
 - [[la-exmujer-de-koldo-reconoce-que-recogia]]
+- [[caso-sepi-cloacas]]
+- [[leire-diez-castro]]
 
 ## Fuentes
 - [[la-exmujer-de-koldo-reconoce-al-juez-que-el-psoe-l]]
 - [[la-exmujer-de-koldo-reconoce-que-recogia]]
+- [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]

@@ -1,7 +1,7 @@
 ---
 title: "Koldo García Izaguirre"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-24"
+updated: "2026-06-03"
 tags: [persona, investigado]
 ---
 
@@ -273,9 +273,15 @@ Exasesor del Ministerio de Transportes, Movilidad y Agenda Urbana, investigado c
 
 
 - **Actualización [2026-05-24]**: Estos hechos recuerdan a los mensajes intercambiados por la trama Koldo en el marco del rescate a la aerolínea Air Europa. (Fuente: [[la-trama-de-plus-ultra-celebro-la-concesion-del-re]])
+- **Actualización [2026-06-03] (Conocedor de la Cloaca)**: Mensajes intervenidos por la UCO contenidos en el sumario revelan que Leire Díez lo identificó (apodándolo *"la ameba"*) como parte del exclusivo grupo de cinco personas que conocían y dirigían la trama de desestabilización judicial de las cloacas de Ferraz, junto a Santos Cerdán, Ismael Oliver, ella misma y su propia mujer, Patricia Úriz. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
 
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[caso-sepi-cloacas]]
+- [[leire-diez-castro]]
+- [[patricia-uriz]]
+- [[santos-cerdan-leon]]
+- [[ismael-oliver]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]

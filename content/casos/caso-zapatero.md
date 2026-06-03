@@ -1,8 +1,8 @@
 ---
 title: "Caso Zapatero"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-01"
-tags: [caso-zapatero]
+updated: "2026-06-03"
+tags: [caso-zapatero, caso-sepi-cloacas]
 ---
 
 ## Resumen
@@ -32,6 +32,8 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - La UDEF irrumpió en el despacho de Zapatero en la Audiencia Nacional incautando maletines sellados y cajas fuertes con un 'botín' de joyas, relojes y piedras preciosas.
 - Los flujos financieros y comisiones ilegales eran canalizados por la estructura delictiva hacia cuentas y sociedades offshore creadas en Dubái.
 - **Afectación y lobby en el Tribunal Constitucional**: La imputación penal de Zapatero por organización criminal y blanqueo por el juez Calama ha golpeado el ánimo de su amigo íntimo, el presidente del TC, [[candido-conde-pumpido]]. Zapatero seleccionó como letrado defensor a [[victor-moreno-catena]] (abogado de confianza del PSOE que defendió a [[carmen-martinez-aguayo]] en el caso de los ERE, a quien Conde-Pumpido amnistió en el TC de forma encubierta en julio de 2024 junto a Gaspar Zarrías), lo que facilita contactos y asesoría informal de la red en la presidencia del TC.
+- **Vínculos con el presunto espía chino Miguel Dhul (Junio de 2026)**: Testificales de la UCO de la causa de las cloacas desvelan que la red mantenía "oculto y controlado" a Miguel Dhul, ciudadano de origen chino calificado por el CNI como presunto espía de Pekín y amigo íntimo de Zapatero (quien es padrino de sus dos hijos). Dhul fue quien introdujo y contrató en Huawei Technologies España a Víctor de Aldama, sospechándose que Zapatero le dio instrucciones de ocultación temporal para eludir la acción de la justicia. (Fuente: [[el-sumario-de-las-cloacas-llega-a-zapatero-tenian-oculto-y-controlado]])
+
 
 ## Referencias cruzadas
 - [[caso-koldo]] (conexión de piezas en la Audiencia Nacional)
@@ -46,6 +48,10 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - [[alba-rodriguez-espinosa]]
 - [[esperanza-casteleiro]]
 - [[eudoro-gonzalez-dellan]]
+- [[miguel-dhul]]
+- [[pepe-ruz]]
+- [[huawei-technologies-espana]]
+
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
@@ -77,4 +83,6 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero|Conde-Pumpido, "desencajado" tras la imputación de su amigo Zapatero y su amnistiado Gaspar Zarrías]]
 - [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero|Calama bloqueó parcialmente las cuentas de Zapatero por "riesgo" de que transfiriese fondos al extranjero]]
 - [[alerta-en-el-cni-zapatero-tiene-acceso|Alerta en el CNI: Zapatero tiene acceso a información sensible sobre Venezuela y China]]
+- [[el-sumario-de-las-cloacas-llega-a-zapatero-tenian-oculto-y-controlado|El sumario de las cloacas llega a Zapatero: tenían "oculto y controlado" a un amigo de la dictadura china]]
+
 

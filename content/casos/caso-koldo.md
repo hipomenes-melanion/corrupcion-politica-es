@@ -90,7 +90,9 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - [[la-uco-acredita-387000-euros-en-efectivo-sin-just|La [[unidad-central-operativa|UCO]] acredita 387.000 euros en efectivo sin justificar en el entorno de Koldo]]
 - [[la-uco-acredita-los-contactos-de-armengol-con-la-t|La [[unidad-central-operativa|UCO]] acredita los contactos de Armengol con la trama Koldo ¿Sabes si alguien vende mascarillas infantiles]]
 - [[la-vida-de-lujo-de-abalos-que-jessica-reconocio-en|La vida de lujo de Ábalos que Jéssica reconoció en el Supremo viajaron a Londres, Moscú, Abu Dabi]]
+- [[leire-diez-presumia-de-su-influencia-sobre-el-one|Leire Díez presumía de su influencia sobre "El One del Gobierno": "Dijo que ella pondría al nuevo DAO"]]
 - [[luzon-corrige-a-aldama|Luzón corrige a Aldama El presidente del Gobierno no era el nº 1 de la trama Koldo]]
+
 - [[luzon-desafia-a-peramato-y-avala-la-rebaja-de-pena|Luzón desafía a Peramato y avala la rebaja de pena para Aldama]]
 - [[luzon-se-plantea-discrepar-publicamente-de-la-orde|Luzón se plantea discrepar públicamente de la orden de Peramato respecto a la rebaja de pena de Aldama]]
 - [[pardo-de-vera-ataca-a-la-igae-por-senalar-las-irre|Pardo de Vera ataca a la IGAE por señalar las irregularidades en las obras de la trama Koldo]]

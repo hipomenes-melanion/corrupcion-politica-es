@@ -1,7 +1,7 @@
 ---
 title: "Jacobo Teijelo Casanova"
 source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
-updated: "2026-05-28"
+updated: "2026-06-03"
 tags: [persona, investigado, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -14,6 +14,9 @@ Jacobo Teijelo Casanova es un abogado penalista español. En mayo de 2026, fue i
 - **Filtración y revelación de secretos**: Los indicios apuntan a que Teijelo Casanova cooperó en la obtención, sustracción y posterior difusión indebida de datos, resoluciones y documentos reservados de sumarios bajo secreto, colaborando de manera coordinada con el agente de la Guardia Civil [[juan-sanchez-yepes]] y el abogado [[ismael-oliver]].
 - **Entramado de auxilio judicial**: Su labor presuntamente servía para desviar la atención de las causas penales de corrupción e intentar boicotear las diligencias dirigidas por los jueces instructores, facilitando soporte intelectual y financiero.
 
+## Cronología de Actualizaciones
+- **Actualización [2026-06-03]**: Los informes de la UCO detallan que participó en una reunión clave con Leire Díez y el ex-capitán investigado Juan Sánchez Yepes. En dicho encuentro, se acordó recurrir a la Directora General de la Guardia Civil, [[mercedes-gonzalez]] (de la confianza de Díez), para mediar a favor de Yepes y atender a sus demandas. (Fuente: [[interior-ordeno-a-la-uco-ponerse-de-perfil]])
+
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
 - [[caso-sepi-cloacas]]
@@ -23,7 +26,9 @@ Jacobo Teijelo Casanova es un abogado penalista español. En mayo de 2026, fue i
 - [[santos-cerdan-leon]]
 - [[leire-diez-castro]]
 - [[ana-maria-fuentes-pacheco]]
+- [[mercedes-gonzalez]]
 
 ## Fuentes
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
+- [[interior-ordeno-a-la-uco-ponerse-de-perfil|Interior ordenó a la UCO ponerse "de perfil" en las investigaciones que afectan a Sánchez]]

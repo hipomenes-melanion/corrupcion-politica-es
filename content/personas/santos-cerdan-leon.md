@@ -1,7 +1,7 @@
 ---
 title: "Santos Cerdán León"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-30"
+updated: "2026-06-03"
 tags: [persona, investigado]
 ---
 
@@ -101,6 +101,8 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - **Actualización [2026-05-28]**: El auto de Santiago Pedraz describe cómo Cerdán, en su calidad de secretario de Organización del PSOE, facilitó toda la infraestructura del partido a disposición de la trama criminal: asumiendo costes, cediendo dependencias de Ferraz para reuniones, aportando personal para tareas administrativas y sufragando la logística de viajes y alquileres de vehículos. También consta su intermediación para tranquilizar a Vicente Fernández por *"lo que estaba pasando"*. (Fuente: [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]])
 - **Actualización [2026-05-29]**: El juez Santiago Pedraz de la Audiencia Nacional cuantifica en al menos 22 las reuniones de las cloacas del PSOE celebradas en la sede de Ferraz, la mayoría de ellas entre Santos Cerdán y Leire Díez para coordinar el boicot contra los jueces del caso SEPI y Begoña Gómez. El auto judicial constata además otras 17 reuniones entre ambos celebradas fuera de Ferraz o en ubicación desconocida. Pedraz ratifica que Cerdán, como secretario de Organización, instrumentalizó el partido poniendo toda su estructura, dependencias, cuentas y personal (como las empleadas [[covadonga-san-pedro-pascual]] y [[celia-rodriguez-alonso]]) a disposición de la red criminal. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
 - **Actualización [2026-05-30]**: El juez Santiago Pedraz de la Audiencia Nacional ha ordenado en su auto el copiado inmediato de todas las cuentas y servidores de correo electrónico de Santos Cerdán en la Gerencia del partido. (Fuente: [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]])
+- **Actualización [2026-06-03] (Mediación e Implicación Directa)**: Mensajes intervenidos por la UCO revelan su papel de enlace para transmitirle a Leire Díez el respaldo explícito de Pedro Sánchez (*"El One"*): *"ayer le dijo El One a S que me dijera que estoy haciendo un trabajo enorme y que no me venga abajo"*. Cerdán (identificado como *"S/Santi"*) le ordenó personalmente: *"por favor no me venga abajo, que no se todo lo que estoy haciendo"*. Asimismo, Díez lo identificó como miembro del exclusivo grupo de cinco personas que conocían todos los pormenores del complot. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
+- **Actualización [2026-06-03] (Liderazgo de las Cloacas)**: El sumario del caso SEPI - Cloacas lo sitúa como el dirigente en un nivel superior de la estructura criminal (ejerciendo la unidad de acción y dirección), situando en el año 2024 el encargo a Leire Díez (ejecutora) para desestabilizar causas judiciales que afectasen al partido, al Gobierno y a su presidente Pedro Sánchez, sirviéndose para ello de toda la estructura de Ferraz. (Fuente: [[la-uco-dice-que-el-fin-ultimo-de-las-cloacas-era-proteger-los-intereses]])
 
 ## Referencias cruzadas
 - [[tribunal-de-cuentas]]
@@ -117,6 +119,7 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - [[covadonga-san-pedro-pascual]]
 - [[celia-rodriguez-alonso]]
 - [[antonio-hernando]]
+- [[vicente-fernandez-guerrero]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -126,6 +129,9 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - [[la-uco-se-presenta-en-la-direccion]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
-- [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
+- [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar in la Sepi: "Lo está pasando mal"]]
 - [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]
 - [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]]
+- [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]
+- [[la-uco-dice-que-el-fin-ultimo-de-las-cloacas-era-proteger-los-intereses|La UCO dice que el fin último de las cloacas era proteger los intereses de Pedro Sánchez]]
+

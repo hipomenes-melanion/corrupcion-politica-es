@@ -1,7 +1,7 @@
 ---
 title: "Pedro Sánchez Pérez-Castejón"
 source: "wiki/fuentes/la-obsesion-que-vinculo-a-sanchez-con-venezuela.md"
-updated: "2026-05-28"
+updated: "2026-06-03"
 tags: [persona, secretario-general]
 ---
 
@@ -10,10 +10,12 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 
 ## Detalles clave
 - **Rol principal**: Presidente del Gobierno de España / Secretario General del PSOE
+- **Entorno Familiar**: Hijo de [[pedro-sanchez-fernandez]], esposo de [[maria-begona-gomez-fernandez]] y hermano de [[david-sanchez-perez-castejon]].
 - **Casos Relacionados**:
   - [[caso-koldo]]
   - [[caso-zapatero]]
   - [[caso-begona-gomez]]
+  - [[caso-david-sanchez]]
 
 - **Actualización [2026-01-06]**: Se revela que su Gobierno instrumentaliza la condena penal del ex fiscal general Álvaro García Ortiz como un "banco de pruebas" para desacreditar al Tribunal Supremo de cara a un eventual suplicatorio en el Congreso por corrupción, buscando blindar al presidente y justificar el rechazo alegando "lawfare". (Fuente: [[la-causa-de-garcia-ortiz-es-el]])
 
@@ -31,7 +33,11 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 
 - **Actualización [2026-05-27]**: El magistrado de la Audiencia Nacional Santiago Pedraz imputa y sitúa el origen de las cloacas de Ferraz en el periodo de reflexión de cinco días que el presidente se tomó tras la imputación de su esposa, Begoña Gómez. Audios intervenidos revelan que se activó una directriz atribuida a él para *"limpiar todo sin límites"*, boicoteando y obstruyendo de forma ilícita los procedimientos judiciales y policiales de corrupción que afectaban al Gobierno y al partido. (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
 - **Actualización [2026-05-28]**: El auto judicial del juez Santiago Pedraz revela que Leire Díez Castro aludió directamente al presidente como el *"superjefe"* en enero de 2021 durante las maniobras de colocación en el gabinete de [[belen-gualda-gonzalez]] para recuperar el control de la SEPI: *"Aunque tenga que ser yo la que hable con el superjefe"*, afirmaba. (Fuente: [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]])
-- **Actualización [2026-05-29]**: El auto del juez Santiago Pedraz detalla que las reuniones de coordinación de las cloacas en la sede de Ferraz para destruir a los "enemigos" de Sánchez se cuantifican en al menos 22. Asimismo, se cuantifican al menos otras 17 reuniones entre Santos Cerdán y Leire Díez en exteriores o localizaciones desconocidas para tal fin. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
+- **Actualización [2026-05-29]**: El auto del juez Santiago Pedraz detalla que las reuniones de coordination de las cloacas en la sede de Ferraz para destruir a los "enemigos" de Sánchez se cuantifican en al menos 22. Asimismo, se cuantifican al menos otras 17 reuniones entre Santos Cerdán y Leire Díez en exteriores o localizaciones desconocidas para tal fin. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
+- **Actualización [2026-06-02]**: Durante la segunda sesión de la vista oral contra su hermano David Sánchez, se revela que el padre de ambos, **[[pedro-sanchez-fernandez]]**, fue gerente del **[[inaem|INAEM]]** en 1991 con rango de Director General bajo el gobierno de Felipe González. Se investiga si la Oficina de Artes Escénicas creada en Badajoz fue nombrada en homenaje a la trayectoria de su padre. Asimismo, salen a colación las ayudas públicas y préstamos ICO de 1 millón de euros otorgados durante la pandemia a la mercantil familiar **[[industrias-plasticas-playbol|Industrias Plásticas Playbol SL]]**. (Fuente: [[el-caso-hermanisimo-destapa-que-el-padre-de]])
+- **Actualización [2026-06-03] (Conocimiento del Plan Criminal)**: Informes de la UCO contenidos en el sumario destapan un chat interceptado el 15 de febrero de 2025 que ratifica que Sánchez (identificado como *"El One"*) conocía y respaldaba directamente el plan de las cloacas de Ferraz para boicotear e interferir en las causas de corrupción. Al filtrarse a los medios el papel de Leire Díez, Sánchez le hizo llegar su felicitación a través de Santos Cerdán (*"S"*): *"ayer le dijo El One a S que me dijera que estoy haciendo un trabajo enorme y que no me venga abajo"*. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
+- **Actualización [2026-06-03] (Presunciones de Influencia)**: Sumarios del caso SEPI - Cloacas desvelan que Leire Díez presumía de su influencia directa sobre el presidente (a quien llamaba el *"One del partido"* y *"One del Gobierno"*), alardeando de que ella misma colocaría al próximo Director Adjunto Operativo (DAO) de la Guardia Civil. Asimismo, las grabaciones revelan que "los de arriba" (Moncloa) culpaban al ministro Marlaska del desgaste derivado de no poder frenar las operaciones policiales de la UCO. (Fuente: [[leire-diez-presumia-de-su-influencia-sobre-el-one]])
+- **Actualización [2026-06-03] (Finalidad de las Cloacas)**: El sumario de más de 400 folios del caso SEPI - Cloacas revela que el fin último del complot orquestado desde la Secretaría de Organización del PSOE consistía en *"proteger los intereses puestos en juego"* en causas penales con afectación al partido y, directa o indirectamente, al presidente Pedro Sánchez y a ciertos miembros de su gabinete. (Fuente: [[la-uco-dice-que-el-fin-ultimo-de-las-cloacas-era-proteger-los-intereses]])
 
 ## Referencias cruzadas
 - [[hospital-ramon-y-cajal]]
@@ -43,9 +49,17 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 - [[javier-perez-dolset]]
 - [[belen-gualda-gonzalez]]
 - [[santos-cerdan-leon]]
+- [[pedro-sanchez-fernandez]]
+- [[industrias-plasticas-playbol]]
+- [[inaem]]
+- [[vicente-fernandez-guerrero]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
 - [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]
+- [[el-caso-hermanisimo-destapa-que-el-padre-de]]
+- [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]
+- [[leire-diez-presumia-de-su-influencia-sobre-el-one|Leire Díez presumía de su influencia sobre "El One del Gobierno": "Dijo que ella pondría al nuevo DAO"]]
+- [[la-uco-dice-que-el-fin-ultimo-de-las-cloacas-era-proteger-los-intereses|La UCO dice que el fin último de las cloacas era proteger los intereses de Pedro Sánchez]]
