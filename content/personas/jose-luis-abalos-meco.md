@@ -1,7 +1,7 @@
 ---
 title: "José Luis Ábalos Meco"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-26"
+updated: "2026-06-07"
 tags: [persona, investigado]
 ---
 
@@ -246,10 +246,21 @@ Exministro de Transportes, Movilidad y Agenda Urbana y exsecretario de organizac
 
 - **Actualización [2026-05-26]**: Un informe forense aportado por el PSOE ante la Audiencia Nacional destapó que durante su etapa como Secretario de Organización, se imputaron gastos "llamativos" y extraordinarios recurrentes en el [[restaurante-la-chalana]] y cenas navideñas en Valencia (2019). Estos desembolsos representaron entre el 4% y el 25% del presupuesto total anual gestionado por su departamento. (Fuente: [[alerta-en-el-tribunal-de-cuentas-de-chicano]])
 
+- **Actualización [2026-06-05] (Intercepción de mensajes con Sánchez)**: Las anotaciones manuscritas de la agenda de Leire Díez desvelan que la red de las cloacas obtuvo copia de mensajes de WhatsApp interceptados entre el presidente Pedro Sánchez y Ábalos (*"Se ha interceptado los mensajes entre el presidente y Ábalos. Mañana tenemos la copia"*). En la anotación se especula que la procedencia de la filtración podría ser de *"o Pegasus o que el propio Ábalos"* los hubiera facilitado. (Fuente: [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao|Nueva libreta de Leire Díez: "Pedro no se fía del DAO, DGP investiga a la UCO"]])
+- **Actualización [2026-06-05] (Blanqueo de intercepción por la UCO)**: Apuntes de la agenda de Leire Díez constatan que la red conocía que la UCO poseía todos sus WhatsApps con el presidente Pedro Sánchez, y que la policía judicial *"lo intentó blanquear diciendo que ha habido un confidente"* anónimo para ocultar las escuchas. (Fuente: [[las-cloacas-del-psoe-apuntaron-a-marlaska-para-comprar-a-jueces|Las cloacas del PSOE apuntaron a Marlaska para 'comprar' a jueces de la Audiencia Nacional: "Que hable con Guevara"]])
+- **Actualización [2026-06-07]**: Audios intervenidos por la UCO revelan que el PSOE financió su primera asistencia letrada penal para mantener el control de su relato político tras estallar el escándalo. En el mismo encuentro, los fontaneros de la red criminal le exculpan de cobrar comisiones tachándolo de *"tonto que no tiene donde caerse muerto"*, y afirman que el presidente Sánchez le destituyó como ministro por protagonizar un escándalo al meterse con seis prostitutas en un hotel de Marruecos durante un viaje de visita oficial. (Fuente: [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]])
+
 ## Referencias cruzadas
 - [[restaurante-la-chalana]]
 - [[alerta-en-el-tribunal-de-cuentas-de-chicano]]
+- [[leire-diez-castro]]
+- [[jacobo-teijelo-casanova]]
+- [[javier-perez-dolset]]
+- [[juan-sanchez-yepes]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[alerta-en-el-tribunal-de-cuentas-de-chicano]]
+- [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao|Nueva libreta de Leire Díez: "Pedro no se fía del DAO, DGP investiga a la UCO"]]
+- [[las-cloacas-del-psoe-apuntaron-a-marlaska-para-comprar-a-jueces|Las cloacas del PSOE apuntaron a Marlaska para 'comprar' a jueces de la Audiencia Nacional: "Que hable con Guevara"]]
+- [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]]

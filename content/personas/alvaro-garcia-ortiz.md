@@ -47,10 +47,24 @@ Fiscal General del Estado, investigado y sentenciado en primera instancia por pr
 - **Actualización [2026-05-23]**: Un informe de la UDEF, al que ha tenido acceso LD recoge un intercambio de mensajes entre el empresario Rodolfo Reyes y el abogado Miguel Palomero. (Fuente: [[la-trama-zapatero-recurrio-a-la-fiscalia-para-boic]])
 
 - **Actualización [2026-05-27]**: Como Fiscal General del Estado, ascendió a la fiscal María Luisa Llop a la Fiscalía de la Audiencia Nacional tras su intervención en la fase inicial del Caso Plus Ultra, donde esta abogaba por el archivo y el levantamiento de la suspensión de los pagos del rescate. (Fuente: [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]])
+- **Actualización [2026-06-04]**: Su nombre y cargo figuran repetidamente en el sumario del Caso SEPI - Cloacas. Informes de la UCO constatan que mantuvo reuniones y contactos directos con la fontanera socialista [[leire-diez-castro]] en la sede de la FGE. Díez y la red de cloacas del PSOE utilizaban estos encuentros para proponer e intermediar en pactos de impunidad (ofreciendo evitar la cárcel al excomisario [[jose-manuel-villarejo]] a cambio de audios del PP) y planificaban llevar ante él al procesado de hidrocarburos [[claudio-rivas]] para coordinar su colaboración, así como influir en la defensa de [[sandro-rosell]]. (Fuente: [[leire-diez-tuvo-reuniones-y-metio-mano]])
+- **Actualización [2026-06-05] (Conspiración de Cloacas en FGE)**: Un informe de la UCO revela que, entre marzo y abril de 2025, la red dirigida por Leire Díez instrumentalizó la defensa de Koldo García (ejercida por Ismael Oliver) para presentar 5 denuncias ante la FGE para dañar la reputación de la UCO. Se constató una reunión secreta en la sede de la FGE entre García Ortiz, Leire Díez y Jacobo Teijelo. Tras las denuncias presentadas para identificar a los agentes encargados de los informes sensibles (Begoña, Fiscal General, Hidrocarburos y Koldo) cruzando sus TIPs, Oliver apuntó en sus comunicaciones de Signal: *"la Fiscalía ha arrancado a hacer cosas"*. (Fuente: [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco]])
 
 ## Referencias cruzadas
-*No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
+- [[caso-sepi-cloacas]]
+- [[caso-hidrocarburos]]
+- [[fiscalia-general-del-estado]]
+- [[leire-diez-castro]]
+- [[jose-manuel-villarejo]]
+- [[claudio-rivas]]
+- [[sandro-rosell]]
+- [[leire-diez-tuvo-reuniones-y-metio-mano]]
+- [[ismael-oliver]]
+- [[jacobo-teijelo-casanova]]
+- [[koldo-garcia-izaguirre]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]
+- [[leire-diez-tuvo-reuniones-y-metio-mano]]
+- [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco|La cloaca usó la defensa de Koldo para 'freir' a denuncias a la UCO ante la Fiscalía de García Ortiz]]

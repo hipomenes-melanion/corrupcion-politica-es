@@ -34,6 +34,8 @@ Coordinador de conservatorios de música de la Diputación de Badajoz, investiga
   - **Ruptura de Coartada**: El técnico [[angel-seco-lopez]] desacreditó la coartada presencial de David Sánchez al declarar que apenas coincidía con él, frente a la versión exculpatoria del encausado de que mantenían constantes reuniones presenciales "a demanda".
   - **Homenaje Encubierto**: Por otro lado, la acusación popular (Hazte Oír) introdujo en el debate si el cambio de nombre de su puesto a "jefe de la Oficina de Artes Escénicas" constituía un "homenaje encubierto" a su padre, **[[pedro-sanchez-fernandez]]**, exgerente general de INAEM, al tiempo que se sacaron a colación préstamos de fondos públicos a la empresa familiar Playbol. (Fuentes: [[el-caso-hermanisimo-destapa-que-el-padre-de]], [[una-testigo-denuncia-el-amano-con-david-sanchez]])
 - **Actualización [2026-06-03] (Presiones y Boicot Policial)**: Declaraciones de agentes de la Guardia Civil ante la UCO desvelaron que en julio de 2024 la cúpula de Interior y de la Guardia Civil maniobró para obstruir la investigación sobre sus correos electrónicos solicitada por el Juzgado de Badajoz. El Director General [[leonardo-marcos]] tildó la petición de la UCO de "prospectiva y malintencionada" y exigió redactar de inmediato un informe que exculpase al investigado afirmando "que no había nada", mientras que el DAO [[manuel-llamas]] ordenó a los agentes ponerse "de perfil" y "no ser proactivos". (Fuente: [[interior-ordeno-a-la-uco-ponerse-de-perfil]])
+- **Actualización [2026-06-04] (Sesión de Juicio - Declaraciones de los Acusados)**: David Sánchez declaró ante el tribunal respondiendo únicamente a su letrado Emilio Cortés. Aseguró que la Oficina de Artes Escénicas "no era un lugar físico, sino una categoría administrativa", y que tras la pandemia usó espacios comunes al estar ocupado su despacho. Negó haber influido en el cambio de denominación de su plaza y en la adjudicación de la plaza de su amigo Luis Carrero, justificando que el correo de octubre de 2023 sobre el enchufe previo fue una confusión suya entre la publicación de la plaza y su posterior adjudicación. (Fuente: [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era]])
+- **Actualización [2026-06-04] (Peticiones Definitivas de Penas)**: Tras concluir la fase de testificales, las acusaciones populares (PP, Vox, Hazte Oír, Iustitia Europa, Liberum y Abogados Cristianos) elevaron de 3 a 6 años de prisión su petición de pena para David Sánchez por prevaricación y tráfico de influencias (2 años por cada uno de los tres hechos delictivos: creación de la plaza, cambio de denominación y contratación de Luis Carrero). Manos Limpias mantuvo su petición de 3 años, avalada en plenario por la Fiscalía. (Fuente: [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de]])
 
 ## Referencias cruzadas
 - [[caso-david-sanchez]]
@@ -46,6 +48,9 @@ Coordinador de conservatorios de música de la Diputación de Badajoz, investiga
 - [[maria-del-rosario-mayoral]]
 - [[manuel-llamas]]
 - [[leonardo-marcos]]
+- [[luis-carrero]]
+- [[miguel-angel-gallardo-miranda]]
+- [[emilio-cortes]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -55,3 +60,6 @@ Coordinador de conservatorios de música de la Diputación de Badajoz, investiga
 - [[la-diputacion-de-badajoz-manipulo-las-actas]]
 - [[la-fiscal-del-caso-david-sanchez-mintio]]
 - [[interior-ordeno-a-la-uco-ponerse-de-perfil|Interior ordenó a la UCO ponerse "de perfil" en las investigaciones que afectan a Sánchez]]
+- [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era|David Sánchez, en el juicio: "La Oficina de Artes Escénicas no era un lugar físico, sino una categoría administrativa"]]
+- [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de|Las acusaciones populares elevan a 6 años de prisión su petición de pena para David Sánchez]]
+

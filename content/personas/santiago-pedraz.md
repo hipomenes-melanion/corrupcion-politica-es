@@ -1,7 +1,7 @@
 ---
 title: "Santiago Pedraz"
 source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
-updated: "2026-05-30"
+updated: "2026-06-04"
 tags: [persona, magistrado, caso-hidrocarburos, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -21,6 +21,7 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - **Actualización [2026-05-27]**: Acredita la facturación falaz de 178.000€ canalizada por Ferraz para atacar a los jueces instructores Alaya, Biedma y Peinado. (Fuente: [[el-psoe-pago-178000-euros-a-la-cloaca]])
 - **Actualización [2026-05-29]**: Emite un nuevo auto en el que cuantifica al menos 22 reuniones de las cloacas en la sede socialista de Ferraz y 17 fuera, detallando cómo el PSOE financió los gastos de Leire Díez y Javier Pérez Dolset y utilizó a empleadas de administración del partido ([[covadonga-san-pedro-pascual]], [[celia-rodriguez-alonso]]) para dar soporte logístico y de viajes a la organización criminal. (Fuente: [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]])
 - **Actualización [2026-05-30]**: Emite el auto de requerimiento al PSOE en Ferraz autorizando subsidiariamente la entrada y registro de la sede con el uso de la fuerza proporcional y la incautación de efectivo/bienes de valor si existe negativa a colaborar. Ordenó el copiado inmediato de correos electrónicos de investigados y recabó el control de accesos de [[antonio-hernando]]. (Fuente: [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]])
+- **Actualización [2026-06-04] (Registros en Tubos Reunidos y la SEPI)**: Ordenó a la UCO registrar la sede de la siderúrgica [[tubos-reunidos]] en Bilbao y emitir un requerimiento de documentación a la [[sepi]]. (Fuente: [[la-uco-registra-tubos-reunidos-y-se-presenta-en-la-sepi-por-orden-de-pedraz]])
 
 ## Referencias cruzadas
 - [[caso-hidrocarburos]]
@@ -43,6 +44,9 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - [[celia-rodriguez-alonso]]
 - [[antonio-hernando]]
 - [[oscar-puente]]
+- [[sepi]]
+- [[tubos-reunidos]]
+- [[la-uco-registra-tubos-reunidos-y-se-presenta-en-la-sepi-por-orden-de-pedraz]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -53,3 +57,4 @@ Santiago Pedraz Gómez es un magistrado de la [[audiencia-nacional]], titular de
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
 - [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca]]
 - [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]]
+- [[la-uco-registra-tubos-reunidos-y-se-presenta-en-la-sepi-por-orden-de-pedraz|La UCO registra Tubos Reunidos y se presenta en la SEPI por orden de Pedraz]]

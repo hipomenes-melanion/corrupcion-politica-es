@@ -15,11 +15,12 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
 - **Representación del Ministerio Fiscal**: [[begona-garcia]] (Fiscal de la Audiencia Provincial de Badajoz)
 - **Procedimiento**: Procedimiento de Juicio Oral (Derivado de las Diligencias Previas 692/2024 del [[juzgado-de-instruccion-3-de-badajoz]])
 - **Fase Procesal Actual**: **Fase de Plenario / Juicio Oral en desarrollo.** Tras el arranque de las sesiones el 1 de junio y la resolución de las cuestiones previas en la segunda jornada el 2 de junio de 2026, el tribunal mantiene vivo el enjuiciamiento por prevaricación y tráfico de influencias.
-- **Investigados / Encausados Principales**:
-  - [[david-sanchez-perez-castejon]]
-  - [[miguel-angel-gallardo-miranda]], [[elisa-moriano-morales]] y otros 8 procesados vinculados a la Diputación de Badajoz.
-  - **Personas de Interés**: [[pedro-sanchez-fernandez]] (padre), [[luis-carrero]] (amigo de David Sánchez y beneficiario mercantil), [[leonardo-marcos]] (ex Director General de la Guardia Civil), [[manuel-llamas]] (DAO de la Guardia Civil), [[emilio-cortes]] (abogado defensor).
-  - **Acusación Popular**: [[luis-maria-pardo]] (Presidente y letrado de Iustitia Europa).
+- **Investigados / Encausados Principales** (Peticiones Definitivas de Penas):
+  - [[david-sanchez-perez-castejon]] (Acusaciones populares: 6 años de prisión. Manos Limpias/Fiscalía: 3 años de prisión).
+  - [[miguel-angel-gallardo-miranda]] (Acusaciones populares: 4 años de prisión. Manos Limpias/Fiscalía: 1.5 años de prisión).
+  - **Personas de Interés**: [[pedro-sanchez-fernandez]] (padre), [[luis-carrero]] (amigo de David Sánchez y beneficiario mercantil; pena pedida de 1.5 a 2 años de prisión e inhabilitación de 9 a 10 años), [[leonardo-marcos]] (ex Director General de la Guardia Civil), [[manuel-llamas]] (DAO de la Guardia Civil), [[emilio-cortes]] (abogado defensor).
+  - **Co-encausados y personal de la Diputación**: [[elisa-moriano-morales]], Cristina Núñez y Félix González (Hazte Oír: hasta 1 año de prisión; Vox: 5-10 años de inhabilitación); Emilia Parejo, Francisco Martos, Ricardo Cabezas, Manuel Candalijas y Juana Cintas (Hazte Oír: 1.5 años de prisión; Vox: 5-10 años de inhabilitación).
+  - **Acusación Popular**: [[luis-maria-pardo]] (Letrado de Iustitia Europa), PP, Vox, Hazte Oír, Liberum y Abogados Cristianos.
   - **Testigos Clave**: [[cristina-de-frutos]] (directora de orquesta), [[angel-seco-lopez]] (técnico de formación), [[evaristo-valenti]] (exdirector del Conservatorio Superior), [[maria-del-rosario-mayoral]] (exdirectora del Conservatorio Superior), [[antonio-balas]] (teniente coronel de la UCO), [[yolanda-sanchez]] (directora de conservatorio).
 - **Tipos Penales Imputados**: Tráfico de influencias y prevaricación administrativa (Se declara prescrito el delito de aceptación de nombramiento ilegal; inicialmente se investigó también malversación y fraude).
 
@@ -48,6 +49,17 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
   - **Advertencias del Despropósito**: Los investigadores incidieron en una comunicación escrita de marzo de 2019 en la que el entonces director del Conservatorio Superior [[evaristo-valenti]] calificó el plan de creación del puesto como un "despropósito" ante la directora [[yolanda-sanchez]].
   - **Pre-acuerdo con Luis Carrero**: Los agentes constataron que [[luis-carrero]] sabía "semanas antes" del concurso que le adjudicarían la plaza de coordinador transfronterizo debido a actos preparatorios administrativos dirigidos.
   - **Enfrentamientos en Sala**: La comparecencia policial estuvo marcada por momentos de gran tensión y careos verbales entre el testigo técnico Balas, la fiscal [[begona-garcia]] y el defensor [[emilio-cortes]].
+- **Cuarta sesión del Juicio Oral (4 de junio de 2026)**: Declaración en plenario de los 11 acusados, destacando los testimonios de David Sánchez, Miguel Ángel Gallardo y Luis Carrero:
+  - **Declaración de David Sánchez**: Defendió que la Oficina de Artes Escénicas "no era un lugar físico, sino una categoría administrativa", alegando que tras la pandemia usó espacios comunes al estar su antiguo despacho ocupado. Negó influir en el cambio de denominación de su puesto o en la contratación de Luis Carrero. Atribuyó el correo de octubre de 2023 sobre el pre-acuerdo de la plaza a un malentendido personal (confundió la publicación con la adjudicación). Solo respondió a su letrado [[emilio-cortes]].
+  - **Declaración de Miguel Ángel Gallardo**: Negó cualquier contacto con Pedro Sánchez sobre el enchufe de su hermano y declaró que en ese momento "no era consciente ni de que tenía hermanos". Aseguró que la plaza no se creó ad hoc y que nunca dio instrucciones de adjudicación al departamento de Recursos Humanos.
+  - **Declaración de Luis Carrero**: Sostuvo que las bases de su plaza eran neutras, abiertas y que no hacía las labores de David Sánchez al no ser músico. Explicó que deseaba retornar a Extremadura tras abandonar su cargo en Presidencia del Gobierno en Moncloa, y que David Sánchez le avisó de que se convocaría una plaza de refuerzo. (Fuente: [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era]])
+- **Escritos de Conclusiones Definitivas y Elevación de Penas (4 de junio de 2026)**: Tras terminar el periodo testifical, las partes fijaron sus conclusiones definitivas en plenario, registrándose incrementos notables en las solicitudes de condena:
+  - **Acusaciones Populares (PP, Vox, Hazte Oír, Iustitia Europa, Liberum, Abogados Cristianos)**: Elevaron a 6 años de prisión su petición para David Sánchez (solicitando 2 años por cada uno de los tres delitos concurrentes: nombramiento de 2017, cambio de denominación y contratación de Luis Carrero) y a 4 años para Miguel Ángel Gallardo.
+  - **Manos Limpias y Fiscalía**: Manos Limpias mantuvo la petición en 3 años para David Sánchez y la rebajó a 1 año y medio para Miguel Ángel Gallardo por la prescripción de los cargos menores de nombramiento ilegal. La Fiscalía respaldó plenamente este posicionamiento.
+  - **Luis Carrero**: Se solicitan entre 1 año y medio y 2 años de prisión, más inhabilitación especial de entre 9 y 10 años en concepto de inductor de tráfico de influencias.
+  - **Oposición de las Defensas**: Los abogados defensores presentaron quejas formales alegando indefensión por modificación extemporánea de la calificación jurídica. El tribunal desestimó la protesta dado que los hechos materiales juzgados no habían cambiado. (Fuente: [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de]])
+- **El boicot coordinado "Vacaciones y Viajes" (Revelaciones de junio de 2026)**: El sumario de las cloacas destapa la existencia del grupo de chat *"Vacaciones y Viajes"* (integrado por [[leire-diez-castro]], [[luis-jose-saenz-de-tejada]], [[javier-perez-dolset]] y [[javier-parra]]) para desestabilizar la instrucción de la jueza Beatriz Biedma. Sus estrategias contemplaban la asunción de la defensa de David Sánchez, la interposición de una denuncia contra los magistrados de Badajoz redactada por Sáenz de Tejada y enviada a [[santos-cerdan-leon]], y su intento de personación como acusación popular el 19 de febrero de 2025. Dicha personación fue rechazada el 5 de marzo de 2025 por la magistrada Biedma mediante Auto por constituir un **abuso de derecho**.
+
 
 ## Referencias cruzadas
 - [[caso-begona-gomez]] (conexión de afectación institucional y entorno familiar)
@@ -59,6 +71,9 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
 - [[leonardo-marcos]]
 - [[antonio-balas]]
 - [[elisa-moriano-morales]]
+- [[luis-jose-saenz-de-tejada]]
+- [[javier-parra]]
+- [[leire-diez-trato-de-desestabilizar-el-caso-david-sanchez]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
@@ -72,3 +87,6 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
 - [[la-fiscal-del-caso-david-sanchez-mintio|La fiscal del caso David Sánchez mintió: no investigó un email que denunciaba expresamente el enchufe del "hermanísimo"]]
 - [[interior-ordeno-a-la-uco-ponerse-de-perfil|Interior ordenó a la UCO ponerse "de perfil" en las investigaciones que afectan a Sánchez]]
 - [[el-teniente-coronel-balas-senala-a-gallardo-por-el-enchufe|El teniente coronel Balas señala a Gallardo por el enchufe de David Sánchez: "Corresponde a un nivel político superior"]]
+- [[leire-diez-trato-de-desestabilizar-el-caso-david-sanchez|Leire Díez trató de desestabilizar el caso David Sánchez: "Mi prioridad: el presidente"]]
+- [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era|David Sánchez, en el juicio: "La Oficina de Artes Escénicas no era un lugar físico, sino una categoría administrativa"]]
+- [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de|Las acusaciones populares elevan a 6 años de prisión su petición de pena para David Sánchez]]

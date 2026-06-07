@@ -38,6 +38,9 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 - **Actualización [2026-06-03] (Conocimiento del Plan Criminal)**: Informes de la UCO contenidos en el sumario destapan un chat interceptado el 15 de febrero de 2025 que ratifica que Sánchez (identificado como *"El One"*) conocía y respaldaba directamente el plan de las cloacas de Ferraz para boicotear e interferir en las causas de corrupción. Al filtrarse a los medios el papel de Leire Díez, Sánchez le hizo llegar su felicitación a través de Santos Cerdán (*"S"*): *"ayer le dijo El One a S que me dijera que estoy haciendo un trabajo enorme y que no me venga abajo"*. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
 - **Actualización [2026-06-03] (Presunciones de Influencia)**: Sumarios del caso SEPI - Cloacas desvelan que Leire Díez presumía de su influencia directa sobre el presidente (a quien llamaba el *"One del partido"* y *"One del Gobierno"*), alardeando de que ella misma colocaría al próximo Director Adjunto Operativo (DAO) de la Guardia Civil. Asimismo, las grabaciones revelan que "los de arriba" (Moncloa) culpaban al ministro Marlaska del desgaste derivado de no poder frenar las operaciones policiales de la UCO. (Fuente: [[leire-diez-presumia-de-su-influencia-sobre-el-one]])
 - **Actualización [2026-06-03] (Finalidad de las Cloacas)**: El sumario de más de 400 folios del caso SEPI - Cloacas revela que el fin último del complot orquestado desde la Secretaría de Organización del PSOE consistía en *"proteger los intereses puestos en juego"* en causas penales con afectación al partido y, directa o indirectamente, al presidente Pedro Sánchez y a ciertos miembros de su gabinete. (Fuente: [[la-uco-dice-que-el-fin-ultimo-de-las-cloacas-era-proteger-los-intereses]])
+- **Actualización [2026-06-05] (Desconfianza del DAO y uso de DGP contra la UCO)**: Anotaciones manuscritas de la agenda de Leire Díez revelan que Sánchez desconfiaba profundamente del Director Adjunto Operativo (DAO) de la Guardia Civil (*"Pedro no se fía del DAO"*). Asimismo, se desvela que se acordó en una comida entre Moncloa y el Director General de la Policía (DGP), [[francisco-pardo]], que la Policía Nacional investigara a la [[unidad-central-operativa|UCO]] para neutralizar sus indagaciones por corrupción. (Fuente: [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao|Nueva libreta de Leire Díez: "Pedro no se fía del DAO, DGP investiga a la UCO"]])
+- **Actualización [2026-06-05] (Libreta Cantabria 2025: Reunión con P.S.)**: Anotaciones manuscritas en la agenda de Leire Díez de 2025 registran una *"Reunión con P.S."* el 3 de enero de 2025. Las siglas "P.S." coinciden con las del presidente. Asimismo, bajo la fecha del *"19/2/2025"* figura una directiva para *"cambiar relato"* vinculada a los nombres *"Emma López"* y *"Belen (Óscar Puente)"*. Coincidentemente, en esa misma fecha la agenda oficial de Pedro Sánchez en Moncloa registra una reunión internacional y un posterior almuerzo real en el Palacio Real. (Fuente: [[reunion-con-p-s-y-cambiar-relato-las-dos-anotaciones]])
+
 
 ## Referencias cruzadas
 - [[hospital-ramon-y-cajal]]
@@ -53,6 +56,11 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 - [[industrias-plasticas-playbol]]
 - [[inaem]]
 - [[vicente-fernandez-guerrero]]
+- [[francisco-pardo]]
+- [[emma-lopez]]
+- [[belen-villar-sanchez]]
+- [[oscar-puente]]
+
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -63,3 +71,7 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 - [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]
 - [[leire-diez-presumia-de-su-influencia-sobre-el-one|Leire Díez presumía de su influencia sobre "El One del Gobierno": "Dijo que ella pondría al nuevo DAO"]]
 - [[la-uco-dice-que-el-fin-ultimo-de-las-cloacas-era-proteger-los-intereses|La UCO dice que el fin último de las cloacas era proteger los intereses de Pedro Sánchez]]
+- [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao|Nueva libreta de Leire Díez: "Pedro no se fía del DAO, DGP investiga a la UCO"]]
+- [[las-cloacas-del-psoe-apuntaron-a-marlaska-para-comprar-a-jueces|Las cloacas del PSOE apuntaron a Marlaska para 'comprar' a jueces de la Audiencia Nacional: "Que hable con Guevara"]]
+- [[reunion-con-p-s-y-cambiar-relato-las-dos-anotaciones|Reunión con P.S. y cambiar relato: las dos anotaciones que aparecen en la agenda de Leire Díez]]
+

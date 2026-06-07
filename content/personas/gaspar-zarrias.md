@@ -15,6 +15,7 @@ Gaspar Zarrías Arévalo es un histórico político español del PSOE, exconseje
 - **Registros de la UCO**: Con motivo de su implicación en la trama SEPI y en la financiación de las cloacas, agentes de la UCO llevaron a cabo un registro judicial en su domicilio particular el 27 de mayo de 2026.
 - **Actualización [2026-05-29]**: Su reciente imputación judicial en el Juzgado Central de Instrucción n.º 5 de la AN (tramitada por Santiago Pedraz) por la trama SEPI y las cloacas de Ferraz constituye un golpe anímico directo para el presidente del TC, [[candido-conde-pumpido]], quien lideró la estimación de su amparo de los ERE en julio de 2024 para anular de forma encubierta la inhabilitación de 9 años por prevaricación continuada que le impuso el Tribunal Supremo. (Fuente: [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]])
 - **Actualización [2026-06-03] (Incautación de dinero en efectivo)**: En el marco del sumario del caso de las cloacas del PSOE, se reveló que durante el registro judicial realizado por la UCO en su domicilio el 27 de mayo de 2026, los agentes incautaron un total de 19.850 euros en efectivo. El dinero estaba distribuido en fajos de 20 y 50 euros (repartidos entre un baúl del salón y una habitación). La cantidad fue ingresada el 28 de mayo de 2026 en la cuenta de consignaciones del Juzgado Central de Instrucción n.º 5. (Fuente: [[la-uco-localizo-19850-euros-en-el-domicilio-de-gaspar-zarrias]])
+- **Actualización [2026-06-04]**: Su nombre y participación en la red de cloacas aparecen reflejados en la libreta Campus de [[leire-diez-castro]] intervenida por la UCO, la cual consigna su asistencia a una reunión clandestina clave celebrada el 24 de noviembre de 2021 junto a la propia Díez, [[elena-valenciano]], [[juan-manuel-gonzalez-mejias]] y [[javier-perez-dolset]] para coordinar las operaciones de la trama. (Fuente: [[la-libreta-azul-de-leire-diez-la-uco-intervino]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -30,6 +31,8 @@ Gaspar Zarrías Arévalo es un histórico político español del PSOE, exconseje
 - [[victor-moreno-catena]]
 - [[carmen-martinez-aguayo]]
 - [[unidad-central-operativa]]
+- [[elena-valenciano]]
+- [[juan-manuel-gonzalez-mejias]]
 
 ## Fuentes
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
@@ -38,3 +41,4 @@ Gaspar Zarrías Arévalo es un histórico político español del PSOE, exconseje
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
 - [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero]]
 - [[la-uco-localizo-19850-euros-en-el-domicilio-de-gaspar-zarrias|La UCO localizó 19.850 euros en el domicilio de Gaspar Zarrías en fajos de 20 y 50 euros]]
+- [[la-libreta-azul-de-leire-diez-la-uco-intervino]]

@@ -1,7 +1,7 @@
 ---
 title: "SEPI"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-24"
+updated: "2026-06-04"
 tags: [entidad, organizacion]
 ---
 
@@ -109,9 +109,13 @@ Entidad pública empresarial española encargada de gestionar las participacione
 
 
 - **Actualización [2026-05-24]**: Estos hechos recuerdan a los mensajes intercambiados por la trama Koldo en el marco del rescate a la aerolínea Air Europa. (Fuente: [[la-trama-de-plus-ultra-celebro-la-concesion-del-re]])
+- **Actualización [2026-06-04] (Requerimiento por orden de Pedraz)**: El Juzgado Central de Instrucción n.º 5 de la Audiencia Nacional, dirigido por el juez Santiago Pedraz, ordenó un requerimiento formal de información y documentación en la sede de la SEPI en paralelo al registro efectuado por la UCO en la sede de [[tubos-reunidos]] en Bilbao. (Fuente: [[la-uco-registra-tubos-reunidos-y-se-presenta-en-la-sepi-por-orden-de-pedraz]])
 
 ## Referencias cruzadas
-*No se registran notas de contradicción en la fase de ingesta inicial.*
+- [[tubos-reunidos]]
+- [[caso-sepi-cloacas]]
+- [[la-uco-registra-tubos-reunidos-y-se-presenta-en-la-sepi-por-orden-de-pedraz]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[la-uco-registra-tubos-reunidos-y-se-presenta-en-la-sepi-por-orden-de-pedraz|La UCO registra Tubos Reunidos y se presenta en la SEPI por orden de Pedraz]]

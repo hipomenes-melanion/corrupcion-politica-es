@@ -21,6 +21,8 @@ José Manuel Villarejo Pérez es un comisario jubilado de la Policía Nacional d
   4. El banco [[bbva]] (en relación a las contrataciones del excomisario).
   5. Información relativa a casos de corrupción del PSOE.
 - **Inacción de la defensa**: A pesar de la insistencia de Díez, el abogado del excomisario, [[antonio-jose-garcia-cabrera]], declaró ante los agentes que descartaron la propuesta y no solicitaron cita con la fiscalía dada la total "falta de credibilidad" de la emisaria socialista.
+- **Actualización [2026-06-04]**: Su nombre y los detalles de las grabaciones y pactos ofrecidos por la trama figuran anotados en la libreta Campus de [[leire-diez-castro]] intervenida por la UCO, lo que confirma que el excomisario era considerado una pieza estratégica clave para las maniobras de control y extorsión de la red de Ferraz. (Fuente: [[la-libreta-azul-de-leire-diez-la-uco-intervino]])
+- **Actualización [2026-06-04] (Intermediación ante la FGE)**: El sumario revela que Leire Díez le envió mensajes directos a su abogado vía Signal para acreditar que estaba gestionando su impunidad dentro de la propia cúpula fiscal: *"Buenos días, Antonio. El jueves estuve en FGE. Cuando puedas hablamos"*, constando que la red intentó forzar el pacto para conseguir material difamatorio contra el PP. (Fuente: [[leire-diez-tuvo-reuniones-y-metio-mano]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
@@ -35,6 +37,11 @@ José Manuel Villarejo Pérez es un comisario jubilado de la Policía Nacional d
 - [[jorge-fernandez-diaz]]
 - [[francisco-martinez-vazquez]]
 - [[eugenio-pino-sanchez]]
+- [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
+- [[fiscalia-general-del-estado]]
+- [[leire-diez-tuvo-reuniones-y-metio-mano]]
 
 ## Fuentes
 - [[la-cloaca-ofrecio-a-villarejo-un-pacto-a-cambio-de-audios|La cloaca ofreció a Villarejo un pacto a cambio de audios de Rajoy y el BBVA]]
+- [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
+- [[leire-diez-tuvo-reuniones-y-metio-mano]]

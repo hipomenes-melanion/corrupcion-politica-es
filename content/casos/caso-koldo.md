@@ -1,7 +1,7 @@
 ---
 title: Caso Koldo
 source: wiki/fuentes/resumen-causas-judiciales.md
-updated: 2026-06-01
+updated: 2026-06-07
 tags:
   - caso-zapatero
 ---
@@ -31,11 +31,16 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - Víctor de Aldama pagó el alquiler mensual del piso de la pareja del exministro, Jéssica Rodríguez, y costeó al menos 13 de sus viajes oficiales en el Ministerio de Transportes.
 - Koldo García y la trama mantuvieron contactos directos con cargos socialistas clave como Francina Armengol y Ángel Víctor Torres para la colocación de material sanitario durante la pandemia.
 - El comisionista Víctor de Aldama busca pactar una colaboración con la Fiscalía Anticorrupción para confesar la financiación ilegal del partido y evitar su entrada en prisión.
+- **Vínculo con la Libreta de Leire Díez**: La libreta azul de la fontanera socialista [[leire-diez-castro]] intervenida por la UCO en el Caso SEPI - Cloacas contiene múltiples apuntes y esquemas manuscritos sobre la trama Koldo, haciendo referencia repetidamente a [[victor-de-aldama-delgado]], su abogado [[jose-antonio-choclan]], y a las operativas y comisiones de crudo de [[pdvsa]] conectadas con [[delcy-rodriguez]].
+
 ## Referencias cruzadas
 - [[caso-zapatero]] (pieza separada conectada internacionalmente)
 - [[caso-hidrocarburos]] (conexión por Víctor de Aldama)
 - [[caso-air-europa]] (pieza separada derivada por gestiones de rescates)
 - [[caso-plus-ultra]] (conexión por adjudicación de ayudas públicas a aerolíneas)
+- [[caso-sepi-cloacas]] (conexión de desestabilización judicial y espionaje)
+- [[leire-diez-castro]]
+- [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 - [[tribunal-de-cuentas]]
 - [[restaurante-la-chalana]]
 - [[enriqueta-chicano-jaen]]
@@ -101,3 +106,5 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - [[peramato-maniobra-para-dinamitar-el-pacto-de-aldam|Peramato maniobra para dinamitar el pacto de Aldama con Anticorrupción]]
 - [[un-alto-cargo-de-transportes|Un alto cargo de Transportes Koldo dijo que eran 8 millones de mascarillas o nada; la decisión final era de Ábalos]]
 - [[varapalo-a-oscar-puente-en-el-juicio-de-la-trama-k|Varapalo a Óscar Puente en el juicio de la trama Koldo]]
+- [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
+- [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]]

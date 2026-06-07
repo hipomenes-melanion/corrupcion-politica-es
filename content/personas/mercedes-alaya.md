@@ -12,6 +12,7 @@ Mercedes Alaya Rodríguez es una magistrada española, ex titular del Juzgado de
 - **Rol principal**: Magistrada Instructora (ex titular de instrucción del caso ERE).
 - **Objetivo de las cloacas del PSOE**: El auto del juez Pedraz certifica que Alaya estuvo bajo el foco de las operaciones delictivas sufragadas por el PSOE con al menos 178.000€, dirigidas a atacar la correcta dirección de las investigaciones y desprestigiar su trayectoria al frente de la causa penal de los ERE, la cual salpicó a exdirigentes andaluces como Gaspar Zarrías.
 - **Vínculo con Gaspar Zarrías**: El plan delictivo se financió de forma interpuesta por Ferraz canalizando 16.000€ a través de la consultora del histórico dirigente andaluz Gaspar Zarrías (imputado en la trama SEPI y condenado en los ERE), quien contrató a Leire Díez por 4.000€ al mes para interferir en estas causas y desprestigiar la instrucción de Alaya.
+- **Complot para su exterminación social (Junio de 2026)**: El sumario revela conversaciones en las que Leire Díez detalla a Vicente Fernández Guerrero su plan contra la magistrada: *"Yo estoy hilando un relato, porque además de la muerte procesal tiene que ser social también"* y *"Tenemos que exterminar socialmente a Alaya. El dolor gratuito ya no puede ser gratis"*. Para ello, Díez se reunió con el ex-responsable policial [[rafael-salvador]] con el objeto de recabar datos comprometedores en su contra (*"¿Qué podemos destapar de ella? O sea, yo necesito cuatro cosas que me permitan dos impactos"*) y coordinar un plan de espionaje financiado por la red. (Fuente: [[la-cloaca-contra-la-juez-alaya-que-podemos-destapar-de-ella]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
@@ -19,6 +20,9 @@ Mercedes Alaya Rodríguez es una magistrada española, ex titular del Juzgado de
 - [[santiago-pedraz]]
 - [[gaspar-zarrias]]
 - [[leire-diez-castro]]
+- [[vicente-fernandez-guerrero]]
+- [[rafael-salvador]]
 
 ## Fuentes
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
+- [[la-cloaca-contra-la-juez-alaya-que-podemos-destapar-de-ella|La cloaca contra la juez Alaya: \"¿Qué podemos destapar de ella?\"]]

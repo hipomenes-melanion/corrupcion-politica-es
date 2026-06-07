@@ -23,13 +23,22 @@ Ministro de Transportes y Movilidad Sostenible de España, bajo investigación p
 - **Actualización [2026-03-27]**: La juez también ha aceptado la personación de otras entidades como el Sindicato de Maquinistas y Ayudantes Ferroviarios (SEMAF) (Fuente: [[la-juez-de-adamuz-acepta-la-personacion-de-manos-l]])
 - **Actualización [2026-03-27]**: Fuentes consultadas por LD señalan que Puente se enfrenta a prisión si se acredita que ordenó retirar los 42 metros de vía de Adamuz. (Fuente: [[oscar-puente-se-enfrenta-a-3-anos-de-prision-por-s]])
 - **Actualización [2026-05-30]**: Criticó duramente en redes sociales la personación de la UCO en la sede de Ferraz por mandato del juez Pedraz en el [[caso-sepi-cloacas]], tachándola de desmesurada y tildándola de "mero requerimiento de información ordinario" que era "vestido como un registro". (Fuente: [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]])
+- **Actualización [2026-06-05] (Libreta Cantabria 2025: Belen y cambiar relato)**: Anotaciones manuscritas intervenidas en la agenda de Leire Díez registran la mención *"Belen (Óscar Puente)"* junto a *"Emma López"* y la directriz *"cambiar relato"*, con fecha del *"19/2/2025"*. Las pesquisas judiciales en el caso SEPI - Cloacas analizan si la mención alude a Belén Villar Sánchez (su Directora General de Organización e Inspección) o a la presidenta de la SEPI Belén Gualda. (Fuente: [[reunion-con-p-s-y-cambiar-relato-las-dos-anotaciones]])
+
 
 ## Referencias cruzadas
 - [[adif]]
 - [[renfe]]
 - [[caso-sepi-cloacas]]
 - [[santiago-pedraz]]
+- [[belen-villar-sanchez]]
+- [[belen-gualda-gonzalez]]
+- [[emma-lopez]]
+- [[leire-diez-castro]]
+
 
 ## Fuentes
 - [[la-juez-de-adamuz-acepta-la-personacion-de-manos-l]]
 - [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]]
+- [[reunion-con-p-s-y-cambiar-relato-las-dos-anotaciones|Reunión con P.S. y cambiar relato: las dos anotaciones que aparecen en la agenda de Leire Díez]]
+

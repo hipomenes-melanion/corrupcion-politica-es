@@ -21,6 +21,10 @@ Vicente Fernández Guerrero es un ex alto cargo público español, expresidente 
 - **Actualización [2026-05-27]**: Se desvelan los audios en los que Leire Díez coordina su defensa con Cerdán ante el juez Pedraz debido a su pánico a las repercusiones con Montero por la adjudicación de contratos de la SEPI. (Fuente: [[pedraz-senala-los-audios-de-la-cloaca]])
 - **Actualización [2026-05-28]**: El auto del juez Pedraz constata que, tras su salida de la SEPI, Fernández continuó influyendo en la entidad. Los mensajes interceptados de enero de 2021 evidencian que Díez intentó calmarle diciéndole que *"todos estaban alineados correctamente"* y transmitiendo a Cerdán que Fernández *"lo está pasando mal"* y que *"le angustia que María Jesús no lo tome bien"*, aludiendo a la ministra Montero, mientras Díez intentaba colocarse como jefa de Gabinete de la sucesora [[belen-gualda-gonzalez]]. (Fuente: [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]])
 - **Actualización [2026-06-03] (Conexión con las Cloacas)**: Mensajes interceptados por la UCO del 15 de febrero de 2025 muestran que fue informado por Leire Díez sobre el complot. Al preguntarle cuánta gente conocía las operativas de las cloacas contra los jueces, Díez le enumeró el núcleo de confianza: *"Ismael, Santi, la ameba y yo. Y la mujer de la ameba"*. Asimismo, Fernández se congratuló de la felicitación transmitida por el presidente Pedro Sánchez (*"El One"*) a Díez: *"Me alegro de que así lo piense. Otras se esconden, tú das la cara"*. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
+- **Actualización [2026-06-04]**: Chats interceptados revelan que Leire Díez le mantenía al tanto de sus gestiones en la cúpula fiscal, escribiéndole ilusionada sobre la trascendencia del encuentro secreto con Álvaro García Ortiz: *"El jueves que viene va a ser la reunión más importante de mi vida a nivel profesional, la reunión con la Fiscalía General puede hacer que el presidente directamente me adore"*. (Fuente: [[leire-diez-tuvo-reuniones-y-metio-mano]])
+- **Actualización [2026-06-04] (Campaña de hostigamiento contra la juez Alaya)**: Se documentan mensajes de Signal recibidos de Leire Díez en los que le promete aportarle información incriminatoria contra la magistrada [[mercedes-alaya]] para bloquear las pesquisas de ERE y Aznalcóllar en su contra: *"lo tuyo lo tengo ya, con lo que tengo te puede servir. Voy a por los ERE"* y *"volverás y nos ocuparemos que el tumor se extirpe"*. Asimismo, Fernández era conocedor del plan de *"muerte social"* contra la magistrada, contestándole Díez por Signal: *"Tenemos que exterminar socialmente a Alaya"*. (Fuente: [[la-cloaca-contra-la-juez-alaya-que-podemos-destapar-de-ella]])
+- **Actualización [2026-06-06] (Estrategia jurídica de Ferraz)**: Chats interceptados por la UCO revelan que, a finales de 2024, tras la salida de prisión de Víctor de Aldama, Leire Díez le informó de que sus gestiones habían calado y que el PSOE cambiaría su estrategia de defensa y comunicación con la ayuda de los abogados Ismael Oliver y Jacobo Teijelo. En la misma conversación, Díez le transmitió la presión que sentía al liderar a la red y tener que *"tirar de una estructura elefantiásica"*. (Fuente: [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe]])
+
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -34,6 +38,14 @@ Vicente Fernández Guerrero es un ex alto cargo público español, expresidente 
 - [[montero-hizo]]
 - [[santos-cerdan-leon]]
 - [[belen-gualda-gonzalez]]
+- [[fiscalia-general-del-estado]]
+- [[leire-diez-tuvo-reuniones-y-metio-mano]]
+- [[mercedes-alaya]]
+- [[rafael-salvador]]
+- [[ismael-oliver]]
+- [[jacobo-teijelo-casanova]]
+- [[victor-de-aldama-delgado]]
+
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -44,3 +56,7 @@ Vicente Fernández Guerrero es un ex alto cargo público español, expresidente 
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-juez-senala-la-estrecha-relacion-de-fernandez|El juez señala la estrecha relación de Fernández y Montero para influenciar en la Sepi: "Lo está pasando mal"]]
 - [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]
+- [[leire-diez-tuvo-reuniones-y-metio-mano]]
+- [[la-cloaca-contra-la-juez-alaya-que-podemos-destapar-de-ella|La cloaca contra la juez Alaya: "¿Qué podemos destapar de ella?"]]
+- [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe|Leire Díez buscó cambiar la estrategia jurídica del PSOE tras la salida de Aldama de prisión: "Esto es un desastre"]]
+

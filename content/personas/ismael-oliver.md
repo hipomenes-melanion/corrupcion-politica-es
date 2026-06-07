@@ -15,6 +15,9 @@ Ismael Oliver es un abogado penalista español. En mayo de 2026, el magistrado d
 
 ## Cronología de Actualizaciones
 - **Actualización [2026-06-03] (Conocedor del Complot)**: Sumarios interceptados de las cloacas del PSOE desvelan que Leire Díez lo identificó en sus conversaciones (refiriéndose a él como *"Ismael"*) como parte del exclusivo grupo de cinco personas que estaban al tanto del plan delictivo de las cloacas para espiar e interferir en las causas de corrupción. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
+- **Actualización [2026-06-05] (Ofensiva contra la UCO)**: La UCO desvela que, tras asumir la representation legal de Koldo García en marzo de 2025, Oliver orquestó con Leire Díez una campaña para "freír" a denuncias a la UCO ante el Fiscal General Álvaro García Ortiz. Presentó un total de 5 denuncias buscando desacreditar a la Unidad, identificar a sus jefes y cruzar las TIPs de los agentes que elaboraron informes de Hidrocarburos, Koldo, Begoña Gómez y del propio Fiscal General, planificando dosificar mediáticamente su presentación para contrarrestar malas noticias de corrupción del partido. (Fuente: [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco]])
+- **Actualización [2026-06-06] (Integración en las cloacas y cambio de estrategia)**: De acuerdo con los informes de la UCO, tras la excarcelación de Víctor de Aldama a finales de 2024, Oliver se integró formalmente en la organización delictiva coordinada por Leire Díez. Percibió fondos de Ferraz para actuar como asesor y propuso a Santos Cerdán revisar a fondo la estrategia de defensa y de comunicación que afectaba al partido y al presidente Sánchez, además de perfilar la constitución de una asociación instrumental. (Fuente: [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe]])
+
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -26,8 +29,16 @@ Ismael Oliver es un abogado penalista español. En mayo de 2026, el magistrado d
 - [[gaspar-zarrias]]
 - [[jacobo-teijelo-casanova]]
 - [[ana-maria-fuentes-pacheco]]
+- [[alvaro-garcia-ortiz]]
+- [[koldo-garcia-izaguirre]]
+- [[victor-de-aldama-delgado]]
+- [[vicente-fernandez-guerrero]]
+
 
 ## Fuentes
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
 - [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]
+- [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco|La cloaca usó la defensa de Koldo para 'freir' a denuncias a la UCO ante la Fiscalía de García Ortiz]]
+- [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe|Leire Díez buscó cambiar la estrategia jurídica del PSOE tras la salida de Aldama de prisión: "Esto es un desastre"]]
+

@@ -24,10 +24,16 @@ Fiscal de Sala y Fiscal Jefe de la Fiscalía Especial contra la Corrupción y la
 - **Actualización [2026-05-06]**: Desafía formalmente las directrices de la superioridad y avala en la vista oral del Tribunal Supremo la rebaja sustancial de pena a Víctor de Aldama Delgado. (Fuente: [[luzon-desafia-a-peramato-y-avala-la-rebaja-de-pena]])
 
 - **Actualización [2026-05-28]**: El auto del juez Pedraz revela que las cloacas coordinadas por Leire Díez Castro ofrecieron a su subordinado, el fiscal José Grinda, 300.000€ y un puesto en el extranjero a cambio de archivar causas y facilitar información sensible para comprometer y forzar el cese de Luzón al frente de Anticorrupción. (Fuente: [[la-cloaca-del-psoe-ofrecio-300000-euros]])
+- **Actualización [2026-06-04]**: Su nombre figura en los listados manuscritos de objetivos personales a neutralizar contenidos en la libreta Campus de [[leire-diez-castro]] intervenida por la UCO. La red de cloacas del PSOE consideraba al fiscal jefe de Anticorrupción como un elemento clave al que debilitar debido a su dirección en las investigaciones de la trama Koldo. (Fuente: [[la-libreta-azul-de-leire-diez-la-uco-intervino]])
 
 ## Referencias cruzadas
-*No se registran notas de contradicción en la fase de ingesta inicial.*
+- [[caso-koldo]]
+- [[caso-sepi-cloacas]]
+- [[leire-diez-castro]]
+- [[jose-grinda]]
+- [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[la-cloaca-del-psoe-ofrecio-300000-euros|La cloaca del PSOE ofreció 300.000 euros a un fiscal para 'cazar' a Luzón]]
+- [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
