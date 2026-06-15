@@ -1,7 +1,7 @@
 ---
 title: "Javier Pérez Dolset"
 source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
-updated: "2026-06-07"
+updated: "2026-06-15"
 tags: [persona, investigado, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -22,6 +22,9 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - **Actualización [2026-06-05] (Fugas de información de defensa)**: Sumarios interceptados de las cloacas de Ferraz desvelan que participó en la videoconferencia con Leire Díez, Jacobo Teijelo y Alejandro Hamlyn en la que planificaron deponer a Choclán y usar a un becario infiltrado en su bufete para espiar las conversaciones de defensa de Víctor de Aldama, advirtiendo Dolset de que cualquier dato facilitado a Choclán llegaría a la otra parte. (Fuente: [[la-cloaca-del-psoe-intento-apartar-a-choclan-como-abogado-de-aldama]])
 - **Actualización [2026-06-05] (Explicaciones de Aldama)**: En las grabaciones telefónicas, Dolset reporta a Leire Díez que Víctor de Aldama no da detalles y se acoge al secreto de sus fuentes para justificar sus cacerías y prácticas de tiro con el GAR en Venezuela, intentando minimizar judicialmente sus actividades presentándolas como un simple "chascarrillo". (Fuente: [[el-psoe-temia-que-aldama-hablase-de-maduro]])
 - **Actualización [2026-06-07]**: Grabaciones obtenidas por la UCO en una reunión junto a Leire Díez, Jacobo Teijelo y Juan Sánchez Yepes revelan que defendió que los cargos políticos de arriba no habían cobrado comisiones en el caso Koldo (*"Ábalos no tiene donde caerse muerto"*), señalando que el presidente Sánchez le cesó de ministro debido a escándalos de índole sexual en visitas oficiales (prostitutas en un hotel de Marruecos). (Fuente: [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]])
+- **Actualización [2026-06-09] (Complot de nulidad contra la UCO)**: El sumario judicial desvela su presencia y participación en la reunión grabada de casi tres horas junto a Leire Díez, Jacobo Teijelo y Juan Sánchez Yepes. En la cita, buscaban obtener información privilegiada de Yepes para identificar qué agentes de la UCO estaban detrás de las causas de presunta corrupción que afectaban al entorno del presidente Pedro Sánchez, acordando la estrategia de tumbar causas en cascada mediante la nulidad. (Fuente: [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]])
+- **Actualización [2026-06-14] (Viaje a Zaragoza y alojamiento de Leire Díez)**: Se desvela que viajó con Leire Díez en AVE a Zaragoza el 10 de julio de 2017 para reunirse con el entonces responsable policial del caso ERE, Rafael Salvador, reservando los pasajes la secretaria de Ferraz. Asimismo, alojó en su domicilio a Leire Díez en Madrid durante sus reuniones de las cloacas en agosto de 2024. (Fuente: [[la-uco-certifica-que-los-viajes-de-leire-diez]])
+- **Actualización [2026-06-15] (Asuntos en el documento \"Incumplimientos\")**: El informe de "Incumplimientos" incautado en Ferraz registra varias gestiones específicas solicitadas por Dolset a la red socialista: lograr que la Fiscalía General del Estado apoyase ante el Juzgado 10 de Barcelona las peticiones referidas a la fianza civil a [[rousaud-costas-duran|RCD]] como responsable civil subsidiario en el concurso de Zed, dar soporte a la investigación en el Juzgado 22 de Barcelona contra Planeta por falsificación de contabilidad de Zed, y reactivar el decreto de investigación paralizado contra ING. (Fuente: [[la-uco-localiza-en-ferraz-un-documento]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -59,9 +62,14 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - [[koldo-garcia-izaguirre]]
 - [[jacobo-teijelo-casanova]]
 - [[juan-sanchez-yepes]]
+- [[la-uco-certifica-que-los-viajes-de-leire-diez]]
+- [[rafael-salvador]]
+- [[la-uco-localiza-en-ferraz-un-documento]]
+- [[rousaud-costas-duran]]
 
 ## Fuentes
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
+- [[la-uco-localiza-en-ferraz-un-documento|La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE]]
 - [[resumen-causas-judiciales]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
@@ -74,3 +82,6 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - [[la-cloaca-del-psoe-intento-apartar-a-choclan-como-abogado-de-aldama|La cloaca del PSOE intentó apartar a Choclán como abogado de Aldama y recabar información de su defensa]]
 - [[el-psoe-temia-que-aldama-hablase-de-maduro|El PSOE temía que Aldama hablase de Maduro: "Sabes lo que puede colaborar con todo lo de Venezuela..."]]
 - [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]]
+- [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]]
+- [[la-uco-certifica-que-los-viajes-de-leire-diez|La UCO certifica que los viajes de Leire Díez a reuniones de la cloaca se gestionaban desde Ferraz]]
+

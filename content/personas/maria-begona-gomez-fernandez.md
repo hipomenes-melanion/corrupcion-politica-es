@@ -1,7 +1,7 @@
 ---
 title: "María Begoña Gómez Fernández"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-26"
+updated: "2026-06-15"
 tags: [persona, investigado]
 ---
 
@@ -101,8 +101,12 @@ Esposa del presidente del Gobierno, investigada por presunto tráfico de influen
 - **Actualización [2026-05-25]**: El informe de la UCO, al que ha tenido acceso LD, señala que \ (Fuente: [[la-uco-senala-a-begona-gomez-por-la-contratacion-i]])
 
 - **Actualización [2026-05-26]**: El último informe de la UCO destapa un presunto quinto delito cometido por Begoña Gómez, prevaricación administrativa. Los informes policiales acreditan que amañó de antemano junto a su colaborador [[jose-luis-calama-teixeira|magistrados]] y de forma directa las condiciones técnicas de adjudicaciones a la consultora [[deloitte]] por un valor de 78.648,79 euros para la asistencia tecnológica en su cátedra de la [[universidad-complutense-de-madrid]]. El encaje procesal de la prevaricación obligará a buscar soluciones ya que no puede ser enjuiciada bajo jurado popular a diferencia de las otras cuatro imputaciones en el [[juzgado-de-instruccion-41-de-madrid]]. (Fuente: [[el-ultimo-informe-de-la-uco-destapa-un-nuevo-delito-de-begona-gomez]])
+- **Actualización [2026-06-13] (Referencia en la agenda de Leire Díez)**: En las libretas manuscritas intervenidas a Leire Díez consta la anotación *"Causa mascarillas derivada a Air Europa y Begoña"*, en alusión al desvío de las investigaciones del caso mascarillas/Koldo hacia el rescate de Air Europa y la causa de Begoña Gómez instruida en el Juzgado de Instrucción 41. (Fuente: [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]])
+- **Actualización [2026-06-15] (Colaboración letrada de su abogado)**: Se desvela que su abogado defensor, Antonio Camacho, colabora de forma estrecha con Víctor Moreno Catena (abogado de Zapatero) de cara a la defensa de este último en la causa Plus Ultra, asesorándole en los aspectos sustantivos de la defensa penal. (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
+- **Actualización [2026-06-15] (Presiones policiales por su correo en el caso David Sánchez)**: La inclusión de un correo electrónico suyo en un informe judicial de David Sánchez motivó que el DAO Manuel Llamas abriera una investigación reservada a través del Estado Mayor contra la UCO para exigir responsabilidades a los investigadores de la Unidad, lo que culminó en la amonestación verbal de un analista. (Fuente: [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco]])
 
 ## Referencias cruzadas
+- [[antonio-camacho]]
 - [[hospital-ramon-y-cajal]]
 - [[jose-luis-zamorano]]
 - [[moncloa-aumentara]]
@@ -111,8 +115,13 @@ Esposa del presidente del Gobierno, investigada por presunto tráfico de influen
 - [[jose-manuel-ruano]]
 - [[cristina-alvarez]]
 - [[el-ultimo-informe-de-la-uco-destapa-un-nuevo-delito-de-begona-gomez]]
+- [[las-notas-de-leire-diez-protocolo-de-crisis]]
+- [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[moncloa-aumentara]]
 - [[el-ultimo-informe-de-la-uco-destapa-un-nuevo-delito-de-begona-gomez]]
+- [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]]
+- [[el-abogado-de-begona-gomez-colabora-con-el-letrado|El abogado de Begoña Gómez colabora con el letrado de Zapatero en el caso Plus Ultra]]
+- [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco|El DAO de la Guardia Civil amonestó al jefe de la UCO por incluir un correo de Begoña en la causa de David Sánchez]]

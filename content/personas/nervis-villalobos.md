@@ -1,7 +1,7 @@
 ---
 title: "Nervis Villalobos Cárdenas"
 source: "wiki/fuentes/la-libreta-azul-de-leire-diez-la-uco-intervino.md"
-updated: "2026-06-05"
+updated: "2026-06-10"
 tags:
   - persona
   - venezuela
@@ -14,6 +14,7 @@ Político e ingeniero venezolano. Ejerció como viceministro de Energía Eléctr
 - **Objetivo y Nexo de Negocios**: Villalobos figura repetidamente en los flujogramas y esquemas anotados en la libreta Campus Campus azul de [[leire-diez-castro]] intervenida por la UCO. Sus notas lo vinculan con las redes de comisiones por exportaciones de crudo de [[pdvsa]] y Duro Felguera, y su triangulación mediante criptomonedas y paraísos fiscales.
 - **Localización de Miriam (Junio de 2026)**: El sumario desclasificado por el juez Santiago Pedraz detalla que Leire Díez utilizó la influencia y la red de contactos de Villalobos para localizar en Jaén a [[miriam-jaen|Miriam]] (denunciante del fiscal [[jose-grinda]]), coordinando y confirmando el viaje de la chica a Madrid el 25 de octubre de 2024 para su entrevista con Cerdán y Díez en Ferraz. (Fuente: [[juanfran-serrano-coloco-a-la-denunciante-de-grinda]])
 - **Favores de Nacionalidad y Cuentas Bancarias (Junio de 2026)**: Investigaciones de la UCO constatan que, a cambio de su colaboración en la extorsión al fiscal Grinda y de servir de contacto para la trama SEPI, las cloacas del PSOE intercedieron ante Félix Bolaños y José Luis Escrivá para conseguirle la nacionalidad española y reabrir sus cuentas corrientes intervenidas por el Sepblac en 2021. (Fuente: [[la-trama-del-psoe-involucro-a-felix-y-a-escriva-en-un-favor]])
+- **Actualización [2026-06-10] (Anotación Nervis. Informe Banco España)**: Entre las anotaciones manuscritas de Leire Díez del 14 de febrero de 2025 bajo la rúbrica *"asuntos pendientes"* figura la anotación *"Nervis. Informe Banco España"*. La UCO vincula esta anotación con el hallazgo en el portátil Lenovo de Leire del borrador de escrito *"NERVIS BANCO DE ESPAÑA.docx"*, confirmando las gestiones de la red ante el Banco de España para favorecer al ex viceministro. (Fuente: [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco]])
 
 ## Enlaces y Referencias
 - [[caso-sepi-cloacas]]
@@ -28,3 +29,4 @@ Político e ingeniero venezolano. Ejerció como viceministro de Energía Eléctr
 - [[jose-luis-escriva]]
 - [[hana-jalloul-muro]]
 - [[la-trama-del-psoe-involucro-a-felix-y-a-escriva-en-un-favor]]
+- [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco]]

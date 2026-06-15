@@ -1,7 +1,7 @@
 ---
 title: "Relación de Fuentes y Casos Judiciales"
 source: "CLAUDE.md"
-updated: "2026-06-02"
+updated: "2026-06-15"
 tags: [analisis, fuentes, casos]
 ---
 
@@ -9,7 +9,7 @@ tags: [analisis, fuentes, casos]
 
 Este documento contiene la relación completa y organizada de todas las páginas fuente de la wiki, facilitando la navegación nativa en Obsidian a través de wikilinks hacia las fuentes y sus respectivos casos.
 
-Total de fuentes registradas: **270**
+Total de fuentes registradas: **293**
 
 | Título de la Página Fuente | Caso Judicial (Etiquetas) |
 | :--- | :--- |
@@ -51,12 +51,16 @@ Total de fuentes registradas: **270**
 | [[conde-pumpido-desencajado-tras-la-imputacion-de-zapatero\|Conde-Pumpido, 'desencajado' tras la imputación de su amigo Zapatero y su amnistiado Gaspar Zarrías]] | [[caso-sepi-cloacas]], [[caso-zapatero]] |
 | [[conde-pumpido-consigue-que-puigdemont-siga-dependi\|Conde-Pumpido consigue que Puigdemont siga dependiendo de Sánchez y lo vende como una muestra de imparcialidad del TC]] | [[caso-zapatero]] |
 | [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era\|David Sánchez, en el juicio: "La Oficina de Artes Escénicas no era un lugar físico, sino una categoría administrativa"]] | [[caso-david-sanchez]] |
+| [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212\|David Sánchez reenvió un correo de la Diputación que alertaba de su incompatibilidad al email "pedrosanchez1212"]] | [[caso-david-sanchez]], [[caso-sepi-cloacas]] |
 | [[declaracion-demoledora-de-aldama-y-esperpento-de-k\|Declaración demoledora de Aldama y esperpento de Koldo]] | [[caso-koldo]] |
 | [[denuncian-a-chicano-por-prevaricacion-y-coacciones\|Denuncian a Chicano por prevaricación y coacciones tras ocultar las irregularidades en los contratos de Barrabés]] | [[caso-begona-gomez]], [[caso-koldo]] |
 | [[denuncian-a-zapatero-ante-hacienda-para-que-se-inv\|Denuncian a Zapatero ante Hacienda para que se investiguen sus ingresos opacos de Venezuela]] | [[caso-koldo]], [[caso-zapatero]] |
+| [[denuncian-a-zapatero-ante-hacienda-por-las-joyas-intervenidas\|Denuncian a Zapatero ante Hacienda por las joyas intervenidas por la UDEF: "Hacienda somos todos"]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[descarrila-un-tren-de-mercancias-peligrosas-en-i\|Descarrila un tren de mercancías 'peligrosas' en Irún sin información pública del Ministerio]] | [[caso-adamuz]], [[caso-zapatero]] |
 | [[dos-agentes-de-la-secreta-identificaron-al-testigo\|Dos agentes de la secreta identificaron al testigo que 'cazó' a Montero con el expresidente de la Sepi]] | [[caso-koldo]], [[caso-leire-hirurok]] |
 | [[el-abogado-de-aldama-jose-antonio-choclan-asume\|El abogado de Aldama, José Antonio Choclán, asume la defensa de Julio Iglesias]] | [[caso-accion-penal-julio-iglesias]], [[caso-koldo]] |
+| [[el-abogado-de-begona-gomez-colabora-con-el-letrado\|El abogado de Begoña Gómez colabora con el letrado de Zapatero en el caso Plus Ultra]] | [[caso-begona-gomez]], [[caso-plus-ultra]], [[caso-zapatero]] |
+| [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco\|El DAO de la Guardia Civil amonestó al jefe de la UCO por incluir un correo de Begoña en la causa de David Sánchez]] | [[caso-david-sanchez]], [[caso-sepi-cloacas]] |
 | [[el-caso-forestalia-salpica-a-la-hacienda-de-monter\|El caso Forestalia salpica a la Hacienda de Montero Tragsatec era la guardia pretoriana de la trama]] | [[caso-forestalia]], [[caso-koldo]] |
 | [[el-caso-forestalia-se-desborda-la-audiencia-nacio\|El caso Forestalia se desborda la Audiencia Nacional puede asumir íntegramente su investigación en una macrocausa]] | [[caso-forestalia]], [[caso-zapatero]] |
 | [[el-caso-hermanisimo-destapa-que-el-padre-de\|El caso 'hermanísimo' destapa que el padre de Sánchez fue gerente del Instituto Nacional de Artes Escénicas]] | [[caso-david-sanchez]] |
@@ -133,11 +137,11 @@ Total de fuentes registradas: **270**
 | [[koldo-garcia-se-plantea-tirar-de-la-manta-contra\|Koldo García se plantea 'tirar de la manta' contra Pedro Sánchez y Santos Cerdán]] | [[caso-koldo]] |
 | [[koldo-reconoce-parte-de-la-jerga-criminal-de-la-tr\|Koldo reconoce parte de la jerga criminal de la trama las chistorras eran billetes de 500 y las daba el PSOE]] | [[caso-koldo]] |
 | [[koldo-solicita-una-nueva-declaracion-de-armengol-e\|Koldo solicita una nueva declaración de Armengol en el TS tras el último informe de la UCO]] | [[caso-koldo]] |
-| [[la-amnesia-de-santos-cerdan-sobre-las-cloacas-de\|La 'amnesia' de Santos Cerdán sobre las cloacas del PSOE ante el juez repitió 17 veces no lo recuerdo]] | [[caso-koldo]], [[caso-sepi-cloacas]] |
-| [[la-libreta-azul-de-leire-diez-la-uco-intervino\|La libreta azul de Leire Díez: la UCO intervino sus anotaciones con todos los objetivos de la cloaca]] | [[caso-hidrocarburos]], [[caso-koldo]], [[caso-pegasus]], [[caso-sepi-cloacas]] |
-| [[la-operacion-leire-salpica-a-la-presidenta-del-t\|La 'operación Leire' salpica a la presidenta del Tribunal de Recursos Contractuales, colocada por Mª Jesús Montero]] | [[caso-leire-hirurok]], [[caso-zapatero]] |
 | [[la-abogada-del-estado-del-juicio-de-kitchen-elabor\|La abogada del Estado del juicio de Kitchen elaboró la querella de Sánchez contra Peinado]] | [[caso-begona-gomez]], [[caso-zapatero]] |
 | [[la-acusacion-popular-pide-24-anos-de-carcel-para-b\|La acusación popular pide 24 años de cárcel para Begoña Gómez y que Sánchez y Bolaños testifiquen en el juicio]] | [[caso-begona-gomez]], [[caso-koldo]] |
+| [[la-agenda-de-leire-diez-marlaska-esta-pillado\|La agenda de Leire Díez: "Marlaska está pillado por la UCO, enchufó al cuñado del S.E."]] | [[caso-koldo]], [[caso-sepi-cloacas]] |
+| [[la-agenda-de-leire-senala-un-pacto-entre-sanchez-y-oughourlian\|La agenda de Leire señala un pacto entre Sánchez y Oughourlian: "La línea editorial de Prisa la marca PS"]] | [[caso-sepi-cloacas]] |
+| [[la-amnesia-de-santos-cerdan-sobre-las-cloacas-de\|La 'amnesia' de Santos Cerdán sobre las cloacas del PSOE ante el juez repitió 17 veces no lo recuerdo]] | [[caso-koldo]], [[caso-sepi-cloacas]] |
 | [[la-asesora-de-begona-gomez-ironiza-con-peinado-por\|La asesora de Begoña Gómez ironiza con Peinado por mandarla a juicio 210 minutos en 3 años ¿Eso es malversación]] | [[caso-begona-gomez]], [[caso-zapatero]] |
 | [[la-asesora-de-begona-gomez-se-apoya-en-la-fiscalia\|La asesora de Begoña Gómez se apoya en la Fiscalía y pide a Peinado el archivo de su causa]] | [[caso-begona-gomez]], [[caso-zapatero]] |
 | [[la-audiencia-nacional-abre-diligencias-contra-zapa\|La Audiencia Nacional abre diligencias contra Zapatero por su colaboración con Maduro y pide informe a la Fiscalía]] | [[caso-zapatero]] |
@@ -147,21 +151,23 @@ Total de fuentes registradas: **270**
 | [[la-cloaca-contra-la-juez-alaya-que-podemos-destapar-de-ella\|La cloaca contra la juez Alaya: "¿Qué podemos destapar de ella?"]] | [[caso-sepi-cloacas]] |
 | [[la-cloaca-del-psoe-intento-apartar-a-choclan-como-abogado-de-aldama\|La cloaca del PSOE intentó apartar a Choclán como abogado de Aldama y recabar información de su defensa]] | [[caso-hidrocarburos]], [[caso-koldo]], [[caso-sepi-cloacas]] |
 | [[la-cloaca-del-psoe-ofrecio-300000-euros\|La cloaca del PSOE ofreció 300.000 euros a un fiscal para 'cazar' a Luzón]] | [[caso-begona-gomez]], [[caso-leire-hirurok]], [[caso-sepi-cloacas]] |
+| [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo\|La cloaca del PSOE: "Si caen en cascada varios procedimientos, todo el prestigio de la UCO se va a tomar por culo"]] | [[caso-sepi-cloacas]] |
 | [[la-cloaca-ofrecio-a-villarejo-un-pacto-a-cambio-de-audios\|La cloaca ofreció a Villarejo un pacto a cambio de audios de Rajoy y el BBVA]] | [[caso-sepi-cloacas]] |
 | [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco\|La cloaca usó la defensa de Koldo para 'freir' a denuncias a la UCO ante la Fiscalía de García Ortiz]] | [[caso-sepi-cloacas]] |
 | [[la-cupula-sanchista-de-la-policia-paraliza-la-inve\|La cúpula sanchista de la Policía paraliza la investigación del chivatazo denunciado Plus Ultra]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[la-declaracion-de-aldama-sobre-los-cupos-de-petrol\|La declaración de Aldama sobre los cupos de petróleo de 250 millones de dólares de PDVSA es una bomba para Moncloa]] | [[caso-hidrocarburos]], [[caso-koldo]] |
-| [[la-diputacion-de-badajoz-manipulo-las-actas\|La Diputación de Badajoz manipuló las actas para justificar el enchufe de David Sánchez]] | [[caso-david-sanchez]] |
 | [[la-declaracion-judicial-del-dueno-de-plus-ultra-so\|La declaración judicial del dueño de Plus Ultra sobre el blanqueo de capitales a Maduro Se han dicho muchas burradas]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[la-defensa-de-koldo-llama\|La defensa de Koldo llama ornitorrinco procesal a Aldama, acusa al fiscal de fabular y pide a Illa como testigo]] | [[caso-koldo]] |
 | [[la-defensa-de-koldo-pide-la-prueba-del-poligrafo-y\|La defensa de Koldo pide la prueba del polígrafo y un careo con Aldama]] | [[caso-adamuz]], [[caso-koldo]] |
 | [[la-demanda-de-julio-iglesias-contra-la-fiscalia\|La demanda de Julio Iglesias contra la Fiscalía Su actuación es arbitraria y manifiestamente contraria a Derecho]] | [[caso-accion-penal-julio-iglesias]] |
 | [[la-denuncia-contra-el-dao\|La denuncia contra el DAO Desplegó una conducta agresiva de naturaleza sexual caracterizada por la violencia]] | [[caso-dao]] |
 | [[la-denunciante-del-ex-dao-pide-al-juez-que-investi\|La denunciante del ex-DAO pide al juez que investigue quién filtró su nombre a los periodistas]] | [[caso-dao]], [[caso-zapatero]] |
+| [[la-diputacion-de-badajoz-manipulo-las-actas\|La Diputación de Badajoz manipuló las actas para justificar el enchufe de David Sánchez]] | [[caso-david-sanchez]] |
 | [[la-estructura-delictiva-de-zapatero-creo-sociedade\|La estructura delictiva de Zapatero creó sociedades off-shore en Dubái para canalizar las comisiones ilegales]] | [[caso-zapatero]] |
 | [[la-exmujer-de-koldo-reconoce-al-juez-que-el-psoe-l\|La exmujer de Koldo reconoce al juez que el PSOE liquidaba gastos en efectivo mientras Transportes hacia transferencia]] | [[caso-koldo]] |
 | [[la-exmujer-de-koldo-reconoce-que-recogia\|La exmujer de Koldo reconoce que recogía sobres con dinero de Ferraz a nombre de Ábalos]] | [[caso-koldo]] |
 | [[la-filtracion-de-la-entrega-del-sobre-de-aldama-co\|La filtración de la entrega del sobre de Aldama con los cupos de PDVSA pone 'en peligro' la investigación]] | [[caso-hidrocarburos]], [[caso-koldo]] |
+| [[la-fiscal-cianuro-festeja-su-ascenso-al-supremo\|La 'fiscal cianuro' festeja su ascenso al Supremo arropada por los fiscales próximos al sanchismo]] | [[caso-begona-gomez]], [[caso-plus-ultra]] |
 | [[la-fiscal-del-caso-david-sanchez-mintio\|La fiscal del caso David Sánchez mintió: no investigó un email que denunciaba expresamente el enchufe del "hermanísimo"]] | [[caso-david-sanchez]] |
 | [[la-fiscal-general-del-estado-se-niega-a-entregar-a\|La fiscal general del Estado se niega a entregar a Julio Iglesias el contenido de la investigación]] | [[caso-accion-penal-julio-iglesias]], [[caso-zapatero]] |
 | [[la-fiscalia-a-la-desesperada-intenta-por-todos-lo\|La Fiscalía a la desesperada intenta por todos los medios que Julio Iglesias no acceda a su investigación]] | [[caso-accion-penal-julio-iglesias]], [[caso-zapatero]] |
@@ -173,8 +179,10 @@ Total de fuentes registradas: **270**
 | [[la-fiscalia-de-peramato-tardo-4-horas-en-rechazar\|La Fiscalía de Peramato tardó 4 horas en rechazar la personación de Julio Iglesias en la investigación]] | [[caso-accion-penal-julio-iglesias]], [[caso-zapatero]] |
 | [[la-fiscalia-entrego-a-la-udef-la-investigacion-del\|La Fiscalía entregó a la UDEF la investigación del caso Plus Ultra que salpica a Zapatero]] | [[caso-koldo]], [[caso-plus-ultra]] |
 | [[la-fiscalia-esta\|La Fiscalía está forzando su competencia para investigar a Julio Iglesias en España]] | [[caso-accion-penal-julio-iglesias]] |
+| [[la-fiscalia-general-abre-un-expediente-a-las-fiscales\|La Fiscalía General abre un expediente a las fiscales mencionadas en el caso Plus Ultra]] | [[caso-plus-ultra]] |
 | [[la-fiscalia-ignora-8-dias-a-julio-iglesias-tras-ta\|La Fiscalía ignora 8 días a Julio Iglesias tras tardar sólo 4 horas en vetar su personación]] | [[caso-zapatero]] |
 | [[la-fiscalia-justifica-pedir-el-archivo-de-la-causa\|La Fiscalía justifica pedir el archivo de la causa contra Begoña Gómez Nada nos lleva a modificar lo expresado]] | [[caso-begona-gomez]], [[caso-zapatero]] |
+| [[la-fiscalia-pide-la-absolucion-de-david-sanchez-y-de-los-otros-10-acusados\|La Fiscalía pide la absolución de David Sánchez y de los otros 10 acusados]] | [[caso-david-sanchez]] |
 | [[la-fiscalia-solicita-remitir-la-investigacion-del\|La Fiscalía solicita remitir la investigación del caso Forestalia al juez Pedraz de la Audiencia Nacional]] | [[caso-forestalia]], [[caso-zapatero]] |
 | [[la-fiscalia-vuelve-a-cargar-contra-peinado-e-insis\|La Fiscalía vuelve a cargar contra Peinado e insiste en la inocencia de Begoña Gómez]] | [[caso-begona-gomez]], [[caso-zapatero]] |
 | [[la-funcionaria-purgada-del-inaga-desvelo-que-la-tr\|La funcionaria purgada del Inaga desveló que la trama devolvía 'masivamente' los informes desfavorables a Forestalia]] | [[caso-forestalia]], [[caso-zapatero]] |
@@ -189,10 +197,14 @@ Total de fuentes registradas: **270**
 | [[la-inquina-de-la-cloaca-al-teniente-coronel-balas\|La inquina de la cloaca al teniente coronel Balas: "Hace lo que le sale de los huevos"]] | [[caso-sepi-cloacas]] |
 | [[la-juez-de-adamuz-acepta-la-personacion-de-manos-l\|La juez de Adamuz acepta la personación de Manos Limpias, Hazte Oír y Vox en la causa del accidente ferroviario]] | [[caso-adamuz]] |
 | [[la-libertad-para-abalos-y-koldo-antes-del-juicio-s\|La libertad para Ábalos y Koldo antes del juicio se disipa El riesgo de fuga ha aumentado]] | [[caso-koldo]] |
+| [[la-libreta-azul-de-leire-diez-la-uco-intervino\|La libreta azul de Leire Díez: la UCO intervino sus anotaciones con todos los objetivos de la cloaca]] | [[caso-hidrocarburos]], [[caso-koldo]], [[caso-pegasus]], [[caso-sepi-cloacas]] |
 | [[la-miss-asturias-claudia-montes-en-el-supremo\|La Miss Asturias Claudia Montes en el Supremo Ábalos y Koldo no me dijeron 'te he enchufado']] | [[caso-koldo]] |
+| [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco\|La nota de Leire Díez que apunta a miembros de la UCO: "TIP instructores UCO de los ERE y causas de Andalucía"]] | [[caso-sepi-cloacas]] |
 | [[la-obsesion-que-vinculo-a-sanchez-con-venezuela\|La obsesión que vinculó a Sánchez con Venezuela Necesitaba financiación para la Internacional Socialista]] | [[caso-hidrocarburos]], [[caso-koldo]], [[caso-zapatero]] |
+| [[la-operacion-leire-salpica-a-la-presidenta-del-t\|La 'operación Leire' salpica a la presidenta del Tribunal de Recursos Contractuales, colocada por Mª Jesús Montero]] | [[caso-leire-hirurok]], [[caso-zapatero]] |
 | [[la-renuncia-del-abogado-de-abalos-pone-en-peligro\|La renuncia del abogado de Ábalos pone en peligro el inicio del primer juicio de la trama Koldo]] | [[caso-koldo]] |
 | [[la-secretaria-de-abalos-confirma-que-jesica-acudio\|La secretaria de Ábalos confirma que Jésica acudió a 13 viajes oficiales del Ministerio]] | [[caso-koldo]] |
+| [[la-sentencia-sobre-david-sanchez-puede-retrasarse-hasta-despues-del-verano\|La sentencia sobre David Sánchez puede retrasarse hasta después del verano]] | [[caso-david-sanchez]] |
 | [[la-sepi-de-montero-salpicada-en-plus-ultra\|La SEPI de Montero, salpicada en Plus Ultra]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[la-trama-de-plus-ultra-celebro-la-concesion-del-re\|La trama de Plus Ultra celebró la concesión del rescate antes de su aprobación]] | [[caso-koldo]], [[caso-plus-ultra]] |
 | [[la-trama-del-psoe-involucro-a-felix-y-a-escriva-en-un-favor\|La trama del PSOE involucró a "Félix" y a Escrivá en un favor para su colaborador ex alto cargo del régimen venezolano]] | [[caso-plus-ultra]], [[caso-sepi-cloacas]] |
@@ -205,11 +217,14 @@ Total de fuentes registradas: **270**
 | [[la-uco-acredita-387000-euros-en-efectivo-sin-just\|La UCO acredita 387.000 euros en efectivo sin justificar en el entorno de Koldo]] | [[caso-koldo]] |
 | [[la-uco-acredita-los-contactos-de-armengol-con-la-t\|La UCO acredita los contactos de Armengol con la trama Koldo ¿Sabes si alguien vende mascarillas infantiles]] | [[caso-koldo]] |
 | [[la-uco-certifica-la\|La UCO certifica la organización criminal en Forestalia Samper creó entramados empresariales para pagar a Domínguez]] | [[caso-forestalia]] |
+| [[la-uco-certifica-que-los-viajes-de-leire-diez\|La UCO certifica que los viajes de Leire Díez a reuniones de la cloaca se gestionaban desde Ferraz]] | [[caso-koldo]], [[caso-sepi-cloacas]] |
 | [[la-uco-dice-al-juez-peinado-que\|La UCO dice al juez Peinado que no son contrastables los vínculos de Begoña Gómez con el rescate de Air Europa]] | [[caso-air-europa]], [[caso-begona-gomez]] |
 | [[la-uco-dice-que-el-fin-ultimo-de-las-cloacas-era-proteger-los-intereses\|La UCO dice que el fin último de las cloacas era proteger los intereses de Pedro Sánchez]] | [[caso-sepi-cloacas]] |
 | [[la-uco-entra-en-ferraz-para-desmantelar\|La UCO entra en Ferraz para desmantelar la trama del PSOE contra los jueces]] | [[caso-leire-hirurok]], [[caso-sepi-cloacas]] |
+| [[la-uco-halla-libretas-de-santos-cerdan\|La UCO halla libretas de Santos Cerdán con notas contra la juez Biedma: "Badajoz, que Fiscalía apoye la recusación"]] | [[caso-david-sanchez]], [[caso-sepi-cloacas]] |
 | [[la-uco-investiga-22-reuniones-que-mantuvo-begona-g\|La UCO investiga 22 reuniones que mantuvo Begoña Gómez para crear la plataforma digital de su cátedra]] | [[caso-begona-gomez]], [[caso-zapatero]] |
 | [[la-uco-investiga-la-implicacion-de-un-alto-cargo-d\|La UCO investiga la implicación de un alto cargo de María Jesús Montero en el caso Begoña]] | [[caso-begona-gomez]], [[caso-zapatero]] |
+| [[la-uco-localiza-en-ferraz-un-documento\|La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE]] | [[caso-sepi-cloacas]] |
 | [[la-uco-localizo-19850-euros-en-el-domicilio-de-gaspar-zarrias\|La UCO localizó 19.850 euros en el domicilio de Gaspar Zarrías en fajos de 20 y 50 euros]] | [[caso-sepi-cloacas]] |
 | [[la-uco-registra-tubos-reunidos-y-se-presenta-en-la-sepi-por-orden-de-pedraz\|La UCO registra Tubos Reunidos y se presenta en la SEPI por orden de Pedraz]] | [[caso-sepi-cloacas]] |
 | [[la-uco-se-presenta-en-la-direccion\|La UCO se presenta en la Dirección General de la Guardia Civil para investigar los chivatazos]] | [[caso-leire-hirurok]] |
@@ -223,14 +238,19 @@ Total de fuentes registradas: **270**
 | [[la-udef-registra-la-empresa-de-las-hijas-de-zapate\|La UDEF registra la empresa de las hijas de Zapatero por el caso Plus Ultra]] | [[caso-zapatero]] |
 | [[la-vida-de-lujo-de-abalos-que-jessica-reconocio-en\|La vida de lujo de Ábalos que Jéssica reconoció en el Supremo viajaron a Londres, Moscú, Abu Dabi]] | [[caso-koldo]] |
 | [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de\|Las acusaciones populares elevan a 6 años de prisión su petición de pena para David Sánchez]] | [[caso-david-sanchez]] |
+| [[las-acusaciones-populares-la-oficina-de-artes-escenicas-era-un-traje-a-medida-para-david-sanchez\|Las acusaciones populares: la Oficina de Artes Escénicas era "un traje a medida" para David Sánchez]] | [[caso-david-sanchez]] |
 | [[las-cloacas-del-psoe-apuntaron-a-marlaska-para-comprar-a-jueces\|Las cloacas del PSOE apuntaron a Marlaska para 'comprar' a jueces de la Audiencia Nacional: "Que hable con Guevara"]] | [[caso-hidrocarburos]], [[caso-sepi-cloacas]] |
 | [[las-comunicaciones-de-la-trama-zapatero-es\|Las comunicaciones de la trama Zapatero es pro Sánchez y pro Maduro]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[las-irregularidades-del-proyecto-cluster-maestrazg\|Las irregularidades del proyecto Clúster Maestrazgo de Forestalia]] | [[caso-forestalia]], [[caso-zapatero]] |
+| [[las-notas-de-leire-diez-protocolo-de-crisis\|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]] | [[caso-begona-gomez]], [[caso-koldo]], [[caso-sepi-cloacas]] |
 | [[las-notas-manuscritas-de-julio-martinez-senalan-di\|Las notas manuscritas de Julio Martínez señalan directamente al gas, oro y petróleo de Venezuela: "PDVSA 50%"]] | [[caso-plus-ultra]], [[caso-zapatero]] |
-| [[leire-diez-la-directora-de-la-guardia-civil-es-de-mi-confianza\|Leire Díez: "La directora de la Guardia Civil es de mi confianza"]] | [[caso-sepi-cloacas]] |
 | [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe\|Leire Díez buscó cambiar la estrategia jurídica del PSOE tras la salida de Aldama de prisión: "Esto es un desastre"]] | [[caso-sepi-cloacas]] |
+| [[leire-diez-la-directora-de-la-guardia-civil-es-de-mi-confianza\|Leire Díez: "La directora de la Guardia Civil es de mi confianza"]] | [[caso-sepi-cloacas]] |
+| [[leire-diez-preparaba-el-relato-del-psoe-contra-las-acusaciones-populares\|Leire Díez preparaba el relato del PSOE contra las acusaciones populares: "Denuncia falsa, acoso, extrema derecha"]] | [[caso-koldo]], [[caso-sepi-cloacas]] |
 | [[leire-diez-presumia-de-su-influencia-sobre-el-one\|Leire Díez presumía de su influencia sobre "El One del Gobierno": "Dijo que ella pondría al nuevo DAO"]] | [[caso-koldo]], [[caso-sepi-cloacas]] |
 | [[leire-diez-queria-cortocircuitar-el-caso-koldo\|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]] | [[caso-koldo]], [[caso-sepi-cloacas]] |
+| [[leire-diez-se-reunio-con-un-policia-resentido\|Leire Díez se reunió con un policía resentido para atacar a Alaya por el caso Aznalcóllar]] | [[caso-leire-hirurok]], [[caso-sepi-cloacas]] |
+| [[leire-diez-se-reunio-con-un-policia-resentido-moralmente\|Leire Díez se reunió con un policía resentido para atacar a Alaya: "Moralmente es una guarra"]] | [[caso-leire-hirurok]], [[caso-sepi-cloacas]] |
 | [[leire-diez-trato-de-desestabilizar-el-caso-david-sanchez\|Leire Díez trató de desestabilizar el caso David Sánchez: "Mi prioridad: el presidente"]] | [[caso-david-sanchez]], [[caso-sepi-cloacas]] |
 | [[leire-diez-tuvo-reuniones-y-metio-mano\|Leire Díez tuvo reuniones y metió mano en la Fiscalía General: "Depende del Gobierno"]] | [[caso-fiscal-general-del-estado]], [[caso-hidrocarburos]], [[caso-sepi-cloacas]] |
 | [[leire-diez-uso-su-estrecha-amistad-con-la-directora\|Leire Díez usó su estrecha "amistad" con la directora de la Guardia Civil para investigar a agentes de la UCO]] | [[caso-hidrocarburos]], [[caso-sepi-cloacas]] |
@@ -248,10 +268,12 @@ Total de fuentes registradas: **270**
 | [[montero-hizo\|Montero hizo vida de pareja con el expresidente de la Sepi en un hotel de Cabo de Gata tras cesarlo]] | [[caso-leire-hirurok]] |
 | [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao\|Nueva libreta de Leire Díez: \"Pedro no se fía del DAO, DGP investiga a la UCO\"]] | [[caso-sepi-cloacas]] |
 | [[oscar-puente-se-enfrenta-a-3-anos-de-prision-por-s\|Óscar Puente se enfrenta a 3 años de prisión por sustituir sin permiso 42 metros de vía de Adamuz]] | [[caso-adamuz]] |
+| [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado\|Pánico en el PSOE tras el fichaje de la abogada Márquez de Prado para defender al amigo de Zapatero]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[pardo-de-vera-ataca-a-la-igae-por-senalar-las-irre\|Pardo de Vera ataca a la IGAE por señalar las irregularidades en las obras de la trama Koldo]] | [[caso-koldo]] |
 | [[pardo-de-vera-recomendo-una-abogada-a-abalos-tras\|Pardo de Vera recomendó una abogada a Ábalos tras ser interrogada el día que cayó Koldo Deberías llamarla]] | [[caso-koldo]] |
 | [[pardo-de-vera-se-desvincula-de-la-contratacion-de\|Pardo de Vera se desvincula de la contratación de la empresa de la trama Koldo La orden la firma el ministro]] | [[caso-koldo]] |
 | [[pedraz-cuantifica-al-menos-22-reuniones-de-la-cloaca\|Pedraz cuantifica al menos 22 reuniones de la cloaca para destruir a los 'enemigos' de Sánchez]] | [[caso-sepi-cloacas]] |
+| [[pedraz-se-plantea-imputar-al-psoe-de-sanchez-por-organizacion-criminal\|Pedraz se plantea imputar al PSOE de Sánchez por organización criminal]] | [[caso-sepi-cloacas]] |
 | [[pedraz-senala-los-audios-de-la-cloaca\|Pedraz señala los audios de la cloaca del PSOE sobre Sánchez: "El Presidente ya dijo, que se limpie todo"]] | [[caso-begona-gomez]], [[caso-david-sanchez]], [[caso-leire-hirurok]], [[caso-sepi-cloacas]] |
 | [[pedro-sanchez-es-tratado-por-una-dolencia-cardiova\|Pedro Sánchez es tratado por una dolencia cardiovascular desde hace meses en el Hospital Ramón y Cajal]] | [[caso-zapatero]] |
 | [[pedro-saura-reconoce-haber-llamado-por-telefono-a\|Pedro Saura reconoce haber llamado por teléfono a Aldama por el rescate de Air Europa Fue por cortesía]] | [[caso-air-europa]], [[caso-koldo]] |
@@ -261,6 +283,7 @@ Total de fuentes registradas: **270**
 | [[plus-ultra-hacienda-obligada-a-investigar-a-zapat\|Plus Ultra Hacienda obligada a investigar a Zapatero por delito fiscal tras confesar viajes de avión pagados por PDVSA]] | [[caso-koldo]], [[caso-plus-ultra]] |
 | [[primera-querella-contra-todo-el-consejo-de-ministr\|Primera querella contra todo el Consejo de Ministros por el rescate de Plus Ultra]] | [[caso-koldo]], [[caso-plus-ultra]] |
 | [[puente-puede-enfrentarse-a-4-anos-de-prision-por-l\|Puente puede enfrentarse a 4 años de prisión por la tragedia de Adamuz]] | [[caso-adamuz]] |
+| [[pumpido-crea-un-grupo-de-trabajo-para-declarar-constitucional\|Pumpido crea un grupo de trabajo para declarar constitucional que Sánchez gobierne sin presupuestos]] | No judicializado |
 | [[pumpido-estudia-la-formula-para-declarar-constituc\|Pumpido estudia la fórmula para declarar constitucional que Sánchez gobierne sin presentar nuevos Presupuestos]] | [[caso-zapatero]] |
 | [[pumpido-quiere-regular-el-derecho-de-huelga-desde\|Pumpido quiere regular el derecho de huelga desde el TC para preparar las calles si Sánchez pierde el poder]] | [[caso-zapatero]] |
 | [[que-es-la-uco-y-como-se-organizan-sus-agentes\|Qué es la UCO y cómo se organizan sus más de 600 agentes de élite frente a las tramas de corrupción y crimen organizado]] | [[caso-begona-gomez]], [[caso-koldo]], [[caso-sepi-cloacas]] |

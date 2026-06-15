@@ -1,7 +1,7 @@
 ---
 title: "Antonio José García Cabrera"
 source: "wiki/fuentes/la-cloaca-ofrecio-a-villarejo-un-pacto-a-cambio-de-audios.md"
-updated: "2026-06-03"
+updated: "2026-06-15"
 tags:
   - persona
   - testigo
@@ -15,11 +15,16 @@ Antonio José García Cabrera es el letrado y abogado defensor del excomisario d
 - **Receptor del ofrecimiento**: García Cabrera declaró ante los agentes de la UCO que la intermediaria socialista Leire Díez le planteó la posibilidad de gestionar reuniones con la Fiscalía General del Estado. La trama pretendía atenuar las acusaciones contra Villarejo a cambio de que este entregara archivos y grabaciones incriminatorias contra líderes de la oposición y jueces.
 - **Mensaje de Signal y visitas a la FGE**: La investigación policial intervino en su teléfono un mensaje de Signal remitido por Díez el 18 de abril de 2025 que decía: *"Buenos días, Antonio. El jueves estuve en FGE [Fiscalía General del Estado]. Cuando puedas hablamos"*.
 - **Inacción por falta de credibilidad**: Ante los agentes de la UCO, García Cabrera testificó que consideró fantasiosas las propuestas de Díez y que, dada su total "falta de credibilidad", decidió no darles curso ni solicitar ningún tipo de reunión ante la Fiscalía General del Estado.
+- **Actualización [2026-06-15] (Intento fallido con fiscal Rivas)**: El informe de "Incumplimientos" incautado en Ferraz revela que Leire Díez instó a García Cabrera a dirigirse al fiscal del caso Kitchen, [[cesar-de-rivas]], para concertar una reunión y proponerle un pacto. Al intentar realizar el contacto, el fiscal rechazó tajantemente la propuesta de acuerdo procesal. (Fuente: [[la-uco-localiza-en-ferraz-un-documento]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
 - [[leire-diez-castro]]
 - [[jose-manuel-villarejo]]
+- [[cesar-de-rivas]]
+- [[la-uco-localiza-en-ferraz-un-documento]]
 
 ## Fuentes
 - [[la-cloaca-ofrecio-a-villarejo-un-pacto-a-cambio-de-audios|La cloaca ofreció a Villarejo un pacto a cambio de audios de Rajoy y el BBVA]]
+- [[la-uco-localiza-en-ferraz-un-documento|La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE]]
+

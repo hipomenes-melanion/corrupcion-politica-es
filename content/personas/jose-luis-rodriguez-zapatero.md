@@ -1,7 +1,7 @@
 ---
 title: "José Luis Rodríguez Zapatero"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-03"
+updated: "2026-06-15"
 tags: [persona, investigado, caso-zapatero, caso-sepi-cloacas]
 ---
 
@@ -643,8 +643,13 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - **Actualización [2026-05-30]**: Se dictó el auto del magistrado José Luis Calama decretando el bloqueo preventivo y parcial de las cuentas bancarias de Zapatero hasta el límite cuantitativo de 490.780 euros —suma recibida de la sociedad instrumental [[analisis-relevante]]— por el riesgo cierto e inmediato de que procediera a la ocultación, disposición o transferencia del capital al extranjero (*periculum in mora*). La investigación detalla triangulaciones financieras por las que Análisis Relevante obtuvo más de 941.000 euros desde [[plus-ultra-lineas-aereas]], [[softgestor]], [[grupo-aldesa]] e [[inteligencia-prospectiva]], mientras que Inteligencia Prospectiva canalizó cerca de 1,2 millones de euros a través de Análisis Relevante, [[what-the-fav]] y el think tank [[gate-center]], desviando fondos en favor del expresidente y su entorno familiar (incluyendo transferencias a cuentas de sus hijas, compras de patrimonio y amortizaciones de préstamos). (Fuente: [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero]])
 - **Actualización [2026-06-01]**: Trasciende una grave alerta de seguridad en el [[Centro Nacional de Inteligencia (CNI)]] por presuntas filtraciones de secretos de Estado hacia Zapatero. La UDEF descubrió en la agenda negra de su testaferro Julio Martínez detalladas anotaciones de intervenciones del CNI, la cifra de presos políticos venezolanos (337 y 146) con su plan de liberación del 20%, el estado confidencial de los vascos detenidos José María Basoa y Andrés Martínez en El Rodeo I (filtrados vía CIA), y la repatriación/exilio de [[edmundo-gonzalez-urrutia]]. Fuentes del CNI sospechan que el expresidente contaba con un canal directo o empleaba como interlocutora a la actual directora del CNI, [[esperanza-casteleiro]], teniendo acceso a datos de agentes encubiertos y operaciones en Venezuela, Colombia, Cuba y dossiers de China, mientras que el opositor [[eudoro-gonzalez-dellan]] actuaba como su enlace opositor. (Fuente: [[alerta-en-el-cni-zapatero-tiene-acceso]])
 - **Actualización [2026-06-03] (Conexión con el presunto espía Miguel Dhul)**: El sumario del Caso SEPI - Cloacas revela que es íntimo amigo de Miguel Dhul (vetado por el CNI por espionaje en favor de Pekín), apadrinando a sus dos hijos. Las testificales de la UCO recogen que la red de cloacas le tenía "oculto y controlado" y apuntan a que Zapatero le ordenó esconderse temporalmente para protegerlo de la acción judicial. Dhul fue el comisionista que introdujo y contrató a Víctor de Aldama en la tecnológica Huawei Technologies España. (Fuente: [[el-sumario-de-las-cloacas-llega-a-zapatero-tenian-oculto-y-controlado]])
+- **Actualización [2026-06-08]**: Apuntes manuscritos en la agenda intervenida de Leire Díez le sitúan junto a Manuel de la Rocha, Javier de Paz y Óscar López en el grupo del entorno del PSOE que buscaba alternativas para asumir el control de Prisa y sus medios afines tras la ruptura con Joseph Oughourlian. (Fuente: [[la-agenda-de-leire-senala-un-pacto-entre-sanchez-y-oughourlian|La agenda de Leire señala un pacto entre Sánchez y Oughourlian: "La línea editorial de Prisa la marca PS"]])
+- **Actualización [2026-06-11] (Fichaje de Márquez de Prado en Plus Ultra y reprogramación de declaración)**: El fichaje de la abogada [[maria-dolores-marquez-de-prado|María Dolores Márquez de Prado]] para asumir la defensa de su testaferro [[julio-martinez-martinez|Julio Martínez]] en la causa de la Audiencia Nacional ha desatado preocupación en el PSOE, al frustrar el plan de colocar al exministro de Justicia [[francisco-caamano-dominguez|Francisco Caamaño]] para coordinar las defensas. Asimismo, el juez José Luis Calama reprogramó la comparecencia de Zapatero como investigado para los próximos 17 y 18 de junio de 2026 por delitos de organización criminal, tráfico de influencias y falsedad contable en relación con el desvío de fondos del rescate. Si Zapatero intenta eludir responsabilidades señalando a Martínez, el empresario podría cooperar judicialmente con la fiscalía. (Fuente: [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]])
+- **Actualización [2026-06-11] (Denuncia ante Hacienda por joyas y tasación fallida)**: El sindicato [[manos-limpias|Manos Limpias]] ha presentado una denuncia tributaria formal ante la AEAT para investigar la procedencia y fiscalidad del lote de joyas incautado por la UDEF en el despacho del expresidente. La denuncia tacha de inverosímil el argumento de que el botín provenga de una herencia familiar de su esposa, argumentando que su procedencia es de clase media. Apunta a que podría tratarse de pagos en especie no declarados por labores de intermediación con Venezuela introducidos vía valija diplomática, y resalta que Zapatero intentó tasar las piezas en la joyería Ansorena de Madrid sin éxito al carecer de certificados de autenticidad. (Fuente: [[denuncian-a-zapatero-ante-hacienda-por-las-joyas-intervenidas]])
+- **Actualización [2026-06-15] (Colaboración letrada de Camacho y pieza de contrabando)**: Se desvela que su abogado, Víctor Moreno Catena, colabora de forma estrecha con Antonio Camacho (abogado de Begoña Gómez) de cara a su declaración como investigado del 17 y 18 de junio ante el juez Calama en la Audiencia Nacional. Asimismo, el juez Calama ha abierto una pieza separada por presuntos delitos de contrabando y delito fiscal tras incautar la UDEF en su oficina un lote de joyas sin justificar valorado en 1,32 millones de euros, habiéndose presentado por su defensa un escrito solicitando la nulidad del procedimiento. (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
 
 ## Referencias cruzadas
+- [[antonio-camacho]]
 - [[iustitia-europa]]
 - [[miguel-palomero]]
 - [[what-the-fav]]
@@ -666,6 +671,18 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - [[esperanza-casteleiro]]
 - [[eudoro-gonzalez-dellan]]
 - [[miguel-dhul]]
+- [[jose-miguel-contreras]]
+- [[oscar-lopez]]
+- [[manuel-de-la-rocha]]
+- [[javier-de-paz]]
+- [[grupo-prisa]]
+- [[telefonica]]
+- [[joseph-oughourlian]]
+- [[maria-dolores-marquez-de-prado]]
+- [[francisco-caamano-dominguez]]
+- [[bernardo-del-rosal]]
+- [[javier-gomez-de-liano]]
+- [[manos-limpias]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -677,6 +694,10 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero]]
 - [[alerta-en-el-cni-zapatero-tiene-acceso]]
 - [[el-sumario-de-las-cloacas-llega-a-zapatero-tenian-oculto-y-controlado|El sumario de las cloacas llega a Zapatero: tenían "oculto y controlado" a un amigo de la dictadura china]]
+- [[la-agenda-de-leire-senala-un-pacto-entre-sanchez-y-oughourlian|La agenda de Leire señala un pacto entre Sánchez y Oughourlian: "La línea editorial de Prisa la marca PS"]]
+- [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]]
+- [[denuncian-a-zapatero-ante-hacienda-por-las-joyas-intervenidas]]
+- [[el-abogado-de-begona-gomez-colabora-con-el-letrado|El abogado de Begoña Gómez colabora con el letrado de Zapatero en el caso Plus Ultra]]
 
 
 

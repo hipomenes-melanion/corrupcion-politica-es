@@ -1,7 +1,7 @@
 ---
 title: "Pedro Sánchez Fernández"
 source: "wiki/fuentes/el-caso-hermanisimo-destapa-que-el-padre-de.md"
-updated: "2026-06-02"
+updated: "2026-06-09"
 tags:
   - persona
   - investigado
@@ -21,9 +21,12 @@ Desde hace más de una década, dirige y administra la mercantil **[[industrias-
 
 ## Implicación en el Caso David Sánchez
 En la segunda jornada del juicio oral celebrado el 2 de junio de 2026 en la [[audiencia-provincial-de-badajoz|Audiencia Provincial de Badajoz]], la acusación popular (ejercida por Hazte Oír mediante el letrado Javier María Pérez Roldán) interrogó a testigos sobre si el cambio de nombre del cargo al que fue asignado David Sánchez (pasando de coordinador de conservatorios a director de la "Oficina de Artes Escénicas") fue un **homenaje encubierto** a la trayectoria de su padre como gerente general del INAEM.
+- **Uso de la cuenta pedrosanchez1212 (Junio de 2026)**: Durante la fase de conclusiones finales del juicio, se desvelaron reenvíos de correos electrónicos de su hijo David Sánchez que contenían información sensible (alerta de incompatibilidad laboral, contrato de alquiler y cuentas bancarias) a la dirección *"pedrosanchez1212"*, la cual David identificaba como *"papa*" en el asunto. (Fuente: [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212]])
 
 ## Enlaces Externos y Referencias
 - [[el-caso-hermanisimo-destapa-que-el-padre-de|El caso 'hermanísimo' destapa que el padre de Sánchez fue gerente del Instituto Nacional de Artes Escénicas]]
 - [[caso-david-sanchez]]
 - [[david-sanchez-perez-castejon]]
 - [[pedro-sanchez-perez-castejon]]
+- [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212]]
+

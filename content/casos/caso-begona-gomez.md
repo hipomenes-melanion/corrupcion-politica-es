@@ -1,7 +1,7 @@
 ---
 title: "Caso Begoña Gómez"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-01"
+updated: "2026-06-15"
 tags: [caso-begona-gomez]
 ---
 
@@ -18,6 +18,7 @@ Causa abierta para investigar el presunto tráfico de influencias, corrupción e
   - [[maria-begona-gomez-fernandez]]
   - [[juan-carlos-barrabes-consul]]
   - [[cristina-alvarez]] (Asesora y asistente personal)
+  - [[antonio-camacho]] (Letrado defensor)
 - **Tipos Penales Imputados**: Tráfico de influencias, corrupción en los negocios, malversación de caudales públicos, apropiación indebida y prevaricación administrativa.
 
 ### Datos clave
@@ -27,8 +28,12 @@ Causa abierta para investigar el presunto tráfico de influencias, corrupción e
 - La presidenta del Tribunal de Cuentas, Enriqueta Chicano, ocultó irregularidades en expedientes y contratos de Barrabés para proteger a la esposa del presidente.
 - La [[unidad-central-operativa|UCO]] determinó que Begoña Gómez realizó múltiples viajes oficiales a República Dominicana utilizando aviones comerciales y corporativos del grupo Globalia / Air Europa.
 - **Origen de las cloacas de Ferraz**: Su imputación judicial en abril de 2024 y la posterior carta de reflexión del presidente Sánchez fueron el detonante para que el PSOE activara una red de contrainteligencia y boicot judicial. Esta estructura (financiada con 178.000€ de dinero público/mendace) tuvo al juez instructor Juan Carlos Peinado como objetivo prioritario de hostigamiento y desprestigio sistemático.
+- **Afinidad de la fiscalía del caso con el entorno sanchista (12 de junio de 2026)**: Los fiscales del caso, [[lorena-alvarez-taboada]] y José Manuel San Baldomero, quienes promueven el sobreseimiento y el bloqueo de las investigaciones del juez Peinado, arroparon a la ex Fiscal Jefa de Madrid [[pilar-rodriguez]] en su almuerzo de despedida en L'Abbraccio. Álvarez Taboada tiene nexos estrechos con la cúpula socialista al haber trabajado anteriormente para el presidente del TC [[candido-conde-pumpido]] y los exministros socialistas Juan Carlos Campo y Francisco Caamaño. (Fuente: [[la-fiscal-cianuro-festeja-su-ascenso-al-supremo]])
+- **Anotaciones sobre la derivación de causas en la agenda de Leire Díez (13 de junio de 2026)**: Las libretas manuscritas intervenidas a la fontanera socialista Leire Díez contienen anotaciones explícitas en las que se vincula la derivación de la causa de mascarillas hacia Air Europa y Begoña Gómez (*"Causa mascarillas derivada a Air Europa y Begoña"*), en el contexto de las investigaciones sobre el entorno presidencial. (Fuente: [[las-notas-de-leire-diez-protocolo-de-crisis]])
+- **Colaboración de su abogado con el de Zapatero (15 de junio de 2026)**: Se desveló que el letrado defensor de Gómez, Antonio Camacho, colabora habitualmente en asuntos penales con Víctor Moreno Catena (abogado de Zapatero). En el caso Plus Ultra, coordinan una estrategia donde Moreno Catena busca la nulidad por defectos de forma y Camacho asiste en la defensa sustantiva penal. (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
 
 ## Referencias cruzadas
+- [[antonio-camacho]] (Letrado defensor de Begoña Gómez)
 - [[caso-david-sanchez]] (conexión de índole familiar y de afectación institucional)
 - [[caso-air-europa]] (investigación de indicios de intermediación descartados procesalmente)
 - [[deloitte]]
@@ -39,12 +44,17 @@ Causa abierta para investigar el presunto tráfico de influencias, corrupción e
 - [[isabel-perello]]
 - [[caso-sepi-cloacas]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
+- [[lorena-alvarez-taboada]]
+- [[isabel-martin]]
+- [[pilar-rodriguez]]
+- [[la-fiscal-cianuro-festeja-su-ascenso-al-supremo]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
 - [[begona-gomez-uso-una-cuenta-compartida-con-pedro-s|Begoña Gómez usó una cuenta compartida con Pedro Sánchez para registrar el software de la Complutense]]
 - [[cierre-de-filas-historico-de-la-justicia-con-el-ju|Cierre de filas histórico de la Justicia con el juez Peinado los jueces se hartan de Bolaños]]
 - [[denuncian-a-chicano-por-prevaricacion-y-coacciones|Denuncian a Chicano por prevaricación y coacciones tras ocultar las irregularidades en los contratos de Barrabés]]
+- [[el-abogado-de-begona-gomez-colabora-con-el-letrado|El abogado de Begoña Gómez colabora con el letrado de Zapatero en el caso Plus Ultra]]
 - [[el-cgpj-estalla-contra-bolanos|El CGPJ estalla contra Bolaños Los mensajes que escribe a la presidenta son machistas, impresentables e intolerables]]
 - [[el-juez-peinado-procesa-a-begona-gomez-por-4-delit|El juez Peinado procesa a Begoña Gómez por 4 delitos]]
 - [[el-tribunal-de-cuentas-oculta-graves-irregularidad|El Tribunal de Cuentas oculta graves irregularidades detectadas en contratos de Barrabés para proteger a Begoña Gómez]]
@@ -63,3 +73,6 @@ Causa abierta para investigar el presunto tráfico de influencias, corrupción e
 - [[marlaska-se-reune-con-su-homologa-de-republica-dom|Marlaska se reúne con su homóloga de República Dominicana en plena polémica con el pasaporte de Begoña Gómez]]
 - [[pedraz-senala-los-audios-de-la-cloaca|Pedraz señala los audios de la cloaca del PSOE sobre Sánchez: "El Presidente ya dijo, que se limpie todo"]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca|El PSOE pagó 178.000 euros a la cloaca para ir a por jueces como Biedma, Alaya y Peinado]]
+- [[la-fiscal-cianuro-festeja-su-ascenso-al-supremo|La 'fiscal cianuro' festeja su ascenso al Supremo arropada por los fiscales próximos al sanchismo]]
+- [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]]
+

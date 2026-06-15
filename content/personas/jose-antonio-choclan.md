@@ -1,7 +1,7 @@
 ---
 title: "José Antonio Choclán"
 source: "wiki/fuentes/julio-iglesias-llegara-hasta-el-final-valora-querellarse.md"
-updated: "2026-06-05"
+updated: "2026-06-08"
 tags: [persona, abogado]
 ---
 
@@ -23,6 +23,7 @@ Prestigioso abogado penalista, exmagistrado de la Audiencia Nacional, socio dire
 
 - **Actualización [2026-05-27]**: Defiende al empresario Luis Medina en la alzada ante la Sala de lo Civil y Penal del TSJM, logrando la confirmación firme de su absolución total respecto a los delitos de estafa agravada y falsedad mercantil. (Fuente: [[el-tsjm-confirma-la-absolucion-del-empresario-luis]])
 - **Actualización [2026-06-05] (Objetivo de las Cloacas)**: Sumarios interceptados de las cloacas del PSOE revelan que la red dirigida por Leire Díez planeó forzar su apartamiento de la defensa de Víctor de Aldama, intentando imponer en su lugar a Jacobo Teijelo. El complot buscaba neutralizar el pacto de colaboración procesal guiado por Choclán y espiar la estrategia defensiva de Aldama a través de un becario de su despacho con el que Alejandro Hamlyn había entablado amistad. (Fuente: [[la-cloaca-del-psoe-intento-apartar-a-choclan-como-abogado-de-aldama]])
+- **Actualización [2026-06-08] (Complot de deponer y espiar a la defensa)**: El sumario desclasificado por el juez Pedraz desvela grabaciones de la reunión en la que Alejandro Hamlyn propone deponer a Choclán y poner a Jacobo Teijelo como abogado de Aldama, planificando extraer información del caso mediante un becario del despacho de Choclán que se había hecho "muy amigo" de Hamlyn. (Fuente: [[leire-diez-preparaba-el-relato-del-psoe-contra-las-acusaciones-populares]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
@@ -35,3 +36,5 @@ Prestigioso abogado penalista, exmagistrado de la Audiencia Nacional, socio dire
 - [[resumen-causas-judiciales]]
 - [[el-tsjm-confirma-la-absolucion-del-empresario-luis]]
 - [[la-cloaca-del-psoe-intento-apartar-a-choclan-como-abogado-de-aldama|La cloaca del PSOE intentó apartar a Choclán como abogado de Aldama y recabar información de su defensa]]
+- [[leire-diez-preparaba-el-relato-del-psoe-contra-las-acusaciones-populares]]
+

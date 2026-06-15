@@ -1,7 +1,7 @@
 ---
 title: "Leire Díez Castro"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-07"
+updated: "2026-06-15"
 tags: [persona, investigado, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -47,6 +47,20 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - **Actualización [2026-06-05] (Libreta Cantabria 2025: Reunión con P.S. y cambiar relato)**: Anotaciones manuscritas en su libreta "Cantabria 2025", en la página del 3 de enero de 2025, revelan el registro de una *"Reunión con P.S."* (en alusión a Pedro Sánchez) y, con fecha *"19/2/2025"*, los nombres de *"Emma López"* y *"Belen (Óscar Puente)"* junto a la instrucción de *"cambiar relato"*. (Fuente: [[reunion-con-p-s-y-cambiar-relato-las-dos-anotaciones]])
 - **Actualización [2026-06-06] (Integración de abogados y cambio de estrategia tras salida de Aldama)**: Informes de la UCO revelan que, tras la excarcelación de Víctor de Aldama a finales de 2024, Díez contactó al letrado Ismael Oliver calificando la situación de *"desastre"* y coordinó su incorporación formal y la de Jacobo Teijelo a la red de cloacas como asesores pagados por el partido. A su vez, organizó una reunión de estrategia jurídica con Santos Cerdán, y en chats con Vicente Fernández reconoció el enorme peso de liderar el complot y de *"tirar de una estructura elefantiásica"*. (Fuente: [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe]])
 - **Actualización [2026-06-07]**: Grabaciones de una reunión junto a Jacobo Teijelo, Javier Pérez Dolset y Juan Sánchez Yepes revelan que propuso "cortocircuitar" el caso Koldo inculpando a funcionarios de menor rango del Ministerio de Industria para que no salpicase al exministro Ábalos. Asimismo, admitió en el encuentro que el PSOE pagó la primera asistencia jurídica de Ábalos y de Koldo García para controlar su relato político. (Fuente: [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]])
+- **Actualización [2026-06-08]**: Apuntes manuscritos de su agenda intervenida de enero de 2025 revelan el plan de Moncloa para el control editorial del Grupo Prisa mediante un acuerdo con Joseph Oughourlian (*"La línea editorial la marca PS y la estrategia Joseph"*), detallando la estrategia de que Telefónica compre el grupo mediático para situar a José Miguel Contreras de presidente. (Fuente: [[la-agenda-de-leire-senala-un-pacto-entre-sanchez-y-oughourlian|La agenda de Leire señala un pacto entre Sánchez y Oughourlian: "La línea editorial de Prisa la marca PS"]])
+- **Actualización [2026-06-08] (Relato contra acusaciones populares y complot contra Choclán)**: Sus notas manuscritas revelan la estrategia del partido para descalificar a las acusaciones populares (mencionando explícitamente a [[hazte-oir|Hazte Oír]]) encuadrándolas en el relato de *"extrema derecha, derecha, acoso"* y argumentando *"denuncia falsa"*, amparada en que el juez [[arturo-zamarriego]] desestimó querellas por falta de conexidad. Asimismo, anota apuntes para su propia defensa (*"Koldo, Ábalos, Cerdán; no he colaborado nada con ellos"*) y grabaciones del sumario exponen el complot de la cloaca junto a Jacobo Teijelo, Dolset y Hamlyn para apartar a José Antonio Choclán y espiar su estrategia procesal con Aldama. (Fuente: [[leire-diez-preparaba-el-relato-del-psoe-contra-las-acusaciones-populares]])
+- **Actualización [2026-06-09] (Plan de nulidad en cascada)**: En el marco del complot de desprestigio judicial contra la UCO, participa en la reunión grabada de casi tres horas junto a Jacobo Teijelo, Javier Pérez Dolset y Juan Sánchez Yepes. En el encuentro, Díez secunda la estrategia de caída en cascada de los procedimientos y apunta a que la responsabilidad del colapso de la instrucción recaerá enteramente sobre la Guardia Civil/UCO eximiendo a jueces y fiscales. (Fuente: [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]])
+- **Actualización [2026-06-10] (Las anotaciones de asuntos pendientes del 14 de febrero)**: Se revela otra página manuscrita de su agenda titulada *"asuntos pendientes"* fechada el 14 de febrero de 2025:
+  - **TIPs de la UCO**: Anotó *"TIP instructores UCO de los ERE y causas de Andalucía"*, confirmando su estrategia de obtener la identificación de los agentes que instruyeron las causas de corrupción en Andalucía para su campaña de descrédito y en beneficio de Vicente Fernández.
+  - **Llamar a Miriam Serrano**: Anotó *"llamar a Miriam Serrano"*, constatando la UCO que Leire Díez se aproximó y mantuvo encuentros con la denunciante del fiscal Grinda.
+  - **Informe de Nervis**: Anotó *"Nervis. Informe Banco España"*, hallando la UCO en su portátil Lenovo el documento *"NERVIS BANCO DE ESPAÑA.docx"*, vinculado a las gestiones para destrabar las cuentas corrientes del ex viceministro venezolano. (Fuente: [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco]])
+- **Actualización [2026-06-11] (Complot en Aznalcóllar y reuniones con Rafael Salvador)**: Se desvelan grabaciones de las escuchas en las que se reunió clandestinamente con el ex-responsable policial [[rafael-salvador]] en un club privado para obtener información comprometedora de la magistrada [[mercedes-alaya]] ("moralmente es una guarra"). El complot buscaba desprestigiar y "extirpar socialmente" a la jueza para forzar el carpetazo al caso Aznalcóllar y rehabilitar en la SEPI a [[vicente-fernandez-guerrero]] con el concierto de Santos Cerdán. (Fuentes: [[leire-diez-se-reunio-con-un-policia-resentido]], [[leire-diez-se-reunio-con-un-policia-resentido-moralmente]])
+- **Actualización [2026-06-13] (Anotaciones sobre Marlaska y "Rafa" Pérez)**: Anotaciones manuscritas en su agenda revelan el supuesto enchufe promovido por Fernando Grande-Marlaska para favorecer al cuñado de su Secretario de Estado de Seguridad, [[rafael-perez-ruiz]] ("Rafa" Pérez), trayéndolo de Sevilla a Madrid. Asimismo, anotó que Pérez Ruiz *"hablaba mucho con Koldo. Tienen mochila"*, y en la misma página incluyó apuntes de *"Bloquear las puertas de salida"*, *"Cloacas para proteger a las empresas..."* y referencias a una *"oferta"* a Koldo y al comandante Rubén Villalba. Además, se constata que Díez Castro recibió protección policial de contravigilancia sufragada por el Ministerio del Interior durante dos meses tras desvelarse el caso. (Fuente: [[la-agenda-de-leire-diez-marlaska-esta-pillado|La agenda de Leire Díez: "Marlaska está pillado por la UCO, enchufó al cuñado del S.E."]])
+- **Actualización [2026-06-13] (Protocolo de crisis y borrado de información)**: Anotaciones manuscritas intervenidas en su agenda revelan planes preventivos para destruir pruebas (*"Protocolo crisis si hay entrada y registro. Borrado de información"*) ante registros judiciales inminentes. Asimismo, incluyó apuntes de *"Santos, la única persona que no tiene nada"*, en referencia a la cautela del secretario de Organización, anotaciones conectando el caso mascarillas con Begoña Gómez (*"Causa mascarillas derivada a Air Europa y Begoña"*), y el registro reservado del Ministerio sobre agentes de la UCO (*"Investigación interna G.C. para filtraciones"*). (Fuente: [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]])
+- **Actualización [2026-06-14] (Viajes financiados por Ferraz)**: La UCO certifica en un informe que el PSOE pagó sus billetes de avión, tren y alquileres de vehículos para asistir a reuniones clave de las cloacas. Los viajes fueron gestionados por la secretaria Covadonga San Pedro Pascual e incluyen el del 26 de abril de 2024 (ordenado por Santos Cerdán), el del 10 de julio de 2017 (con Dolset a Zaragoza para reunirse con Rafael Salvador por el caso ERE), el del 9 de agosto de 2024 (para reunirse con Villarejo en Madrid) y el de agosto de 2024 a Jerez/Cádiz, donde se alojó en casa de Dolset y le detalló por mensaje a Vicente Fernández que tenía muchas reuniones de trabajo. (Fuente: [[la-uco-certifica-que-los-viajes-de-leire-diez]])
+- **Actualización [2026-06-15] (Documento \"Incumplimientos\" incautado en Ferraz)**: La UCO localizó en Ferraz un documento impreso de su autoría titulado "2024-11-19 Incumplimientos" (cuyo archivo digital fue intervenido en el Lenovo de la fontanera). El impreso demuestra que Díez rendía cuentas detalladas a Santos Cerdán sobre todas las gestiones de la red criminal, incluyendo las operativas con Villarejo, Francisco Martínez, Gonzalo Boye, Luis Sáenz de Tejada y el estado de los fiscales Grinda y Luzón. (Fuente: [[la-uco-localiza-en-ferraz-un-documento]])
+- **Actualización [2026-06-15] (Maniobras sobre la defensa de David Sánchez y recusación de Biedma)**: Informes de la UCO recogen la testifical del empresario [[joaquin-parra]], quien desveló que Leire Díez se reunió con él para proponerle controlar la defensa del hermano del presidente, [[david-sanchez-perez-castejon|David Sánchez]]. Díez le instó a que David Sánchez despidiera a su abogado y contratase a [[luis-jose-saenz-de-tejada]], letrado vinculado a la cloaca. Además, las libretas de Díez contemplaban dos vías: asumir la defensa o personarse como acusación popular para recusar a la jueza [[beatriz-biedma-buendia|Biedma]]. Díez presumía además de tener *"control"* sobre la Fiscalía General del Estado para que esta apoyase la recusación y se tramitaran denuncias instrumentales bajo la Ley 2/2023. (Fuente: [[la-uco-halla-libretas-de-santos-cerdan]])
+
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -132,11 +146,30 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - [[koldo-garcia-izaguirre]]
 - [[jacobo-teijelo-casanova]]
 - [[antonio-hernando]]
+- [[joseph-oughourlian]]
+- [[jose-miguel-contreras]]
+- [[oscar-lopez]]
+- [[andoni-ortuzar]]
+- [[manuel-de-la-rocha]]
+- [[javier-de-paz]]
+- [[adolfo-utor]]
+- [[diego-urdiales]]
+- [[grupo-prisa]]
+- [[telefonica]]
+- [[hazte-oir]]
+- [[rafael-perez-ruiz]]
+- [[la-agenda-de-leire-diez-marlaska-esta-pillado]]
+- [[las-notas-de-leire-diez-protocolo-de-crisis]]
+- [[la-uco-certifica-que-los-viajes-de-leire-diez]]
+- [[la-uco-localiza-en-ferraz-un-documento]]
+- [[la-uco-halla-libretas-de-santos-cerdan]]
+
 
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
+- [[la-uco-localiza-en-ferraz-un-documento|La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE]]
 - [[santos-cerdan-zarrias-y-la-gerente-del]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
@@ -166,5 +199,17 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - [[reunion-con-p-s-y-cambiar-relato-las-dos-anotaciones|Reunión con P.S. y cambiar relato: las dos anotaciones que aparecen en la agenda de Leire Díez]]
 - [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe|Leire Díez buscó cambiar la estrategia jurídica del PSOE tras la salida de Aldama de prisión: "Esto es un desastre"]]
 - [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]]
+- [[la-agenda-de-leire-senala-un-pacto-entre-sanchez-y-oughourlian|La agenda de Leire señala un pacto entre Sánchez y Oughourlian: "La línea editorial de Prisa la marca PS"]]
+- [[leire-diez-preparaba-el-relato-del-psoe-contra-las-acusaciones-populares]]
+- [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]]
+- [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco]]
+- [[leire-diez-se-reunio-con-un-policia-resentido]]
+- [[leire-diez-se-reunio-con-un-policia-resentido-moralmente]]
+- [[la-agenda-de-leire-diez-marlaska-esta-pillado|La agenda de Leire Díez: "Marlaska está pillado por la UCO, enchufó al cuñado del S.E."]]
+- [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]]
+- [[la-uco-certifica-que-los-viajes-de-leire-diez|La UCO certifica que los viajes de Leire Díez a reuniones de la cloaca se gestionaban desde Ferraz]]
+- [[la-uco-halla-libretas-de-santos-cerdan|La UCO halla libretas de Santos Cerdán con notas contra la juez Biedma: "Badajoz, que Fiscalía apoye la recusación"]]
+
+
 
 

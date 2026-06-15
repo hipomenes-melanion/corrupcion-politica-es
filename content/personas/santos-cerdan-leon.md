@@ -1,7 +1,7 @@
 ---
 title: "Santos Cerdán León"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-04"
+updated: "2026-06-15"
 tags: [persona, investigado]
 ---
 
@@ -104,6 +104,12 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - **Actualización [2026-06-04] (Recepción de denuncia instrumental)**: El sumario revela que Cerdán recibió directamente de Leire Díez, a través de correo electrónico, la denuncia instrumental redactada por el exmagistrado [[luis-jose-saenz-de-tejada]] contra la jueza de Badajoz [[beatriz-biedma-buendia]] y otros magistrados. La denuncia había sido modificada y suavizada previamente por la propia Díez para atenuar su excesiva dureza antes de su remisión. (Fuente: [[leire-diez-trato-de-desestabilizar-el-caso-david-sanchez]])
 - **Actualización [2026-06-05] (Temor a las delaciones de Aldama)**: El sumario intervenido indica que Cerdán y los demás cabecillas de las cloacas del PSOE temían las delaciones en sede judicial de Víctor de Aldama relativas a las finanzas de Venezuela y PDVSA y a su blanqueo a través de Banco Madrid y BPA de Andorra. (Fuente: [[el-psoe-temia-que-aldama-hablase-de-maduro]])
 - **Actualización [2026-06-06] (Reunión estratégica con Oliver y Díez)**: Informes de la UCO recogen la preparación de una reunión clave a finales de 2024 entre Cerdán, Leire Díez e Ismael Oliver. La cumbre tenía por objeto rediseñar la estrategia de defensa jurídica y de comunicación del partido y del presidente Sánchez (ante la excarcelación de Víctor de Aldama) y coordinar la creación y constitución de una asociación instrumental. (Fuente: [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe]])
+- **Actualización [2026-06-08]**: El magistrado de la Audiencia Nacional Santiago Pedraz y la UCO sitúan a Cerdán bajo sospecha penal directa de haber puesto, en su condición de Secretario de Organización, toda la estructura logística, dependencias y personal del [[psoe|PSOE]] a disposición de la red criminal del Caso SEPI - Cloacas, sufragando sus costes e instrumentalizando el partido para el desarrollo de actividades ilícitas. Esta conducta anticipa la imputación del propio partido como persona jurídica. (Fuente: [[pedraz-se-plantea-imputar-al-psoe-de-sanchez-por-organizacion-criminal]])
+- **Actualización [2026-06-11] (Rehabilitación de Vicente Fernández en SEPI)**: Escuchas del sumario desvelan que en mayo de 2020 Cerdán presionó a Vicente Fernández Guerrero para reincorporarlo a la presidencia de la SEPI ("Espero que sea cuanto antes, te necesitamos trabajando"). En este marco, recibió a través de Leire Díez un borrador de resolución favorable de la Fiscalía sobre Aznalcóllar filtrado por Fernández, coincidiendo cronológicamente con la conformación del Clan Hirurok al presentar al empresario Antón Alonso. (Fuentes: [[leire-diez-se-reunio-con-un-policia-resentido]], [[leire-diez-se-reunio-con-un-policia-resentido-moralmente]])
+- **Actualización [2026-06-13] (La agenda de Leire Díez y la extrema cautela)**: Su nombre figura en las anotaciones manuscritas intervenidas a Leire Díez (*"Santos"*), donde se le señala junto a Ábalos (*"J.L.A."*), Koldo García y Víctor de Aldama, acompañando al protocolo de destrucción de información. Se destaca la frase de la agenda: *"Santos, la única persona que no tiene nada"*, en referencia a su obsesiva precaución de apagar teléfonos y ordenar la destrucción de papeles manuscritos con anotaciones de cifras. (Fuente: [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]])
+- **Actualización [2026-06-14] (Orden de viaje a Leire Díez)**: Informes de la UCO constatan que ordenó a Leire Díez desplazarse a Madrid el 26 de abril de 2024, en pleno periodo de reflexión de Pedro Sánchez, constituyendo uno de los hitos iniciales de la actividad delictiva de las cloacas de Ferraz. (Fuente: [[la-uco-certifica-que-los-viajes-de-leire-diez]])
+- **Actualización [2026-06-15] (Documento \"Incumplimientos\" incautado)**: La UCO localizó en su despacho depositado en la sede de Ferraz un documento impreso de Leire Díez titulado "2024-11-19 Incumplimientos" (cuyo archivo digital fue intervenido en el Lenovo de Díez). Este informe detalla el balance de las operativas en curso de las cloacas (pactos con Villarejo, fianza a RCD, investigación a Planeta, e impugnación de Boye y de la instrucción contra Biedma), lo que para los investigadores de la UCO acredita su liderazgo directo al recibir "dación de cuentas" periódica por parte de Díez. (Fuente: [[la-uco-localiza-en-ferraz-un-documento]])
+- **Actualización [2026-06-15] (Anotación sobre recusación de la jueza Biedma)**: Informes de la UCO sobre libretas manuscritas incautadas en Ferraz desvelan una anotación de Cerdán que reza *"BADAJOZ que fiscalía apoye el recusación"*. Este apunte muestra la coordinación directa del secretario de Organización socialista para que el Ministerio Público apoyase ante el juzgado de Badajoz la recusación interpuesta por Sáenz de Tejada contra la jueza instructora Beatriz Biedma (a cargo del caso de David Sánchez). A pesar de las directrices, la Fiscalía General del Estado terminó rechazando la recusación. (Fuente: [[la-uco-halla-libretas-de-santos-cerdan]])
 
 
 ## Referencias cruzadas
@@ -133,12 +139,18 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - [[el-psoe-temia-que-aldama-hablase-de-maduro]]
 - [[ismael-oliver]]
 - [[jacobo-teijelo-casanova]]
+- [[psoe]]
+- [[las-notas-de-leire-diez-protocolo-de-crisis]]
+- [[la-uco-certifica-que-los-viajes-de-leire-diez]]
+- [[la-uco-localiza-en-ferraz-un-documento]]
+- [[la-uco-halla-libretas-de-santos-cerdan]]
 
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[alerta-en-el-tribunal-de-cuentas-de-chicano]]
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
+- [[la-uco-localiza-en-ferraz-un-documento|La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE]]
 - [[santos-cerdan-zarrias-y-la-gerente-del]]
 - [[la-uco-se-presenta-en-la-direccion]]
 - [[pedraz-senala-los-audios-de-la-cloaca]]
@@ -152,4 +164,10 @@ Secretario de organización del PSOE y diputado a Cortes Generales, investigado 
 - [[leire-diez-trato-de-desestabilizar-el-caso-david-sanchez|Leire Díez trató de desestabilizar el caso David Sánchez: "Mi prioridad: el presidente"]]
 - [[el-psoe-temia-que-aldama-hablase-de-maduro|El PSOE temía que Aldama hablase de Maduro: "Sabes lo que puede colaborar con todo lo de Venezuela..."]]
 - [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe|Leire Díez buscó cambiar la estrategia jurídica del PSOE tras la salida de Aldama de prisión: "Esto es un desastre"]]
+- [[pedraz-se-plantea-imputar-al-psoe-de-sanchez-por-organizacion-criminal]]
+- [[leire-diez-se-reunio-con-un-policia-resentido]]
+- [[leire-diez-se-reunio-con-un-policia-resentido-moralmente]]
+- [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]]
+- [[la-uco-certifica-que-los-viajes-de-leire-diez|La UCO certifica que los viajes de Leire Díez a reuniones de la cloaca se gestionaban desde Ferraz]]
+- [[la-uco-halla-libretas-de-santos-cerdan|La UCO halla libretas de Santos Cerdán con notas contra la juez Biedma: "Badajoz, que Fiscalía apoye la recusación"]]
 

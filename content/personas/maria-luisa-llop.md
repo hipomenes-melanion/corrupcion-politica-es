@@ -1,7 +1,7 @@
 ---
 title: "María Luisa Llop"
 source: "wiki/fuentes/la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p.md"
-updated: "2026-05-27"
+updated: "2026-06-11"
 tags: [persona, fiscal, caso-plus-ultra]
 ---
 
@@ -14,6 +14,7 @@ Fiscal del Ministerio Público asignada al Caso Plus Ultra durante su instrucci�
 - **Ascenso a la Audiencia Nacional**: Tras su actuación en el caso, fue ascendida a la Fiscalía de la Audiencia Nacional por decisión del entonces Fiscal General del Estado, Álvaro García Ortiz.
 - **Relación con las escuchas**: Su actuación coincide temporalmente con las conversaciones interceptadas por la UDEF en las que la trama de Plus Ultra planificaba paralizar la causa judicial alegando que *"la fiscal jefe es amiga y hay que cortar esto"*, en referencia a la Jefatura de la Fiscalía Provincial de Madrid de la que dependía como fiscal del caso.
 - **Actualización [2026-05-27]**: La Fiscal Superior de Madrid [[almudena-lastra]] ha incoado un expediente gubernativo disciplinario en su contra por presunta influencia indebida y falta de imparcialidad, remitiendo el caso a la Inspección Fiscal de la Fiscalía General del Estado. Esto surge tras revelarse las escuchas de la trama y la difusión del vídeo en el que abroncó a los peritos que cuestionaban el rescate. (Fuente: [[la-fiscalia-de-madrid-traslada-una]])
+- **Actualización [2026-06-11]**: La Inspección Fiscal de la Fiscalía General del Estado ha incoado formalmente el expediente gubernativo derivado de la denuncia de Iustitia Europa por presunta falta de imparcialidad al ejercer como fiscal del caso en la instrucción de Plus Ultra. (Fuente: [[la-fiscalia-general-abre-un-expediente-a-las-fiscales]])
 
 ## Referencias cruzadas
 - [[caso-plus-ultra]]
@@ -23,8 +24,11 @@ Fiscal del Ministerio Público asignada al Caso Plus Ultra durante su instrucci�
 - [[rodolfo-reyes]]
 - [[juzgado-de-instruccion-15-de-madrid]]
 - [[almudena-lastra]]
+- [[iustitia-europa]]
 - [[la-fiscalia-de-madrid-traslada-una]]
+- [[la-fiscalia-general-abre-un-expediente-a-las-fiscales]]
 
 ## Fuentes
 - [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]
 - [[la-fiscalia-de-madrid-traslada-una]]
+- [[la-fiscalia-general-abre-un-expediente-a-las-fiscales]]

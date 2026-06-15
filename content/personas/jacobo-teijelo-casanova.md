@@ -1,7 +1,7 @@
 ---
 title: "Jacobo Teijelo Casanova"
 source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
-updated: "2026-06-07"
+updated: "2026-06-09"
 tags: [persona, investigado, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -23,6 +23,7 @@ Jacobo Teijelo Casanova es un abogado penalista español. En mayo de 2026, fue i
 - **Actualización [2026-06-05] (Estrategia de monitorización penal)**: En las conversaciones intervenidas, Teijelo advierte a la red criminal de las cloacas del PSOE que es imprescindible recopilar las causas abiertas (entre 7 y 10) que afectan a Víctor de Aldama y Claudio Rivas para cruzarlas y anticiparse a lo que va a salir antes del levantamiento del secreto de sumario, con el fin de dominar el relato. En la misma charla, desveló que el exfiscal Manuel Moix tapó proactivamente las pesquisas de blanqueo chavista investigadas por José Grinda en Banco Madrid y BPA. (Fuente: [[el-psoe-temia-que-aldama-hablase-de-maduro]])
 - **Actualización [2026-06-06] (Integración en la organización criminal)**: Conclusiones policiales de la UCO desvelan que, a finales de 2024, tras ser excarcelado Víctor de Aldama, Teijelo fue integrado orgánicamente en la estructura investigada. Actuó como asesor cualificado en materias jurídicas, percibiendo fondos del partido y operando bajo la directa coordinación y dirección de Leire Díez para virar la defense y comunicación de Sánchez y del PSOE. (Fuente: [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe]])
 - **Actualización [2026-06-07]**: Grabaciones intervenidas por la UCO revelan su participación en un encuentro junto a Leire Díez, Javier Pérez Dolset y Juan Sánchez Yepes en el que debatieron desviar la responsabilidad penal del caso Koldo inculpando a funcionarios de Industria por el cobro de mordidas, evitando que el caso afectara a José Luis Ábalos. (Fuente: [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]])
+- **Actualización [2026-06-09] (Estrategia de conexión de antijuridicidad)**: En el audio de la reunión grabada de casi tres horas junto a Leire Díez, Javier Pérez Dolset y Juan Sánchez Yepes, expone la base técnica de la defensa consistente en conseguir la nulidad de la causa contra Yepes para que, por *"conexión de antijuridicidad"*, la nulidad se transmita *"aguas abajo a todo lo demás"*, provocando la caída en cascada de otros procedimientos de la UCO. Añadió que, al responsabilizar a la Guardia Civil por el fallo de instrucción, *"todo el prestigio de la UCO se les va a tomar por culo"*. (Fuente: [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -58,4 +59,6 @@ Jacobo Teijelo Casanova es un abogado penalista español. En mayo de 2026, fue i
 - [[el-psoe-temia-que-aldama-hablase-de-maduro|El PSOE temía que Aldama hablase de Maduro: "Sabes lo que puede colaborar con todo lo de Venezuela..."]]
 - [[leire-diez-busco-cambiar-la-estrategia-juridica-del-psoe|Leire Díez buscó cambiar la estrategia jurídica del PSOE tras la salida de Aldama de prisión: "Esto es un desastre"]]
 - [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]]
+- [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]]
+
 

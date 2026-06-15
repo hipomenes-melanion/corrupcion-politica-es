@@ -1,7 +1,7 @@
 ---
 title: Caso Koldo
 source: wiki/fuentes/resumen-causas-judiciales.md
-updated: 2026-06-07
+updated: 2026-06-13
 tags:
   - caso-zapatero
 ---
@@ -21,6 +21,7 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
   - [[juan-carlos-cueto]]
   - [[jose-luis-abalos-meco]] (Exministro de Transportes, aforado ante el TS)
   - [[francina-armengol]] (Presidenta del Congreso / Expresidenta de las Islas Baleares)
+  - [[rafael-perez-ruiz]] (Exsecretario de Estado de Seguridad / Personas de interés en la agenda de Leire Díez)
 - **Tipos Penales Imputados**: Cohecho, tráfico de influencias, blanqueo de capitales, organización criminal y prevaricación en la adjudicación de contratos públicos.
 
 
@@ -32,6 +33,7 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - Koldo García y la trama mantuvieron contactos directos con cargos socialistas clave como Francina Armengol y Ángel Víctor Torres para la colocación de material sanitario durante la pandemia.
 - El comisionista Víctor de Aldama busca pactar una colaboración con la Fiscalía Anticorrupción para confesar la financiación ilegal del partido y evitar su entrada en prisión.
 - **Vínculo con la Libreta de Leire Díez**: La libreta azul de la fontanera socialista [[leire-diez-castro]] intervenida por la UCO en el Caso SEPI - Cloacas contiene múltiples apuntes y esquemas manuscritos sobre la trama Koldo, haciendo referencia repetidamente a [[victor-de-aldama-delgado]], su abogado [[jose-antonio-choclan]], y a las operativas y comisiones de crudo de [[pdvsa]] conectadas con [[delcy-rodriguez]].
+- **Protocolo de crisis y borrado de información**: Anotaciones manuscritas intervenidas a Leire Díez muestran que la trama del PSOE preveía registros inminentes en domicilios de investigados del caso Koldo y preparaba el borrado sistemático de información comprometida (*"Protocolo crisis si hay entrada y registro. Borrado de información"*). En los apuntes se menciona a Santos Cerdán (*"Santos, la única persona que no tiene nada"*) y su cautela, a Koldo García y a Víctor de Aldama, así como la derivación de la causa de mascarillas hacia Begoña Gómez. (Fuente: [[las-notas-de-leire-diez-protocolo-de-crisis]])
 
 ## Referencias cruzadas
 - [[caso-zapatero]] (pieza separada conectada internacionalmente)
@@ -108,3 +110,6 @@ Investigación sobre una presunta trama de corrupción en la adjudicación de co
 - [[varapalo-a-oscar-puente-en-el-juicio-de-la-trama-k|Varapalo a Óscar Puente en el juicio de la trama Koldo]]
 - [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 - [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]]
+- [[la-agenda-de-leire-diez-marlaska-esta-pillado|La agenda de Leire Díez: "Marlaska está pillado por la UCO, enchufó al cuñado del S.E."]]
+- [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]]
+

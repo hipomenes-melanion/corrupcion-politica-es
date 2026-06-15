@@ -1,7 +1,7 @@
 ---
 title: "José Manuel Villarejo"
 source: "wiki/fuentes/la-cloaca-ofrecio-a-villarejo-un-pacto-a-cambio-de-audios.md"
-updated: "2026-06-03"
+updated: "2026-06-15"
 tags:
   - persona
   - investigado
@@ -22,11 +22,14 @@ José Manuel Villarejo Pérez es un comisario jubilado de la Policía Nacional d
   5. Información relativa a casos de corrupción del PSOE.
 - **Inacción de la defensa**: A pesar de la insistencia de Díez, el abogado del excomisario, [[antonio-jose-garcia-cabrera]], declaró ante los agentes que descartaron la propuesta y no solicitaron cita con la fiscalía dada la total "falta de credibilidad" de la emisaria socialista.
 - **Actualización [2026-06-04]**: Su nombre y los detalles de las grabaciones y pactos ofrecidos por la trama figuran anotados en la libreta Campus de [[leire-diez-castro]] intervenida por la UCO, lo que confirma que el excomisario era considerado una pieza estratégica clave para las maniobras de control y extorsión de la red de Ferraz. (Fuente: [[la-libreta-azul-de-leire-diez-la-uco-intervino]])
-- **Actualización [2026-06-04] (Intermediación ante la FGE)**: El sumario revela que Leire Díez le envió mensajes directos a su abogado vía Signal para acreditar que estaba gestionando su impunidad dentro de la propia cúpula fiscal: *"Buenos días, Antonio. El jueves estuve en FGE. Cuando puedas hablamos"*, constando que la red intentó forzar el pacto para conseguir material difamatorio contra el PP. (Fuente: [[leire-diez-tuvo-reuniones-y-metio-mano]])
+- **Actualización [2026-06-04] (Intermediación ante la FGE)**: El sumario desvela que Leire Díez le envió mensajes directos a su abogado vía Signal para acreditar que estaba gestionando su impunidad dentro de la propia cúpula fiscal: *"Buenos días, Antonio. El jueves estuve en FGE. Cuando puedas hablamos"*, constando que la red intentó forzar el pacto para conseguir material difamatorio contra el PP. (Fuente: [[leire-diez-tuvo-reuniones-y-metio-mano]])
+- **Actualización [2026-06-14] (Reunión con Leire Díez el 9 de agosto de 2024)**: Un informe de la UCO acredita que el 9 de agosto de 2024, Villarejo se reunió en Madrid con Leire Díez. El traslado de Díez en avión Bilbao-Madrid-Bilbao y el alquiler de un vehículo en Barajas para acudir a la cita fueron costeados y gestionados desde Ferraz por Covadonga San Pedro. (Fuente: [[la-uco-certifica-que-los-viajes-de-leire-diez]])
+- **Actualización [2026-06-15] (Acercamiento frustrado con fiscal Rivas)**: El informe de "Incumplimientos" incautado por la UCO en Ferraz desvela que la red coordinada por Leire Díez intentó aproximarse al fiscal anticorrupción del caso Kitchen, [[cesar-de-rivas]], para proponerle un acuerdo de conformidad, lo cual fue rechazado de plano por el fiscal. Además, las anotaciones señalan que Villarejo afirma tener pruebas de supuesta corrupción que comprometerían al magistrado [[manuel-marchena]]. (Fuente: [[la-uco-localiza-en-ferraz-un-documento]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
 - [[leire-diez-castro]]
+- [[covadonga-san-pedro-pascual]]
 - [[antonio-jose-garcia-cabrera]]
 - [[mariano-rajoy]]
 - [[maria-dolores-de-cospedal]]
@@ -40,8 +43,14 @@ José Manuel Villarejo Pérez es un comisario jubilado de la Policía Nacional d
 - [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 - [[fiscalia-general-del-estado]]
 - [[leire-diez-tuvo-reuniones-y-metio-mano]]
+- [[la-uco-certifica-que-los-viajes-de-leire-diez]]
+- [[cesar-de-rivas]]
+- [[la-uco-localiza-en-ferraz-un-documento]]
 
 ## Fuentes
-- [[la-cloaca-ofrecio-a-villarejo-un-pacto-a-cambio-de-audios|La cloaca ofreció a Villarejo un pacto a cambio de audios de Rajoy y el BBVA]]
+- [[la-cloaca-ofrecio-a-villarejo-un-pacto-a-cambio-de-audios|La cloaca abrió a Villarejo un pacto a cambio de audios de Rajoy y el BBVA]]
 - [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 - [[leire-diez-tuvo-reuniones-y-metio-mano]]
+- [[la-uco-certifica-que-los-viajes-de-leire-diez]]
+- [[la-uco-localiza-en-ferraz-un-documento|La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE]]
+

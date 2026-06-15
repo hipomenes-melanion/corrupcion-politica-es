@@ -1,7 +1,7 @@
 ---
 title: "Log de ingestión"
 source: "CLAUDE.md"
-updated: "2026-06-07"
+updated: "2026-06-15"
 tags: [log, registro]
 ---
 
@@ -312,6 +312,29 @@ tags: [log, registro]
 - **[2026-06-05]** - "Reunión con P.S." y "cambiar relato": las dos anotaciones que aparecen en la agenda de Leire Díez ✅
 - **[2026-06-06]** - Leire Díez buscó cambiar la estrategia jurídica del PSOE tras la salida de Aldama de prisión: "Esto es un desastre" ✅
 - **[2026-06-07]** - Leire Díez quería cortocircuitar el caso Koldo en funcionarios para que no escalase hasta el tonto de Ábalos ✅
+- **[2026-06-08]** - La agenda de Leire señala un pacto entre Sánchez y Oughourlian: "La línea editorial de Prisa la marca PS" ✅
+- **[2026-06-08]** - Leire Díez preparaba el relato del PSOE contra las acusaciones populares: "Denuncia falsa, acoso, extrema derecha" ✅
+- **[2026-06-08]** - Pedraz se plantea imputar al PSOE de Sánchez por organización criminal ✅
+- **[2026-06-08]** - Las acusaciones populares: la Oficina de Artes Escénicas era "un traje a medida" para David Sánchez ✅
+- **[2026-06-08]** - La Fiscalía pide la absolución de David Sánchez y de los otros 10 acusados ✅
+- **[2026-06-09]** - La cloaca del PSOE: "Si caen en cascada varios procedimientos, todo el prestigio de la UCO se va a tomar por culo" ✅
+- **[2026-06-09]** - David Sánchez reenvió un correo de la Diputación que alertaba de su incompatibilidad al email "pedrosanchez1212" ✅
+- **[2026-06-10]** - La nota de Leire Díez que apunta a miembros de la UCO: "TIP instructores UCO de los ERE y causas de Andalucía" ✅
+- **[2026-06-10]** - La sentencia sobre David Sánchez puede retrasarse hasta después del verano ✅
+- **[2026-06-11]** - Pánico en el PSOE tras el fichaje de la abogada Márquez de Prado para defender al amigo de Zapatero ✅
+- **[2026-06-11]** - Denuncian a Zapatero ante Hacienda por las joyas intervenidas por la UDEF ✅
+- **[2026-06-11]** - Leire Díez se reunió con un policía resentido para atacar a Alaya por el caso Aznalcóllar ✅
+- **[2026-06-11]** - Leire Díez se reunió con un policía resentido para atacar a Alaya Moralmente es una guarra ✅
+- **[2026-06-11]** - La Fiscalía General abre un expediente a las fiscales mencionadas en el caso Plus Ultra ✅
+- **[2026-06-12]** - Pumpido crea un grupo de trabajo para declarar constitucional que Sánchez gobierne sin presupuestos ✅
+- **[2026-06-12]** - La 'fiscal cianuro' festeja su ascenso al Supremo arropada por los fiscales próximos al sanchismo ✅
+- **[2026-06-13]** - La agenda de Leire Díez: "Marlaska está pillado por la UCO, enchufó al cuñado del S.E." ✅
+- **[2026-06-13]** - Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información" ✅
+- **[2026-06-14]** - La UCO certifica que los viajes de Leire Díez a reuniones de la cloaca se gestionaban desde Ferraz ✅
+- **[2026-06-15]** - El abogado de Begoña Gómez colabora con el letrado de Zapatero en el caso Plus Ultra ✅
+- **[2026-06-15]** - La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE ✅
+- **[2026-06-15]** - La UCO halla libretas de Santos Cerdán con notas contra la juez Biedma Badajoz, que Fiscalía apoye la recusación ✅
+- **[2026-06-15]** - El DAO de la Guardia Civil amonestó al jefe de la UCO por incluir un correo de Begoña en la causa de David Sánchez ✅
 
 
 

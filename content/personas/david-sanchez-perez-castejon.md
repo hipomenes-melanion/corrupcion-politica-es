@@ -1,7 +1,7 @@
 ---
 title: "David Sánchez Pérez-Castejón"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-03"
+updated: "2026-06-15"
 tags: [persona, investigado]
 ---
 
@@ -35,7 +35,13 @@ Coordinador de conservatorios de música de la Diputación de Badajoz, investiga
   - **Homenaje Encubierto**: Por otro lado, la acusación popular (Hazte Oír) introdujo en el debate si el cambio de nombre de su puesto a "jefe de la Oficina de Artes Escénicas" constituía un "homenaje encubierto" a su padre, **[[pedro-sanchez-fernandez]]**, exgerente general de INAEM, al tiempo que se sacaron a colación préstamos de fondos públicos a la empresa familiar Playbol. (Fuentes: [[el-caso-hermanisimo-destapa-que-el-padre-de]], [[una-testigo-denuncia-el-amano-con-david-sanchez]])
 - **Actualización [2026-06-03] (Presiones y Boicot Policial)**: Declaraciones de agentes de la Guardia Civil ante la UCO desvelaron que en julio de 2024 la cúpula de Interior y de la Guardia Civil maniobró para obstruir la investigación sobre sus correos electrónicos solicitada por el Juzgado de Badajoz. El Director General [[leonardo-marcos]] tildó la petición de la UCO de "prospectiva y malintencionada" y exigió redactar de inmediato un informe que exculpase al investigado afirmando "que no había nada", mientras que el DAO [[manuel-llamas]] ordenó a los agentes ponerse "de perfil" y "no ser proactivos". (Fuente: [[interior-ordeno-a-la-uco-ponerse-de-perfil]])
 - **Actualización [2026-06-04] (Sesión de Juicio - Declaraciones de los Acusados)**: David Sánchez declaró ante el tribunal respondiendo únicamente a su letrado Emilio Cortés. Aseguró que la Oficina de Artes Escénicas "no era un lugar físico, sino una categoría administrativa", y que tras la pandemia usó espacios comunes al estar ocupado su despacho. Negó haber influido en el cambio de denominación de su plaza y en la adjudicación de la plaza de su amigo Luis Carrero, justificando que el correo de octubre de 2023 sobre el enchufe previo fue una confusión suya entre la publicación de la plaza y su posterior adjudicación. (Fuente: [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era]])
-- **Actualización [2026-06-04] (Peticiones Definitivas de Penas)**: Tras concluir la fase de testificales, las acusaciones populares (PP, Vox, Hazte Oír, Iustitia Europa, Liberum y Abogados Cristianos) elevaron de 3 a 6 años de prisión su petición de pena para David Sánchez por prevaricación y tráfico de influencias (2 años por cada uno de los tres hechos delictivos: creación de la plaza, cambio de denominación y contratación de Luis Carrero). Manos Limpias mantuvo su petición de 3 años, avalada en plenario por la Fiscalía. (Fuente: [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de]])
+- **Actualización [2026-06-04] (Peticiones Definitivas de Penas)**: Tras concluir la fase de testificales, las acusaciones populares (PP, Vox, Hazte Oír, Iustitia Europa, Liberum y Abogados Cristianos) elevaron de 3 a 6 años de prisión su petición de pena para David Sánchez por prevaricación y tráfico de influencias (2 años por cada uno de los tres hechos delictivos: creación de la plaza, cambio de denominación y contratación de Luis Carrero). Manos Limpias mantuvo su petición de 3 años de prisión, mientras que la Fiscalía solicitó la libre absolución. (Fuente: [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de]])
+- **Actualización [2026-06-08] (Informes Finales y Traje a Medida)**: Se reanudó el juicio oral en Badajoz con los informes finales de las partes. El letrado de Manos Limpias describió la Oficina de Artes Escénicas como *"un traje a medida hecho para David Sánchez"*, recalcando que su único mérito era ser el hermano del presidente Pedro Sánchez, que la plaza era innecesaria, sin control de servicios y con una exención injustificada de incompatibilidad. Por su parte, la acusación de Hazte Oír destacó que la idea de crear el puesto de alta dirección se gestó apenas dos días antes de que Pedro Sánchez ganara las primarias del PSOE en mayo de 2017, vinculando este nexo temporal al trato de favor recibido. (Fuente: [[las-acusaciones-populares-la-oficina-de-artes-escenicas-era-un-traje-a-medida-para-david-sanchez]])
+- **Actualización [2026-06-08] (Petición de Absolución de la Fiscalía)**: Durante la sesión de conclusiones finales, la fiscal del caso, Begoña García Boró, elevó a definitivo su informe solicitando la libre absolución para David Sánchez y los otros 10 acusados, al considerar que de las pruebas practicadas no se desprenden indicios delictivos acreditados. (Fuente: [[la-fiscalia-pide-la-absolucion-de-david-sanchez-y-de-los-otros-10-acusados]])
+- **Actualización [2026-06-09] (El correo de incompatibilidad enviado a pedrosanchez1212)**: Durante el trámite de conclusiones finales, la acusación popular de Iustitia Europa desveló que David Sánchez reenvió un correo de la Diputación de Badajoz (que alertaba de que su plaza era incompatible *"a todas luces"*) a la dirección *"pedrosanchez1212"*, identificada por él mismo en los reenvíos como *"papa*" (en referencia a su padre Pedro Sánchez Fernández). También se detectaron otros reenvíos con sus cuentas bancarias, contrato de arrendamiento y declaración de bienes. Dicho email *"pedrosanchez1212"* figura asimismo en las pesquisas de la UCO sobre el caso SEPI - Cloacas de la Audiencia Nacional. (Fuente: [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212]])
+- **Actualización [2026-06-09] (Fin del Juicio y Rechazo de Última Palabra)**: El tribunal de la Audiencia Provincial de Badajoz declaró el juicio oral concluso para sentencia tras 7 sesiones. En la jornada final, David Sánchez rechazó hacer uso de su derecho al turno de última palabra. Se prevé que el fallo pueda demorarse hasta finales de julio o después del verano, en septiembre de 2026, a causa de la carga de trabajo de la Sección Penal, la existencia de 11 acusados y el hecho de no tratarse de una causa con presos preventivos. (Fuente: [[la-sentencia-sobre-david-sanchez-puede-retrasarse-hasta-despues-del-verano]])
+- **Actualización [2026-06-15] (Maniobras sobre su defensa)**: Un nuevo informe de la UCO desvela que la red de Ferraz de Leire Díez intentó entrometerse y controlar su defensa penal. Díez presionó a Joaquín Parra para que se le solicitara a David Sánchez despedir a su abogado (Emilio Cortés) y contratar a Luis José Sáenz de Tejada. La trama barajaba dos opciones en sus libretas: asumir la defensa o actuar como acusación popular para recusar a la jueza instructora Beatriz Biedma, estrategia para la cual Santos Cerdán anotó en sus libretas manuscritas *"Badajoz, que Fiscalía apoye la recusación"*. (Fuente: [[la-uco-halla-libretas-de-santos-cerdan]])
+- **Actualización [2026-06-15] (Amonestación a la UCO por sus correos)**: Tras desvelarse que la UCO incluyó correos electrónicos de Begoña Gómez en sus pesquisas sobre el caso David Sánchez, el DAO Manuel Llamas incoó una investigación reservada a través del Estado Mayor que forzó al Coronel Jefe de la UCO a amonestar verbalmente al analista responsable. (Fuente: [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco]])
 
 ## Referencias cruzadas
 - [[caso-david-sanchez]]
@@ -51,6 +57,11 @@ Coordinador de conservatorios de música de la Diputación de Badajoz, investiga
 - [[luis-carrero]]
 - [[miguel-angel-gallardo-miranda]]
 - [[emilio-cortes]]
+- [[jose-antonio-patrocinio]]
+- [[dolores-fernandez]]
+- [[emilio-serrano]]
+- [[la-uco-halla-libretas-de-santos-cerdan]]
+- [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -62,4 +73,11 @@ Coordinador de conservatorios de música de la Diputación de Badajoz, investiga
 - [[interior-ordeno-a-la-uco-ponerse-de-perfil|Interior ordenó a la UCO ponerse "de perfil" en las investigaciones que afectan a Sánchez]]
 - [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era|David Sánchez, en el juicio: "La Oficina de Artes Escénicas no era un lugar físico, sino una categoría administrativa"]]
 - [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de|Las acusaciones populares elevan a 6 años de prisión su petición de pena para David Sánchez]]
+- [[las-acusaciones-populares-la-oficina-de-artes-escenicas-era-un-traje-a-medida-para-david-sanchez]]
+- [[la-fiscalia-pide-la-absolucion-de-david-sanchez-y-de-los-otros-10-acusados]]
+- [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212]]
+- [[la-sentencia-sobre-david-sanchez-puede-retrasarse-hasta-despues-del-verano]]
+- [[la-uco-halla-libretas-de-santos-cerdan|La UCO halla libretas de Santos Cerdán con notas contra la juez Biedma: "Badajoz, que Fiscalía apoye la recusación"]]
+- [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco|El DAO de la Guardia Civil amonestó al jefe de la UCO por incluir un correo de Begoña en la causa de David Sánchez]]
+
 

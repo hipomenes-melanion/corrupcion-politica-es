@@ -1,7 +1,7 @@
 ---
 title: "Julio Martínez Martínez"
 source: "wiki/fuentes/julio-martinez-borro.md"
-updated: "2026-05-25"
+updated: "2026-06-11"
 tags: [persona, investigado]
 ---
 
@@ -24,6 +24,7 @@ Empresario y presidente de Plus Ultra Líneas Aéreas, investigado en la Audienc
 
 - **Actualización [2026-05-27]**: La UDEF halla en su domicilio cientos de páginas manuscritas y una agenda corporativa de la aerolínea (ROS - Doc. 003) que contienen anotaciones de Estado sobre la liberación de presos venezolanos, intervención del CNI y la repatriación forzada de Edmundo González, así como un plan de negocios petrolero (PDVSA 50%) y compraventa de oro con comisiones del 10% disimuladas en el Bandes. (Fuente: [[las-notas-manuscritas-de-julio-martinez-senalan-di]])
 - **Actualización [2026-06-01]**: Se desvelan detalles clave de las anotaciones de su agenda negra (página 27): planificaba liberar al 20% de presos venezolanos (cifrados en 337 y 146) y proponía que incluyera a "los dos del CNI" (los vascos José María Basoa y Andrés Martínez, presos en El Rodeo I). Asimismo, registraba directrices para que el enlace [[eudoro-gonzalez-dellan]] propusiera el exilio de [[edmundo-gonzalez-urrutia]], confirmando la fuga de información sensible de los servicios secretos bajo sospecha de la actual directora [[esperanza-casteleiro]]. (Fuente: [[alerta-en-el-cni-zapatero-tiene-acceso]])
+- **Actualización [2026-06-11] (Fichaje de Márquez de Prado y posible colaboración)**: Julio Martínez procedió a relevar su representación de defensa jurídica tras la renuncia de su letrado [[bernardo-del-rosal|Bernardo del Rosal]]. Contrató a la prestigiosa ex fiscal y abogada penalista [[maria-dolores-marquez-de-prado|María Dolores Márquez de Prado]], frustrando la operación política de la cúpula del PSOE que buscaba "colocarle" al exministro de Justicia [[francisco-caamano-dominguez|Francisco Caamaño]] para supervisar y mantener coordinadas las defensas. Fuentes de su defensa no descartan iniciar una línea de colaboración judicial con la fiscalía (similar a la de Víctor de Aldama) si el expresidente Zapatero intenta transferirle toda la responsabilidad de los cobros en sus declaraciones de los días 17 y 18 de junio ante el juez Calama. (Fuente: [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]])
 
 ## Referencias cruzadas
 - [[caso-plus-ultra]]
@@ -35,10 +36,14 @@ Empresario y presidente de Plus Ultra Líneas Aéreas, investigado en la Audienc
 - [[edmundo-gonzalez-urrutia]]
 - [[esperanza-casteleiro]]
 - [[eudoro-gonzalez-dellan]]
+- [[maria-dolores-marquez-de-prado]]
+- [[francisco-caamano-dominguez]]
+- [[bernardo-del-rosal]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[zapatero-utilizo-a-su]]
 - [[las-notas-manuscritas-de-julio-martinez-senalan-di]]
 - [[alerta-en-el-cni-zapatero-tiene-acceso]]
+- [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]]
 

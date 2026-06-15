@@ -1,7 +1,7 @@
 ---
 title: "Pedro Sánchez Pérez-Castejón"
 source: "wiki/fuentes/la-obsesion-que-vinculo-a-sanchez-con-venezuela.md"
-updated: "2026-06-03"
+updated: "2026-06-12"
 tags: [persona, secretario-general]
 ---
 
@@ -40,7 +40,10 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 - **Actualización [2026-06-03] (Finalidad de las Cloacas)**: El sumario de más de 400 folios del caso SEPI - Cloacas revela que el fin último del complot orquestado desde la Secretaría de Organización del PSOE consistía en *"proteger los intereses puestos en juego"* en causas penales con afectación al partido y, directa o indirectamente, al presidente Pedro Sánchez y a ciertos miembros de su gabinete. (Fuente: [[la-uco-dice-que-el-fin-ultimo-de-las-cloacas-era-proteger-los-intereses]])
 - **Actualización [2026-06-05] (Desconfianza del DAO y uso de DGP contra la UCO)**: Anotaciones manuscritas de la agenda de Leire Díez revelan que Sánchez desconfiaba profundamente del Director Adjunto Operativo (DAO) de la Guardia Civil (*"Pedro no se fía del DAO"*). Asimismo, se desvela que se acordó en una comida entre Moncloa y el Director General de la Policía (DGP), [[francisco-pardo]], que la Policía Nacional investigara a la [[unidad-central-operativa|UCO]] para neutralizar sus indagaciones por corrupción. (Fuente: [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao|Nueva libreta de Leire Díez: "Pedro no se fía del DAO, DGP investiga a la UCO"]])
 - **Actualización [2026-06-05] (Libreta Cantabria 2025: Reunión con P.S.)**: Anotaciones manuscritas en la agenda de Leire Díez de 2025 registran una *"Reunión con P.S."* el 3 de enero de 2025. Las siglas "P.S." coinciden con las del presidente. Asimismo, bajo la fecha del *"19/2/2025"* figura una directiva para *"cambiar relato"* vinculada a los nombres *"Emma López"* y *"Belen (Óscar Puente)"*. Coincidentemente, en esa misma fecha la agenda oficial de Pedro Sánchez en Moncloa registra una reunión internacional y un posterior almuerzo real en el Palacio Real. (Fuente: [[reunion-con-p-s-y-cambiar-relato-las-dos-anotaciones]])
-
+- **Actualización [2026-06-08]**: Apuntes manuscritos de la agenda de Leire Díez intervenida por la UCO desvelan un pacto original de control de la línea editorial del Grupo Prisa firmado tras el desembarco de Joseph Oughourlian (*"La línea editorial la marca PS y la estrategia Joseph"*), así como la estrategia de que Telefónica compre Prisa para colocar a José Miguel Contreras de presidente. (Fuente: [[la-agenda-de-leire-senala-un-pacto-entre-sanchez-y-oughourlian|La agenda de Leire señala un pacto entre Sánchez y Oughourlian: "La línea editorial de Prisa la marca PS"]])
+- **Actualización [2026-06-08]**: El magistrado de la Audiencia Nacional Santiago Pedraz se plantea imputar penalmente al [[psoe|PSOE]] de Pedro Sánchez como persona jurídica por un delito de organización criminal en el marco del Caso SEPI - Cloacas. Como paso previo, la UCO ha solicitado el programa de cumplimiento normativo (*compliance*) de la formación y ha requerido auditorías bancarias de sus cuentas desde 2024. (Fuente: [[pedraz-se-plantea-imputar-al-psoe-de-sanchez-por-organizacion-criminal]])
+- **Actualización [2026-06-09] (Aparición del email pedrosanchez1212)**: Durante la fase final del juicio contra su hermano David en Badajoz, la acusación popular desveló que este desvió avisos de incompatibilidad y su documentación personal a la dirección de email *"pedrosanchez1212"* (a la que catalogaba como *"papa*" en el asunto). Dicha dirección de correo electrónico figura a su vez en los informes de la UCO correspondientes al sumario del Caso SEPI - Cloacas de la Audiencia Nacional. (Fuente: [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212]])
+- **Actualización [2026-06-12] (Constitucionalidad de gobernar sin presupuestos)**: Se revela que el presidente del Tribunal Constitucional, Cándido Conde-Pumpido, ha creado un grupo de trabajo integrado por letrados afines izquierdistas para convalidar su prórroga indefinida de los presupuestos de 2023 durante los ejercicios 2024, 2025 y 2026, buscando neutralizar el conflicto de atribuciones planteado por el Senado. (Fuente: [[pumpido-crea-un-grupo-de-trabajo-para-declarar-constitucional]])
 
 ## Referencias cruzadas
 - [[hospital-ramon-y-cajal]]
@@ -60,7 +63,17 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 - [[emma-lopez]]
 - [[belen-villar-sanchez]]
 - [[oscar-puente]]
-
+- [[joseph-oughourlian]]
+- [[jose-miguel-contreras]]
+- [[oscar-lopez]]
+- [[andoni-ortuzar]]
+- [[manuel-de-la-rocha]]
+- [[javier-de-paz]]
+- [[adolfo-utor]]
+- [[diego-urdiales]]
+- [[grupo-prisa]]
+- [[telefonica]]
+- [[psoe]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -74,4 +87,9 @@ Presidente del Gobierno de España y Secretario General del Partido Socialista O
 - [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao|Nueva libreta de Leire Díez: "Pedro no se fía del DAO, DGP investiga a la UCO"]]
 - [[las-cloacas-del-psoe-apuntaron-a-marlaska-para-comprar-a-jueces|Las cloacas del PSOE apuntaron a Marlaska para 'comprar' a jueces de la Audiencia Nacional: "Que hable con Guevara"]]
 - [[reunion-con-p-s-y-cambiar-relato-las-dos-anotaciones|Reunión con P.S. y cambiar relato: las dos anotaciones que aparecen en la agenda de Leire Díez]]
+- [[la-agenda-de-leire-senala-un-pacto-entre-sanchez-y-oughourlian|La agenda de Leire señala un pacto entre Sánchez y Oughourlian: "La línea editorial de Prisa la marca PS"]]
+- [[pedraz-se-plantea-imputar-al-psoe-de-sanchez-por-organizacion-criminal]]
+- [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212]]
+- [[pumpido-crea-un-grupo-de-trabajo-para-declarar-constitucional]]
+
 

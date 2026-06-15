@@ -1,7 +1,7 @@
 ---
 title: "José Grinda"
 source: "wiki/fuentes/la-cloaca-del-psoe-ofrecio-300000-euros.md"
-updated: "2026-06-05"
+updated: "2026-06-10"
 tags: [caso-sepi-cloacas, persona]
 ---
 
@@ -16,6 +16,7 @@ José Grinda es un fiscal de la Fiscalía Especial contra la Corrupción y la Cr
 - **Actualización [2026-06-04]**: Su name vuelve a figurar explícitamente en la libreta Campus de [[leire-diez-castro]] intervenida por la UCO, clasificado en los esquemas manuscritos de la fontanera como uno de los objetivos judiciales que debían ser neutralizados por la red de hostigamiento del PSOE. (Fuente: [[la-libreta-azul-de-leire-diez-la-uco-intervino]])
 - **Actualización [2026-06-04] (El origen del chantaje y Miriam)**: El sumario desclasificado revela que la red criminal de Ferraz utilizó a Nervis Villalobos para localizar en Jaén a [[miriam-jaen|Miriam]], denunciante contra Grinda en 2009 por supuesto envío de vídeos sexuales a menor (causa penal archivada en 2017 y abierta en vía civil). La cloaca trajo a Miriam a Madrid para reunirse con Santos Cerdán y Leire Díez el 25 de octubre de 2024 con la finalidad de instrumentalizar su demanda civil como palanca de extorsión, ofreciendo a Grinda desactivar el litigio si él archivaba sus causas e incriminaba a Alejandro Luzón. A cambio de esta ayuda de Miriam, Leire Díez ordenó a Juan Francisco Serrano que la colocara en la empresa pública de residuos [[resurja]]. (Fuente: [[juanfran-serrano-coloco-a-la-denunciante-de-grinda]])
 - **Actualización [2026-06-05] (Investigación del blanqueo de Venezuela)**: Las transcripciones de las escuchas revelan que Grinda ha investigado durante más de diez años las cuentas de Venezuela y de PDVSA en Banco Madrid y la BPA de Andorra buscando rastros de blanqueo de capitales bolivariano, lo cual generó un profundo temor en las cloacas del PSOE ante la posibilidad de que Víctor de Aldama colaborase con él. (Fuente: [[el-psoe-temia-que-aldama-hablase-de-maduro]])
+- **Actualización [2026-06-10] (La anotación llamar a Miriam Serrano)**: Se revela que la agenda intervenida de Leire Díez, bajo la fecha de *"asuntos pendientes"* del 14 de febrero de 2025, recogía explícitamente la anotación *"llamar a Miriam Serrano"*. El informe de la UCO constata que la fontanera se aproximó a Miriam (denunciante de Grinda) mediante encuentros y conversaciones para consumar la extorsión contra el fiscal anticorrupción. (Fuente: [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
@@ -39,4 +40,5 @@ José Grinda es un fiscal de la Fiscalía Especial contra la Corrupción y la Cr
 - [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 - [[juanfran-serrano-coloco-a-la-denunciante-de-grinda|Juanfran Serrano, alto cargo de Organización, colocó a la denunciante del fiscal Grinda por orden de la cloaca del PSOE]]
 - [[el-psoe-temia-que-aldama-hablase-de-maduro|El PSOE temía que Aldama hablase de Maduro: "Sabes lo que puede colaborar con todo lo de Venezuela..."]]
+- [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco]]
 

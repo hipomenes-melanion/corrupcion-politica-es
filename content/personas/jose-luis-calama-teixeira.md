@@ -1,7 +1,7 @@
 ---
 title: "José Luis Calama Teixeira"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-25"
+updated: "2026-06-11"
 tags: [persona, magistrado]
 ---
 
@@ -68,12 +68,17 @@ Magistrado titular del Juzgado Central de Instrucción n.º 4 de la Audiencia Na
 - **Actualización [2026-05-25]**: Dicta un auto en el sumario del Caso Plus Ultra por el que acuerda incoar dos piezas separadas de investigación penal autónoma (PDP 2/2026 y PDP 3/2026), ordenando desgajar los atestados policiales de la UDEF que reflejan presuntos delitos financieros cometidos por terceras personas ajenas al núcleo de la trama de Zapatero. (Fuente: [[el-juez-calama-abre-dos-piezas-separadas]])
 
 - **Actualización [2026-05-27]**: El Caso Plus Ultra, inicialmente asignado y archivado provisionalmente tras varias presiones de la fiscalía en el Juzgado de Instrucción nº 15 de Madrid, acabó siendo remitido en marzo de 2026 a su juzgado (Juzgado Central de Instrucción nº 4 de la Audiencia Nacional) para investigar a Zapatero por organización criminal y blanqueo de capitales. (Fuente: [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]])
+- **Actualización [2026-06-11] (Declaración de Zapatero señalada)**: El magistrado José Luis Calama señaló para los próximos 17 y 18 de junio de 2026 las declaraciones de José Luis Rodríguez Zapatero en calidad de investigado por organización criminal, tráfico de influencias y falsedad. Al mismo tiempo, en su juzgado se registra el cambio de defensa de Julio Martínez, quien fichó a María Dolores Márquez de Prado, abriéndose la posibilidad de una colaboración judicial de Martínez si la declaración del expresidente le traslada responsabilidades. (Fuente: [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]])
 
 ## Referencias cruzadas
 - [[el-juez-calama-abre-dos-piezas-separadas]]
 - [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]
+- [[maria-dolores-marquez-de-prado]]
+- [[francisco-caamano-dominguez]]
+- [[bernardo-del-rosal]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[el-juez-calama-abre-dos-piezas-separadas]]
 - [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]
+- [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]]

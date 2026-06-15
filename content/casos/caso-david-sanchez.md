@@ -1,7 +1,7 @@
 ---
 title: "Caso David Sánchez"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-03"
+updated: "2026-06-15"
 tags: [caso-david-sanchez]
 ---
 
@@ -11,13 +11,13 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
 ## Detalles
 ### Informaciones
 - **Órgano Jurisdiccional**: [[audiencia-provincial-de-badajoz]] (Sección Penal)
-- **Magistrado Instructor / Tribunal de Enjuiciamiento**: José Antonio Patrocinio (Tribunal de Enjuiciamiento Sección Penal. Anteriormente: [[beatriz-biedma-buendia]])
+- **Magistrado Instructor / Tribunal de Enjuiciamiento**: [[jose-antonio-patrocinio]] (Presidente), [[dolores-fernandez]] (Magistrada) y [[emilio-serrano]] (Ponente). (Anteriormente: [[beatriz-biedma-buendia]] como magistrada instructora)
 - **Representación del Ministerio Fiscal**: [[begona-garcia]] (Fiscal de la Audiencia Provincial de Badajoz)
 - **Procedimiento**: Procedimiento de Juicio Oral (Derivado de las Diligencias Previas 692/2024 del [[juzgado-de-instruccion-3-de-badajoz]])
-- **Fase Procesal Actual**: **Fase de Plenario / Juicio Oral en desarrollo.** Tras el arranque de las sesiones el 1 de junio y la resolución de las cuestiones previas en la segunda jornada el 2 de junio de 2026, el tribunal mantiene vivo el enjuiciamiento por prevaricación y tráfico de influencias.
+- **Fase Procesal Actual**: **Visto para sentencia (9 de junio de 2026)**. El juicio oral concluyó el 9 de junio de 2026 tras 7 sesiones, quedando "concluso para sentencia". Se prevé que el fallo se retrase hasta finales de julio o septiembre de 2026 debido a la carga de trabajo y la complejidad de contar con 11 acusados.
 - **Investigados / Encausados Principales** (Peticiones Definitivas de Penas):
-  - [[david-sanchez-perez-castejon]] (Acusaciones populares: 6 años de prisión. Manos Limpias/Fiscalía: 3 años de prisión).
-  - [[miguel-angel-gallardo-miranda]] (Acusaciones populares: 4 años de prisión. Manos Limpias/Fiscalía: 1.5 años de prisión).
+  - [[david-sanchez-perez-castejon]] (Acusaciones populares: 6 años de prisión. Manos Limpias: 3 años de prisión. Fiscalía: Absolución).
+  - [[miguel-angel-gallardo-miranda]] (Acusaciones populares: 4 años de prisión. Manos Limpias: 1.5 años de prisión. Fiscalía: Absolución).
   - **Personas de Interés**: [[pedro-sanchez-fernandez]] (padre), [[luis-carrero]] (amigo de David Sánchez y beneficiario mercantil; pena pedida de 1.5 a 2 años de prisión e inhabilitación de 9 a 10 años), [[leonardo-marcos]] (ex Director General de la Guardia Civil), [[manuel-llamas]] (DAO de la Guardia Civil), [[emilio-cortes]] (abogado defensor).
   - **Co-encausados y personal de la Diputación**: [[elisa-moriano-morales]], Cristina Núñez y Félix González (Hazte Oír: hasta 1 año de prisión; Vox: 5-10 años de inhabilitación); Emilia Parejo, Francisco Martos, Ricardo Cabezas, Manuel Candalijas y Juana Cintas (Hazte Oír: 1.5 años de prisión; Vox: 5-10 años de inhabilitación).
   - **Acusación Popular**: [[luis-maria-pardo]] (Letrado de Iustitia Europa), PP, Vox, Hazte Oír, Liberum y Abogados Cristianos.
@@ -34,6 +34,7 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
 - **Presiones y Boicot desde la Cúpula de Interior (Revelaciones de junio de 2026)**: Declaraciones de agentes de la Guardia Civil ante la UCO constatan graves presiones ejercidas en julio de 2024 para tapar la causa:
   - **Exculpación Ordenada**: El Director General [[leonardo-marcos]] calificó el requerimiento judicial de correos electrónicos de David Sánchez como *"prospectivo y malintencionado"*, exigiendo redactar de inmediato un informe que afirmase *"que no había nada"*, sin importar dejar a la UCO sin vacaciones.
   - **Inacción Impuesta ("De Perfil")**: El DAO de la Guardia Civil, teniente general [[manuel-llamas]], se reunió con los investigadores y les ordenó que en procedimientos con "afectación política" no se fuese proactivo y *"que nos pusiéramos de perfil"*, forzando a que la iniciativa recayera estrictamente en el juez instructor.
+  - **Investigación reservada y amonestación por el correo de Begoña Gómez (Enero de 2025)**: Se desvela que el DAO Manuel Llamas ordenó incoar una investigación reservada a través del General Jefe del Estado Mayor de la Guardia Civil sobre el equipo de Antonio Balas tras incorporarse un correo de Begoña Gómez en las pesquisas de David Sánchez. Aunque la indagación se archivó sin sanción grave, forzó al Coronel Jefe de la UCO a amonestar verbalmente al analista responsable e informó a la Directora Mercedes González el 13 de enero de 2025.
 - **Primera sesión del Juicio Oral e Inicio de la Vista (1 de junio de 2026)**: Durante el arranque de las sesiones en la [[audiencia-provincial-de-badajoz]] se resolvieron cuestiones previas y declararon los primeros testigos, saliendo a la luz revelaciones sumamente incriminatorias:
   - **Manipulación de Actas por Recursos Humanos**: Se destapó un informe de la UCO del 10 de julio de 2017 (una semana después de que Podemos solicitara aclarar la adjudicación de la plaza del 30 de junio) que acredita que Recursos Humanos manipuló el expediente. El *informe inicial* declaraba que ningún candidato excepto David Sánchez cumplía los requisitos. Para disimular el enchufe y enviarlo a la jueza Beatriz Biedma, se fabricó un *segundo informe* que declaraba aptos a otros 5 aspirantes, elevó la nota de David Sánchez de 90 a 100 puntos y le dedicó 11 líneas de elogios en contraste con la línea y media del resto. Los hechos fueron denunciados en sala por el letrado [[luis-maria-pardo]].
   - **Destrucción de Evidencias**: El exdirector del Conservatorio, [[evaristo-valenti]], confesó bajo juramento haber borrado sistemáticamente todos los correos electrónicos internos donde se hablaba del enchufe y contratación de David Sánchez.
@@ -55,10 +56,16 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
   - **Declaración de Luis Carrero**: Sostuvo que las bases de su plaza eran neutras, abiertas y que no hacía las labores de David Sánchez al no ser músico. Explicó que deseaba retornar a Extremadura tras abandonar su cargo en Presidencia del Gobierno en Moncloa, y que David Sánchez le avisó de que se convocaría una plaza de refuerzo. (Fuente: [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era]])
 - **Escritos de Conclusiones Definitivas y Elevación de Penas (4 de junio de 2026)**: Tras terminar el periodo testifical, las partes fijaron sus conclusiones definitivas en plenario, registrándose incrementos notables en las solicitudes de condena:
   - **Acusaciones Populares (PP, Vox, Hazte Oír, Iustitia Europa, Liberum, Abogados Cristianos)**: Elevaron a 6 años de prisión su petición para David Sánchez (solicitando 2 años por cada uno de los tres delitos concurrentes: nombramiento de 2017, cambio de denominación y contratación de Luis Carrero) y a 4 años para Miguel Ángel Gallardo.
-  - **Manos Limpias y Fiscalía**: Manos Limpias mantuvo la petición en 3 años para David Sánchez y la rebajó a 1 año y medio para Miguel Ángel Gallardo por la prescripción de los cargos menores de nombramiento ilegal. La Fiscalía respaldó plenamente este posicionamiento.
+  - **Manos Limpias**: Mantuvo la petición en 3 años de prisión para David Sánchez y la rebajó a 1 año y medio para Miguel Ángel Gallardo por la prescripción de los cargos menores de nombramiento ilegal.
+  - **Fiscalía**: Ratificó su solicitud de libre absolución para los 11 acusados al entender que no están acreditados los cargos penales.
   - **Luis Carrero**: Se solicitan entre 1 año y medio y 2 años de prisión, más inhabilitación especial de entre 9 y 10 años en concepto de inductor de tráfico de influencias.
   - **Oposición de las Defensas**: Los abogados defensores presentaron quejas formales alegando indefensión por modificación extemporánea de la calificación jurídica. El tribunal desestimó la protesta dado que los hechos materiales juzgados no habían cambiado. (Fuente: [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de]])
+- **Fase de informes finales (8 de junio de 2026)**: El juicio oral se reanudó con la presentación de los informes de conclusiones. La acusación de Manos Limpias calificó la Oficina de Artes Escénicas como *"un traje a medida"* creado para David Sánchez, cuyo único mérito real era su parentesco con Pedro Sánchez, remarcando que era una plaza de alta dirección innecesaria, sin control real de la prestación de sus servicios y con la eliminación injustificada de incompatibilidades. A su vez, la acusación de Hazte Oír destacó la coincidencia temporal de la gestación del puesto de alta dirección, apenas dos días antes de que Pedro Sánchez ganara las primarias internas del PSOE en mayo de 2017. (Fuente: [[las-acusaciones-populares-la-oficina-de-artes-escenicas-era-un-traje-a-medida-para-david-sanchez]])
+- **Petición de absolución definitiva de la Fiscalía (8 de junio de 2026)**: La fiscal del proceso, Begoña García Boró, elevó a definitivo su informe de conclusiones solicitando la absolución de todos los procesados. Fundamentó su decisión en que de la instrucción y las pruebas aportadas en la vista oral no se desprenden indicios delictivos acreditados, ratificando su criterio favorable al sobreseimiento mantenido durante toda la causa. (Fuente: [[la-fiscalia-pide-la-absolucion-de-david-sanchez-y-de-los-otros-10-acusados]])
+- **Revelación de correos e incompatibilidad (9 de junio de 2026)**: Durante la fase de conclusiones del juicio, la acusación de Iustitia Europa (a través del letrado Luis María Pardo) expuso un informe de la UCO en el que se desvela que David Sánchez desvió 5 correos electrónicos personales y oficiales a la dirección *"pedrosanchez1212"* (marcada por él mismo en el asunto como *"papa*" en alusión a su padre Pedro Sánchez Fernández). Entre ellos se encuentra un correo interno de la Diputación del que fue destinatario donde se advertía explícitamente que la asignación de su plaza era incompatible *"a todas luces"*, sugiriéndose firmar un Protocolo con la Orquesta Sin Fronteras para eludir temporalmente la incompatibilidad que marcaba el EBEP. La incompatibilidad se sorteó de forma permanente tres años después al reconducirse su cargo a jefe de la Oficina de Artes Escénicas. La dirección *"pedrosanchez1212"* figura también en las piezas del Caso SEPI - Cloacas de la Audiencia Nacional. (Fuente: [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212]])
+- **Conclusión del Juicio y Retraso de la Sentencia (9 de junio de 2026)**: El presidente del tribunal, José Antonio Patrocinio, declaró el juicio oral visto para sentencia a las 11:00 horas del martes 9 de junio de 2026, tras siete sesiones y las declaraciones de 11 acusados y más de 40 testigos. David Sánchez rechazó su derecho a la última palabra, mientras que Gallardo denunció la "condena social" generada por las acusaciones populares. Fuentes jurídicas informan que la sentencia se demorará previsiblemente hasta finales de julio o septiembre de 2026 debido a la carga de trabajo del tribunal y al volumen de acusados (11 en total). (Fuente: [[la-sentencia-sobre-david-sanchez-puede-retrasarse-hasta-despues-del-verano]])
 - **El boicot coordinado "Vacaciones y Viajes" (Revelaciones de junio de 2026)**: El sumario de las cloacas destapa la existencia del grupo de chat *"Vacaciones y Viajes"* (integrado por [[leire-diez-castro]], [[luis-jose-saenz-de-tejada]], [[javier-perez-dolset]] y [[javier-parra]]) para desestabilizar la instrucción de la jueza Beatriz Biedma. Sus estrategias contemplaban la asunción de la defensa de David Sánchez, la interposición de una denuncia contra los magistrados de Badajoz redactada por Sáenz de Tejada y enviada a [[santos-cerdan-leon]], y su intento de personación como acusación popular el 19 de febrero de 2025. Dicha personación fue rechazada el 5 de marzo de 2025 por la magistrada Biedma mediante Auto por constituir un **abuso de derecho**.
+- **La recusación frustrada de la jueza Biedma (Revelaciones de junio de 2026)**: El nuevo informe de la UCO revela que las libretas manuscritas incautadas en la sede del PSOE a Santos Cerdán contenían la directriz de presionar para recusar a la jueza Beatriz Biedma: *"Badajoz, que Fiscalía apoye la recusación"*. La trama, a través de Leire Díez, pretendía forzar el despido del letrado de David Sánchez (Emilio Cortés) a favor del afín Luis José Sáenz de Tejada para controlar su defensa o, subsidiariamente, actuar como acusación popular para recusar a la instructora. El complot fracasó al rechazar la Fiscalía la recusación y defender formalmente la honorabilidad de Biedma el primer día del juicio. (Fuente: [[la-uco-halla-libretas-de-santos-cerdan]])
 
 
 ## Referencias cruzadas
@@ -74,6 +81,10 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
 - [[luis-jose-saenz-de-tejada]]
 - [[javier-parra]]
 - [[leire-diez-trato-de-desestabilizar-el-caso-david-sanchez]]
+- [[jose-antonio-patrocinio]]
+- [[dolores-fernandez]]
+- [[emilio-serrano]]
+- [[la-uco-halla-libretas-de-santos-cerdan]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
@@ -90,3 +101,10 @@ Investigación en torno al presunto trato de favor, malversación de fondos púb
 - [[leire-diez-trato-de-desestabilizar-el-caso-david-sanchez|Leire Díez trató de desestabilizar el caso David Sánchez: "Mi prioridad: el presidente"]]
 - [[david-sanchez-en-el-juicio-la-oficina-de-artes-escenicas-no-era|David Sánchez, en el juicio: "La Oficina de Artes Escénicas no era un lugar físico, sino una categoría administrativa"]]
 - [[las-acusaciones-populares-elevan-a-6-anos-de-prision-su-peticion-de|Las acusaciones populares elevan a 6 años de prisión su petición de pena para David Sánchez]]
+- [[las-acusaciones-populares-la-oficina-de-artes-escenicas-era-un-traje-a-medida-para-david-sanchez]]
+- [[la-fiscalia-pide-la-absolucion-de-david-sanchez-y-de-los-otros-10-acusados]]
+- [[david-sanchez-reenvio-un-correo-de-la-diputacion-que-alertaba-de-su-incompatibilidad-al-email-pedrosanchez1212]]
+- [[la-sentencia-sobre-david-sanchez-puede-retrasarse-hasta-despues-del-verano]]
+- [[la-uco-halla-libretas-de-santos-cerdan|La UCO halla libretas de Santos Cerdán con notas contra la juez Biedma: "Badajoz, que Fiscalía apoye la recusación"]]
+- [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco|El DAO de la Guardia Civil amonestó al jefe de la UCO por incluir un correo de Begoña en la causa de David Sánchez]]
+

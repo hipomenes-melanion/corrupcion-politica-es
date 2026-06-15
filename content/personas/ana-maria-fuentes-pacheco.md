@@ -1,7 +1,7 @@
 ---
 title: "Ana María Fuentes Pacheco"
 source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
-updated: "2026-05-30"
+updated: "2026-06-08"
 tags: [persona, investigado, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -17,6 +17,7 @@ Ana María Fuentes Pacheco es la gerente de la Secretaría de Organización del 
 ## Cronología de Actualizaciones
 - **Actualización [2026-05-27]**: Imputada formalmente en la trama SEPI por el juez Santiago Pedraz, ordenando registros domiciliarios y el requerimiento de contabilidad y facturación contable en Ferraz. (Fuente: [[santos-cerdan-zarrias-y-la-gerente-del]])
 - **Actualización [2026-05-30]**: El juez Santiago Pedraz ha ordenado en su auto de requerimiento en Ferraz el copiado inmediato de todas las cuentas y servidores de correo electrónico corporativo de Ana María Fuentes en la Gerencia del partido. (Fuente: [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]])
+- **Actualización [2026-06-08]**: El magistrado de la Audiencia Nacional destaca en su auto el concierto penal directo de la gerente del [[psoe|PSOE]], Ana María Fuentes, al emitir las órdenes de encargo administrativas sobre las que se elaboraban facturas mendaces (falsas) con el fin de desviar fondos del partido en favor de Leire Díez para sufragar las actividades ilícitas de las cloacas. (Fuente: [[pedraz-se-plantea-imputar-al-psoe-de-sanchez-por-organizacion-criminal]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -27,9 +28,11 @@ Ana María Fuentes Pacheco es la gerente de la Secretaría de Organización del 
 - [[gaspar-zarrias]]
 - [[ismael-oliver]]
 - [[jacobo-teijelo-casanova]]
+- [[psoe]]
 
 ## Fuentes
 - [[la-uco-entra-en-ferraz-para-desmantelar]]
 - [[santos-cerdan-zarrias-y-la-gerente-del]]
 - [[el-psoe-pago-178000-euros-a-la-cloaca]]
 - [[el-juez-pedraz-autorizo-el-uso-de-la-fuerza-en-ferraz]]
+- [[pedraz-se-plantea-imputar-al-psoe-de-sanchez-por-organizacion-criminal]]

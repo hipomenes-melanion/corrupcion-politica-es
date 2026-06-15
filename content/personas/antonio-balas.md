@@ -1,7 +1,7 @@
 ---
 title: "Antonio Balas"
 source: "wiki/fuentes/luzon-corrige-a-aldama.md"
-updated: "2026-06-04"
+updated: "2026-06-15"
 tags: [persona, guardia-civil, uco, caso-koldo, caso-david-sanchez]
 ---
 
@@ -15,6 +15,8 @@ Antonio Balas es el teniente coronel de la Unidad Central Operativa (UCO) de la 
 - **Objetivo de la Red de Cloacas**: Su nombre y cargo figuran en las anotaciones manuscritas de la libreta Campus de [[leire-diez-castro]] intervenida por la UCO. Balas fue calificado como un objetivo de hostigamiento y desacreditación por parte de la trama socialista debido a su papel clave en la instrucción de las investigaciones de corrupción que afectaban al Gobierno y al partido socialista (como el Caso Koldo y el Caso David Sánchez).
 - **Intento de Difamación y Extorsión (Junio de 2026)**: El sumario de las cloacas de Ferraz desvela que Leire Díez y Javier Pérez Dolset presionaron al empresario [[joaquin-parra]] exigiéndole información incriminatoria y datos en su contra para neutralizar sus investigaciones. A cambio, Díez ofreció a Parra usar su influencia para que la fiscalía retirara los cargos que mantenía en su contra. (Fuente: [[leire-diez-tuvo-reuniones-y-metio-mano]])
 - **La inquina y el temor de las cloacas (Junio de 2026)**: Grabaciones del sumario desvelan que las cloacas socialistas le tenían un profundo temor y resentimiento por su firmeza en la persecución del delito, calificándolo en sus chats con la frase *"hace lo que le sale de los huevos"*. Yepes le criticó por registros a Koldo García (donde la UCO entró armada por riesgo de atrincheramiento en su armero) y al inspector de policía [[oscar-sanchez-gil|Óscar Sánchez Gil]] (jefe de la UDEF detenido con 20 millones). La trama le describía como el jefe de la Unidad de la Fiscalía Anticorrupción, grupos de delincuencia económica y el probable futuro jefe de la UCO por haber liderado también el Caso ERE. (Fuente: [[la-inquina-de-la-cloaca-al-teniente-coronel-balas]])
+- **Complot de desprestigio de la UCO (Junio de 2026)**: En la reunión grabada de casi tres horas de la cloaca, los cabecillas de la red le situaron en la cúspide de una supuesta conspiración entre la Guardia Civil, la Fiscalía Anticorrupción y la derecha para derrocar al Gobierno de Pedro Sánchez, buscando desacreditar a la UCO tumbando causas en cascada para contrarrestar sus investigaciones de corrupción. (Fuente: [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]])
+- **Investigación reservada contra su equipo (Enero de 2025)**: Tras incorporar un correo de Begoña Gómez en un informe judicial del caso David Sánchez, el DAO Manuel Llamas incoó de manera irregular una investigación reservada a través del General Jefe del Estado Mayor de la Guardia Civil sobre el equipo de Balas. Balas tuvo que prestar declaración y aportar una nota técnica justificando la relevancia del correo. La investigación concluyó sin sanción penal o disciplinaria grave pero obligando a que se amonestara verbalmente al analista de su equipo que redactó el informe. (Fuente: [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco]])
 
 ## Referencias cruzadas
 - [[caso-koldo]]
@@ -37,6 +39,7 @@ Antonio Balas es el teniente coronel de la Unidad Central Operativa (UCO) de la 
 - [[jacobo-teijelo-casanova]]
 - [[la-inquina-de-la-cloaca-al-teniente-coronel-balas]]
 - [[oscar-sanchez-gil]]
+- [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco]]
 
 ## Fuentes
 - [[luzon-corrige-a-aldama]]
@@ -44,3 +47,6 @@ Antonio Balas es el teniente coronel de la Unidad Central Operativa (UCO) de la 
 - [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 - [[leire-diez-tuvo-reuniones-y-metio-mano]]
 - [[la-inquina-de-la-cloaca-al-teniente-coronel-balas|La inquina de la cloaca al teniente coronel Balas: "Hace lo que le sale de los huevos"]]
+- [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]]
+- [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco|El DAO de la Guardia Civil amonestó al jefe de la UCO por incluir un correo de Begoña en la causa de David Sánchez]]
+

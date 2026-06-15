@@ -1,7 +1,7 @@
 ---
-title: "Miriam"
+title: "Miriam Serrano"
 source: "wiki/fuentes/juanfran-serrano-coloco-a-la-denunciante-de-grinda.md"
-updated: "2026-06-04"
+updated: "2026-06-10"
 tags:
   - persona
   - testigo
@@ -9,13 +9,14 @@ tags:
 ---
 
 ## Biografía y Litigio con José Grinda
-Vecina de la provincia de Jaén (originaria de la localidad de Alcalá la Real). En el año 2009, interpuso una denuncia penal contra el fiscal anticorrupción **[[jose-grinda]]** por la supuesta remisión de vídeos de carácter sexual a una menor de edad. La causa penal instruida en los juzgados fue archivada definitivamente en el año 2017. No obstante, el litigio continuó abierto y tramitándose a través de la vía de la jurisdicción civil en reclamación de daños y perjuicios.
+Miriam Serrano (vecina de la provincia de Jaén y originaria de la localidad de Alcalá la Real, conocida en el sumario inicial como Miriam o "Miriam Jaén"). En el año 2009, interpuso una denuncia penal contra el fiscal anticorrupción **[[jose-grinda]]** por la supuesta remisión de vídeos de carácter sexual a una menor de edad. La causa penal instruida en los juzgados fue archivada definitivamente en el año 2017. No obstante, el litigio continuó abierto y tramitándose a través de la vía de la jurisdicción civil en reclamación de daños y perjuicios.
 
 ## Captación por las Cloacas del PSOE
 El sumario del Caso SEPI - Cloacas y los informes de la Unidad Central Operativa ([[unidad-central-operativa|UCO]]) revelan que la red criminal de Ferraz la localizó e instrumentalizó para su beneficio político:
 - **Localización mediante Nervis Villalobos**: La fontanera socialista **[[leire-diez-castro]]** utilizó las influencias y contactos del ex viceministro de energía venezolano de la era chavista, **[[nervis-villalobos]]**, para rastrearla en Jaén. Villalobos logró contactarla y propiciar su acercamiento a la trama.
 - **Viaje a Madrid y Cita con la Cúpula**: Nervis organizó y financió su desplazamiento a Madrid con el único fin de entrevistarse con los directores de la trama. El 25 de octubre de 2024, mantuvo una reunión secreta en la capital española en la que participaron Leire Díez Castro y el entonces secretario de Organización del PSOE, **[[santos-cerdan-leon]]** (*"el número tres del partido"*).
 - **Colaboración contra el Fiscal**: Tras la reunión, Miriam agradeció a Leire Díez el trato recibido. En los chats de Signal intervenidos, Díez le informó que estaba *"preparando cosas contra el tiparraco"* (en referencia a José Grinda, quien investigaba al entorno de Pedro Sánchez), a lo que Miriam contestó: *"ahí, ahí, se le va a caer el pelo"*. La cloaca del PSOE planeaba proponerle a Grinda un soborno/pacto de impunidad a cambio de que Miriam retirase la demanda civil que le afectaba.
+- **Actualización [2026-06-10] (Anotación en la agenda de Leire)**: La agenda manuscrita de Leire Díez intervenida por la UCO confirma, bajo el listado de *"asuntos pendientes"* del 14 de febrero de 2025, la anotación manuscrita *"llamar a Miriam Serrano"*, ratificando las pesquisas de la UCO sobre las aproximaciones y encuentros de la fontanera para coordinar el hostigamiento contra el fiscal anticorrupción. (Fuente: [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco]])
 
 ## Pago de Impunidad y Colocación Laboral
 Como retribución por prestarse al hostigamiento del fiscal anticorrupción, la red socialista de Ferraz le facilitó beneficios laborales:
@@ -31,3 +32,4 @@ Como retribución por prestarse al hostigamiento del fiscal anticorrupción, la 
 - [[juan-francisco-serrano]]
 - [[resurja]]
 - [[juanfran-serrano-coloco-a-la-denunciante-de-grinda]]
+- [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco]]

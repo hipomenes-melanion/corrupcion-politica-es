@@ -1,7 +1,7 @@
 ---
 title: "Caso Zapatero"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-03"
+updated: "2026-06-15"
 tags: [caso-zapatero, caso-sepi-cloacas]
 ---
 
@@ -17,6 +17,7 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - **Investigados / Encausados Principales**:
   - [[jose-luis-rodriguez-zapatero]]
   - [[victor-moreno-catena]] (Abogado penalista defensor / Letrado de confianza)
+  - [[antonio-camacho]] (Abogado penalista colaborador)
 - **Tipos Penales Imputados**: Organización criminal, tráfico de influencias y falsedad documental por presunto blanqueo y desvío de capitales vinculados a tramas de rescate y flujos opacos.
 
 
@@ -33,11 +34,14 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - Los flujos financieros y comisiones ilegales eran canalizados por la estructura delictiva hacia cuentas y sociedades offshore creadas en Dubái.
 - **Afectación y lobby en el Tribunal Constitucional**: La imputación penal de Zapatero por organización criminal y blanqueo por el juez Calama ha golpeado el ánimo de su amigo íntimo, el presidente del TC, [[candido-conde-pumpido]]. Zapatero seleccionó como letrado defensor a [[victor-moreno-catena]] (abogado de confianza del PSOE que defendió a [[carmen-martinez-aguayo]] en el caso de los ERE, a quien Conde-Pumpido amnistió en el TC de forma encubierta en julio de 2024 junto a Gaspar Zarrías), lo que facilita contactos y asesoría informal de la red en la presidencia del TC.
 - **Vínculos con el presunto espía chino Miguel Dhul (Junio de 2026)**: Testificales de la UCO de la causa de las cloacas desvelan que la red mantenía "oculto y controlado" a Miguel Dhul, ciudadano de origen chino calificado por el CNI como presunto espía de Pekín y amigo íntimo de Zapatero (quien es padrino de sus dos hijos). Dhul fue quien introdujo y contrató en Huawei Technologies España a Víctor de Aldama, sospechándose que Zapatero le dio instrucciones de ocultación temporal para eludir la acción de la justicia. (Fuente: [[el-sumario-de-las-cloacas-llega-a-zapatero-tenian-oculto-y-controlado]])
-
+- **Fichaje de Márquez de Prado en Plus Ultra (11 de junio de 2026)**: El pánico se ha instalado en el PSOE ante el fichaje de la penalista independiente [[maria-dolores-marquez-de-prado|María Dolores Márquez de Prado]] para defender a [[julio-martinez-martinez|Julio Martínez]] (en sustitución de [[bernardo-del-rosal|Bernardo del Rosal]]), cortocircuitando el plan de proponer a [[francisco-caamano-dominguez|Francisco Caamaño]] como su abogado. Se abre el riesgo de una delación e inicio de colaboración judicial de Martínez si la declaración del expresidente (defendido por [[victor-moreno-catena|Víctor Moreno Catena]]) los días 17 y 18 de junio ante el juez Calama intenta responsabilizarle de los delitos del caso. (Fuente: [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]])
+- **Denuncia ante Hacienda por joyas intervenidas (11 de junio de 2026)**: El sindicato [[manos-limpias|Manos Limpias]] ha presentado una denuncia tributaria formal ante la AEAT contra Zapatero por el hallazgo de joyas y collares con piedras preciosas en su caja fuerte por la UDEF. La denuncia tacha de inverosímil el argumento de que provengan de una herencia de su esposa, y sospecha que podrían ser pagos en especie por intermediación con Venezuela introducidas vía valija diplomática, señalando asimismo que el expresidente intentó tasarlas en Ansorena sin éxito al carecer de certificados. (Fuente: [[denuncian-a-zapatero-ante-hacienda-por-las-joyas-intervenidas]])
+- **Estrategia de defensa y pieza por contrabando de joyas (15 de junio de 2026)**: Se devela la colaboración entre su letrado Víctor Moreno Catena y el abogado penalista Antonio Camacho para articular una defense coordinada de cara a su declaración como investigado ante la Audiencia Nacional los días 17 y 18 de junio. Mientras Moreno Catena recurre a la vía procesal de nulidad de actuaciones ante el juez Calama, Camacho refuerza la defensa sustantiva. Asimismo, Calama ha abierto una pieza separada por delito fiscal y contrabando al no estar justificado el origen de las joyas intervenidas en su despacho (tasadas en 1,32 millones de euros). (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
 
 ## Referencias cruzadas
 - [[caso-koldo]] (conexión de piezas en la Audiencia Nacional)
 - [[caso-plus-ultra]] (conexión por mediación y rescate de la aerolínea)
+- [[antonio-camacho]] (Abogado penalista colaborador)
 - [[candido-conde-pumpido]]
 - [[victor-moreno-catena]]
 - [[carmen-martinez-aguayo]]
@@ -51,12 +55,17 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - [[miguel-dhul]]
 - [[pepe-ruz]]
 - [[huawei-technologies-espana]]
-
+- [[maria-dolores-marquez-de-prado]]
+- [[francisco-caamano-dominguez]]
+- [[bernardo-del-rosal]]
+- [[javier-gomez-de-liano]]
+- [[manos-limpias]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
 - [[cerco-a-zapatero-el-juez-destapa-los-pagos-millon|Cerco a Zapatero el juez destapa los pagos millonarios a su entorno]]
 - [[denuncian-a-zapatero-ante-hacienda-para-que-se-inv|Denuncian a Zapatero ante Hacienda para que se investiguen sus ingresos opacos de Venezuela]]
+- [[el-abogado-de-begona-gomez-colabora-con-el-letrado|El abogado de Begoña Gómez colabora con el letrado de Zapatero en el caso Plus Ultra]]
 - [[el-juez-calama-bloquea-las-cuentas-bancarias-de-za|El juez Calama bloquea las cuentas bancarias de Zapatero]]
 - [[el-juez-calama-investiga-el-pago-de-12-millones-a|El juez Calama investiga el pago de 1,2 millones a Zapatero a través de un 'think tank' relacionado con China]]
 - [[el-juez-rechaza-el-registro-en-casa-de-zapatero-pe|El juez rechaza el registro en casa de Zapatero pero le achaca un patrón que encaja en el blanqueo de capitales]]
@@ -84,5 +93,6 @@ Pieza separada que investiga presuntos flujos financieros opacos, blanqueo de ca
 - [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero|Calama bloqueó parcialmente las cuentas de Zapatero por "riesgo" de que transfiriese fondos al extranjero]]
 - [[alerta-en-el-cni-zapatero-tiene-acceso|Alerta en el CNI: Zapatero tiene acceso a información sensible sobre Venezuela y China]]
 - [[el-sumario-de-las-cloacas-llega-a-zapatero-tenian-oculto-y-controlado|El sumario de las cloacas llega a Zapatero: tenían "oculto y controlado" a un amigo de la dictadura china]]
-
+- [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado|Pánico en el PSOE tras el fichaje de la abogada Márquez de Prado para defender al amigo de Zapatero]]
+- [[denuncian-a-zapatero-ante-hacienda-por-las-joyas-intervenidas|Denuncian a Zapatero ante Hacienda por las joyas intervenidas por la UDEF Hacienda somos todos]]
 
