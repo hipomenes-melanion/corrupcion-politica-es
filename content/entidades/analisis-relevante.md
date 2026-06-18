@@ -1,7 +1,7 @@
 ---
 title: "Análisis Relevante"
 source: "wiki/fuentes/calama-bloqueo-parcialmente-las-cuentas-de-zapatero.md"
-updated: "2026-05-31"
+updated: "2026-06-18"
 tags: [entidad, empresa, caso-plus-ultra, caso-zapatero]
 ---
 
@@ -18,6 +18,8 @@ Análisis Relevante S.L. (o Análisis Relevante) es una sociedad mercantil de ca
   - **490.780 euros** transferidos de manera directa a cuentas personales de [[jose-luis-rodriguez-zapatero]].
   - **239.755 euros** transferidos a las cuentas de la sociedad mercantil [[what-the-fav]], de la que son socias y gestoras las hijas del expresidente (incluyendo a [[alba-rodriguez-espinosa]]).
 - **Intervención y bloqueo judicial total**: En el auto dictado a finales de mayo de 2026, el magistrado [[jose-luis-calama-teixeira]] decretó el bloqueo integral de todas las cuentas bancarias de la sociedad mercantil. El instructor argumenta que el carácter instrumental de la sociedad e incipiente de la instrucción, sumado a la mezcla y sucesivas operaciones de circulación opaca del capital, justifican una medida inmovilizadora de máxima amplitud para evitar el vaciamiento patrimonial y deslocalización de activos.
+- **Actualización [2026-06-18] (Acreditación del flujo societario)**: El auto del juez Calama del 18 de junio de 2026 corrobora que Análisis Relevante estuvo controlada de manera formal por [[julio-martinez-martinez]]. Confirma la recepción de 368.258,72 euros procedentes de [[inteligencia-prospectiva]] y el posterior desvío de 490.780 euros a [[jose-luis-rodriguez-zapatero]] y de 239.755 euros a [[what-the-fav]]. (Fuente: [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas]])
+- **Actualización [2026-06-18] (Justificación de cobros de 70.000 €/año)**: Durante su declaración judicial como investigado, Zapatero defendió la legitimidad de los cobros anuales de 70.000 euros procedentes de esta sociedad (cuyo importe total cobrado coincide con el 1% del valor del rescate a la aerolínea). Declaró que Análisis Relevante le pagaba dicha cantidad por redactar "informes de geopolítica", justificando la elevada cuantía por su supuesto alto valor estratégico, si bien la instrucción constató que constaban únicamente de párrafos copiados de la web de la Unión Europea. (Fuente: [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades]])
 
 ## Referencias cruzadas
 - [[caso-zapatero]]
@@ -32,3 +34,5 @@ Análisis Relevante S.L. (o Análisis Relevante) es una sociedad mercantil de ca
 
 ## Fuentes
 - [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero|Calama bloqueó parcialmente las cuentas de Zapatero por "riesgo" de que transfiriese fondos al extranjero]]
+- [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas]]
+- [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades]]

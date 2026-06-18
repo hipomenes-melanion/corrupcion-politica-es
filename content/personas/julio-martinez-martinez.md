@@ -1,7 +1,7 @@
 ---
 title: "Julio Martínez Martínez"
 source: "wiki/fuentes/julio-martinez-borro.md"
-updated: "2026-06-11"
+updated: "2026-06-18"
 tags: [persona, investigado]
 ---
 
@@ -25,6 +25,9 @@ Empresario y presidente de Plus Ultra Líneas Aéreas, investigado en la Audienc
 - **Actualización [2026-05-27]**: La UDEF halla en su domicilio cientos de páginas manuscritas y una agenda corporativa de la aerolínea (ROS - Doc. 003) que contienen anotaciones de Estado sobre la liberación de presos venezolanos, intervención del CNI y la repatriación forzada de Edmundo González, así como un plan de negocios petrolero (PDVSA 50%) y compraventa de oro con comisiones del 10% disimuladas en el Bandes. (Fuente: [[las-notas-manuscritas-de-julio-martinez-senalan-di]])
 - **Actualización [2026-06-01]**: Se desvelan detalles clave de las anotaciones de su agenda negra (página 27): planificaba liberar al 20% de presos venezolanos (cifrados en 337 y 146) y proponía que incluyera a "los dos del CNI" (los vascos José María Basoa y Andrés Martínez, presos en El Rodeo I). Asimismo, registraba directrices para que el enlace [[eudoro-gonzalez-dellan]] propusiera el exilio de [[edmundo-gonzalez-urrutia]], confirmando la fuga de información sensible de los servicios secretos bajo sospecha de la actual directora [[esperanza-casteleiro]]. (Fuente: [[alerta-en-el-cni-zapatero-tiene-acceso]])
 - **Actualización [2026-06-11] (Fichaje de Márquez de Prado y posible colaboración)**: Julio Martínez procedió a relevar su representación de defensa jurídica tras la renuncia de su letrado [[bernardo-del-rosal|Bernardo del Rosal]]. Contrató a la prestigiosa ex fiscal y abogada penalista [[maria-dolores-marquez-de-prado|María Dolores Márquez de Prado]], frustrando la operación política de la cúpula del PSOE que buscaba "colocarle" al exministro de Justicia [[francisco-caamano-dominguez|Francisco Caamaño]] para supervisar y mantener coordinadas las defensas. Fuentes de su defensa no descartan iniciar una línea de colaboración judicial con la fiscalía (similar a la de Víctor de Aldama) si el expresidente Zapatero intenta transferirle toda la responsabilidad de los cobros en sus declaraciones de los días 17 y 18 de junio ante el juez Calama. (Fuente: [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]])
+- **Actualización [2026-06-17] (Agropecuaria Lucena y desvíos a What The Fav)**: El sumario judicial detalla que su sociedad Agropecuaria Lucena realizó transferencias de 20.993,50 euros a What The Fav (sociedad de las hijas de Zapatero) en el ejercicio 2020. Asimismo, su sociedad Análisis Relevante canalizaba comisiones de Plus Ultra, Sofgestor, Inteligencia Prospectiva y Aldeasa hacia el expresidente y What The Fav. (Fuente: [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero]])
+- **Actualización [2026-06-18] (Flujos financieros de Análisis Relevante)**: El auto del juez Calama desvela que Martínez controlaba formalmente la sociedad [[analisis-relevante]], a través de la cual se canalizaron transferencias millonarias procedentes del rescate de [[plus-ultra-lineas-aereas]], [[softgestor]] y [[grupo-aldesa]]. Concretamente, Análisis Relevante recibió fondos de estas entidades y de [[inteligencia-prospectiva]], transfiriendo posteriormente 490.780 euros a [[jose-luis-rodriguez-zapatero]] y 239.755 euros a [[what-the-fav]]. (Fuente: [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas]])
+- **Actualización [2026-06-18] (Justificación de informes de geopolítica)**: Durante su declaración judicial, el expresidente Zapatero le calificó como su "amigo", detallando que quedan habitualmente para hacer *footing*, y justificó los pagos anuales de 70.000 euros de su sociedad [[analisis-relevante]] afirmando que correspondían a "informes de geopolítica", a pesar de que las pesquisas constataron que eran extractos copiados directamente de la página de la Unión Europea. (Fuente: [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades]])
 
 ## Referencias cruzadas
 - [[caso-plus-ultra]]
@@ -39,6 +42,9 @@ Empresario y presidente de Plus Ultra Líneas Aéreas, investigado en la Audienc
 - [[maria-dolores-marquez-de-prado]]
 - [[francisco-caamano-dominguez]]
 - [[bernardo-del-rosal]]
+- [[agropecuaria-lucena]]
+- [[what-the-fav]]
+- [[analisis-relevante]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -46,4 +52,6 @@ Empresario y presidente de Plus Ultra Líneas Aéreas, investigado en la Audienc
 - [[las-notas-manuscritas-de-julio-martinez-senalan-di]]
 - [[alerta-en-el-cni-zapatero-tiene-acceso]]
 - [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]]
-
+- [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero|La primera juez del caso Plus Ultra ya investigaba a las hijas de Zapatero por integrar la organización criminal]]
+- [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas]]
+- [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades]]

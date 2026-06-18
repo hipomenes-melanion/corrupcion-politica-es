@@ -1,7 +1,7 @@
 ---
 title: "Log de ingestión"
 source: "CLAUDE.md"
-updated: "2026-06-15"
+updated: "2026-06-18"
 tags: [log, registro]
 ---
 
@@ -335,6 +335,13 @@ tags: [log, registro]
 - **[2026-06-15]** - La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE ✅
 - **[2026-06-15]** - La UCO halla libretas de Santos Cerdán con notas contra la juez Biedma Badajoz, que Fiscalía apoye la recusación ✅
 - **[2026-06-15]** - El DAO de la Guardia Civil amonestó al jefe de la UCO por incluir un correo de Begoña en la causa de David Sánchez ✅
+- **[2026-06-15]** - Así ha sido la comparecencia de Begoña Gómez ante el juez ✅
+- **[2026-06-16]** - La cloaca del PSOE intentó comprar al fiscal Stampa tras reunirse con el nº 2 de García Ortiz en la Fiscalía ✅
+- **[2026-06-17]** - La primera juez del caso Plus Ultra ya investigaba a las hijas de Zapatero por integrar la organización criminal ✅
+- **[2026-06-17]** - El nuevo DAO de la Policía impulsó la investigación contra Zapatero: "Santafé se le ha ido de las manos al Gobierno" ✅
+- **[2026-06-18]** - Calama sentencia a Zapatero: acredita transferencias entre sus cuentas relacionadas con el rescate de Plus Ultra ✅
+- **[2026-06-18]** - Zapatero dice al juez que cobraba grandes cantidades por sus informes porque trataban sobre "geopolítica" ✅
+
 
 
 

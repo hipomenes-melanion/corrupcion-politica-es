@@ -1,7 +1,7 @@
 ---
 title: "Relación de Fuentes y Casos Judiciales"
 source: "CLAUDE.md"
-updated: "2026-06-15"
+updated: "2026-06-18"
 tags: [analisis, fuentes, casos]
 ---
 
@@ -9,7 +9,7 @@ tags: [analisis, fuentes, casos]
 
 Este documento contiene la relación completa y organizada de todas las páginas fuente de la wiki, facilitando la navegación nativa en Obsidian a través de wikilinks hacia las fuentes y sus respectivos casos.
 
-Total de fuentes registradas: **293**
+Total de fuentes registradas: **299**
 
 | Título de la Página Fuente | Caso Judicial (Etiquetas) |
 | :--- | :--- |
@@ -37,10 +37,12 @@ Total de fuentes registradas: **293**
 | [[alerta-en-el-tribunal-de-cuentas-de-chicano\|Alerta en el Tribunal de Cuentas de Chicano la investigación sobre la financiación ilegal del PSOE les puede salpicar]] | [[caso-hidrocarburos]], [[caso-koldo]], [[caso-zapatero]] |
 | [[anticorrupcion-abre-la-puerta-a-que-aldama-no-entr\|Anticorrupción abre la puerta a que Aldama no entre en prisión tras su confesión]] | [[caso-koldo]] |
 | [[apamate-la-empresa-que-canalizo-los-cupos-de-pdvs\|Apamate, la empresa que canalizó los cupos de PDVSA con Zapatero para financiar ilegalmente al PSOE]] | [[caso-hidrocarburos]], [[caso-koldo]] |
+| [[asi-ha-sido-la-comparecencia-de-begona-gomez-ante-el-juez\|Así ha sido la comparecencia de Begoña Gómez ante el juez]] | [[caso-begona-gomez]] |
 | [[audiencia-badajoz-exonera-david-sanchez\|La Audiencia de Badajoz exonera a David Sánchez del delito de aceptación de nombramiento ilegal al estar prescrito]] | [[caso-david-sanchez]] |
 | [[aviones-de-la-aerolinea-plus-ultra-entregaron-en-espana\|Aviones de la aerolínea Plus Ultra entregaron en España regalos muy valiosos de Nicolás Maduro]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[begona-gomez-uso-una-cuenta-compartida-con-pedro-s\|Begoña Gómez usó una cuenta compartida con Pedro Sánchez para registrar el software de la Complutense]] | [[caso-begona-gomez]], [[caso-zapatero]] |
 | [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero\|Calama bloqueó parcialmente las cuentas de Zapatero por "riesgo" de que transfiriese fondos al extranjero]] | [[caso-plus-ultra]], [[caso-zapatero]] |
+| [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas\|Calama sentencia a Zapatero: acredita transferencias entre sus cuentas relacionadas con el rescate de Plus Ultra]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[carmen-pano-al-chofer-que-le-llevo-a-ferraz\|Carmen Pano, al chófer que le llevó a Ferraz Álvaro, tenemos que ir a Ferraz a llevar dinero]] | [[caso-hidrocarburos]], [[caso-koldo]] |
 | [[caso-forestalia-antxon-alonso-dejo-de-administrar\|Caso Forestalia Antxon Alonso dejó de administrar una sociedad investigada el día que Santos Cerdán fue excarcelado]] | [[caso-forestalia]], [[caso-koldo]] |
 | [[caso-forestalia-la-guardia-civil-descubre-un-cont\|Caso Forestalia la Guardia Civil descubre un contrato privado de Fernando Samper con un ex alto cargo de Lambán]] | [[caso-forestalia]], [[caso-zapatero]] |
@@ -94,6 +96,7 @@ Total de fuentes registradas: **293**
 | [[el-llanto-desconsolado-de-jessica-en-el-supremo-al\|El llanto desconsolado de Jéssica en el Supremo al recordar su relación con Ábalos Teníamos una relación monógama]] | [[caso-koldo]] |
 | [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez\|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]] | [[caso-sepi-cloacas]] |
 | [[el-ministerio-de-ribera-apartaba-a-trabajadores-co\|El Ministerio de Ribera apartaba a trabajadores contrarios a Forestalia por razones que se desconocen]] | [[caso-forestalia]], [[caso-zapatero]] |
+| [[el-nuevo-dao-de-la-policia-impulso-la-investigacion-contra-zapatero\|El nuevo DAO de la Policía impulsó la investigación contra Zapatero: "Santafé se le ha ido de las manos al Gobierno"]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[el-psoe-deja-al-descubierto-la-mayor-mentira-de-le\|El PSOE deja al descubierto la mayor mentira de Leire Díez en sede judicial]] | [[caso-koldo]], [[caso-sepi-cloacas]] |
 | [[el-psoe-destino-18000-euros-de-la-campana-de-teresa-ribera-a-comprar-audios\|El PSOE destinó 18.000 euros de la campaña de Teresa Ribera a comprar audios de las saunas de Sabiniano]] | [[caso-sepi-cloacas]] |
 | [[el-psoe-pago-178000-euros-a-la-cloaca\|El PSOE pagó 178.000 euros a la cloaca para ir a por jueces como Biedma, Alaya y Peinado]] | [[caso-begona-gomez]], [[caso-david-sanchez]], [[caso-leire-hirurok]], [[caso-sepi-cloacas]] |
@@ -150,6 +153,7 @@ Total de fuentes registradas: **293**
 | [[la-causa-de-garcia-ortiz-es-el\|La causa de García Ortiz es el banco de pruebas para librar a Sánchez de la justicia desacreditando al Supremo]] | [[caso-fiscal-general-del-estado]] |
 | [[la-cloaca-contra-la-juez-alaya-que-podemos-destapar-de-ella\|La cloaca contra la juez Alaya: "¿Qué podemos destapar de ella?"]] | [[caso-sepi-cloacas]] |
 | [[la-cloaca-del-psoe-intento-apartar-a-choclan-como-abogado-de-aldama\|La cloaca del PSOE intentó apartar a Choclán como abogado de Aldama y recabar información de su defensa]] | [[caso-hidrocarburos]], [[caso-koldo]], [[caso-sepi-cloacas]] |
+| [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa\|La cloaca del PSOE intentó comprar al fiscal Stampa tras reunirse con el nº 2 de García Ortiz en la Fiscalía]] | [[caso-sepi-cloacas]] |
 | [[la-cloaca-del-psoe-ofrecio-300000-euros\|La cloaca del PSOE ofreció 300.000 euros a un fiscal para 'cazar' a Luzón]] | [[caso-begona-gomez]], [[caso-leire-hirurok]], [[caso-sepi-cloacas]] |
 | [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo\|La cloaca del PSOE: "Si caen en cascada varios procedimientos, todo el prestigio de la UCO se va a tomar por culo"]] | [[caso-sepi-cloacas]] |
 | [[la-cloaca-ofrecio-a-villarejo-un-pacto-a-cambio-de-audios\|La cloaca ofreció a Villarejo un pacto a cambio de audios de Rajoy y el BBVA]] | [[caso-sepi-cloacas]] |
@@ -202,6 +206,7 @@ Total de fuentes registradas: **293**
 | [[la-nota-de-leire-diez-que-apunta-a-miembros-de-la-uco\|La nota de Leire Díez que apunta a miembros de la UCO: "TIP instructores UCO de los ERE y causas de Andalucía"]] | [[caso-sepi-cloacas]] |
 | [[la-obsesion-que-vinculo-a-sanchez-con-venezuela\|La obsesión que vinculó a Sánchez con Venezuela Necesitaba financiación para la Internacional Socialista]] | [[caso-hidrocarburos]], [[caso-koldo]], [[caso-zapatero]] |
 | [[la-operacion-leire-salpica-a-la-presidenta-del-t\|La 'operación Leire' salpica a la presidenta del Tribunal de Recursos Contractuales, colocada por Mª Jesús Montero]] | [[caso-leire-hirurok]], [[caso-zapatero]] |
+| [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero\|La primera juez del caso Plus Ultra ya investigaba a las hijas de Zapatero por integrar la organización criminal]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[la-renuncia-del-abogado-de-abalos-pone-en-peligro\|La renuncia del abogado de Ábalos pone en peligro el inicio del primer juicio de la trama Koldo]] | [[caso-koldo]] |
 | [[la-secretaria-de-abalos-confirma-que-jesica-acudio\|La secretaria de Ábalos confirma que Jésica acudió a 13 viajes oficiales del Ministerio]] | [[caso-koldo]] |
 | [[la-sentencia-sobre-david-sanchez-puede-retrasarse-hasta-despues-del-verano\|La sentencia sobre David Sánchez puede retrasarse hasta después del verano]] | [[caso-david-sanchez]] |
@@ -302,6 +307,7 @@ Total de fuentes registradas: **293**
 | [[una-testigo-denuncia-el-amano-con-david-sanchez\|Una testigo denuncia el amaño con David Sánchez: "Me dijeron que el puesto era para el hermano de Pedro Sánchez"]] | [[caso-david-sanchez]] |
 | [[varapalo-a-oscar-puente-en-el-juicio-de-la-trama-k\|Varapalo a Óscar Puente en el juicio de la trama Koldo]] | [[caso-koldo]] |
 | [[varapalo-para-la-fiscalia-la-audiencia-nacional-a\|Varapalo para la Fiscalía la Audiencia Nacional admite a trámite el recurso de Julio Iglesias]] | [[caso-accion-penal-julio-iglesias]], [[caso-zapatero]] |
+| [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades\|Zapatero dice al juez que cobraba grandes cantidades por sus informes porque trataban sobre "geopolítica"]] | [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[zapatero-utilizo-a-su\|Zapatero utilizó a su lacayo Julio Martínez para cobrar de Plus Ultra Por ahí vendrá la mordida]] | [[caso-koldo]], [[caso-plus-ultra]], [[caso-zapatero]] |
 | [[zapatero-al-borde-de-la-imputacion-por-el-caso-pl\|Zapatero, al borde de la imputación por el caso Plus Ultra en la Audiencia Nacional]] | [[caso-koldo]], [[caso-zapatero]] |
 | [[zapatero-imputado-por-organizacion-criminal-traf\|Zapatero, imputado por organización criminal, tráfico de influencias y falsedad]] | [[caso-koldo]], [[caso-zapatero]] |

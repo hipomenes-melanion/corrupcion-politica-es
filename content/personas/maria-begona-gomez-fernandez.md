@@ -104,6 +104,7 @@ Esposa del presidente del Gobierno, investigada por presunto tráfico de influen
 - **Actualización [2026-06-13] (Referencia en la agenda de Leire Díez)**: En las libretas manuscritas intervenidas a Leire Díez consta la anotación *"Causa mascarillas derivada a Air Europa y Begoña"*, en alusión al desvío de las investigaciones del caso mascarillas/Koldo hacia el rescate de Air Europa y la causa de Begoña Gómez instruida en el Juzgado de Instrucción 41. (Fuente: [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]])
 - **Actualización [2026-06-15] (Colaboración letrada de su abogado)**: Se desvela que su abogado defensor, Antonio Camacho, colabora de forma estrecha con Víctor Moreno Catena (abogado de Zapatero) de cara a la defensa de este último en la causa Plus Ultra, asesorándole en los aspectos sustantivos de la defensa penal. (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
 - **Actualización [2026-06-15] (Presiones policiales por su correo en el caso David Sánchez)**: La inclusión de un correo electrónico suyo en un informe judicial de David Sánchez motivó que el DAO Manuel Llamas abriera una investigación reservada a través del Estado Mayor contra la UCO para exigir responsabilidades a los investigadores de la Unidad, lo que culminó en la amonestación verbal de un analista. (Fuente: [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco]])
+- **Actualización [2026-06-15] (Audiencia preliminar de la Ley del Jurado)**: Compareció obligatoriamente en los Juzgados de Plaza de Castilla ante el juez Peinado en la vistilla preliminar a juicio. En ella, la acusación popular (Hazte Oír) solicitó la retirada de su pasaporte y comparecencias quincenales por riesgo de fuga. Las defensas pidieron infructuosamente cambiar de sala debido al ruido exterior generado por manifestantes con megáfonos. (Fuente: [[asi-ha-sido-la-comparecencia-de-begona-gomez-ante-el-juez]])
 
 ## Referencias cruzadas
 - [[antonio-camacho]]
@@ -117,6 +118,8 @@ Esposa del presidente del Gobierno, investigada por presunto tráfico de influen
 - [[el-ultimo-informe-de-la-uco-destapa-un-nuevo-delito-de-begona-gomez]]
 - [[las-notas-de-leire-diez-protocolo-de-crisis]]
 - [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco]]
+- [[jose-maria-de-pablo]]
+- [[javier-maria-perez-roldan]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
@@ -125,3 +128,4 @@ Esposa del presidente del Gobierno, investigada por presunto tráfico de influen
 - [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]]
 - [[el-abogado-de-begona-gomez-colabora-con-el-letrado|El abogado de Begoña Gómez colabora con el letrado de Zapatero en el caso Plus Ultra]]
 - [[el-dao-de-la-guardia-civil-amonesto-al-jefe-de-la-uco|El DAO de la Guardia Civil amonestó al jefe de la UCO por incluir un correo de Begoña en la causa de David Sánchez]]
+- [[asi-ha-sido-la-comparecencia-de-begona-gomez-ante-el-juez|Así ha sido la comparecencia de Begoña Gómez ante el juez]]

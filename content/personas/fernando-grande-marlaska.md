@@ -1,7 +1,7 @@
 ---
 title: "Fernando Grande-Marlaska"
 source: "wiki/fuentes/la-denuncia-contra-el-dao.md"
-updated: "2026-06-13"
+updated: "2026-06-17"
 tags: [persona, ministro, interior]
 ---
 
@@ -19,6 +19,7 @@ Fernando Grande-Marlaska Gómez es el ministro del Interior del Gobierno de Espa
 - **Actualización [2026-06-05] (Investigación a la UCO)**: Anotaciones manuscritas de Leire Díez apuntan a que en una comida entre Moncloa y el DGP [[francisco-pardo]], se urdió para que la Dirección General de la Policía (DGP), bajo su dependencia en el Ministerio del Interior, investigara a la UCO de la Guardia Civil para cortocircuitar e interferir en sus investigaciones de corrupción que afectaban al entorno del presidente Pedro Sánchez. (Fuente: [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao|Nueva libreta de Leire Díez: "Pedro no se fía del DAO, DGP investiga a la UCO"]])
 - **Actualización [2026-06-05] (Mediación con Alfonso Guevara)**: Anotaciones de la agenda de Leire Díez sitúan al ministro en una operativa de cooptación judicial en la Audiencia Nacional. Las notas de la red de Ferraz instaban a que *"Marlaska que hable con Guevara"* (el magistrado [[alfonso-guevara-marcos]], con quien compartió judicatura en la AN), ofreciendo a cambio una *"posibilidad de ascenso"*. (Fuente: [[las-cloacas-del-psoe-apuntaron-a-marlaska-para-comprar-a-jueces|Las cloacas del PSOE apuntaron a Marlaska para 'comprar' a jueces de la Audiencia Nacional: "Que hable con Guevara"]])
 - **Actualización [2026-06-13] (Enchufismo y contravigilancia a Leire Díez)**: Anotaciones manuscritas en la agenda de Leire Díez señalan que el ministro y su Secretario de Estado de Seguridad [[rafael-perez-ruiz]] ("Rafa" Pérez) están *"pillados por la UCO"* debido a la contratación de un familiar de este último (el cuñado de Pérez Ruiz, trasladado de Sevilla a Madrid). A su vez, se desvela que el Ministerio del Interior costeó un servicio de contravigilancia policial durante dos meses en favor de Leire Díez tras iniciarse las revelaciones de las cloacas del PSOE, contradiciendo sus declaraciones en el Senado negando el uso de escolta. (Fuente: [[la-agenda-de-leire-diez-marlaska-esta-pillado|La agenda de Leire Díez: "Marlaska está pillado por la UCO, enchufó al cuñado del S.E."]])
+- **Actualización [2026-06-17] (Designación de José Santafé como DAO)**: Designó en marzo de 2026 al comisario principal [[jose-santafe-arnedo|José Santafé]] como nuevo DAO de la Policía Nacional en sustitución de [[jose-angel-gonzalez]]. Fuentes policiales apuntan que el Gobierno creía que podría controlarle y que la designación "se le ha ido de las manos", facilitando que la UDEF reactivara la investigación del caso Plus Ultra contra Zapatero. (Fuente: [[el-nuevo-dao-de-la-policia-impulso-la-investigacion-contra-zapatero]])
 
 
 ## Referencias cruzadas
@@ -33,6 +34,7 @@ Fernando Grande-Marlaska Gómez es el ministro del Interior del Gobierno de Espa
 - [[alfonso-guevara-marcos]]
 - [[rafael-perez-ruiz]]
 - [[la-agenda-de-leire-diez-marlaska-esta-pillado]]
+- [[jose-santafe-arnedo]]
 
 
 
@@ -43,6 +45,7 @@ Fernando Grande-Marlaska Gómez es el ministro del Interior del Gobierno de Espa
 - [[nueva-libreta-de-leire-diez-pedro-no-se-fia-del-dao|Nueva libreta de Leire Díez: "Pedro no se fía del DAO, DGP investiga a la UCO"]]
 - [[las-cloacas-del-psoe-apuntaron-a-marlaska-para-comprar-a-jueces|Las cloacas del PSOE apuntaron a Marlaska para 'comprar' a jueces de la Audiencia Nacional: "Que hable con Guevara"]]
 - [[la-agenda-de-leire-diez-marlaska-esta-pillado|La agenda de Leire Díez: "Marlaska está pillado por la UCO, enchufó al cuñado del S.E."]]
+- [[el-nuevo-dao-de-la-policia-impulso-la-investigacion-contra-zapatero|El nuevo DAO de la Policía impulsó la investigación contra Zapatero: "Santafé se le ha ido de las manos al Gobierno"]]
 
 
 

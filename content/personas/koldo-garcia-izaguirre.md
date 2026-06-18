@@ -1,7 +1,7 @@
 ---
 title: "Koldo García Izaguirre"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-07"
+updated: "2026-06-17"
 tags: [persona, investigado]
 ---
 
@@ -276,6 +276,7 @@ Exasesor del Ministerio de Transportes, Movilidad y Agenda Urbana, investigado c
 - **Actualización [2026-06-03] (Conocedor de la Cloaca)**: Mensajes intervenidos por la UCO contenidos en el sumario revelan que Leire Díez lo identificó (apodándolo *"la ameba"*) como parte del exclusivo grupo de cinco personas que conocían y dirigían la trama de desestabilización judicial de las cloacas de Ferraz, junto a Santos Cerdán, Ismael Oliver, ella misma y su propia mujer, Patricia Úriz. (Fuente: [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez]])
 - **Actualización [2026-06-05] (Defensa Instrumental)**: La UCO desvela que la red criminal de las cloacas del PSOE, coordinada por Leire Díez Castro, instrumentalizó la defensa jurídica de Koldo García (asumida por Ismael Oliver en marzo de 2025) para interponer una batería de 5 denuncias ante la Fiscalía General de Álvaro García Ortiz. El objetivo de estas denuncias era socavar y cuestionar la credibilidad de la UCO, así como forzar la identificación y cruce de números TIP de los agentes que elaboraron los informes de Hidrocarburos, Begoña Gómez, Koldo y del propio Fiscal General. (Fuente: [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco]])
 - **Actualización [2026-06-07]**: Grabaciones intervenidas por la UCO desvelan que la fontanera Leire Díez admite que el PSOE pagó la primera defensa jurídica de Koldo García y de José Luis Ábalos, con el objetivo de controlar el relato político y evitar la desestabilización penal del partido. (Fuente: [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]])
+- **Actualización [2026-06-17] (Relación con el comisario Gómez Martín)**: El auto de inhibición de la juez Collazos del Caso Plus Ultra vincula formalmente al comisario de policía Jesús María Gómez Martín con Koldo García Izaguirre, señalando que el mando policial facilitaba negocios ilícitos de este último en el marco del entramado de Plus Ultra. (Fuente: [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
@@ -289,9 +290,11 @@ Exasesor del Ministerio de Transportes, Movilidad y Agenda Urbana, investigado c
 - [[jose-luis-abalos-meco]]
 - [[javier-perez-dolset]]
 - [[juan-sanchez-yepes]]
+- [[jesus-maria-gomez-martin]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[el-mensaje-de-leire-diez-que-acorrala-a-sanchez|El mensaje de Leire Díez que acorrala a Sánchez: "Ayer le dijo El One a S que estoy haciendo un trabajo enorme"]]
 - [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco|La cloaca usó la defensa de Koldo para 'freir' a denuncias a la UCO ante la Fiscalía de García Ortiz]]
 - [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]]
+- [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero|La primera juez del caso Plus Ultra ya investigaba a las hijas de Zapatero por integrar la organización criminal]]

@@ -1,7 +1,7 @@
 ---
 title: "Juan Carlos Barrabés Cónsul"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-02"
+updated: "2026-06-15"
 tags: [persona, investigado]
 ---
 
@@ -33,9 +33,11 @@ Empresario del sector tecnológico y consultoría, investigado por presunta corr
 
 
 - **Actualización [2026-05-02]**: \ (Fuente: [[la-fiscalia-vuelve-a-cargar-contra-peinado-e-insis]])
+- **Actualización [2026-06-15] (Audiencia preliminar de la Ley del Jurado)**: Compareció de forma obligatoria en los Juzgados de Plaza de Castilla ante el juez Peinado en la vistilla de preparación para juicio. (Fuente: [[asi-ha-sido-la-comparecencia-de-begona-gomez-ante-el-juez]])
 
 ## Referencias cruzadas
 *No se registran notas de contradicción o enlaces adicionales en la fase de ingesta inicial.*
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
+- [[asi-ha-sido-la-comparecencia-de-begona-gomez-ante-el-juez|Así ha sido la comparecencia de Begoña Gómez ante el juez]]

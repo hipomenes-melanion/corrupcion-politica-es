@@ -1,7 +1,7 @@
 ---
 title: "Ignacio Stampa"
 source: "wiki/fuentes/pedraz-senala-los-audios-de-la-cloaca.md"
-updated: "2026-05-28"
+updated: "2026-06-16"
 tags: [persona, fiscal, caso-sepi-cloacas]
 ---
 
@@ -11,7 +11,7 @@ Ignacio Stampa es un fiscal español, exmiembro de la Fiscalía Especial contra 
 ## Detalles clave
 - **Rol principal**: Fiscal del Ministerio Público.
 - **Recepción de la revelación de la cloaca**: Según el auto judicial de la Audiencia Nacional, Stampa mantuvo una reunión con el empresario Javier Pérez Dolset y la fontanera Leire Díez. En dicha cita, Dolset expuso abiertamente que, al revelarse la imputación judicial de Begoña Gómez, *"el Presidente ya dijo, que se limpie todo"*, secundado por Leire Díez con *"límpiese"* y rematado por Dolset con *"límpiese, sin límite"*, revelando la puesta en marcha de la estructura criminal de Ferraz.
-- **Ofrecimiento de captación [Actualización 2026-05-28]**: El auto de la Audiencia Nacional desvela que en julio de 2025, Díez y Dolset mantuvieron una cita con Stampa para proponerle contraprestaciones profesionales, tales como facilitar su retorno a la Fiscalía Especial contra la Corrupción, y personales, como la intercesión en un litigio que el fiscal mantenía activo, a cambio de prestar apoyo a los fines de la organización. (Fuente: [[la-cloaca-del-psoe-ofrecio-300000-euros]])
+- **Intento de soborno de la red socialista [Actualización 2026-06-16]**: El sumario judicial desvela que el 7 de mayo de 2025, en una reunión en casa del empresario [[luis-del-rivero]] (actuando de anfitrión), la fontanera [[leire-diez-castro]] (presentándose como mano derecha de Santos Cerdán) y [[javier-perez-dolset]] intentaron comprar al fiscal. Le ofrecieron facilitar su reingreso a la Fiscalía Anticorrupción a cambio de información comprometedora sobre el fiscal jefe [[alejandro-luzon]]. Stampa grabó la conversación y la entregó a la justicia. Tras destaparse la grabación, Dolset interpuso una denuncia instrumental en su contra ante la FGE para intentar desacreditarle. (Fuente: [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
@@ -19,7 +19,11 @@ Ignacio Stampa es un fiscal español, exmiembro de la Fiscalía Especial contra 
 - [[leire-diez-castro]]
 - [[javier-perez-dolset]]
 - [[pedro-sanchez-perez-castejon]]
+- [[luis-del-rivero]]
+- [[diego-villafane]]
+- [[alejandro-luzon]]
 
 ## Fuentes
 - [[pedraz-senala-los-audios-de-la-cloaca]]
 - [[la-cloaca-del-psoe-ofrecio-300000-euros|La cloaca del PSOE ofreció 300.000 euros a un fiscal para 'cazar' a Luzón]]
+- [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa|La cloaca del PSOE intentó comprar al fiscal Stampa tras reunirse con el nº 2 de García Ortiz en la Fiscalía]]

@@ -1,7 +1,7 @@
 ---
 title: "Leire Díez Castro"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-15"
+updated: "2026-06-16"
 tags: [persona, investigado, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -60,6 +60,7 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - **Actualización [2026-06-14] (Viajes financiados por Ferraz)**: La UCO certifica en un informe que el PSOE pagó sus billetes de avión, tren y alquileres de vehículos para asistir a reuniones clave de las cloacas. Los viajes fueron gestionados por la secretaria Covadonga San Pedro Pascual e incluyen el del 26 de abril de 2024 (ordenado por Santos Cerdán), el del 10 de julio de 2017 (con Dolset a Zaragoza para reunirse con Rafael Salvador por el caso ERE), el del 9 de agosto de 2024 (para reunirse con Villarejo en Madrid) y el de agosto de 2024 a Jerez/Cádiz, donde se alojó en casa de Dolset y le detalló por mensaje a Vicente Fernández que tenía muchas reuniones de trabajo. (Fuente: [[la-uco-certifica-que-los-viajes-de-leire-diez]])
 - **Actualización [2026-06-15] (Documento \"Incumplimientos\" incautado en Ferraz)**: La UCO localizó en Ferraz un documento impreso de su autoría titulado "2024-11-19 Incumplimientos" (cuyo archivo digital fue intervenido en el Lenovo de la fontanera). El impreso demuestra que Díez rendía cuentas detalladas a Santos Cerdán sobre todas las gestiones de la red criminal, incluyendo las operativas con Villarejo, Francisco Martínez, Gonzalo Boye, Luis Sáenz de Tejada y el estado de los fiscales Grinda y Luzón. (Fuente: [[la-uco-localiza-en-ferraz-un-documento]])
 - **Actualización [2026-06-15] (Maniobras sobre la defensa de David Sánchez y recusación de Biedma)**: Informes de la UCO recogen la testifical del empresario [[joaquin-parra]], quien desveló que Leire Díez se reunió con él para proponerle controlar la defensa del hermano del presidente, [[david-sanchez-perez-castejon|David Sánchez]]. Díez le instó a que David Sánchez despidiera a su abogado y contratase a [[luis-jose-saenz-de-tejada]], letrado vinculado a la cloaca. Además, las libretas de Díez contemplaban dos vías: asumir la defensa o personarse como acusación popular para recusar a la jueza [[beatriz-biedma-buendia|Biedma]]. Díez presumía además de tener *"control"* sobre la Fiscalía General del Estado para que esta apoyase la recusación y se tramitaran denuncias instrumentales bajo la Ley 2/2023. (Fuente: [[la-uco-halla-libretas-de-santos-cerdan]])
+- **Actualización [2026-06-16] (Reuniones en FGE e intento de soborno a Stampa)**: El sumario revela que mantuvo hasta cinco reuniones secretas en la sede de la Fiscalía General con [[diego-villafane]] (nº 2 de la FGE) entre marzo y mayo de 2025. Tras estos contactos, el 7 de mayo de 2025 participó junto a Dolset en una reunión organizada por el empresario [[luis-del-rivero]] en la que ofreció al fiscal [[ignacio-stampa]] facilitarle el regreso a Anticorrupción a cambio de información confidencial para forzar el cese del fiscal jefe [[alejandro-luzon]]. (Fuente: [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa]])
 
 
 ## Referencias cruzadas
@@ -163,6 +164,8 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - [[la-uco-certifica-que-los-viajes-de-leire-diez]]
 - [[la-uco-localiza-en-ferraz-un-documento]]
 - [[la-uco-halla-libretas-de-santos-cerdan]]
+- [[diego-villafane]]
+- [[luis-del-rivero]]
 
 
 
@@ -209,6 +212,7 @@ Leire Díez Castro es una exmilitante y "fontanera" de la Secretaría de Organiz
 - [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]]
 - [[la-uco-certifica-que-los-viajes-de-leire-diez|La UCO certifica que los viajes de Leire Díez a reuniones de la cloaca se gestionaban desde Ferraz]]
 - [[la-uco-halla-libretas-de-santos-cerdan|La UCO halla libretas de Santos Cerdán con notas contra la juez Biedma: "Badajoz, que Fiscalía apoye la recusación"]]
+- [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa|La cloaca del PSOE intentó comprar al fiscal Stampa tras reunirse con el nº 2 de García Ortiz en la Fiscalía]]
 
 
 

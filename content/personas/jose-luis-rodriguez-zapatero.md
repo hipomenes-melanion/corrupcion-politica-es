@@ -1,7 +1,7 @@
 ---
 title: "José Luis Rodríguez Zapatero"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-15"
+updated: "2026-06-18"
 tags: [persona, investigado, caso-zapatero, caso-sepi-cloacas]
 ---
 
@@ -647,9 +647,18 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - **Actualización [2026-06-11] (Fichaje de Márquez de Prado en Plus Ultra y reprogramación de declaración)**: El fichaje de la abogada [[maria-dolores-marquez-de-prado|María Dolores Márquez de Prado]] para asumir la defensa de su testaferro [[julio-martinez-martinez|Julio Martínez]] en la causa de la Audiencia Nacional ha desatado preocupación en el PSOE, al frustrar el plan de colocar al exministro de Justicia [[francisco-caamano-dominguez|Francisco Caamaño]] para coordinar las defensas. Asimismo, el juez José Luis Calama reprogramó la comparecencia de Zapatero como investigado para los próximos 17 y 18 de junio de 2026 por delitos de organización criminal, tráfico de influencias y falsedad contable en relación con el desvío de fondos del rescate. Si Zapatero intenta eludir responsabilidades señalando a Martínez, el empresario podría cooperar judicialmente con la fiscalía. (Fuente: [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]])
 - **Actualización [2026-06-11] (Denuncia ante Hacienda por joyas y tasación fallida)**: El sindicato [[manos-limpias|Manos Limpias]] ha presentado una denuncia tributaria formal ante la AEAT para investigar la procedencia y fiscalidad del lote de joyas incautado por la UDEF en el despacho del expresidente. La denuncia tacha de inverosímil el argumento de que el botín provenga de una herencia familiar de su esposa, argumentando que su procedencia es de clase media. Apunta a que podría tratarse de pagos en especie no declarados por labores de intermediación con Venezuela introducidos vía valija diplomática, y resalta que Zapatero intentó tasar las piezas en la joyería Ansorena de Madrid sin éxito al carecer de certificados de autenticidad. (Fuente: [[denuncian-a-zapatero-ante-hacienda-por-las-joyas-intervenidas]])
 - **Actualización [2026-06-15] (Colaboración letrada de Camacho y pieza de contrabando)**: Se desvela que su abogado, Víctor Moreno Catena, colabora de forma estrecha con Antonio Camacho (abogado de Begoña Gómez) de cara a su declaración como investigado del 17 y 18 de junio ante el juez Calama en la Audiencia Nacional. Asimismo, el juez Calama ha abierto una pieza separada por presuntos delitos de contrabando y delito fiscal tras incautar la UDEF en su oficina un lote de joyas sin justificar valorado en 1,32 millones de euros, habiéndose presentado por su defensa un escrito solicitando la nulidad del procedimiento. (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
+- **Actualización [2026-06-17] (Auto de la juez Collazos y chat Danilo-España)**: El sumario del caso revela que en su auto de inhibición de febrero de 2026, la juez del Juzgado de Instrucción nº 15 de Madrid, Esperanza Collazos, ya le situaba como investigado en el caso Plus Ultra junto a sus hijas por presuntos delitos de cohecho, tráfico de influencias, corrupción en los negocios y organización criminal. Se desvelan transferencias de la boutique financiera de su testaferro Julio Martínez a las cuentas de su sociedad familiar What The Fav. Asimismo, los chats intervenidos a Miguel Palomero (*Danilo-España*) recogen conversaciones de Zapatero (bajo los alias "Zorro", "Z" o "ZZZZ") con Danilo Diazgranados que sugieren el cobro de mordidas a cambio de su influencia sobre el Gobierno de Sánchez. (Fuente: [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero]])
+- **Actualización [2026-06-17] (Declaración ante el juez Calama e impulso del nuevo DAO)**: Declara este miércoles 17 de junio como investigado en la Audiencia Nacional ante el magistrado José Luis Calama tras denegarse su segundo intento de aplazamiento. Según informan fuentes policiales, la designación en marzo del comisario principal [[jose-santafe-arnedo|José Santafé]] como nuevo DAO de la Policía Nacional fue clave para reactivar las pesquisas de la UDEF y de la Fiscalía Anticorrupción contra el expresidente, las cuales se encontraban paralizadas bajo el anterior DAO [[jose-angel-gonzalez]]. Asimismo, comparece en relación con la pieza separada por delito fiscal y contrabando de las joyas incautadas en su oficina el 19 de mayo, valoradas en 1,32 millones de euros. (Fuente: [[el-nuevo-dao-de-la-policia-impulso-la-investigacion-contra-zapatero]])
+- **Actualización [2026-06-18] (Declaración judicial y trazabilidad de transferencias)**: Tras declarar el día anterior, el juez José Luis Calama rechaza imponerle medidas cautelares pero señala en un auto que su testimonio no ha logrado desvirtuar los indicios de criminalidad. El instructor destaca la trazabilidad de diversas transferencias entre las cuentas a su nombre, el de su esposa y el de su hija Laura (con él de autorizado) hasta el límite de 490.780 euros (cifra coincidente con los pagos recibidos de [[analisis-relevante]]). Además, detalla el flujo de fondos: la sociedad [[inteligencia-prospectiva]] movió 2,66 millones entre 2020 y 2025 sin ingresos de terceros, derivando 368.258,72 euros a Análisis Relevante, 561.440 euros a [[what-the-fav]] y 266.200 euros a [[gate-center]]; a su vez, Análisis Relevante (financiada por [[plus-ultra-lineas-aereas]], [[softgestor]] y [[grupo-aldesa]]) transfirió los 490.780 euros a Zapatero y 239.755 euros a What The Fav. (Fuente: [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas]])
+- **Actualización [2026-06-18] (Declaración sobre informes geopolíticos y mediaciones)**: Comparece como investigado respondiendo solo a las preguntas del juez y de su abogado Víctor Moreno Catena. Justifica los cobros anuales de 70.000 euros de Análisis Relevante (empresa de su amigo [[julio-martinez-martinez]]) catalogándolos como "informes de geopolítica", a pesar de que la instrucción detectó que eran textos copiados de la web de la UE. Reconoce haber mantenido una reunión con el exministro [[jose-luis-escriva]] para tratar el aplazamiento de la deuda de [[plus-ultra-lineas-aereas]] con la Seguridad Social, alegando que fue el ministro quien se lo pidió. Asimismo, declara haber conocido al presidente de la aerolínea [[julio-martinez-sola]] en 2024 y defiende que sus hijas Laura y Alba y su sociedad [[what-the-fav]] solo maquetaban los informes, desvinculándolas de la trama. (Fuente: [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades]])
 
 ## Referencias cruzadas
 - [[antonio-camacho]]
+- [[esperanza-collazos]]
+- [[danilo-diazgranados-manglano]]
+- [[jose-santafe-arnedo]]
+- [[laura-rodriguez-espinosa]]
+- [[jesus-maria-gomez-martin]]
 - [[iustitia-europa]]
 - [[miguel-palomero]]
 - [[what-the-fav]]
@@ -698,6 +707,10 @@ Expresidente del Gobierno de España, bajo investigación patrimonial y societar
 - [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado]]
 - [[denuncian-a-zapatero-ante-hacienda-por-las-joyas-intervenidas]]
 - [[el-abogado-de-begona-gomez-colabora-con-el-letrado|El abogado de Begoña Gómez colabora con el letrado de Zapatero en el caso Plus Ultra]]
+- [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero|La primera juez del caso Plus Ultra ya investigaba a las hijas de Zapatero por integrar la organización criminal]]
+- [[el-nuevo-dao-de-la-policia-impulso-la-investigacion-contra-zapatero|El nuevo DAO de la Policía impulsó la investigación contra Zapatero: "Santafé se le ha ido de las manos al Gobierno"]]
+- [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas]]
+- [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades]]
 
 
 

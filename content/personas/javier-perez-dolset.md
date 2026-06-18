@@ -1,7 +1,7 @@
 ---
 title: "Javier Pérez Dolset"
 source: "wiki/fuentes/la-uco-entra-en-ferraz-para-desmantelar.md"
-updated: "2026-06-15"
+updated: "2026-06-16"
 tags: [persona, investigado, caso-leire-hirurok, caso-sepi-cloacas]
 ---
 
@@ -25,6 +25,7 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - **Actualización [2026-06-09] (Complot de nulidad contra la UCO)**: El sumario judicial desvela su presencia y participación en la reunión grabada de casi tres horas junto a Leire Díez, Jacobo Teijelo y Juan Sánchez Yepes. En la cita, buscaban obtener información privilegiada de Yepes para identificar qué agentes de la UCO estaban detrás de las causas de presunta corrupción que afectaban al entorno del presidente Pedro Sánchez, acordando la estrategia de tumbar causas en cascada mediante la nulidad. (Fuente: [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]])
 - **Actualización [2026-06-14] (Viaje a Zaragoza y alojamiento de Leire Díez)**: Se desvela que viajó con Leire Díez en AVE a Zaragoza el 10 de julio de 2017 para reunirse con el entonces responsable policial del caso ERE, Rafael Salvador, reservando los pasajes la secretaria de Ferraz. Asimismo, alojó en su domicilio a Leire Díez en Madrid durante sus reuniones de las cloacas en agosto de 2024. (Fuente: [[la-uco-certifica-que-los-viajes-de-leire-diez]])
 - **Actualización [2026-06-15] (Asuntos en el documento \"Incumplimientos\")**: El informe de "Incumplimientos" incautado en Ferraz registra varias gestiones específicas solicitadas por Dolset a la red socialista: lograr que la Fiscalía General del Estado apoyase ante el Juzgado 10 de Barcelona las peticiones referidas a la fianza civil a [[rousaud-costas-duran|RCD]] como responsable civil subsidiario en el concurso de Zed, dar soporte a la investigación en el Juzgado 22 de Barcelona contra Planeta por falsificación de contabilidad de Zed, y reactivar el decreto de investigación paralizado contra ING. (Fuente: [[la-uco-localiza-en-ferraz-un-documento]])
+- **Actualización [2026-06-16] (Soborno a Stampa y denuncia instrumental)**: El sumario judicial revela su participación en la reunión del 7 de mayo de 2025 en casa de [[luis-del-rivero]] en la que, junto a Leire Díez, ofreció al fiscal [[ignacio-stampa]] volver a Anticorrupción si facilitaba datos incriminatorios contra el fiscal jefe [[alejandro-luzon]]. Stampa grabó la conversación y, tras destaparse la grabación, Dolset interpuso una denuncia contra Stampa ante la FGE para intentar neutralizar y desacreditar la prueba. (Fuente: [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa]])
 
 ## Referencias cruzadas
 - [[caso-leire-hirurok]]
@@ -49,6 +50,8 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - [[joaquin-parra]]
 - [[antonio-balas]]
 - [[fiscalia-general-del-estado]]
+- [[luis-del-rivero]]
+- [[diego-villafane]]
 - [[luis-jose-saenz-de-tejada]]
 - [[javier-parra]]
 - [[beatriz-biedma-buendia]]
@@ -84,4 +87,5 @@ Javier Pérez Dolset es un empresario español del sector tecnológico y del ent
 - [[leire-diez-queria-cortocircuitar-el-caso-koldo|Leire Díez quería "cortocircuitar" el caso Koldo en funcionarios para que no escalase hasta "el tonto" de Ábalos]]
 - [[la-cloaca-del-psoe-si-caen-en-cascada-varios-procedimientos-todo-el-prestigio-de-la-uco-se-va-a-tomar-por-culo]]
 - [[la-uco-certifica-que-los-viajes-de-leire-diez|La UCO certifica que los viajes de Leire Díez a reuniones de la cloaca se gestionaban desde Ferraz]]
+- [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa|La cloaca del PSOE intentó comprar al fiscal Stampa tras reunirse con el nº 2 de García Ortiz en la Fiscalía]]
 

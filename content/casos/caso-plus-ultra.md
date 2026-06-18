@@ -1,7 +1,7 @@
 ---
 title: "Caso Plus Ultra"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-06-15"
+updated: "2026-06-18"
 tags: [caso-plus-ultra]
 ---
 
@@ -23,6 +23,9 @@ Investigación sobre presuntas irregularidades, falsedad contable y fraude en la
   - [[roberto-roselli]] (CEO de Plus Ultra)
   - [[julio-martinez-martinez]] (Empresario y testaferro de cobros)
   - [[alba-rodriguez-espinosa]] (Hija de Zapatero, socia gestora de What The Fav)
+  - [[laura-rodriguez-espinosa]] (Hija de Zapatero, socia gestora de What The Fav)
+  - [[danilo-diazgranados-manglano]] (Financiero venezolano intermediario)
+  - [[jesus-maria-gomez-martin]] (Comisario de policía)
   - Miembros del Consejo de Administración de la [[sepi]]
   - Altos cargos de [[plus-ultra-lineas-aereas]]
   - [[antonio-camacho]] (Abogado penalista colaborador)
@@ -38,14 +41,23 @@ Investigación sobre presuntas irregularidades, falsedad contable y fraude en la
 - **Fichaje de Márquez de Prado y declaración de Zapatero (11 de junio de 2026)**: El nombramiento de la abogada penalista [[maria-dolores-marquez-de-prado|María Dolores Márquez de Prado]] para defender a [[julio-martinez-martinez|Julio Martínez]] (en sustitución de [[bernardo-del-rosal|Bernardo del Rosal]]) desbarató los planes del PSOE de interponer al exministro [[francisco-caamano-dominguez|Francisco Caamaño]] para controlar la estrategia judicial. El pánico en Moncloa responde al perfil independiente de la letrada y la posibilidad de que aconseje a Martínez colaborar con el juez Calama si Zapatero (defendido por [[victor-moreno-catena|Víctor Moreno Catena]]) le deriva responsabilidades en sus comparecencias del 17 y 18 de junio.
 - **Denuncia tributaria contra Zapatero por las joyas de la UDEF (11 de junio de 2026)**: El sindicato [[manos-limpias|Manos Limpias]] ha denunciado a Zapatero ante la AEAT para investigar el origen y la fiscalidad de las joyas intervenidas por la UDEF en su despacho. Cuestiona la justificación del expresidente de que proceden de una herencia familiar de su esposa, argumentando que ella pertenece a una familia de clase media, y sostiene que podrían ser pagos en especie por intermediación internacional con el chavismo introducidas vía valija diplomática.
 - **Expediente de la Inspección Fiscal a las fiscales del caso (11 de junio de 2026)**: La Inspección Fiscal de la Fiscalía General del Estado ha abierto formalmente un expediente gubernativo contra la ex Fiscal Jefa de Madrid [[pilar-rodriguez]] y la fiscal [[maria-luisa-llop]]. La investigación interna, iniciada tras una denuncia de [[iustitia-europa]], indaga si existieron presiones o falta de imparcialidad en la actuación de la Fiscalía para desbloquear el segundo tramo del rescate (34 millones de euros) a favor de la aerolínea, en línea con los atestados de la UDEF sobre las conversaciones en las que la trama se refería a la "fiscal jefa amiga". (Fuente: [[la-fiscalia-general-abre-un-expediente-a-las-fiscales]])
-- **Colaboración letrada y nueva pieza de contrabando contra Zapatero (15 de junio de 2026)**: Se revela que el abogado penalista Antonio Camacho colabora activamente con el defensor de Zapatero, Víctor Moreno Catena, para coordinar la estrategia sustantiva y formal de cara a su citación los días 17 y 18 de junio ante el juez José Luis Calama. Además, el magistrado ha abierto una pieza separada para investigar al expresidente por delito fiscal y contrabando a raíz del hallazgo de joyas no justificadas valoradas en 1,32 millones de euros en su oficina. (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
+- **Colaboración de su abogado con el de Zapatero (15 de junio de 2026)**: Se revela que el abogado penalista Antonio Camacho colabora activamente con el defensor de Zapatero, Víctor Moreno Catena, para coordinar la estrategia sustantiva y formal de cara a su citación los días 17 y 18 de junio ante el juez José Luis Calama. Además, el magistrado ha abierto una pieza separada para investigar al expresidente por delito fiscal y contrabando a raíz del hallazgo de joyas no justificadas valoradas en 1,32 millones de euros en su oficina. (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
+- **Auto de inhibición del Juzgado 15 (23 de febrero de 2026)**: Esperanza Collazos, titular de Instrucción nº 15 de Madrid, dictó un auto de inhibición en favor de la Audiencia Nacional al hallar indicios racionales de criminalidad que vinculan a Zapatero como presunto líder de una organización criminal jerarquizada. El auto sitúa formalmente como nuevos investigados a Zapatero, sus hijas Laura y Alba, Danilo Diazgranados y Jesús María Gómez Martín, revelando pagos de Agropecuaria Lucena a What The Fav y el chat Danilo-España en el terminal de Palomero. (Fuente: [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero]])
+- **Comparecencia de Zapatero e impulso policial (17 de junio de 2026)**: Zapatero declara este miércoles como investigado en la Audiencia Nacional ante el juez Calama por delitos de organización criminal y blanqueo, habiéndose denegado su segundo aplazamiento. Fuentes del caso apuntan que las pesquisas policiales de la UDEF fueron reactivadas tras el nombramiento en marzo del comisario [[jose-santafe-arnedo]] como nuevo DAO de la Policía Nacional, quien impulsó un expediente que su predecesor [[jose-angel-gonzalez]] mantuvo paralizado durante dos años. (Fuente: [[el-nuevo-dao-de-la-policia-impulso-la-investigacion-contra-zapatero]])
+- **Trazabilidad de transferencias y rechazo de cautelares (18 de junio de 2026)**: El juez Calama dictó un auto rechazando las medidas cautelares pedidas por Anticorrupción contra Zapatero, pero señalando que su testimonio no ha desvirtuado los indicios de criminalidad. El instructor describe los flujos: la sociedad [[inteligencia-prospectiva]] (que movilizó 2,66M€ entre 2020 y 2025 sin ingresos significativos de terceros) desvió 368.258,72€ a [[analisis-relevante]], 561.440€ a [[what-the-fav]] y 266.200€ a [[gate-center]]; a su vez, Análisis Relevante (bajo control de [[julio-martinez-martinez]] y financiada por [[plus-ultra-lineas-aereas]], [[softgestor]] and [[grupo-aldesa]]) transfirió 490.780€ a Zapatero (cifra coincidente con el límite de sus cuentas bloqueadas preventivamente) y 239.755€ a What The Fav. (Fuente: [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas]])
+- **Declaración sobre geopolítica e intermediación con Escrivá (18 de junio de 2026)**: Durante su comparecencia judicial, Zapatero alegó que los 70.000 euros anuales que recibía de Análisis Relevante respondían a "informes de geopolítica" de alto valor económico (pese a que la instrucción acreditó que eran extractos copiados de la web de la UE) y que sus hijas solo cobraron por maquetar los mismos. Admitió contactos directos con el exministro [[jose-luis-escriva]] para tratar el aplazamiento de la deuda de Plus Ultra con la Seguridad Social, aunque afirmó que fue Escrivá quien solicitó la reunión. Asimismo, reconoció haber conocido al presidente de la aerolínea, [[julio-martinez-sola]], en 2024, y el juez Calama reaccionó con ironía ante su ofrecimiento de aportar información fiscal voluntaria: *"No se preocupe, que eso lo investigamos aquí de oficio"*. (Fuente: [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades]])
 
 ## Referencias cruzadas
 - [[caso-air-europa]] (convergencia temática sobre ayudas públicas concedidas por la SEPI)
+- [[laura-rodriguez-espinosa]]
+- [[danilo-diazgranados-manglano]]
+- [[jesus-maria-gomez-martin]]
+- [[esperanza-collazos]]
+- [[jose-santafe-arnedo]]
 - [[caso-zapatero]] (conexión de influencias transnacionales e imputación convergente del expresidente)
 - [[caso-forestalia]] (convergencia de instrucción en el Juzgado Central de Instrucción n.º 4)
 - [[alba-rodriguez-espinosa]]
-- [[antonio-camacho]] (Abogado colaborador de la defensa)
+- [[antonio-camacho]] (Abogado colaborador de la defense)
 - [[huawei-technologies-espana]]
 - [[oro-azul]]
 - [[nicolas-maduro]]
@@ -60,6 +72,7 @@ Investigación sobre presuntas irregularidades, falsedad contable y fraude en la
 - [[iustitia-europa]]
 - [[pilar-rodriguez]]
 - [[maria-luisa-llop]]
+- [[jose-luis-escriva]]
 
 ## Fuentes
 - [[glosario-tipos-delictivos|Glosario de Tipos Delictivos]]
@@ -87,4 +100,8 @@ Investigación sobre presuntas irregularidades, falsedad contable y fraude en la
 - [[primera-querella-contra-todo-el-consejo-de-ministr|Primera querella contra todo el Consejo de Ministros por el rescate de Plus Ultra]]
 - [[panico-en-el-psoe-tras-el-fichaje-de-la-abogada-marquez-de-prado|Pánico en el PSOE tras el fichaje de la abogada Márquez de Prado para defender al amigo de Zapatero]]
 - [[denuncian-a-zapatero-ante-hacienda-por-las-joyas-intervenidas|Denuncian a Zapatero ante Hacienda por las joyas intervenidas por la UDEF Hacienda somos todos]]
+- [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero|La primera juez del caso Plus Ultra ya investigaba a las hijas de Zapatero por integrar la organización criminal]]
+- [[el-nuevo-dao-de-la-policia-impulso-la-investigacion-contra-zapatero|El nuevo DAO de la Policía impulsó la investigación contra Zapatero: "Santafé se le ha ido de las manos al Gobierno"]]
+- [[calama-sentencia-a-zapatero-acredita-transferencias-entre-sus-cuentas]]
+- [[zapatero-dice-al-juez-que-cobraba-grandes-cantidades]]
 

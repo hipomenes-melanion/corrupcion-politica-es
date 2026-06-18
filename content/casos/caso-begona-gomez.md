@@ -18,7 +18,9 @@ Causa abierta para investigar el presunto tráfico de influencias, corrupción e
   - [[maria-begona-gomez-fernandez]]
   - [[juan-carlos-barrabes-consul]]
   - [[cristina-alvarez]] (Asesora y asistente personal)
-  - [[antonio-camacho]] (Letrado defensor)
+  - [[antonio-camacho]] (Letrado defensor de Begoña Gómez)
+  - [[jose-maria-de-pablo]] (Letrado defensor de Cristina Álvarez)
+  - [[javier-maria-perez-roldan]] (Letrado de Hazte Oír / acusación popular)
 - **Tipos Penales Imputados**: Tráfico de influencias, corrupción en los negocios, malversación de caudales públicos, apropiación indebida y prevaricación administrativa.
 
 ### Datos clave
@@ -31,9 +33,12 @@ Causa abierta para investigar el presunto tráfico de influencias, corrupción e
 - **Afinidad de la fiscalía del caso con el entorno sanchista (12 de junio de 2026)**: Los fiscales del caso, [[lorena-alvarez-taboada]] y José Manuel San Baldomero, quienes promueven el sobreseimiento y el bloqueo de las investigaciones del juez Peinado, arroparon a la ex Fiscal Jefa de Madrid [[pilar-rodriguez]] en su almuerzo de despedida en L'Abbraccio. Álvarez Taboada tiene nexos estrechos con la cúpula socialista al haber trabajado anteriormente para el presidente del TC [[candido-conde-pumpido]] y los exministros socialistas Juan Carlos Campo y Francisco Caamaño. (Fuente: [[la-fiscal-cianuro-festeja-su-ascenso-al-supremo]])
 - **Anotaciones sobre la derivación de causas en la agenda de Leire Díez (13 de junio de 2026)**: Las libretas manuscritas intervenidas a la fontanera socialista Leire Díez contienen anotaciones explícitas en las que se vincula la derivación de la causa de mascarillas hacia Air Europa y Begoña Gómez (*"Causa mascarillas derivada a Air Europa y Begoña"*), en el contexto de las investigaciones sobre el entorno presidencial. (Fuente: [[las-notas-de-leire-diez-protocolo-de-crisis]])
 - **Colaboración de su abogado con el de Zapatero (15 de junio de 2026)**: Se desveló que el letrado defensor de Gómez, Antonio Camacho, colabora habitualmente en asuntos penales con Víctor Moreno Catena (abogado de Zapatero). En el caso Plus Ultra, coordinan una estrategia donde Moreno Catena busca la nulidad por defectos de forma y Camacho asiste en la defensa sustantiva penal. (Fuente: [[el-abogado-de-begona-gomez-colabora-con-el-letrado]])
+- **Vistilla previa y petición de medidas cautelares (15 de junio de 2026)**: Celebración de la audiencia preliminar de la Ley del Jurado en Plaza de Castilla ante el magistrado Juan Carlos Peinado. La acusación popular (Hazte Oír) solicitó retirar el pasaporte de Gómez y comparecencias quincenales por riesgo de fuga. Por su parte, el abogado defensor de Álvarez, José María de Pablo, reclamó el sobreseimiento libre de las actuaciones para su patrocinada, condena en costas para las acusaciones populares y la expulsión de la UCM del procedimiento. La comparecencia se vio afectada por manifestantes con megáfonos en el exterior que provocaron incidentes de audibilidad. (Fuente: [[asi-ha-sido-la-comparecencia-de-begona-gomez-ante-el-juez]])
 
 ## Referencias cruzadas
 - [[antonio-camacho]] (Letrado defensor de Begoña Gómez)
+- [[jose-maria-de-pablo]] (Letrado defensor de Cristina Álvarez)
+- [[javier-maria-perez-roldan]] (Letrado de Hazte Oír)
 - [[caso-david-sanchez]] (conexión de índole familiar y de afectación institucional)
 - [[caso-air-europa]] (investigación de indicios de intermediación descartados procesalmente)
 - [[deloitte]]
@@ -75,4 +80,5 @@ Causa abierta para investigar el presunto tráfico de influencias, corrupción e
 - [[el-psoe-pago-178000-euros-a-la-cloaca|El PSOE pagó 178.000 euros a la cloaca para ir a por jueces como Biedma, Alaya y Peinado]]
 - [[la-fiscal-cianuro-festeja-su-ascenso-al-supremo|La 'fiscal cianuro' festeja su ascenso al Supremo arropada por los fiscales próximos al sanchismo]]
 - [[las-notas-de-leire-diez-protocolo-de-crisis|Las notas de Leire Díez: "Protocolo de crisis si hay entrada y registro, borrado de información"]]
+- [[asi-ha-sido-la-comparecencia-de-begona-gomez-ante-el-juez|Así ha sido la comparecencia de Begoña Gómez ante el juez]]
 

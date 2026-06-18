@@ -1,7 +1,7 @@
 ---
 title: "Álvaro García Ortiz"
 source: "wiki/fuentes/resumen-causas-judiciales.md"
-updated: "2026-05-23"
+updated: "2026-06-16"
 tags: [persona, investigado]
 ---
 
@@ -48,7 +48,8 @@ Fiscal General del Estado, investigado y sentenciado en primera instancia por pr
 
 - **Actualización [2026-05-27]**: Como Fiscal General del Estado, ascendió a la fiscal María Luisa Llop a la Fiscalía de la Audiencia Nacional tras su intervención en la fase inicial del Caso Plus Ultra, donde esta abogaba por el archivo y el levantamiento de la suspensión de los pagos del rescate. (Fuente: [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]])
 - **Actualización [2026-06-04]**: Su nombre y cargo figuran repetidamente en el sumario del Caso SEPI - Cloacas. Informes de la UCO constatan que mantuvo reuniones y contactos directos con la fontanera socialista [[leire-diez-castro]] en la sede de la FGE. Díez y la red de cloacas del PSOE utilizaban estos encuentros para proponer e intermediar en pactos de impunidad (ofreciendo evitar la cárcel al excomisario [[jose-manuel-villarejo]] a cambio de audios del PP) y planificaban llevar ante él al procesado de hidrocarburos [[claudio-rivas]] para coordinar su colaboración, así como influir en la defensa de [[sandro-rosell]]. (Fuente: [[leire-diez-tuvo-reuniones-y-metio-mano]])
-- **Actualización [2026-06-05] (Conspiración de Cloacas en FGE)**: Un informe de la UCO revela que, entre marzo y abril de 2025, la red dirigida por Leire Díez instrumentalizó la defensa de Koldo García (ejercida por Ismael Oliver) para presentar 5 denuncias ante la FGE para dañar la reputación de la UCO. Se constató una reunión secreta en la sede de la FGE entre García Ortiz, Leire Díez y Jacobo Teijelo. Tras las denuncias presentadas para identificar a los agentes encargados de los informes sensibles (Begoña, Fiscal General, Hidrocarburos y Koldo) cruzando sus TIPs, Oliver apuntó en sus comunicaciones de Signal: *"la Fiscalía ha arrancado a hacer cosas"*. (Fuente: [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco]])
+- **Actualización [2026-06-05] (Conspiración de Cloacas en FGE)**: Un informe de la UCO desvela que, entre marzo y abril de 2025, la red dirigida por Leire Díez instrumentalizó la defensa de Koldo García (ejercida por Ismael Oliver) para presentar 5 denuncias ante la FGE para dañar la reputación de la UCO. Se constató una reunión secreta en la sede de la FGE entre García Ortiz, Leire Díez y Jacobo Teijelo. Tras las denuncias presentadas para identificar a los agentes encargados de los informes sensibles (Begoña, Fiscal General, Hidrocarburos y Koldo) cruzando sus TIPs, Oliver apuntó en sus comunicaciones de Signal: *"la Fiscalía ha arrancado a hacer cosas"*. (Fuente: [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco]])
+- **Actualización [2026-06-16] (Reuniones de su nº 2 con las cloacas)**: La Fiscalía General del Estado admitió que el número 2 de García Ortiz, [[diego-villafane]], se reunió con [[leire-diez-castro]] y [[jacobo-teijelo-casanova]] en Fortuny 4 (sede de la FGE) el 6 de marzo de 2025 y a finales de marzo o principios de abril. La UCO documenta hasta cinco citas de la red delictiva en la Fiscalía General entre marzo y mayo de 2025, citas que precedieron directamente a las presiones sobre fiscales anticorrupción. (Fuente: [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa]])
 
 ## Referencias cruzadas
 - [[caso-sepi-cloacas]]
@@ -62,9 +63,11 @@ Fiscal General del Estado, investigado y sentenciado en primera instancia por pr
 - [[ismael-oliver]]
 - [[jacobo-teijelo-casanova]]
 - [[koldo-garcia-izaguirre]]
+- [[diego-villafane]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[la-bronca-de-la-fiscal-del-caso-plus-ultra-a-los-p]]
 - [[leire-diez-tuvo-reuniones-y-metio-mano]]
 - [[la-cloaca-uso-la-defensa-de-koldo-para-freir-a-denuncias-a-la-uco|La cloaca usó la defensa de Koldo para 'freir' a denuncias a la UCO ante la Fiscalía de García Ortiz]]
+- [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa|La cloaca del PSOE intentó comprar al fiscal Stampa tras reunirse con el nº 2 de García Ortiz en la Fiscalía]]

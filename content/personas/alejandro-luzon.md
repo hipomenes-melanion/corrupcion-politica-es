@@ -1,7 +1,7 @@
 ---
 title: "Alejandro Luzón"
 source: "wiki/fuentes/aldama-prepara-una.md"
-updated: "2026-06-15"
+updated: "2026-06-16"
 tags: [persona, fiscal, caso-sepi-cloacas]
 ---
 
@@ -26,6 +26,7 @@ Fiscal de Sala y Fiscal Jefe de la Fiscalía Especial contra la Corrupción y la
 - **Actualización [2026-05-28]**: El auto del juez Pedraz revela que las cloacas coordinadas por Leire Díez Castro ofrecieron a su subordinado, el fiscal José Grinda, 300.000€ y un puesto en el extranjero a cambio de archivar causas y facilitar información sensible para comprometer y forzar el cese de Luzón al frente de Anticorrupción. (Fuente: [[la-cloaca-del-psoe-ofrecio-300000-euros]])
 - **Actualización [2026-06-04]**: Su name figura en los listados manuscritos de objetivos personales a neutralizar contenidos en la libreta Campus de [[leire-diez-castro]] intervenida por la UCO. La red de cloacas del PSOE consideraba al fiscal jefe de Anticorrupción como un elemento clave al que debilitar debido a su dirección en las investigaciones de la trama Koldo. (Fuente: [[la-libreta-azul-de-leire-diez-la-uco-intervino]])
 - **Actualización [2026-06-15] (Riesgos en el juicio de hidrocarburos y decreto de ING)**: El informe de "Incumplimientos" incautado en Ferraz detalla que la red delictiva de Ferraz planificaba buscar la nulidad del juicio por el caso hidrocarburos (a cargo de Luzón), alegando la extracción ilícita de grabaciones y contactos de confidentes de otros sumarios. Además, las notas revelan que un decreto de investigación contra ING firmado por Luzón llevaba paralizado 10 meses en la Fiscalía. (Fuente: [[la-uco-localiza-en-ferraz-un-documento]])
+- **Actualización [2026-06-16] (Complot de soborno a Stampa en su contra)**: Se ha revelado que el intento de soborno de las cloacas al fiscal Ignacio Stampa el 7 de mayo de 2025 tenía como objetivo expreso obtener de este información comprometedora de Luzón para forzar su cese como fiscal jefe Anticorrupción. A cambio de la información, la red ofreció a Stampa facilitarle el regreso a Anticorrupción. (Fuente: [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa]])
 
 ## Referencias cruzadas
 - [[caso-koldo]]
@@ -34,9 +35,13 @@ Fiscal de Sala y Fiscal Jefe de la Fiscalía Especial contra la Corrupción y la
 - [[jose-grinda]]
 - [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 - [[la-uco-localiza-en-ferraz-un-documento]]
+- [[luis-del-rivero]]
+- [[diego-villafane]]
+- [[ignacio-stampa]]
 
 ## Fuentes
 - [[resumen-causas-judiciales]]
 - [[la-cloaca-del-psoe-ofrecio-300000-euros|La cloaca del PSOE ofreció 300.000 euros a un fiscal para 'cazar' a Luzón]]
 - [[la-libreta-azul-de-leire-diez-la-uco-intervino]]
 - [[la-uco-localiza-en-ferraz-un-documento|La UCO localiza en Ferraz un documento que acredita el liderazgo de Santos Cerdán en las cloacas del PSOE]]
+- [[la-cloaca-del-psoe-intento-comprar-al-fiscal-stampa|La cloaca del PSOE intentó comprar al fiscal Stampa tras reunirse con el nº 2 de García Ortiz en la Fiscalía]]

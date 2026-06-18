@@ -1,7 +1,7 @@
 ---
 title: "Alba Rodríguez Espinosa"
 source: "wiki/fuentes/la-udef-encontro-contratos-con-huawei-y-oro-azul.md"
-updated: "2026-05-26"
+updated: "2026-06-17"
 tags: [persona, entorno-zapatero]
 ---
 
@@ -12,6 +12,7 @@ Hija del expresidente del Gobierno de España [[jose-luis-rodriguez-zapatero]] y
 - **Rol y vinculación**: Socia/gestora de la empresa [[what-the-fav]] junto a su hermana Laura Rodríguez Espinosa. Se investiga si la mercantil fue instrumentalizada por su padre para desviar y blanquear fondos de comisiones del sector petrolero de Venezuela.
 - **Raid de la UDEF**: El martes 19 de mayo de 2026, facilitó el acceso a los agentes de la UDEF para registrar la sede social de [[what-the-fav]], donde la policía clonó siete ordenadores de torre y requisó documentación sobre proyectos internacionales y contratos con multinacionales.
 - **Transferencias bajo investigación**: El auto judicial dictado a finales de mayo de 2026 revela la detección de transferencias relevantes dirigidas a sus cuentas bancarias personales como parte de la redistribución familiar de los capitales de la trama, desviados a través de las firmas instrumentales [[analisis-relevante]], [[what-the-fav]] y el think tank [[gate-center]].
+- **Actualización [2026-06-17] (Auto de la juez Collazos)**: El auto de inhibición de la juez Esperanza Collazos de febrero de 2026 revela que ya la consideraba investigada en el marco de la organización criminal de Plus Ultra. (Fuente: [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero]])
 
 ## Referencias cruzadas
 - [[jose-luis-rodriguez-zapatero]]
@@ -21,8 +22,11 @@ Hija del expresidente del Gobierno de España [[jose-luis-rodriguez-zapatero]] y
 - [[analisis-relevante]]
 - [[gate-center]]
 - [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero]]
+- [[laura-rodriguez-espinosa]]
+- [[esperanza-collazos]]
 
 ## Fuentes
 - [[la-udef-encontro-contratos-con-huawei-y-oro-azul]]
 - [[calama-bloqueo-parcialmente-las-cuentas-de-zapatero]]
+- [[la-primera-juez-del-caso-plus-ultra-ya-investigaba-a-las-hijas-de-zapatero|La primera juez del caso Plus Ultra ya investigaba a las hijas de Zapatero por integrar la organización criminal]]
 
