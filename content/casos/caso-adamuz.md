@@ -1,7 +1,7 @@
 ---
 title: "Caso Adamuz"
 source: "wiki/fuentes/acciona-y-azvi-son-accionistas-de-la-filial-de-adi.md"
-updated: "2026-06-01"
+updated: "2026-06-18"
 tags: [caso-adamuz]
 ---
 
@@ -12,7 +12,7 @@ Investigación judicial en torno al descarrilamiento mortal de un tren en el té
 ### Informaciones
 - **Órgano Jurisdiccional**: [[juzgado-de-primera-instancia-e-instruccion-1-de-montoro]] (Córdoba)
 - **Magistrado Instructor**: [[cristina-pastor-recover]]
-- **Procedimiento / Pieza**: Diligencias Previas
+- **Procedimiento**: Diligencias Previas
 - **Fase Procesal Actual**: Fase de Instrucción. Recopilación de informes de la Policía Judicial, de la CIAF y peritajes de seguridad ferroviaria.
 - **Investigados / Encausados Principales**:
   - [[oscar-puente]] (Ministro de Transportes, Movilidad y Agenda Urbana)

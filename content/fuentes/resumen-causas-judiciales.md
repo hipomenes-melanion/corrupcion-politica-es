@@ -1,7 +1,7 @@
 ---
 title: Resumen causas judiciales
 source: raw/Resumen causas judiciales.md
-updated: "2026-06-01"
+updated: "2026-06-18"
 tags:
   - sumario-casos
   - fuente

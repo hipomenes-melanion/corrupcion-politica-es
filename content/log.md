@@ -341,7 +341,4 @@ tags: [log, registro]
 - **[2026-06-17]** - El nuevo DAO de la Policía impulsó la investigación contra Zapatero: "Santafé se le ha ido de las manos al Gobierno" ✅
 - **[2026-06-18]** - Calama sentencia a Zapatero: acredita transferencias entre sus cuentas relacionadas con el rescate de Plus Ultra ✅
 - **[2026-06-18]** - Zapatero dice al juez que cobraba grandes cantidades por sus informes porque trataban sobre "geopolítica" ✅
-
-
-
-
+- **[2026-06-18]** - Ingesta de "Resumen causas judiciales" (Actualización de estados procesales y reasignación del Caso Zapatero al JCI 4) ✅
